@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-18T23:25:04+00:00",
+  "timestamp": "2025-11-18T23:26:00+00:00",
   "relevant_parties": [
     "A. Socialdemokratiet",
     "V. Venstre, Danmarks Liberale Parti",
@@ -67,13 +67,13 @@
     "total_precincts": 1314,
     "current": {
       "electorate": 4139005,
-      "total_votes": 2876313,
-      "invalid_votes": 49116,
-      "valid_votes": 2827197,
+      "total_votes": 2876315,
+      "invalid_votes": 49117,
+      "valid_votes": 2827198,
       "votes": {
         "A. Socialdemokratiet": 677216,
         "B. Radikale Venstre": 138163,
-        "C. Det Konservative Folkeparti": 359202,
+        "C. Det Konservative Folkeparti": 359203,
         "D. Nye Borgerlige": 3360,
         "KaosTV": 28,
         "F. SF - Socialistisk Folkeparti": 293060,
@@ -613,13 +613,13 @@
     },
     "projected": {
       "electorate": 4761879,
-      "total_votes": 3294566,
-      "invalid_votes": 55500,
-      "valid_votes": 3239066,
+      "total_votes": 3294568,
+      "invalid_votes": 55501,
+      "valid_votes": 3239067,
       "votes": {
         "A. Socialdemokratiet": 748664,
         "B. Radikale Venstre": 173074,
-        "C. Det Konservative Folkeparti": 412966,
+        "C. Det Konservative Folkeparti": 412967,
         "D. Nye Borgerlige": 3650,
         "KaosTV": 92,
         "F. SF - Socialistisk Folkeparti": 355660,
@@ -19654,7 +19654,7 @@
         "votes": {
           "A. Socialdemokratiet": 7129,
           "B. Radikale Venstre": 914,
-          "C. Det Konservative Folkeparti": 3009,
+          "C. Det Konservative Folkeparti": 3010,
           "F. SF - Socialistisk Folkeparti": 3149,
           "I. Liberal Alliance": 692,
           "J. Partiet Samfundssind for Frihed": 27,
@@ -19666,9 +19666,9 @@
           "Å. Alternativet": 849
         },
         "percentages": {
-          "A. Socialdemokratiet": 28.06,
+          "A. Socialdemokratiet": 28.05,
           "B. Radikale Venstre": 3.6,
-          "C. Det Konservative Folkeparti": 11.84,
+          "C. Det Konservative Folkeparti": 11.85,
           "F. SF - Socialistisk Folkeparti": 12.39,
           "I. Liberal Alliance": 2.72,
           "J. Partiet Samfundssind for Frihed": 0.11,
@@ -19707,9 +19707,9 @@
           "Ø. Enhedslisten - De Rød-Grønne": 1,
           "Å. Alternativet": 1
         },
-        "valid_votes": 25410,
-        "invalid_votes": 349,
-        "total_votes": 25759,
+        "valid_votes": 25411,
+        "invalid_votes": 350,
+        "total_votes": 25761,
         "electorate": 35451,
         "divisor": 880,
         "alliances": {
@@ -19730,7 +19730,7 @@
             "wins_seat": true
           },
           "2": {
-            "votes": 3923,
+            "votes": 3924,
             "seats": 4,
             "percentages": 15.44,
             "quotient": 4.46,
@@ -19751,7 +19751,7 @@
         "votes": {
           "A. Socialdemokratiet": 7129,
           "B. Radikale Venstre": 914,
-          "C. Det Konservative Folkeparti": 3009,
+          "C. Det Konservative Folkeparti": 3010,
           "F. SF - Socialistisk Folkeparti": 3149,
           "I. Liberal Alliance": 692,
           "J. Partiet Samfundssind for Frihed": 27,
@@ -19763,9 +19763,9 @@
           "Å. Alternativet": 849
         },
         "percentages": {
-          "A. Socialdemokratiet": 28.06,
+          "A. Socialdemokratiet": 28.05,
           "B. Radikale Venstre": 3.6,
-          "C. Det Konservative Folkeparti": 11.84,
+          "C. Det Konservative Folkeparti": 11.85,
           "F. SF - Socialistisk Folkeparti": 12.39,
           "I. Liberal Alliance": 2.72,
           "J. Partiet Samfundssind for Frihed": 0.11,
@@ -19804,9 +19804,9 @@
           "Ø. Enhedslisten - De Rød-Grønne": 1,
           "Å. Alternativet": 1
         },
-        "valid_votes": 25410,
-        "invalid_votes": 349,
-        "total_votes": 25759,
+        "valid_votes": 25411,
+        "invalid_votes": 350,
+        "total_votes": 25761,
         "electorate": 35451,
         "divisor": 880,
         "alliances": {
@@ -19827,7 +19827,7 @@
             "wins_seat": true
           },
           "2": {
-            "votes": 3923,
+            "votes": 3924,
             "seats": 4,
             "percentages": 15.44,
             "quotient": 4.46,
