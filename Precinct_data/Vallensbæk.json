@@ -36,12 +36,12 @@
   "701896": {
     "name": "Pilehaveskolen",
     "electorate": 4472,
-    "total_votes": 3123,
-    "valid_votes": 3067,
-    "invalid_votes": 56,
+    "total_votes": 3119,
+    "valid_votes": 3066,
+    "invalid_votes": 53,
     "is_reported": true,
     "votes": {
-      "C. Det Konservative Folkeparti": 1709,
+      "C. Det Konservative Folkeparti": 1708,
       "A. Socialdemokratiet": 425,
       "O. Dansk Folkeparti": 310,
       "F. SF - Socialistisk Folkeparti": 239,
