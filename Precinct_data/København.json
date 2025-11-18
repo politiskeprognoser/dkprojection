@@ -3,7 +3,7 @@
     "name": "1. Østerbro",
     "electorate": 9254,
     "total_votes": 6500,
-    "valid_votes": 0,
+    "valid_votes": 6400,
     "invalid_votes": 100,
     "is_reported": true,
     "votes": {
