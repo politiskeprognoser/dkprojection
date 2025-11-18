@@ -8,8 +8,8 @@
     "is_reported": true,
     "votes": {
       "A. Socialdemokratiet": 1987,
-      "C. Det Konservative Folkeparti": 578,
       "F. SF - Socialistisk Folkeparti": 813,
+      "C. Det Konservative Folkeparti": 578,
       "Ø. Enhedslisten - De Rød-Grønne": 698,
       "V. Venstre, Danmarks Liberale Parti": 359,
       "I. Liberal Alliance": 302,
@@ -27,8 +27,8 @@
     "is_reported": true,
     "votes": {
       "A. Socialdemokratiet": 2183,
-      "C. Det Konservative Folkeparti": 887,
       "F. SF - Socialistisk Folkeparti": 607,
+      "C. Det Konservative Folkeparti": 887,
       "Ø. Enhedslisten - De Rød-Grønne": 402,
       "V. Venstre, Danmarks Liberale Parti": 291,
       "I. Liberal Alliance": 327,
@@ -40,20 +40,20 @@
   "701152": {
     "name": "Kildegårdhallen",
     "electorate": 7261,
-    "total_votes": 4472,
-    "valid_votes": 4381,
-    "invalid_votes": 91,
-    "is_reported": false,
+    "total_votes": 4635,
+    "valid_votes": 4527,
+    "invalid_votes": 108,
+    "is_reported": true,
     "votes": {
-      "A. Socialdemokratiet": 1615,
-      "C. Det Konservative Folkeparti": 542,
-      "F. SF - Socialistisk Folkeparti": 557,
-      "Ø. Enhedslisten - De Rød-Grønne": 642,
-      "V. Venstre, Danmarks Liberale Parti": 296,
-      "I. Liberal Alliance": 254,
-      "O. Dansk Folkeparti": 226,
-      "B. Radikale Venstre": 188,
-      "M. Moderaterne": 61
+      "A. Socialdemokratiet": 1632,
+      "F. SF - Socialistisk Folkeparti": 639,
+      "C. Det Konservative Folkeparti": 581,
+      "Ø. Enhedslisten - De Rød-Grønne": 589,
+      "V. Venstre, Danmarks Liberale Parti": 313,
+      "I. Liberal Alliance": 235,
+      "O. Dansk Folkeparti": 300,
+      "B. Radikale Venstre": 130,
+      "M. Moderaterne": 108
     }
   }
 }
