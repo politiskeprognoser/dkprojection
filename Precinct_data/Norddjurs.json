@@ -65,22 +65,22 @@
   "707484": {
     "name": "Grenaa Idrætscenter",
     "electorate": 5625,
-    "total_votes": 3527,
-    "valid_votes": 3472,
-    "invalid_votes": 55,
-    "is_reported": false,
+    "total_votes": 3639,
+    "valid_votes": 3587,
+    "invalid_votes": 52,
+    "is_reported": true,
     "votes": {
-      "V. Venstre, Danmarks Liberale Parti": 846,
-      "A. Socialdemokratiet": 1110,
-      "F. SF - Socialistisk Folkeparti": 337,
-      "C. Det Konservative Folkeparti": 263,
-      "I. Liberal Alliance": 139,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 204,
-      "O. Dansk Folkeparti": 252,
-      "N. Natur- og Velfærdslisten": 145,
-      "Ø. Enhedslisten - De Rød-Grønne": 101,
-      "J. Norddjurs Uden Filter": 47,
-      "M. Moderaterne": 28
+      "V. Venstre, Danmarks Liberale Parti": 881,
+      "A. Socialdemokratiet": 1159,
+      "F. SF - Socialistisk Folkeparti": 357,
+      "C. Det Konservative Folkeparti": 230,
+      "I. Liberal Alliance": 114,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 247,
+      "O. Dansk Folkeparti": 253,
+      "N. Natur- og Velfærdslisten": 124,
+      "Ø. Enhedslisten - De Rød-Grønne": 144,
+      "J. Norddjurs Uden Filter": 49,
+      "M. Moderaterne": 29
     }
   },
   "709072": {
