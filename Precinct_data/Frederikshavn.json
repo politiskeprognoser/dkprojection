@@ -97,20 +97,20 @@
   "711060": {
     "name": "Frederikshavn",
     "electorate": 19097,
-    "total_votes": 12087,
-    "valid_votes": 11907,
-    "invalid_votes": 180,
-    "is_reported": false,
+    "total_votes": 12007,
+    "valid_votes": 11761,
+    "invalid_votes": 246,
+    "is_reported": true,
     "votes": {
-      "V. Venstre, Danmarks Liberale Parti": 3116,
-      "A. Socialdemokratiet": 3729,
-      "F. SF - Socialistisk Folkeparti": 1939,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 1131,
-      "C. Det Konservative Folkeparti": 495,
-      "O. Dansk Folkeparti": 590,
-      "I. Liberal Alliance": 477,
-      "M. Moderaterne": 230,
-      "Ø. Enhedslisten - De Rød-Grønne": 200
+      "V. Venstre, Danmarks Liberale Parti": 2663,
+      "A. Socialdemokratiet": 3508,
+      "F. SF - Socialistisk Folkeparti": 2409,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 939,
+      "C. Det Konservative Folkeparti": 537,
+      "O. Dansk Folkeparti": 781,
+      "I. Liberal Alliance": 471,
+      "M. Moderaterne": 195,
+      "Ø. Enhedslisten - De Rød-Grønne": 258
     }
   },
   "748390": {

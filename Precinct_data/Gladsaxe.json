@@ -7,9 +7,9 @@
     "invalid_votes": 79,
     "is_reported": false,
     "votes": {
-      "A. Socialdemokratiet": 805,
+      "A. Socialdemokratiet": 806,
       "F. SF - Socialistisk Folkeparti": 600,
-      "V. Venstre, Danmarks Liberale Parti": 585,
+      "V. Venstre, Danmarks Liberale Parti": 584,
       "Ø. Enhedslisten - De Rød-Grønne": 409,
       "B. Radikale Venstre": 351,
       "O. Dansk Folkeparti": 236,
@@ -23,22 +23,22 @@
   "711428": {
     "name": "Hovedbiblioteket",
     "electorate": 7428,
-    "total_votes": 4744,
-    "valid_votes": 4647,
-    "invalid_votes": 97,
-    "is_reported": false,
+    "total_votes": 4690,
+    "valid_votes": 4577,
+    "invalid_votes": 113,
+    "is_reported": true,
     "votes": {
-      "A. Socialdemokratiet": 1169,
-      "F. SF - Socialistisk Folkeparti": 761,
-      "V. Venstre, Danmarks Liberale Parti": 559,
-      "Ø. Enhedslisten - De Rød-Grønne": 560,
-      "B. Radikale Venstre": 449,
-      "O. Dansk Folkeparti": 371,
-      "C. Det Konservative Folkeparti": 222,
-      "I. Liberal Alliance": 216,
-      "L. Lokallisten Gladsaxe": 189,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 87,
-      "M. Moderaterne": 64
+      "A. Socialdemokratiet": 1269,
+      "F. SF - Socialistisk Folkeparti": 792,
+      "V. Venstre, Danmarks Liberale Parti": 525,
+      "Ø. Enhedslisten - De Rød-Grønne": 486,
+      "B. Radikale Venstre": 461,
+      "O. Dansk Folkeparti": 316,
+      "C. Det Konservative Folkeparti": 240,
+      "I. Liberal Alliance": 199,
+      "L. Lokallisten Gladsaxe": 141,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 83,
+      "M. Moderaterne": 65
     }
   },
   "702286": {
@@ -65,22 +65,22 @@
   "710060": {
     "name": "Grønnemose",
     "electorate": 7371,
-    "total_votes": 4797,
-    "valid_votes": 4703,
-    "invalid_votes": 94,
+    "total_votes": 4783,
+    "valid_votes": 4687,
+    "invalid_votes": 96,
     "is_reported": false,
     "votes": {
-      "A. Socialdemokratiet": 1036,
-      "F. SF - Socialistisk Folkeparti": 753,
-      "V. Venstre, Danmarks Liberale Parti": 387,
-      "Ø. Enhedslisten - De Rød-Grønne": 733,
-      "B. Radikale Venstre": 526,
-      "O. Dansk Folkeparti": 357,
-      "C. Det Konservative Folkeparti": 175,
-      "I. Liberal Alliance": 173,
-      "L. Lokallisten Gladsaxe": 424,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 70,
-      "M. Moderaterne": 69
+      "A. Socialdemokratiet": 1063,
+      "F. SF - Socialistisk Folkeparti": 760,
+      "V. Venstre, Danmarks Liberale Parti": 380,
+      "Ø. Enhedslisten - De Rød-Grønne": 714,
+      "B. Radikale Venstre": 529,
+      "O. Dansk Folkeparti": 343,
+      "C. Det Konservative Folkeparti": 179,
+      "I. Liberal Alliance": 168,
+      "L. Lokallisten Gladsaxe": 412,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 69,
+      "M. Moderaterne": 70
     }
   },
   "700958": {
@@ -107,22 +107,22 @@
   "700934": {
     "name": "Stengård",
     "electorate": 6589,
-    "total_votes": 5025,
-    "valid_votes": 4921,
-    "invalid_votes": 104,
+    "total_votes": 5024,
+    "valid_votes": 4922,
+    "invalid_votes": 102,
     "is_reported": false,
     "votes": {
-      "A. Socialdemokratiet": 1225,
+      "A. Socialdemokratiet": 1226,
       "F. SF - Socialistisk Folkeparti": 844,
       "V. Venstre, Danmarks Liberale Parti": 705,
       "Ø. Enhedslisten - De Rød-Grønne": 594,
       "B. Radikale Venstre": 534,
-      "O. Dansk Folkeparti": 254,
+      "O. Dansk Folkeparti": 253,
       "C. Det Konservative Folkeparti": 336,
       "I. Liberal Alliance": 201,
       "L. Lokallisten Gladsaxe": 98,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 69,
-      "M. Moderaterne": 61
+      "M. Moderaterne": 62
     }
   },
   "706974": {
