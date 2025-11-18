@@ -70,11 +70,11 @@
       "V. Venstre, Danmarks Liberale Parti": 1258,
       "C. Det Konservative Folkeparti": 1735,
       "A. Socialdemokratiet": 1069,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 456,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 455,
       "F. SF - Socialistisk Folkeparti": 309,
       "O. Dansk Folkeparti": 144,
       "I. Liberal Alliance": 112,
-      "B. Radikale Venstre": 114,
+      "B. Radikale Venstre": 115,
       "K. KD – Kristendemokraterne": 32,
       "L. Borgerlisten (Vesthimmerland Kommune)": 18
     }
@@ -82,21 +82,21 @@
   "711328": {
     "name": "Hvalpsund",
     "electorate": 1310,
-    "total_votes": 887,
-    "valid_votes": 877,
-    "invalid_votes": 10,
-    "is_reported": false,
+    "total_votes": 914,
+    "valid_votes": 903,
+    "invalid_votes": 11,
+    "is_reported": true,
     "votes": {
-      "V. Venstre, Danmarks Liberale Parti": 353,
-      "C. Det Konservative Folkeparti": 126,
-      "A. Socialdemokratiet": 162,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 116,
-      "F. SF - Socialistisk Folkeparti": 50,
-      "O. Dansk Folkeparti": 11,
-      "I. Liberal Alliance": 25,
-      "B. Radikale Venstre": 23,
-      "K. KD – Kristendemokraterne": 7,
-      "L. Borgerlisten (Vesthimmerland Kommune)": 4
+      "V. Venstre, Danmarks Liberale Parti": 373,
+      "C. Det Konservative Folkeparti": 115,
+      "A. Socialdemokratiet": 139,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 110,
+      "F. SF - Socialistisk Folkeparti": 48,
+      "O. Dansk Folkeparti": 25,
+      "I. Liberal Alliance": 39,
+      "B. Radikale Venstre": 43,
+      "K. KD – Kristendemokraterne": 3,
+      "L. Borgerlisten (Vesthimmerland Kommune)": 8
     }
   },
   "710016": {

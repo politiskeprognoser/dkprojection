@@ -233,22 +233,22 @@
   "707498": {
     "name": "Oksbøl",
     "electorate": 3043,
-    "total_votes": 2191,
-    "valid_votes": 2158,
-    "invalid_votes": 33,
-    "is_reported": false,
+    "total_votes": 2182,
+    "valid_votes": 2142,
+    "invalid_votes": 40,
+    "is_reported": true,
     "votes": {
-      "V. Venstre, Danmarks Liberale Parti": 244,
-      "A. Socialdemokratiet": 232,
-      "C. Det Konservative Folkeparti": 911,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 61,
-      "I. Liberal Alliance": 365,
-      "F. SF - Socialistisk Folkeparti": 159,
-      "N. NÆRdemokraterne": 67,
-      "O. Dansk Folkeparti": 90,
-      "B. Radikale Venstre": 3,
-      "M. Moderaterne": 25,
-      "K. KD – Kristendemokraterne": 1
+      "V. Venstre, Danmarks Liberale Parti": 218,
+      "A. Socialdemokratiet": 245,
+      "C. Det Konservative Folkeparti": 766,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 87,
+      "I. Liberal Alliance": 392,
+      "F. SF - Socialistisk Folkeparti": 167,
+      "N. NÆRdemokraterne": 113,
+      "O. Dansk Folkeparti": 113,
+      "B. Radikale Venstre": 22,
+      "M. Moderaterne": 17,
+      "K. KD – Kristendemokraterne": 2
     }
   },
   "708972": {

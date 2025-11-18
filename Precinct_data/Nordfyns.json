@@ -107,12 +107,12 @@
   "748631": {
     "name": "Veflinge",
     "electorate": 1134,
-    "total_votes": 830,
-    "valid_votes": 817,
+    "total_votes": 829,
+    "valid_votes": 816,
     "invalid_votes": 13,
     "is_reported": true,
     "votes": {
-      "V. Venstre, Danmarks Liberale Parti": 271,
+      "V. Venstre, Danmarks Liberale Parti": 270,
       "A. Socialdemokratiet": 195,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 90,
       "F. SF - Socialistisk Folkeparti": 85,
