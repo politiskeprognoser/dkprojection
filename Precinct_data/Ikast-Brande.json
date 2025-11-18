@@ -7,8 +7,8 @@
     "invalid_votes": 25,
     "is_reported": true,
     "votes": {
-      "V. Venstre, Danmarks Liberale Parti": 896,
-      "A. Socialdemokratiet": 367,
+      "V. Venstre, Danmarks Liberale Parti": 895,
+      "A. Socialdemokratiet": 368,
       "C. Det Konservative Folkeparti": 95,
       "O. Dansk Folkeparti": 269,
       "L. Fælleslisten": 66,
@@ -56,13 +56,13 @@
   "713316": {
     "name": "Engesvang",
     "electorate": 2393,
-    "total_votes": 1809,
-    "valid_votes": 1785,
+    "total_votes": 1810,
+    "valid_votes": 1786,
     "invalid_votes": 24,
     "is_reported": true,
     "votes": {
       "V. Venstre, Danmarks Liberale Parti": 474,
-      "A. Socialdemokratiet": 556,
+      "A. Socialdemokratiet": 557,
       "C. Det Konservative Folkeparti": 39,
       "O. Dansk Folkeparti": 474,
       "L. Fælleslisten": 25,
