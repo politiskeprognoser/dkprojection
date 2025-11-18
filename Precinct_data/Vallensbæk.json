@@ -36,18 +36,18 @@
   "701896": {
     "name": "Pilehaveskolen",
     "electorate": 4472,
-    "total_votes": 3084,
-    "valid_votes": 3030,
-    "invalid_votes": 54,
-    "is_reported": false,
+    "total_votes": 3123,
+    "valid_votes": 3067,
+    "invalid_votes": 56,
+    "is_reported": true,
     "votes": {
-      "C. Det Konservative Folkeparti": 1633,
-      "A. Socialdemokratiet": 484,
-      "O. Dansk Folkeparti": 309,
-      "F. SF - Socialistisk Folkeparti": 247,
-      "Ø. Enhedslisten - De Rød-Grønne": 188,
-      "I. Liberal Alliance": 98,
-      "V. Venstre, Danmarks Liberale Parti": 71
+      "C. Det Konservative Folkeparti": 1709,
+      "A. Socialdemokratiet": 425,
+      "O. Dansk Folkeparti": 310,
+      "F. SF - Socialistisk Folkeparti": 239,
+      "Ø. Enhedslisten - De Rød-Grønne": 216,
+      "I. Liberal Alliance": 81,
+      "V. Venstre, Danmarks Liberale Parti": 87
     }
   }
 }
