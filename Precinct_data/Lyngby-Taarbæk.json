@@ -23,22 +23,22 @@
   "708642": {
     "name": "Lyngby Idrætsby",
     "electorate": 5263,
-    "total_votes": 3323,
-    "valid_votes": 3273,
-    "invalid_votes": 50,
-    "is_reported": false,
+    "total_votes": 3254,
+    "valid_votes": 3189,
+    "invalid_votes": 65,
+    "is_reported": true,
     "votes": {
-      "C. Det Konservative Folkeparti": 1074,
-      "F. SF - Socialistisk Folkeparti": 467,
-      "B. Radikale Venstre": 412,
-      "A. Socialdemokratiet": 580,
-      "Ø. Enhedslisten - De Rød-Grønne": 239,
-      "V. Venstre, Danmarks Liberale Parti": 109,
-      "I. Liberal Alliance": 154,
-      "O. Dansk Folkeparti": 165,
+      "C. Det Konservative Folkeparti": 1012,
+      "F. SF - Socialistisk Folkeparti": 522,
+      "B. Radikale Venstre": 322,
+      "A. Socialdemokratiet": 502,
+      "Ø. Enhedslisten - De Rød-Grønne": 244,
+      "V. Venstre, Danmarks Liberale Parti": 139,
+      "I. Liberal Alliance": 128,
+      "O. Dansk Folkeparti": 256,
       "M. Moderaterne": 30,
-      "Å. Alternativet": 35,
-      "Z. Saxen": 8
+      "Å. Alternativet": 28,
+      "Z. Saxen": 6
     }
   },
   "704030": {

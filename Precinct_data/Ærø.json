@@ -1,29 +1,65 @@
 {
   "706902": {
     "name": "Marstal",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 2265,
+    "total_votes": 1777,
+    "valid_votes": 1761,
+    "invalid_votes": 16,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 328,
+      "C. Det Konservative Folkeparti": 597,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 82,
+      "F. SF - Socialistisk Folkeparti": 134,
+      "T. Tværpolitisk Liste": 207,
+      "V. Venstre, Danmarks Liberale Parti": 23,
+      "L. Lokallisten Ærø": 29,
+      "E. Ærø i Centrum": 85,
+      "O. Dansk Folkeparti": 111,
+      "B. Radikale Venstre": 93,
+      "I. Liberal Alliance": 72
+    }
   },
   "702246": {
     "name": "Ærøskøbing",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1760,
+    "total_votes": 1443,
+    "valid_votes": 1426,
+    "invalid_votes": 17,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 617,
+      "C. Det Konservative Folkeparti": 93,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 210,
+      "F. SF - Socialistisk Folkeparti": 127,
+      "T. Tværpolitisk Liste": 59,
+      "V. Venstre, Danmarks Liberale Parti": 157,
+      "L. Lokallisten Ærø": 80,
+      "E. Ærø i Centrum": 23,
+      "O. Dansk Folkeparti": 11,
+      "B. Radikale Venstre": 24,
+      "I. Liberal Alliance": 25
+    }
   },
   "700952": {
     "name": "Søby",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 911,
+    "total_votes": 707,
+    "valid_votes": 698,
+    "invalid_votes": 9,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 206,
+      "C. Det Konservative Folkeparti": 63,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 105,
+      "F. SF - Socialistisk Folkeparti": 70,
+      "T. Tværpolitisk Liste": 19,
+      "V. Venstre, Danmarks Liberale Parti": 85,
+      "L. Lokallisten Ærø": 77,
+      "E. Ærø i Centrum": 34,
+      "O. Dansk Folkeparti": 14,
+      "B. Radikale Venstre": 11,
+      "I. Liberal Alliance": 14
+    }
   }
 }
