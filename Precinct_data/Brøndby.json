@@ -10,11 +10,11 @@
       "A. Socialdemokratiet": 887,
       "O. Dansk Folkeparti": 469,
       "Ø. Enhedslisten - De Rød-Grønne": 172,
-      "F. SF - Socialistisk Folkeparti": 261,
       "C. Det Konservative Folkeparti": 306,
+      "F. SF - Socialistisk Folkeparti": 261,
       "B. Radikale Venstre": 124,
-      "V. Venstre, Danmarks Liberale Parti": 117,
       "I. Liberal Alliance": 154,
+      "V. Venstre, Danmarks Liberale Parti": 117,
       "M. Moderaterne": 61,
       "K. KD – Kristendemokraterne": 13
     }
@@ -30,11 +30,11 @@
       "A. Socialdemokratiet": 1066,
       "O. Dansk Folkeparti": 543,
       "Ø. Enhedslisten - De Rød-Grønne": 282,
-      "F. SF - Socialistisk Folkeparti": 318,
       "C. Det Konservative Folkeparti": 278,
+      "F. SF - Socialistisk Folkeparti": 318,
       "B. Radikale Venstre": 121,
-      "V. Venstre, Danmarks Liberale Parti": 139,
       "I. Liberal Alliance": 124,
+      "V. Venstre, Danmarks Liberale Parti": 139,
       "M. Moderaterne": 54,
       "K. KD – Kristendemokraterne": 3
     }
@@ -50,11 +50,11 @@
       "A. Socialdemokratiet": 887,
       "O. Dansk Folkeparti": 350,
       "Ø. Enhedslisten - De Rød-Grønne": 180,
-      "F. SF - Socialistisk Folkeparti": 257,
       "C. Det Konservative Folkeparti": 225,
+      "F. SF - Socialistisk Folkeparti": 257,
       "B. Radikale Venstre": 56,
-      "V. Venstre, Danmarks Liberale Parti": 79,
       "I. Liberal Alliance": 60,
+      "V. Venstre, Danmarks Liberale Parti": 79,
       "M. Moderaterne": 42,
       "K. KD – Kristendemokraterne": 13
     }
@@ -70,11 +70,11 @@
       "A. Socialdemokratiet": 1488,
       "O. Dansk Folkeparti": 555,
       "Ø. Enhedslisten - De Rød-Grønne": 384,
-      "F. SF - Socialistisk Folkeparti": 355,
       "C. Det Konservative Folkeparti": 345,
+      "F. SF - Socialistisk Folkeparti": 355,
       "B. Radikale Venstre": 189,
-      "V. Venstre, Danmarks Liberale Parti": 105,
       "I. Liberal Alliance": 86,
+      "V. Venstre, Danmarks Liberale Parti": 105,
       "M. Moderaterne": 65,
       "K. KD – Kristendemokraterne": 22
     }
@@ -82,21 +82,21 @@
   "702448": {
     "name": "Kulturhuset Brønden",
     "electorate": 5743,
-    "total_votes": 3008,
-    "valid_votes": 2955,
-    "invalid_votes": 53,
-    "is_reported": false,
+    "total_votes": 3198,
+    "valid_votes": 3126,
+    "invalid_votes": 72,
+    "is_reported": true,
     "votes": {
-      "A. Socialdemokratiet": 1226,
-      "O. Dansk Folkeparti": 313,
-      "Ø. Enhedslisten - De Rød-Grønne": 368,
-      "F. SF - Socialistisk Folkeparti": 217,
-      "C. Det Konservative Folkeparti": 212,
-      "B. Radikale Venstre": 335,
+      "A. Socialdemokratiet": 1303,
+      "O. Dansk Folkeparti": 379,
+      "Ø. Enhedslisten - De Rød-Grønne": 366,
+      "C. Det Konservative Folkeparti": 284,
+      "F. SF - Socialistisk Folkeparti": 241,
+      "B. Radikale Venstre": 272,
+      "I. Liberal Alliance": 107,
       "V. Venstre, Danmarks Liberale Parti": 84,
-      "I. Liberal Alliance": 84,
-      "M. Moderaterne": 104,
-      "K. KD – Kristendemokraterne": 12
+      "M. Moderaterne": 84,
+      "K. KD – Kristendemokraterne": 6
     }
   },
   "748690": {
@@ -110,11 +110,11 @@
       "A. Socialdemokratiet": 1060,
       "O. Dansk Folkeparti": 266,
       "Ø. Enhedslisten - De Rød-Grønne": 319,
-      "F. SF - Socialistisk Folkeparti": 185,
       "C. Det Konservative Folkeparti": 182,
+      "F. SF - Socialistisk Folkeparti": 185,
       "B. Radikale Venstre": 290,
-      "V. Venstre, Danmarks Liberale Parti": 72,
       "I. Liberal Alliance": 70,
+      "V. Venstre, Danmarks Liberale Parti": 72,
       "M. Moderaterne": 82,
       "K. KD – Kristendemokraterne": 10
     }
