@@ -13,8 +13,8 @@
       "Æ. Danmarksdemokraterne - Inger Støjberg": 136,
       "C. Det Konservative Folkeparti": 433,
       "O. Dansk Folkeparti": 240,
-      "M. Moderaterne": 77,
       "I. Liberal Alliance": 40,
+      "M. Moderaterne": 77,
       "Ø. Enhedslisten - De Rød-Grønne": 59
     }
   },
@@ -32,8 +32,8 @@
       "Æ. Danmarksdemokraterne - Inger Støjberg": 97,
       "C. Det Konservative Folkeparti": 79,
       "O. Dansk Folkeparti": 54,
-      "M. Moderaterne": 17,
       "I. Liberal Alliance": 20,
+      "M. Moderaterne": 17,
       "Ø. Enhedslisten - De Rød-Grønne": 17
     }
   },
@@ -51,8 +51,8 @@
       "Æ. Danmarksdemokraterne - Inger Støjberg": 49,
       "C. Det Konservative Folkeparti": 19,
       "O. Dansk Folkeparti": 37,
-      "M. Moderaterne": 11,
       "I. Liberal Alliance": 15,
+      "M. Moderaterne": 11,
       "Ø. Enhedslisten - De Rød-Grønne": 8
     }
   },
@@ -70,8 +70,8 @@
       "Æ. Danmarksdemokraterne - Inger Støjberg": 150,
       "C. Det Konservative Folkeparti": 59,
       "O. Dansk Folkeparti": 46,
-      "M. Moderaterne": 8,
       "I. Liberal Alliance": 31,
+      "M. Moderaterne": 8,
       "Ø. Enhedslisten - De Rød-Grønne": 14
     }
   },
@@ -89,8 +89,8 @@
       "Æ. Danmarksdemokraterne - Inger Støjberg": 192,
       "C. Det Konservative Folkeparti": 64,
       "O. Dansk Folkeparti": 64,
-      "M. Moderaterne": 26,
       "I. Liberal Alliance": 50,
+      "M. Moderaterne": 26,
       "Ø. Enhedslisten - De Rød-Grønne": 11
     }
   },
@@ -102,14 +102,14 @@
     "invalid_votes": 180,
     "is_reported": false,
     "votes": {
-      "V. Venstre, Danmarks Liberale Parti": 3112,
-      "A. Socialdemokratiet": 3727,
-      "F. SF - Socialistisk Folkeparti": 1934,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 1132,
-      "C. Det Konservative Folkeparti": 499,
-      "O. Dansk Folkeparti": 593,
-      "M. Moderaterne": 233,
+      "V. Venstre, Danmarks Liberale Parti": 3116,
+      "A. Socialdemokratiet": 3729,
+      "F. SF - Socialistisk Folkeparti": 1939,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 1131,
+      "C. Det Konservative Folkeparti": 495,
+      "O. Dansk Folkeparti": 590,
       "I. Liberal Alliance": 477,
+      "M. Moderaterne": 230,
       "Ø. Enhedslisten - De Rød-Grønne": 200
     }
   },
@@ -127,8 +127,8 @@
       "Æ. Danmarksdemokraterne - Inger Støjberg": 168,
       "C. Det Konservative Folkeparti": 33,
       "O. Dansk Folkeparti": 44,
-      "M. Moderaterne": 23,
       "I. Liberal Alliance": 30,
+      "M. Moderaterne": 23,
       "Ø. Enhedslisten - De Rød-Grønne": 13
     }
   },
@@ -146,28 +146,28 @@
       "Æ. Danmarksdemokraterne - Inger Støjberg": 142,
       "C. Det Konservative Folkeparti": 44,
       "O. Dansk Folkeparti": 48,
-      "M. Moderaterne": 33,
       "I. Liberal Alliance": 51,
+      "M. Moderaterne": 33,
       "Ø. Enhedslisten - De Rød-Grønne": 11
     }
   },
   "748391": {
     "name": "Sæby",
     "electorate": 8104,
-    "total_votes": 6015,
-    "valid_votes": 5924,
-    "invalid_votes": 91,
-    "is_reported": false,
+    "total_votes": 6011,
+    "valid_votes": 5913,
+    "invalid_votes": 98,
+    "is_reported": true,
     "votes": {
-      "V. Venstre, Danmarks Liberale Parti": 1409,
-      "A. Socialdemokratiet": 1434,
-      "F. SF - Socialistisk Folkeparti": 692,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 787,
-      "C. Det Konservative Folkeparti": 437,
-      "O. Dansk Folkeparti": 211,
-      "M. Moderaterne": 681,
-      "I. Liberal Alliance": 168,
-      "Ø. Enhedslisten - De Rød-Grønne": 105
+      "V. Venstre, Danmarks Liberale Parti": 2048,
+      "A. Socialdemokratiet": 1513,
+      "F. SF - Socialistisk Folkeparti": 891,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 545,
+      "C. Det Konservative Folkeparti": 336,
+      "O. Dansk Folkeparti": 178,
+      "I. Liberal Alliance": 155,
+      "M. Moderaterne": 170,
+      "Ø. Enhedslisten - De Rød-Grønne": 77
     }
   },
   "709628": {
@@ -184,8 +184,8 @@
       "Æ. Danmarksdemokraterne - Inger Støjberg": 114,
       "C. Det Konservative Folkeparti": 13,
       "O. Dansk Folkeparti": 25,
-      "M. Moderaterne": 19,
       "I. Liberal Alliance": 14,
+      "M. Moderaterne": 19,
       "Ø. Enhedslisten - De Rød-Grønne": 16
     }
   },
@@ -203,8 +203,8 @@
       "Æ. Danmarksdemokraterne - Inger Støjberg": 83,
       "C. Det Konservative Folkeparti": 21,
       "O. Dansk Folkeparti": 17,
-      "M. Moderaterne": 21,
       "I. Liberal Alliance": 13,
+      "M. Moderaterne": 21,
       "Ø. Enhedslisten - De Rød-Grønne": 9
     }
   },
@@ -222,8 +222,8 @@
       "Æ. Danmarksdemokraterne - Inger Støjberg": 84,
       "C. Det Konservative Folkeparti": 15,
       "O. Dansk Folkeparti": 15,
-      "M. Moderaterne": 27,
       "I. Liberal Alliance": 9,
+      "M. Moderaterne": 27,
       "Ø. Enhedslisten - De Rød-Grønne": 10
     }
   },
@@ -241,8 +241,8 @@
       "Æ. Danmarksdemokraterne - Inger Støjberg": 162,
       "C. Det Konservative Folkeparti": 33,
       "O. Dansk Folkeparti": 58,
-      "M. Moderaterne": 21,
       "I. Liberal Alliance": 18,
+      "M. Moderaterne": 21,
       "Ø. Enhedslisten - De Rød-Grønne": 8
     }
   },
@@ -260,8 +260,8 @@
       "Æ. Danmarksdemokraterne - Inger Støjberg": 65,
       "C. Det Konservative Folkeparti": 22,
       "O. Dansk Folkeparti": 20,
-      "M. Moderaterne": 9,
       "I. Liberal Alliance": 5,
+      "M. Moderaterne": 9,
       "Ø. Enhedslisten - De Rød-Grønne": 3
     }
   },
@@ -279,8 +279,8 @@
       "Æ. Danmarksdemokraterne - Inger Støjberg": 228,
       "C. Det Konservative Folkeparti": 81,
       "O. Dansk Folkeparti": 35,
-      "M. Moderaterne": 234,
       "I. Liberal Alliance": 35,
+      "M. Moderaterne": 234,
       "Ø. Enhedslisten - De Rød-Grønne": 14
     }
   }

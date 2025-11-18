@@ -1,56 +1,122 @@
 {
   "707090": {
     "name": "Brøndbyvester Skole",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 4035,
+    "total_votes": 2592,
+    "valid_votes": 2564,
+    "invalid_votes": 28,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 887,
+      "O. Dansk Folkeparti": 469,
+      "Ø. Enhedslisten - De Rød-Grønne": 172,
+      "F. SF - Socialistisk Folkeparti": 261,
+      "C. Det Konservative Folkeparti": 306,
+      "B. Radikale Venstre": 124,
+      "I. Liberal Alliance": 154,
+      "V. Venstre, Danmarks Liberale Parti": 117,
+      "M. Moderaterne": 61,
+      "K. KD – Kristendemokraterne": 13
+    }
   },
   "707084": {
     "name": "Tjørnehøjhallen",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 6003,
+    "total_votes": 2992,
+    "valid_votes": 2928,
+    "invalid_votes": 64,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 1066,
+      "O. Dansk Folkeparti": 543,
+      "Ø. Enhedslisten - De Rød-Grønne": 282,
+      "F. SF - Socialistisk Folkeparti": 318,
+      "C. Det Konservative Folkeparti": 278,
+      "B. Radikale Venstre": 121,
+      "I. Liberal Alliance": 124,
+      "V. Venstre, Danmarks Liberale Parti": 139,
+      "M. Moderaterne": 54,
+      "K. KD – Kristendemokraterne": 3
+    }
   },
   "708674": {
     "name": "Lindelundshallen",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 3675,
+    "total_votes": 2215,
+    "valid_votes": 2149,
+    "invalid_votes": 66,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 887,
+      "O. Dansk Folkeparti": 350,
+      "Ø. Enhedslisten - De Rød-Grønne": 180,
+      "F. SF - Socialistisk Folkeparti": 257,
+      "C. Det Konservative Folkeparti": 225,
+      "B. Radikale Venstre": 56,
+      "I. Liberal Alliance": 60,
+      "V. Venstre, Danmarks Liberale Parti": 79,
+      "M. Moderaterne": 42,
+      "K. KD – Kristendemokraterne": 13
+    }
   },
   "702442": {
     "name": "Nørregård",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 6293,
+    "total_votes": 3500,
+    "valid_votes": 3427,
+    "invalid_votes": 73,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "A. Socialdemokratiet": 1437,
+      "O. Dansk Folkeparti": 528,
+      "Ø. Enhedslisten - De Rød-Grønne": 354,
+      "F. SF - Socialistisk Folkeparti": 346,
+      "C. Det Konservative Folkeparti": 343,
+      "B. Radikale Venstre": 168,
+      "I. Liberal Alliance": 92,
+      "V. Venstre, Danmarks Liberale Parti": 83,
+      "M. Moderaterne": 57,
+      "K. KD – Kristendemokraterne": 19
+    }
   },
   "702448": {
     "name": "Kulturhuset Brønden",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 5743,
+    "total_votes": 3006,
+    "valid_votes": 2952,
+    "invalid_votes": 54,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "A. Socialdemokratiet": 1226,
+      "O. Dansk Folkeparti": 313,
+      "Ø. Enhedslisten - De Rød-Grønne": 368,
+      "F. SF - Socialistisk Folkeparti": 216,
+      "C. Det Konservative Folkeparti": 211,
+      "B. Radikale Venstre": 335,
+      "I. Liberal Alliance": 84,
+      "V. Venstre, Danmarks Liberale Parti": 84,
+      "M. Moderaterne": 103,
+      "K. KD – Kristendemokraterne": 12
+    }
   },
   "748690": {
     "name": "Søholthallen",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 4920,
+    "total_votes": 2583,
+    "valid_votes": 2536,
+    "invalid_votes": 47,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 1060,
+      "O. Dansk Folkeparti": 266,
+      "Ø. Enhedslisten - De Rød-Grønne": 319,
+      "F. SF - Socialistisk Folkeparti": 185,
+      "C. Det Konservative Folkeparti": 182,
+      "B. Radikale Venstre": 290,
+      "I. Liberal Alliance": 70,
+      "V. Venstre, Danmarks Liberale Parti": 72,
+      "M. Moderaterne": 82,
+      "K. KD – Kristendemokraterne": 10
+    }
   }
 }

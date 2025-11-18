@@ -191,22 +191,22 @@
   "748637": {
     "name": "Søndersø",
     "electorate": 3494,
-    "total_votes": 2363,
-    "valid_votes": 2318,
-    "invalid_votes": 45,
-    "is_reported": false,
+    "total_votes": 2412,
+    "valid_votes": 2354,
+    "invalid_votes": 58,
+    "is_reported": true,
     "votes": {
-      "V. Venstre, Danmarks Liberale Parti": 933,
-      "A. Socialdemokratiet": 540,
-      "F. SF - Socialistisk Folkeparti": 229,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 154,
-      "O. Dansk Folkeparti": 100,
-      "C. Det Konservative Folkeparti": 134,
-      "I. Liberal Alliance": 116,
-      "B. Radikale Venstre": 47,
-      "Ø. Enhedslisten - De Rød-Grønne": 24,
-      "D. Vi ældre": 26,
-      "E. Nordfyn på forkant": 15
+      "V. Venstre, Danmarks Liberale Parti": 965,
+      "A. Socialdemokratiet": 529,
+      "F. SF - Socialistisk Folkeparti": 268,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 134,
+      "O. Dansk Folkeparti": 137,
+      "C. Det Konservative Folkeparti": 124,
+      "I. Liberal Alliance": 68,
+      "B. Radikale Venstre": 62,
+      "Ø. Enhedslisten - De Rød-Grønne": 31,
+      "D. Vi ældre": 27,
+      "E. Nordfyn på forkant": 9
     }
   }
 }

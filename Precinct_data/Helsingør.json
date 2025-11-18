@@ -2,79 +2,79 @@
   "701118": {
     "name": "Helsingør Hallen",
     "electorate": 8573,
-    "total_votes": 5671,
-    "valid_votes": 5601,
-    "invalid_votes": 70,
+    "total_votes": 5736,
+    "valid_votes": 5663,
+    "invalid_votes": 73,
     "is_reported": false,
     "votes": {
-      "C. Det Konservative Folkeparti": 1496,
-      "A. Socialdemokratiet": 1250,
-      "F. SF - Socialistisk Folkeparti": 668,
-      "Ø. Enhedslisten - De Rød-Grønne": 543,
-      "O. Dansk Folkeparti": 329,
-      "I. Liberal Alliance": 342,
-      "V. Venstre, Danmarks Liberale Parti": 213,
-      "B. Radikale Venstre": 251,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 170,
-      "M. Moderaterne": 162,
-      "L. Lokaldemokraterne": 61,
-      "Å. Alternativet": 89,
-      "K. KD – Kristendemokraterne": 11,
-      "E. Borgerforslag": 6,
-      "Y. Stefan Warburg": 6,
-      "T. De Kreative": 4
+      "C. Det Konservative Folkeparti": 1508,
+      "A. Socialdemokratiet": 1334,
+      "F. SF - Socialistisk Folkeparti": 691,
+      "Ø. Enhedslisten - De Rød-Grønne": 539,
+      "O. Dansk Folkeparti": 338,
+      "I. Liberal Alliance": 295,
+      "V. Venstre, Danmarks Liberale Parti": 170,
+      "B. Radikale Venstre": 224,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 194,
+      "M. Moderaterne": 172,
+      "L. Lokaldemokraterne": 75,
+      "Å. Alternativet": 96,
+      "K. KD – Kristendemokraterne": 9,
+      "E. Borgerforslag": 7,
+      "T. De Kreative": 6,
+      "Y. Stefan Warburg": 5
     }
   },
   "710298": {
     "name": "Skolen ved Gurrevej",
     "electorate": 8154,
-    "total_votes": 5008,
-    "valid_votes": 4914,
+    "total_votes": 5070,
+    "valid_votes": 4976,
     "invalid_votes": 94,
     "is_reported": false,
     "votes": {
-      "C. Det Konservative Folkeparti": 1048,
-      "A. Socialdemokratiet": 1421,
-      "F. SF - Socialistisk Folkeparti": 552,
-      "Ø. Enhedslisten - De Rød-Grønne": 465,
-      "O. Dansk Folkeparti": 378,
-      "I. Liberal Alliance": 279,
-      "V. Venstre, Danmarks Liberale Parti": 173,
-      "B. Radikale Venstre": 150,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 215,
-      "M. Moderaterne": 89,
-      "L. Lokaldemokraterne": 54,
-      "Å. Alternativet": 67,
-      "K. KD – Kristendemokraterne": 9,
-      "E. Borgerforslag": 5,
-      "Y. Stefan Warburg": 5,
-      "T. De Kreative": 4
+      "C. Det Konservative Folkeparti": 1058,
+      "A. Socialdemokratiet": 1519,
+      "F. SF - Socialistisk Folkeparti": 562,
+      "Ø. Enhedslisten - De Rød-Grønne": 459,
+      "O. Dansk Folkeparti": 385,
+      "I. Liberal Alliance": 232,
+      "V. Venstre, Danmarks Liberale Parti": 138,
+      "B. Radikale Venstre": 134,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 235,
+      "M. Moderaterne": 95,
+      "L. Lokaldemokraterne": 64,
+      "Å. Alternativet": 72,
+      "K. KD – Kristendemokraterne": 8,
+      "E. Borgerforslag": 6,
+      "T. De Kreative": 5,
+      "Y. Stefan Warburg": 4
     }
   },
   "705752": {
     "name": "Laden, Gl. Vapnagård",
     "electorate": 6299,
-    "total_votes": 3940,
-    "valid_votes": 3879,
-    "invalid_votes": 61,
-    "is_reported": false,
+    "total_votes": 4024,
+    "valid_votes": 3957,
+    "invalid_votes": 67,
+    "is_reported": true,
     "votes": {
-      "C. Det Konservative Folkeparti": 946,
-      "A. Socialdemokratiet": 990,
-      "F. SF - Socialistisk Folkeparti": 440,
-      "Ø. Enhedslisten - De Rød-Grønne": 378,
-      "O. Dansk Folkeparti": 256,
-      "I. Liberal Alliance": 229,
-      "V. Venstre, Danmarks Liberale Parti": 162,
-      "B. Radikale Venstre": 161,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 128,
-      "M. Moderaterne": 79,
-      "L. Lokaldemokraterne": 42,
-      "Å. Alternativet": 50,
-      "K. KD – Kristendemokraterne": 7,
-      "E. Borgerforslag": 4,
-      "Y. Stefan Warburg": 4,
-      "T. De Kreative": 3
+      "C. Det Konservative Folkeparti": 965,
+      "A. Socialdemokratiet": 1095,
+      "F. SF - Socialistisk Folkeparti": 473,
+      "Ø. Enhedslisten - De Rød-Grønne": 373,
+      "O. Dansk Folkeparti": 268,
+      "I. Liberal Alliance": 174,
+      "V. Venstre, Danmarks Liberale Parti": 101,
+      "B. Radikale Venstre": 124,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 158,
+      "M. Moderaterne": 91,
+      "L. Lokaldemokraterne": 60,
+      "Å. Alternativet": 56,
+      "K. KD – Kristendemokraterne": 6,
+      "E. Borgerforslag": 5,
+      "T. De Kreative": 5,
+      "Y. Stefan Warburg": 3
     }
   },
   "707098": {
@@ -99,25 +99,25 @@
       "Å. Alternativet": 43,
       "K. KD – Kristendemokraterne": 6,
       "E. Borgerforslag": 5,
-      "Y. Stefan Warburg": 4,
-      "T. De Kreative": 3
+      "T. De Kreative": 3,
+      "Y. Stefan Warburg": 4
     }
   },
   "708702": {
     "name": "Hornbæk Skole",
     "electorate": 4387,
     "total_votes": 3208,
-    "valid_votes": 3169,
-    "invalid_votes": 39,
+    "valid_votes": 3170,
+    "invalid_votes": 38,
     "is_reported": false,
     "votes": {
-      "C. Det Konservative Folkeparti": 989,
+      "C. Det Konservative Folkeparti": 990,
       "A. Socialdemokratiet": 540,
-      "F. SF - Socialistisk Folkeparti": 303,
+      "F. SF - Socialistisk Folkeparti": 304,
       "Ø. Enhedslisten - De Rød-Grønne": 167,
       "O. Dansk Folkeparti": 168,
       "I. Liberal Alliance": 168,
-      "V. Venstre, Danmarks Liberale Parti": 215,
+      "V. Venstre, Danmarks Liberale Parti": 214,
       "B. Radikale Venstre": 172,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 138,
       "M. Moderaterne": 155,
@@ -125,8 +125,8 @@
       "Å. Alternativet": 49,
       "K. KD – Kristendemokraterne": 11,
       "E. Borgerforslag": 6,
-      "Y. Stefan Warburg": 3,
-      "T. De Kreative": 4
+      "T. De Kreative": 4,
+      "Y. Stefan Warburg": 3
     }
   },
   "707136": {
@@ -151,8 +151,8 @@
       "Å. Alternativet": 11,
       "K. KD – Kristendemokraterne": 10,
       "E. Borgerforslag": 1,
-      "Y. Stefan Warburg": 1,
-      "T. De Kreative": 2
+      "T. De Kreative": 2,
+      "Y. Stefan Warburg": 1
     }
   },
   "708696": {
@@ -177,8 +177,8 @@
       "Å. Alternativet": 8,
       "K. KD – Kristendemokraterne": 3,
       "E. Borgerforslag": 2,
-      "Y. Stefan Warburg": 1,
-      "T. De Kreative": 1
+      "T. De Kreative": 1,
+      "Y. Stefan Warburg": 1
     }
   },
   "705746": {
@@ -203,8 +203,8 @@
       "Å. Alternativet": 16,
       "K. KD – Kristendemokraterne": 2,
       "E. Borgerforslag": 4,
-      "Y. Stefan Warburg": 0,
-      "T. De Kreative": 1
+      "T. De Kreative": 1,
+      "Y. Stefan Warburg": 0
     }
   },
   "702682": {
@@ -229,8 +229,8 @@
       "Å. Alternativet": 32,
       "K. KD – Kristendemokraterne": 5,
       "E. Borgerforslag": 3,
-      "Y. Stefan Warburg": 3,
-      "T. De Kreative": 2
+      "T. De Kreative": 2,
+      "Y. Stefan Warburg": 3
     }
   },
   "702690": {
@@ -255,8 +255,8 @@
       "Å. Alternativet": 38,
       "K. KD – Kristendemokraterne": 10,
       "E. Borgerforslag": 2,
-      "Y. Stefan Warburg": 0,
-      "T. De Kreative": 2
+      "T. De Kreative": 2,
+      "Y. Stefan Warburg": 0
     }
   },
   "710304": {
@@ -281,34 +281,34 @@
       "Å. Alternativet": 97,
       "K. KD – Kristendemokraterne": 9,
       "E. Borgerforslag": 3,
-      "Y. Stefan Warburg": 1,
-      "T. De Kreative": 1
+      "T. De Kreative": 1,
+      "Y. Stefan Warburg": 1
     }
   },
   "748170": {
     "name": "Toldkammeret",
     "electorate": 2468,
-    "total_votes": 1723,
-    "valid_votes": 1692,
-    "invalid_votes": 31,
+    "total_votes": 1742,
+    "valid_votes": 1710,
+    "invalid_votes": 32,
     "is_reported": false,
     "votes": {
-      "C. Det Konservative Folkeparti": 458,
-      "A. Socialdemokratiet": 284,
-      "F. SF - Socialistisk Folkeparti": 203,
+      "C. Det Konservative Folkeparti": 462,
+      "A. Socialdemokratiet": 304,
+      "F. SF - Socialistisk Folkeparti": 213,
       "Ø. Enhedslisten - De Rød-Grønne": 232,
-      "O. Dansk Folkeparti": 80,
-      "I. Liberal Alliance": 109,
-      "V. Venstre, Danmarks Liberale Parti": 65,
-      "B. Radikale Venstre": 116,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 36,
-      "M. Moderaterne": 47,
-      "L. Lokaldemokraterne": 18,
-      "Å. Alternativet": 36,
+      "O. Dansk Folkeparti": 84,
+      "I. Liberal Alliance": 98,
+      "V. Venstre, Danmarks Liberale Parti": 52,
+      "B. Radikale Venstre": 104,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 43,
+      "M. Moderaterne": 50,
+      "L. Lokaldemokraterne": 22,
+      "Å. Alternativet": 38,
       "K. KD – Kristendemokraterne": 3,
       "E. Borgerforslag": 2,
-      "Y. Stefan Warburg": 2,
-      "T. De Kreative": 1
+      "T. De Kreative": 2,
+      "Y. Stefan Warburg": 1
     }
   }
 }
