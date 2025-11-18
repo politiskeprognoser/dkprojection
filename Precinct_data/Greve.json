@@ -16,35 +16,35 @@
       "F. SF - Socialistisk Folkeparti": 183,
       "L. Vores Lokalliste": 89,
       "B. Radikale Venstre": 73,
-      "E. Lokallisten Mennesker Først": 40,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 47,
+      "E. Lokallisten Mennesker Først": 40,
       "M. Moderaterne": 27,
-      "K. KD – Kristendemokraterne": 7,
-      "U. Jesper Løvenbalk Fisker": 6
+      "U. Jesper Løvenbalk Fisker": 6,
+      "K. KD – Kristendemokraterne": 7
     }
   },
   "718916": {
     "name": "Greve Idrætscenter",
     "electorate": 8332,
-    "total_votes": 4953,
-    "valid_votes": 4870,
-    "invalid_votes": 83,
+    "total_votes": 4951,
+    "valid_votes": 4869,
+    "invalid_votes": 82,
     "is_reported": false,
     "votes": {
-      "V. Venstre, Danmarks Liberale Parti": 1512,
-      "A. Socialdemokratiet": 1208,
-      "O. Dansk Folkeparti": 419,
-      "C. Det Konservative Folkeparti": 365,
-      "I. Liberal Alliance": 332,
-      "Ø. Enhedslisten - De Rød-Grønne": 386,
-      "F. SF - Socialistisk Folkeparti": 232,
-      "L. Vores Lokalliste": 128,
-      "B. Radikale Venstre": 129,
-      "E. Lokallisten Mennesker Først": 60,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 50,
-      "M. Moderaterne": 34,
-      "K. KD – Kristendemokraterne": 8,
-      "U. Jesper Løvenbalk Fisker": 7
+      "V. Venstre, Danmarks Liberale Parti": 1467,
+      "A. Socialdemokratiet": 1225,
+      "O. Dansk Folkeparti": 401,
+      "C. Det Konservative Folkeparti": 389,
+      "I. Liberal Alliance": 350,
+      "Ø. Enhedslisten - De Rød-Grønne": 370,
+      "F. SF - Socialistisk Folkeparti": 239,
+      "L. Vores Lokalliste": 127,
+      "B. Radikale Venstre": 130,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 57,
+      "E. Lokallisten Mennesker Først": 57,
+      "M. Moderaterne": 43,
+      "U. Jesper Løvenbalk Fisker": 8,
+      "K. KD – Kristendemokraterne": 6
     }
   },
   "718898": {
@@ -64,35 +64,35 @@
       "F. SF - Socialistisk Folkeparti": 162,
       "L. Vores Lokalliste": 92,
       "B. Radikale Venstre": 101,
-      "E. Lokallisten Mennesker Først": 45,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 25,
+      "E. Lokallisten Mennesker Først": 45,
       "M. Moderaterne": 45,
-      "K. KD – Kristendemokraterne": 3,
-      "U. Jesper Løvenbalk Fisker": 4
+      "U. Jesper Løvenbalk Fisker": 4,
+      "K. KD – Kristendemokraterne": 3
     }
   },
   "718922": {
     "name": "Karlslundehallerne",
     "electorate": 7441,
-    "total_votes": 5097,
-    "valid_votes": 5050,
-    "invalid_votes": 47,
-    "is_reported": false,
+    "total_votes": 5432,
+    "valid_votes": 5365,
+    "invalid_votes": 67,
+    "is_reported": true,
     "votes": {
-      "V. Venstre, Danmarks Liberale Parti": 2077,
-      "A. Socialdemokratiet": 926,
-      "O. Dansk Folkeparti": 402,
-      "C. Det Konservative Folkeparti": 393,
-      "I. Liberal Alliance": 368,
-      "Ø. Enhedslisten - De Rød-Grønne": 217,
-      "F. SF - Socialistisk Folkeparti": 253,
-      "L. Vores Lokalliste": 130,
-      "B. Radikale Venstre": 115,
-      "E. Lokallisten Mennesker Først": 62,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 44,
-      "M. Moderaterne": 41,
-      "K. KD – Kristendemokraterne": 15,
-      "U. Jesper Løvenbalk Fisker": 7
+      "V. Venstre, Danmarks Liberale Parti": 2031,
+      "A. Socialdemokratiet": 1038,
+      "O. Dansk Folkeparti": 350,
+      "C. Det Konservative Folkeparti": 513,
+      "I. Liberal Alliance": 474,
+      "Ø. Enhedslisten - De Rød-Grønne": 162,
+      "F. SF - Socialistisk Folkeparti": 301,
+      "L. Vores Lokalliste": 138,
+      "B. Radikale Venstre": 127,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 76,
+      "E. Lokallisten Mennesker Først": 52,
+      "M. Moderaterne": 83,
+      "U. Jesper Løvenbalk Fisker": 13,
+      "K. KD – Kristendemokraterne": 7
     }
   },
   "718910": {
@@ -112,11 +112,11 @@
       "F. SF - Socialistisk Folkeparti": 154,
       "L. Vores Lokalliste": 134,
       "B. Radikale Venstre": 65,
-      "E. Lokallisten Mennesker Først": 74,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 72,
+      "E. Lokallisten Mennesker Først": 74,
       "M. Moderaterne": 28,
-      "K. KD – Kristendemokraterne": 5,
-      "U. Jesper Løvenbalk Fisker": 4
+      "U. Jesper Løvenbalk Fisker": 4,
+      "K. KD – Kristendemokraterne": 5
     }
   },
   "749338": {
@@ -136,35 +136,35 @@
       "F. SF - Socialistisk Folkeparti": 166,
       "L. Vores Lokalliste": 91,
       "B. Radikale Venstre": 71,
-      "E. Lokallisten Mennesker Først": 33,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 36,
+      "E. Lokallisten Mennesker Først": 33,
       "M. Moderaterne": 22,
-      "K. KD – Kristendemokraterne": 3,
-      "U. Jesper Løvenbalk Fisker": 7
+      "U. Jesper Løvenbalk Fisker": 7,
+      "K. KD – Kristendemokraterne": 3
     }
   },
   "749337": {
     "name": "Sundhedshuset",
     "electorate": 5869,
-    "total_votes": 3489,
-    "valid_votes": 3431,
-    "invalid_votes": 58,
+    "total_votes": 3488,
+    "valid_votes": 3432,
+    "invalid_votes": 56,
     "is_reported": false,
     "votes": {
-      "V. Venstre, Danmarks Liberale Parti": 1064,
-      "A. Socialdemokratiet": 851,
-      "O. Dansk Folkeparti": 295,
-      "C. Det Konservative Folkeparti": 257,
-      "I. Liberal Alliance": 235,
-      "Ø. Enhedslisten - De Rød-Grønne": 272,
-      "F. SF - Socialistisk Folkeparti": 163,
+      "V. Venstre, Danmarks Liberale Parti": 1033,
+      "A. Socialdemokratiet": 863,
+      "O. Dansk Folkeparti": 282,
+      "C. Det Konservative Folkeparti": 274,
+      "I. Liberal Alliance": 248,
+      "Ø. Enhedslisten - De Rød-Grønne": 261,
+      "F. SF - Socialistisk Folkeparti": 168,
       "L. Vores Lokalliste": 90,
-      "B. Radikale Venstre": 91,
-      "E. Lokallisten Mennesker Først": 43,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 35,
-      "M. Moderaterne": 24,
-      "K. KD – Kristendemokraterne": 6,
-      "U. Jesper Løvenbalk Fisker": 5
+      "B. Radikale Venstre": 92,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 40,
+      "E. Lokallisten Mennesker Først": 40,
+      "M. Moderaterne": 30,
+      "U. Jesper Løvenbalk Fisker": 6,
+      "K. KD – Kristendemokraterne": 5
     }
   }
 }
