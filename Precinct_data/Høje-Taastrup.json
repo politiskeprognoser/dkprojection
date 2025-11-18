@@ -142,21 +142,21 @@
   "701970": {
     "name": "Charlotteskolen",
     "electorate": 3665,
-    "total_votes": 2089,
-    "valid_votes": 2055,
-    "invalid_votes": 34,
-    "is_reported": false,
+    "total_votes": 2060,
+    "valid_votes": 2013,
+    "invalid_votes": 47,
+    "is_reported": true,
     "votes": {
-      "C. Det Konservative Folkeparti": 894,
-      "A. Socialdemokratiet": 341,
-      "B. Radikale Venstre": 141,
-      "O. Dansk Folkeparti": 163,
-      "F. SF - Socialistisk Folkeparti": 241,
-      "Ø. Enhedslisten - De Rød-Grønne": 129,
-      "I. Liberal Alliance": 66,
-      "V. Venstre, Danmarks Liberale Parti": 38,
-      "M. Moderaterne": 37,
-      "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 5
+      "C. Det Konservative Folkeparti": 844,
+      "A. Socialdemokratiet": 330,
+      "B. Radikale Venstre": 238,
+      "O. Dansk Folkeparti": 186,
+      "F. SF - Socialistisk Folkeparti": 180,
+      "Ø. Enhedslisten - De Rød-Grønne": 141,
+      "I. Liberal Alliance": 29,
+      "V. Venstre, Danmarks Liberale Parti": 29,
+      "M. Moderaterne": 27,
+      "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 9
     }
   },
   "709780": {
