@@ -9,8 +9,8 @@
     "votes": {
       "V. Venstre, Danmarks Liberale Parti": 895,
       "A. Socialdemokratiet": 368,
-      "O. Dansk Folkeparti": 269,
       "C. Det Konservative Folkeparti": 95,
+      "O. Dansk Folkeparti": 269,
       "L. Fælleslisten": 66,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 164,
       "F. SF - Socialistisk Folkeparti": 47,
@@ -20,19 +20,19 @@
   "703930": {
     "name": "Brande",
     "electorate": 7487,
-    "total_votes": 4746,
-    "valid_votes": 4694,
-    "invalid_votes": 52,
-    "is_reported": false,
+    "total_votes": 5014,
+    "valid_votes": 4956,
+    "invalid_votes": 58,
+    "is_reported": true,
     "votes": {
-      "V. Venstre, Danmarks Liberale Parti": 1033,
-      "A. Socialdemokratiet": 421,
-      "O. Dansk Folkeparti": 542,
-      "C. Det Konservative Folkeparti": 635,
-      "L. Fælleslisten": 1337,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 420,
-      "F. SF - Socialistisk Folkeparti": 158,
-      "I. Liberal Alliance": 148
+      "V. Venstre, Danmarks Liberale Parti": 732,
+      "A. Socialdemokratiet": 298,
+      "C. Det Konservative Folkeparti": 842,
+      "O. Dansk Folkeparti": 292,
+      "L. Fælleslisten": 2029,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 426,
+      "F. SF - Socialistisk Folkeparti": 118,
+      "I. Liberal Alliance": 219
     }
   },
   "709984": {
@@ -45,8 +45,8 @@
     "votes": {
       "V. Venstre, Danmarks Liberale Parti": 491,
       "A. Socialdemokratiet": 385,
-      "O. Dansk Folkeparti": 258,
       "C. Det Konservative Folkeparti": 339,
+      "O. Dansk Folkeparti": 258,
       "L. Fælleslisten": 103,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 242,
       "F. SF - Socialistisk Folkeparti": 68,
@@ -63,8 +63,8 @@
     "votes": {
       "V. Venstre, Danmarks Liberale Parti": 474,
       "A. Socialdemokratiet": 557,
-      "O. Dansk Folkeparti": 474,
       "C. Det Konservative Folkeparti": 39,
+      "O. Dansk Folkeparti": 474,
       "L. Fælleslisten": 25,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 82,
       "F. SF - Socialistisk Folkeparti": 102,
@@ -75,18 +75,18 @@
     "name": "Ikast",
     "electorate": 14928,
     "total_votes": 9778,
-    "valid_votes": 9621,
-    "invalid_votes": 157,
+    "valid_votes": 9619,
+    "invalid_votes": 159,
     "is_reported": true,
     "votes": {
-      "V. Venstre, Danmarks Liberale Parti": 3356,
-      "A. Socialdemokratiet": 2332,
-      "O. Dansk Folkeparti": 1099,
+      "V. Venstre, Danmarks Liberale Parti": 3353,
+      "A. Socialdemokratiet": 2329,
       "C. Det Konservative Folkeparti": 1261,
+      "O. Dansk Folkeparti": 1101,
       "L. Fælleslisten": 302,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 573,
       "F. SF - Socialistisk Folkeparti": 342,
-      "I. Liberal Alliance": 356
+      "I. Liberal Alliance": 358
     }
   },
   "713298": {
@@ -99,8 +99,8 @@
     "votes": {
       "V. Venstre, Danmarks Liberale Parti": 540,
       "A. Socialdemokratiet": 209,
-      "O. Dansk Folkeparti": 307,
       "C. Det Konservative Folkeparti": 236,
+      "O. Dansk Folkeparti": 307,
       "L. Fælleslisten": 63,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 169,
       "F. SF - Socialistisk Folkeparti": 152,
