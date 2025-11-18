@@ -2,23 +2,23 @@
   "711010": {
     "name": "Vordingborg",
     "electorate": 8110,
-    "total_votes": 5352,
-    "valid_votes": 5225,
-    "invalid_votes": 127,
+    "total_votes": 5421,
+    "valid_votes": 5283,
+    "invalid_votes": 138,
     "is_reported": false,
     "votes": {
-      "A. Socialdemokratiet": 1408,
-      "V. Venstre, Danmarks Liberale Parti": 1060,
-      "I. Liberal Alliance": 785,
-      "F. SF - Socialistisk Folkeparti": 668,
-      "O. Dansk Folkeparti": 350,
-      "Ø. Enhedslisten - De Rød-Grønne": 223,
-      "C. Det Konservative Folkeparti": 357,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 120,
-      "M. Moderaterne": 63,
-      "B. Radikale Venstre": 122,
-      "L. Vordingborg Borgerliste": 54,
-      "E. Stabilt Demokrati": 15
+      "A. Socialdemokratiet": 1404,
+      "V. Venstre, Danmarks Liberale Parti": 1022,
+      "I. Liberal Alliance": 722,
+      "F. SF - Socialistisk Folkeparti": 671,
+      "O. Dansk Folkeparti": 335,
+      "Ø. Enhedslisten - De Rød-Grønne": 231,
+      "C. Det Konservative Folkeparti": 306,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 158,
+      "B. Radikale Venstre": 285,
+      "M. Moderaterne": 67,
+      "L. Vordingborg Borgerliste": 62,
+      "E. Stabilt Demokrati": 20
     }
   },
   "705084": {
@@ -37,8 +37,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 82,
       "C. Det Konservative Folkeparti": 120,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 49,
-      "M. Moderaterne": 25,
       "B. Radikale Venstre": 43,
+      "M. Moderaterne": 25,
       "L. Vordingborg Borgerliste": 6,
       "E. Stabilt Demokrati": 1
     }
@@ -59,8 +59,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 87,
       "C. Det Konservative Folkeparti": 115,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 50,
-      "M. Moderaterne": 18,
       "B. Radikale Venstre": 28,
+      "M. Moderaterne": 18,
       "L. Vordingborg Borgerliste": 23,
       "E. Stabilt Demokrati": 5
     }
@@ -81,8 +81,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 40,
       "C. Det Konservative Folkeparti": 43,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 62,
-      "M. Moderaterne": 5,
       "B. Radikale Venstre": 19,
+      "M. Moderaterne": 5,
       "L. Vordingborg Borgerliste": 5,
       "E. Stabilt Demokrati": 2
     }
@@ -90,23 +90,23 @@
   "705010": {
     "name": "Lundby",
     "electorate": 3110,
-    "total_votes": 1964,
-    "valid_votes": 1927,
-    "invalid_votes": 37,
-    "is_reported": false,
+    "total_votes": 2041,
+    "valid_votes": 1992,
+    "invalid_votes": 49,
+    "is_reported": true,
     "votes": {
-      "A. Socialdemokratiet": 362,
-      "V. Venstre, Danmarks Liberale Parti": 381,
-      "I. Liberal Alliance": 336,
-      "F. SF - Socialistisk Folkeparti": 180,
-      "O. Dansk Folkeparti": 217,
-      "Ø. Enhedslisten - De Rød-Grønne": 83,
-      "C. Det Konservative Folkeparti": 186,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 107,
-      "M. Moderaterne": 20,
-      "B. Radikale Venstre": 26,
-      "L. Vordingborg Borgerliste": 23,
-      "E. Stabilt Demokrati": 6
+      "A. Socialdemokratiet": 355,
+      "V. Venstre, Danmarks Liberale Parti": 328,
+      "I. Liberal Alliance": 241,
+      "F. SF - Socialistisk Folkeparti": 181,
+      "O. Dansk Folkeparti": 196,
+      "Ø. Enhedslisten - De Rød-Grønne": 92,
+      "C. Det Konservative Folkeparti": 113,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 196,
+      "B. Radikale Venstre": 221,
+      "M. Moderaterne": 24,
+      "L. Vordingborg Borgerliste": 32,
+      "E. Stabilt Demokrati": 13
     }
   },
   "709584": {
@@ -125,8 +125,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 37,
       "C. Det Konservative Folkeparti": 76,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 62,
-      "M. Moderaterne": 14,
       "B. Radikale Venstre": 20,
+      "M. Moderaterne": 14,
       "L. Vordingborg Borgerliste": 17,
       "E. Stabilt Demokrati": 7
     }
@@ -135,20 +135,20 @@
     "name": "Stege",
     "electorate": 4549,
     "total_votes": 3210,
-    "valid_votes": 3145,
-    "invalid_votes": 65,
+    "valid_votes": 3144,
+    "invalid_votes": 66,
     "is_reported": false,
     "votes": {
       "A. Socialdemokratiet": 688,
       "V. Venstre, Danmarks Liberale Parti": 813,
-      "I. Liberal Alliance": 210,
-      "F. SF - Socialistisk Folkeparti": 546,
+      "I. Liberal Alliance": 209,
+      "F. SF - Socialistisk Folkeparti": 545,
       "O. Dansk Folkeparti": 220,
       "Ø. Enhedslisten - De Rød-Grønne": 188,
-      "C. Det Konservative Folkeparti": 87,
+      "C. Det Konservative Folkeparti": 86,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 86,
+      "B. Radikale Venstre": 73,
       "M. Moderaterne": 117,
-      "B. Radikale Venstre": 71,
       "L. Vordingborg Borgerliste": 109,
       "E. Stabilt Demokrati": 10
     }
@@ -169,8 +169,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 80,
       "C. Det Konservative Folkeparti": 24,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 37,
-      "M. Moderaterne": 25,
       "B. Radikale Venstre": 23,
+      "M. Moderaterne": 25,
       "L. Vordingborg Borgerliste": 27,
       "E. Stabilt Demokrati": 6
     }
@@ -191,8 +191,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 263,
       "C. Det Konservative Folkeparti": 50,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 38,
-      "M. Moderaterne": 55,
       "B. Radikale Venstre": 23,
+      "M. Moderaterne": 55,
       "L. Vordingborg Borgerliste": 54,
       "E. Stabilt Demokrati": 3
     }
@@ -213,8 +213,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 44,
       "C. Det Konservative Folkeparti": 26,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 25,
-      "M. Moderaterne": 7,
       "B. Radikale Venstre": 7,
+      "M. Moderaterne": 7,
       "L. Vordingborg Borgerliste": 19,
       "E. Stabilt Demokrati": 0
     }
@@ -235,8 +235,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 143,
       "C. Det Konservative Folkeparti": 71,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 79,
-      "M. Moderaterne": 25,
       "B. Radikale Venstre": 19,
+      "M. Moderaterne": 25,
       "L. Vordingborg Borgerliste": 19,
       "E. Stabilt Demokrati": 3
     }
@@ -257,8 +257,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 43,
       "C. Det Konservative Folkeparti": 31,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 17,
-      "M. Moderaterne": 13,
       "B. Radikale Venstre": 11,
+      "M. Moderaterne": 13,
       "L. Vordingborg Borgerliste": 3,
       "E. Stabilt Demokrati": 0
     }
@@ -279,8 +279,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 43,
       "C. Det Konservative Folkeparti": 9,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 28,
-      "M. Moderaterne": 3,
       "B. Radikale Venstre": 7,
+      "M. Moderaterne": 3,
       "L. Vordingborg Borgerliste": 3,
       "E. Stabilt Demokrati": 1
     }
@@ -301,8 +301,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 52,
       "C. Det Konservative Folkeparti": 43,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 76,
-      "M. Moderaterne": 15,
       "B. Radikale Venstre": 17,
+      "M. Moderaterne": 15,
       "L. Vordingborg Borgerliste": 18,
       "E. Stabilt Demokrati": 6
     }
@@ -323,8 +323,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 78,
       "C. Det Konservative Folkeparti": 64,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 55,
-      "M. Moderaterne": 78,
       "B. Radikale Venstre": 29,
+      "M. Moderaterne": 78,
       "L. Vordingborg Borgerliste": 24,
       "E. Stabilt Demokrati": 7
     }
@@ -345,8 +345,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 66,
       "C. Det Konservative Folkeparti": 69,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 61,
-      "M. Moderaterne": 25,
       "B. Radikale Venstre": 19,
+      "M. Moderaterne": 25,
       "L. Vordingborg Borgerliste": 18,
       "E. Stabilt Demokrati": 4
     }

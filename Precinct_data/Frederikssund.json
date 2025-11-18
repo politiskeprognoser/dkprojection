@@ -1,56 +1,134 @@
 {
   "710206": {
     "name": "Frederikssund Midt",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 7184,
+    "total_votes": 4750,
+    "valid_votes": 4629,
+    "invalid_votes": 121,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "I. Liberal Alliance": 1046,
+      "A. Socialdemokratiet": 1004,
+      "V. Venstre, Danmarks Liberale Parti": 680,
+      "F. SF - Socialistisk Folkeparti": 628,
+      "O. Dansk Folkeparti": 432,
+      "C. Det Konservative Folkeparti": 349,
+      "Ø. Enhedslisten - De Rød-Grønne": 174,
+      "B. Radikale Venstre": 156,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 80,
+      "Å. Alternativet": 39,
+      "M. Moderaterne": 25,
+      "W. Thomas Bech - Børn og Borgere først": 16
+    }
   },
   "701052": {
     "name": "Frederikssund Nord",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 5005,
+    "total_votes": 3556,
+    "valid_votes": 3502,
+    "invalid_votes": 54,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "I. Liberal Alliance": 800,
+      "A. Socialdemokratiet": 696,
+      "V. Venstre, Danmarks Liberale Parti": 469,
+      "F. SF - Socialistisk Folkeparti": 472,
+      "O. Dansk Folkeparti": 342,
+      "C. Det Konservative Folkeparti": 302,
+      "Ø. Enhedslisten - De Rød-Grønne": 133,
+      "B. Radikale Venstre": 143,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 85,
+      "Å. Alternativet": 30,
+      "M. Moderaterne": 18,
+      "W. Thomas Bech - Børn og Borgere først": 12
+    }
   },
   "704056": {
     "name": "Frederikssund Syd",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 5605,
+    "total_votes": 4198,
+    "valid_votes": 4118,
+    "invalid_votes": 80,
+    "is_reported": true,
+    "votes": {
+      "I. Liberal Alliance": 931,
+      "A. Socialdemokratiet": 757,
+      "V. Venstre, Danmarks Liberale Parti": 653,
+      "F. SF - Socialistisk Folkeparti": 582,
+      "O. Dansk Folkeparti": 377,
+      "C. Det Konservative Folkeparti": 337,
+      "Ø. Enhedslisten - De Rød-Grønne": 126,
+      "B. Radikale Venstre": 199,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 82,
+      "Å. Alternativet": 35,
+      "M. Moderaterne": 25,
+      "W. Thomas Bech - Børn og Borgere først": 14
+    }
   },
   "702366": {
     "name": "Skibby",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 6889,
+    "total_votes": 4497,
+    "valid_votes": 4400,
+    "invalid_votes": 97,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "I. Liberal Alliance": 1099,
+      "A. Socialdemokratiet": 778,
+      "V. Venstre, Danmarks Liberale Parti": 597,
+      "F. SF - Socialistisk Folkeparti": 554,
+      "O. Dansk Folkeparti": 472,
+      "C. Det Konservative Folkeparti": 348,
+      "Ø. Enhedslisten - De Rød-Grønne": 244,
+      "B. Radikale Venstre": 88,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 144,
+      "Å. Alternativet": 41,
+      "M. Moderaterne": 18,
+      "W. Thomas Bech - Børn og Borgere først": 17
+    }
   },
   "704070": {
     "name": "Jægerspris",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 7151,
+    "total_votes": 4726,
+    "valid_votes": 4601,
+    "invalid_votes": 125,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "I. Liberal Alliance": 1185,
+      "A. Socialdemokratiet": 914,
+      "V. Venstre, Danmarks Liberale Parti": 546,
+      "F. SF - Socialistisk Folkeparti": 589,
+      "O. Dansk Folkeparti": 502,
+      "C. Det Konservative Folkeparti": 280,
+      "Ø. Enhedslisten - De Rød-Grønne": 282,
+      "B. Radikale Venstre": 113,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 104,
+      "Å. Alternativet": 45,
+      "M. Moderaterne": 23,
+      "W. Thomas Bech - Børn og Borgere først": 18
+    }
   },
   "707024": {
     "name": "Slangerup",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 6661,
+    "total_votes": 4465,
+    "valid_votes": 4364,
+    "invalid_votes": 101,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "I. Liberal Alliance": 949,
+      "A. Socialdemokratiet": 773,
+      "V. Venstre, Danmarks Liberale Parti": 819,
+      "F. SF - Socialistisk Folkeparti": 484,
+      "O. Dansk Folkeparti": 467,
+      "C. Det Konservative Folkeparti": 435,
+      "Ø. Enhedslisten - De Rød-Grønne": 111,
+      "B. Radikale Venstre": 139,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 112,
+      "Å. Alternativet": 36,
+      "M. Moderaterne": 25,
+      "W. Thomas Bech - Børn og Borgere først": 14
+    }
   }
 }
