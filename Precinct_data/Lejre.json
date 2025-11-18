@@ -3,21 +3,21 @@
     "name": "Hyllinge-Lyndby",
     "electorate": 3588,
     "total_votes": 2549,
-    "valid_votes": 2509,
-    "invalid_votes": 40,
+    "valid_votes": 2510,
+    "invalid_votes": 39,
     "is_reported": false,
     "votes": {
       "V. Venstre, Danmarks Liberale Parti": 795,
       "F. SF - Socialistisk Folkeparti": 412,
       "A. Socialdemokratiet": 371,
       "Ø. Enhedslisten - De Rød-Grønne": 101,
-      "C. Det Konservative Folkeparti": 132,
+      "C. Det Konservative Folkeparti": 131,
       "I. Liberal Alliance": 167,
       "O. Dansk Folkeparti": 160,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 151,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 152,
       "B. Radikale Venstre": 61,
+      "L. Lokallisten Levende Landsbyer Lejre": 73,
       "N. Nærdemokratiet": 21,
-      "L. Lokallisten Levende Landsbyer Lejre": 72,
       "Å. Alternativet": 51,
       "M. Moderaterne": 15
     }
@@ -39,8 +39,8 @@
       "O. Dansk Folkeparti": 109,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 61,
       "B. Radikale Venstre": 60,
-      "N. Nærdemokratiet": 4,
       "L. Lokallisten Levende Landsbyer Lejre": 46,
+      "N. Nærdemokratiet": 4,
       "Å. Alternativet": 36,
       "M. Moderaterne": 7
     }
@@ -62,8 +62,8 @@
       "O. Dansk Folkeparti": 58,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 49,
       "B. Radikale Venstre": 25,
-      "N. Nærdemokratiet": 16,
       "L. Lokallisten Levende Landsbyer Lejre": 30,
+      "N. Nærdemokratiet": 16,
       "Å. Alternativet": 19,
       "M. Moderaterne": 7
     }
@@ -85,8 +85,8 @@
       "O. Dansk Folkeparti": 58,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 62,
       "B. Radikale Venstre": 25,
-      "N. Nærdemokratiet": 5,
       "L. Lokallisten Levende Landsbyer Lejre": 37,
+      "N. Nærdemokratiet": 5,
       "Å. Alternativet": 12,
       "M. Moderaterne": 7
     }
@@ -108,8 +108,8 @@
       "O. Dansk Folkeparti": 40,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 41,
       "B. Radikale Venstre": 25,
-      "N. Nærdemokratiet": 42,
       "L. Lokallisten Levende Landsbyer Lejre": 12,
+      "N. Nærdemokratiet": 42,
       "Å. Alternativet": 1,
       "M. Moderaterne": 5
     }
@@ -131,8 +131,8 @@
       "O. Dansk Folkeparti": 113,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 93,
       "B. Radikale Venstre": 146,
-      "N. Nærdemokratiet": 48,
       "L. Lokallisten Levende Landsbyer Lejre": 92,
+      "N. Nærdemokratiet": 48,
       "Å. Alternativet": 77,
       "M. Moderaterne": 21
     }
@@ -140,23 +140,23 @@
   "712008": {
     "name": "Kr.Såby",
     "electorate": 2265,
-    "total_votes": 1617,
-    "valid_votes": 1591,
-    "invalid_votes": 26,
-    "is_reported": false,
+    "total_votes": 1666,
+    "valid_votes": 1635,
+    "invalid_votes": 31,
+    "is_reported": true,
     "votes": {
-      "V. Venstre, Danmarks Liberale Parti": 334,
-      "F. SF - Socialistisk Folkeparti": 374,
-      "A. Socialdemokratiet": 153,
-      "Ø. Enhedslisten - De Rød-Grønne": 108,
-      "C. Det Konservative Folkeparti": 180,
-      "I. Liberal Alliance": 68,
-      "O. Dansk Folkeparti": 81,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 99,
-      "B. Radikale Venstre": 43,
-      "N. Nærdemokratiet": 23,
-      "L. Lokallisten Levende Landsbyer Lejre": 84,
-      "Å. Alternativet": 36,
+      "V. Venstre, Danmarks Liberale Parti": 357,
+      "F. SF - Socialistisk Folkeparti": 296,
+      "A. Socialdemokratiet": 191,
+      "Ø. Enhedslisten - De Rød-Grønne": 84,
+      "C. Det Konservative Folkeparti": 171,
+      "I. Liberal Alliance": 65,
+      "O. Dansk Folkeparti": 98,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 128,
+      "B. Radikale Venstre": 28,
+      "L. Lokallisten Levende Landsbyer Lejre": 195,
+      "N. Nærdemokratiet": 5,
+      "Å. Alternativet": 9,
       "M. Moderaterne": 8
     }
   },
@@ -164,8 +164,8 @@
     "name": "Gevninge",
     "electorate": 2298,
     "total_votes": 1768,
-    "valid_votes": 1749,
-    "invalid_votes": 19,
+    "valid_votes": 1750,
+    "invalid_votes": 18,
     "is_reported": false,
     "votes": {
       "V. Venstre, Danmarks Liberale Parti": 539,
@@ -177,8 +177,8 @@
       "O. Dansk Folkeparti": 86,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 74,
       "B. Radikale Venstre": 41,
+      "L. Lokallisten Levende Landsbyer Lejre": 19,
       "N. Nærdemokratiet": 107,
-      "L. Lokallisten Levende Landsbyer Lejre": 18,
       "Å. Alternativet": 21,
       "M. Moderaterne": 12
     }
@@ -200,8 +200,8 @@
       "O. Dansk Folkeparti": 39,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 17,
       "B. Radikale Venstre": 104,
-      "N. Nærdemokratiet": 206,
       "L. Lokallisten Levende Landsbyer Lejre": 48,
+      "N. Nærdemokratiet": 206,
       "Å. Alternativet": 22,
       "M. Moderaterne": 2
     }
@@ -223,8 +223,8 @@
       "O. Dansk Folkeparti": 107,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 86,
       "B. Radikale Venstre": 111,
-      "N. Nærdemokratiet": 35,
       "L. Lokallisten Levende Landsbyer Lejre": 49,
+      "N. Nærdemokratiet": 35,
       "Å. Alternativet": 32,
       "M. Moderaterne": 26
     }

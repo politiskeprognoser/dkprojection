@@ -107,22 +107,22 @@
   "707976": {
     "name": "Munkebo",
     "electorate": 4882,
-    "total_votes": 3254,
-    "valid_votes": 3191,
-    "invalid_votes": 63,
+    "total_votes": 3255,
+    "valid_votes": 3189,
+    "invalid_votes": 66,
     "is_reported": true,
     "votes": {
-      "C. Det Konservative Folkeparti": 547,
-      "A. Socialdemokratiet": 745,
-      "I. Liberal Alliance": 419,
+      "C. Det Konservative Folkeparti": 548,
+      "A. Socialdemokratiet": 743,
+      "I. Liberal Alliance": 417,
       "E. Hverdagens Stemme": 455,
       "F. SF - Socialistisk Folkeparti": 409,
-      "Ø. Enhedslisten - De Rød-Grønne": 168,
-      "V. Venstre, Danmarks Liberale Parti": 87,
-      "O. Dansk Folkeparti": 187,
+      "Ø. Enhedslisten - De Rød-Grønne": 169,
+      "V. Venstre, Danmarks Liberale Parti": 88,
+      "O. Dansk Folkeparti": 186,
       "B. Radikale Venstre": 76,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 72,
-      "M. Moderaterne": 26
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 71,
+      "M. Moderaterne": 27
     }
   }
 }
