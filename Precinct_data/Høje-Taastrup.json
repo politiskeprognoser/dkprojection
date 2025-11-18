@@ -102,21 +102,21 @@
   "703634": {
     "name": "Torstorp Skole",
     "electorate": 4185,
-    "total_votes": 2121,
-    "valid_votes": 2085,
-    "invalid_votes": 36,
-    "is_reported": false,
+    "total_votes": 2208,
+    "valid_votes": 2153,
+    "invalid_votes": 55,
+    "is_reported": true,
     "votes": {
-      "C. Det Konservative Folkeparti": 719,
-      "A. Socialdemokratiet": 437,
-      "B. Radikale Venstre": 256,
-      "O. Dansk Folkeparti": 195,
-      "F. SF - Socialistisk Folkeparti": 165,
-      "Ø. Enhedslisten - De Rød-Grønne": 202,
-      "I. Liberal Alliance": 39,
-      "V. Venstre, Danmarks Liberale Parti": 33,
-      "M. Moderaterne": 14,
-      "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 25
+      "C. Det Konservative Folkeparti": 730,
+      "A. Socialdemokratiet": 398,
+      "B. Radikale Venstre": 291,
+      "O. Dansk Folkeparti": 262,
+      "F. SF - Socialistisk Folkeparti": 158,
+      "Ø. Enhedslisten - De Rød-Grønne": 201,
+      "I. Liberal Alliance": 47,
+      "V. Venstre, Danmarks Liberale Parti": 22,
+      "M. Moderaterne": 23,
+      "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 21
     }
   },
   "701952": {
