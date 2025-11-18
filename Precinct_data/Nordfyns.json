@@ -2,22 +2,22 @@
   "748639": {
     "name": "Bogense",
     "electorate": 4723,
-    "total_votes": 3365,
-    "valid_votes": 3289,
-    "invalid_votes": 76,
-    "is_reported": false,
+    "total_votes": 3494,
+    "valid_votes": 3444,
+    "invalid_votes": 50,
+    "is_reported": true,
     "votes": {
-      "V. Venstre, Danmarks Liberale Parti": 1486,
-      "A. Socialdemokratiet": 775,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 271,
-      "F. SF - Socialistisk Folkeparti": 130,
-      "O. Dansk Folkeparti": 152,
-      "C. Det Konservative Folkeparti": 127,
-      "I. Liberal Alliance": 110,
-      "B. Radikale Venstre": 163,
-      "Ø. Enhedslisten - De Rød-Grønne": 46,
-      "D. Vi ældre": 23,
-      "E. Nordfyn på forkant": 6
+      "V. Venstre, Danmarks Liberale Parti": 1418,
+      "A. Socialdemokratiet": 690,
+      "F. SF - Socialistisk Folkeparti": 312,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 302,
+      "O. Dansk Folkeparti": 147,
+      "C. Det Konservative Folkeparti": 200,
+      "I. Liberal Alliance": 75,
+      "B. Radikale Venstre": 205,
+      "Ø. Enhedslisten - De Rød-Grønne": 52,
+      "D. Vi ældre": 32,
+      "E. Nordfyn på forkant": 11
     }
   },
   "748634": {
@@ -30,8 +30,8 @@
     "votes": {
       "V. Venstre, Danmarks Liberale Parti": 220,
       "A. Socialdemokratiet": 89,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 38,
       "F. SF - Socialistisk Folkeparti": 22,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 38,
       "O. Dansk Folkeparti": 36,
       "C. Det Konservative Folkeparti": 21,
       "I. Liberal Alliance": 20,
@@ -51,8 +51,8 @@
     "votes": {
       "V. Venstre, Danmarks Liberale Parti": 728,
       "A. Socialdemokratiet": 334,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 201,
       "F. SF - Socialistisk Folkeparti": 136,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 201,
       "O. Dansk Folkeparti": 134,
       "C. Det Konservative Folkeparti": 50,
       "I. Liberal Alliance": 55,
@@ -65,22 +65,22 @@
   "748636": {
     "name": "Otterup",
     "electorate": 5363,
-    "total_votes": 3491,
-    "valid_votes": 3418,
-    "invalid_votes": 73,
-    "is_reported": false,
+    "total_votes": 3735,
+    "valid_votes": 3665,
+    "invalid_votes": 70,
+    "is_reported": true,
     "votes": {
-      "V. Venstre, Danmarks Liberale Parti": 1359,
-      "A. Socialdemokratiet": 749,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 346,
-      "F. SF - Socialistisk Folkeparti": 318,
-      "O. Dansk Folkeparti": 245,
-      "C. Det Konservative Folkeparti": 117,
-      "I. Liberal Alliance": 103,
-      "B. Radikale Venstre": 60,
-      "Ø. Enhedslisten - De Rød-Grønne": 67,
-      "D. Vi ældre": 43,
-      "E. Nordfyn på forkant": 11
+      "V. Venstre, Danmarks Liberale Parti": 1521,
+      "A. Socialdemokratiet": 944,
+      "F. SF - Socialistisk Folkeparti": 243,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 244,
+      "O. Dansk Folkeparti": 314,
+      "C. Det Konservative Folkeparti": 84,
+      "I. Liberal Alliance": 105,
+      "B. Radikale Venstre": 59,
+      "Ø. Enhedslisten - De Rød-Grønne": 71,
+      "D. Vi ældre": 77,
+      "E. Nordfyn på forkant": 3
     }
   },
   "748630": {
@@ -93,8 +93,8 @@
     "votes": {
       "V. Venstre, Danmarks Liberale Parti": 174,
       "A. Socialdemokratiet": 146,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 87,
       "F. SF - Socialistisk Folkeparti": 79,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 87,
       "O. Dansk Folkeparti": 108,
       "C. Det Konservative Folkeparti": 17,
       "I. Liberal Alliance": 18,
@@ -114,8 +114,8 @@
     "votes": {
       "V. Venstre, Danmarks Liberale Parti": 270,
       "A. Socialdemokratiet": 195,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 90,
       "F. SF - Socialistisk Folkeparti": 85,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 90,
       "O. Dansk Folkeparti": 48,
       "C. Det Konservative Folkeparti": 48,
       "I. Liberal Alliance": 30,
@@ -135,8 +135,8 @@
     "votes": {
       "V. Venstre, Danmarks Liberale Parti": 268,
       "A. Socialdemokratiet": 103,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 106,
       "F. SF - Socialistisk Folkeparti": 57,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 106,
       "O. Dansk Folkeparti": 41,
       "C. Det Konservative Folkeparti": 23,
       "I. Liberal Alliance": 35,
@@ -156,8 +156,8 @@
     "votes": {
       "V. Venstre, Danmarks Liberale Parti": 484,
       "A. Socialdemokratiet": 298,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 59,
       "F. SF - Socialistisk Folkeparti": 221,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 59,
       "O. Dansk Folkeparti": 56,
       "C. Det Konservative Folkeparti": 371,
       "I. Liberal Alliance": 140,
@@ -177,8 +177,8 @@
     "votes": {
       "V. Venstre, Danmarks Liberale Parti": 335,
       "A. Socialdemokratiet": 172,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 88,
       "F. SF - Socialistisk Folkeparti": 68,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 88,
       "O. Dansk Folkeparti": 56,
       "C. Det Konservative Folkeparti": 29,
       "I. Liberal Alliance": 33,
@@ -191,22 +191,22 @@
   "748637": {
     "name": "Søndersø",
     "electorate": 3494,
-    "total_votes": 2412,
-    "valid_votes": 2354,
-    "invalid_votes": 58,
-    "is_reported": true,
+    "total_votes": 2363,
+    "valid_votes": 2318,
+    "invalid_votes": 45,
+    "is_reported": false,
     "votes": {
-      "V. Venstre, Danmarks Liberale Parti": 965,
-      "A. Socialdemokratiet": 529,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 134,
-      "F. SF - Socialistisk Folkeparti": 268,
-      "O. Dansk Folkeparti": 137,
-      "C. Det Konservative Folkeparti": 124,
-      "I. Liberal Alliance": 68,
-      "B. Radikale Venstre": 62,
-      "Ø. Enhedslisten - De Rød-Grønne": 31,
-      "D. Vi ældre": 27,
-      "E. Nordfyn på forkant": 9
+      "V. Venstre, Danmarks Liberale Parti": 933,
+      "A. Socialdemokratiet": 540,
+      "F. SF - Socialistisk Folkeparti": 229,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 154,
+      "O. Dansk Folkeparti": 100,
+      "C. Det Konservative Folkeparti": 134,
+      "I. Liberal Alliance": 116,
+      "B. Radikale Venstre": 47,
+      "Ø. Enhedslisten - De Rød-Grønne": 24,
+      "D. Vi ældre": 26,
+      "E. Nordfyn på forkant": 15
     }
   }
 }

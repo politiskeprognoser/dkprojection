@@ -14,8 +14,8 @@
       "M. Moderaterne": 431,
       "I. Liberal Alliance": 310,
       "B. Radikale Venstre": 259,
-      "Ø. Enhedslisten - De Rød-Grønne": 312,
       "O. Dansk Folkeparti": 225,
+      "Ø. Enhedslisten - De Rød-Grønne": 312,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 88,
       "K. Bjarne Holm": 5
     }
@@ -35,8 +35,8 @@
       "M. Moderaterne": 301,
       "I. Liberal Alliance": 198,
       "B. Radikale Venstre": 214,
-      "Ø. Enhedslisten - De Rød-Grønne": 157,
       "O. Dansk Folkeparti": 161,
+      "Ø. Enhedslisten - De Rød-Grønne": 157,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 80,
       "K. Bjarne Holm": 3
     }
@@ -56,8 +56,8 @@
       "M. Moderaterne": 18,
       "I. Liberal Alliance": 79,
       "B. Radikale Venstre": 18,
-      "Ø. Enhedslisten - De Rød-Grønne": 9,
       "O. Dansk Folkeparti": 25,
+      "Ø. Enhedslisten - De Rød-Grønne": 9,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 15,
       "K. Bjarne Holm": 2
     }
@@ -77,8 +77,8 @@
       "M. Moderaterne": 46,
       "I. Liberal Alliance": 67,
       "B. Radikale Venstre": 61,
-      "Ø. Enhedslisten - De Rød-Grønne": 75,
       "O. Dansk Folkeparti": 35,
+      "Ø. Enhedslisten - De Rød-Grønne": 75,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 18,
       "K. Bjarne Holm": 1
     }
@@ -98,8 +98,8 @@
       "M. Moderaterne": 74,
       "I. Liberal Alliance": 73,
       "B. Radikale Venstre": 33,
-      "Ø. Enhedslisten - De Rød-Grønne": 48,
       "O. Dansk Folkeparti": 80,
+      "Ø. Enhedslisten - De Rød-Grønne": 48,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 29,
       "K. Bjarne Holm": 0
     }
@@ -119,8 +119,8 @@
       "M. Moderaterne": 285,
       "I. Liberal Alliance": 190,
       "B. Radikale Venstre": 149,
-      "Ø. Enhedslisten - De Rød-Grønne": 164,
       "O. Dansk Folkeparti": 168,
+      "Ø. Enhedslisten - De Rød-Grønne": 164,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 73,
       "K. Bjarne Holm": 4
     }
@@ -140,8 +140,8 @@
       "M. Moderaterne": 38,
       "I. Liberal Alliance": 86,
       "B. Radikale Venstre": 221,
-      "Ø. Enhedslisten - De Rød-Grønne": 49,
       "O. Dansk Folkeparti": 41,
+      "Ø. Enhedslisten - De Rød-Grønne": 49,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 14,
       "K. Bjarne Holm": 2
     }
@@ -161,8 +161,8 @@
       "M. Moderaterne": 36,
       "I. Liberal Alliance": 28,
       "B. Radikale Venstre": 55,
-      "Ø. Enhedslisten - De Rød-Grønne": 33,
       "O. Dansk Folkeparti": 13,
+      "Ø. Enhedslisten - De Rød-Grønne": 33,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 10,
       "K. Bjarne Holm": 0
     }
@@ -182,8 +182,8 @@
       "M. Moderaterne": 329,
       "I. Liberal Alliance": 253,
       "B. Radikale Venstre": 286,
-      "Ø. Enhedslisten - De Rød-Grønne": 383,
       "O. Dansk Folkeparti": 321,
+      "Ø. Enhedslisten - De Rød-Grønne": 383,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 107,
       "K. Bjarne Holm": 7
     }
@@ -203,8 +203,8 @@
       "M. Moderaterne": 55,
       "I. Liberal Alliance": 137,
       "B. Radikale Venstre": 28,
-      "Ø. Enhedslisten - De Rød-Grønne": 35,
       "O. Dansk Folkeparti": 97,
+      "Ø. Enhedslisten - De Rød-Grønne": 35,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 64,
       "K. Bjarne Holm": 1
     }
@@ -212,21 +212,21 @@
   "749322": {
     "name": "Skævinge, Harløse, Strø",
     "electorate": 3443,
-    "total_votes": 2422,
-    "valid_votes": 2372,
-    "invalid_votes": 50,
-    "is_reported": false,
+    "total_votes": 2387,
+    "valid_votes": 2343,
+    "invalid_votes": 44,
+    "is_reported": true,
     "votes": {
-      "C. Det Konservative Folkeparti": 632,
-      "A. Socialdemokratiet": 326,
-      "F. SF - Socialistisk Folkeparti": 256,
-      "V. Venstre, Danmarks Liberale Parti": 372,
-      "M. Moderaterne": 147,
-      "I. Liberal Alliance": 210,
-      "B. Radikale Venstre": 68,
-      "Ø. Enhedslisten - De Rød-Grønne": 62,
-      "O. Dansk Folkeparti": 58,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 240,
+      "C. Det Konservative Folkeparti": 599,
+      "A. Socialdemokratiet": 288,
+      "F. SF - Socialistisk Folkeparti": 232,
+      "V. Venstre, Danmarks Liberale Parti": 482,
+      "M. Moderaterne": 154,
+      "I. Liberal Alliance": 173,
+      "B. Radikale Venstre": 62,
+      "O. Dansk Folkeparti": 156,
+      "Ø. Enhedslisten - De Rød-Grønne": 82,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 114,
       "K. Bjarne Holm": 1
     }
   },
@@ -245,8 +245,8 @@
       "M. Moderaterne": 51,
       "I. Liberal Alliance": 59,
       "B. Radikale Venstre": 23,
-      "Ø. Enhedslisten - De Rød-Grønne": 26,
       "O. Dansk Folkeparti": 44,
+      "Ø. Enhedslisten - De Rød-Grønne": 26,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 118,
       "K. Bjarne Holm": 0
     }
@@ -266,8 +266,8 @@
       "M. Moderaterne": 27,
       "I. Liberal Alliance": 45,
       "B. Radikale Venstre": 36,
-      "Ø. Enhedslisten - De Rød-Grønne": 18,
       "O. Dansk Folkeparti": 63,
+      "Ø. Enhedslisten - De Rød-Grønne": 18,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 52,
       "K. Bjarne Holm": 0
     }

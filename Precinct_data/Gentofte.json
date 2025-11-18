@@ -2,22 +2,22 @@
   "707338": {
     "name": "Jægersborg",
     "electorate": 6044,
-    "total_votes": 4555,
-    "valid_votes": 4514,
-    "invalid_votes": 41,
-    "is_reported": false,
+    "total_votes": 4448,
+    "valid_votes": 4409,
+    "invalid_votes": 39,
+    "is_reported": true,
     "votes": {
-      "C. Det Konservative Folkeparti": 2305,
-      "V. Venstre, Danmarks Liberale Parti": 621,
-      "B. Radikale Venstre": 406,
-      "F. SF - Socialistisk Folkeparti": 346,
-      "A. Socialdemokratiet": 229,
-      "Ø. Enhedslisten - De Rød-Grønne": 260,
-      "I. Liberal Alliance": 182,
-      "O. Dansk Folkeparti": 82,
-      "M. Moderaterne": 54,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 22,
-      "U. Alliancen for Børnene, Ungdommen og Fremtiden": 7
+      "C. Det Konservative Folkeparti": 2252,
+      "V. Venstre, Danmarks Liberale Parti": 615,
+      "B. Radikale Venstre": 359,
+      "F. SF - Socialistisk Folkeparti": 344,
+      "A. Socialdemokratiet": 244,
+      "Ø. Enhedslisten - De Rød-Grønne": 205,
+      "I. Liberal Alliance": 220,
+      "O. Dansk Folkeparti": 75,
+      "M. Moderaterne": 76,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 14,
+      "U. Alliancen for Børnene, Ungdommen og Fremtiden": 5
     }
   },
   "704436": {
