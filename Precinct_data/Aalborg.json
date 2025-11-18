@@ -17,8 +17,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 289,
       "O. Dansk Folkeparti": 112,
       "M. Moderaterne": 42,
-      "D. Nye Borgerlige": 10,
       "Å. Alternativet": 32,
+      "D. Nye Borgerlige": 10,
       "K. KD – Kristendemokraterne": 23,
       "E. Vendelbo-listen": 3
     }
@@ -41,8 +41,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 335,
       "O. Dansk Folkeparti": 99,
       "M. Moderaterne": 63,
-      "D. Nye Borgerlige": 8,
       "Å. Alternativet": 32,
+      "D. Nye Borgerlige": 8,
       "K. KD – Kristendemokraterne": 10,
       "E. Vendelbo-listen": 3
     }
@@ -65,8 +65,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 374,
       "O. Dansk Folkeparti": 148,
       "M. Moderaterne": 73,
-      "D. Nye Borgerlige": 11,
       "Å. Alternativet": 35,
+      "D. Nye Borgerlige": 11,
       "K. KD – Kristendemokraterne": 35,
       "E. Vendelbo-listen": 4
     }
@@ -89,8 +89,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 298,
       "O. Dansk Folkeparti": 131,
       "M. Moderaterne": 40,
-      "D. Nye Borgerlige": 8,
       "Å. Alternativet": 31,
+      "D. Nye Borgerlige": 8,
       "K. KD – Kristendemokraterne": 26,
       "E. Vendelbo-listen": 3
     }
@@ -113,8 +113,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 277,
       "O. Dansk Folkeparti": 150,
       "M. Moderaterne": 52,
-      "D. Nye Borgerlige": 12,
       "Å. Alternativet": 17,
+      "D. Nye Borgerlige": 12,
       "K. KD – Kristendemokraterne": 26,
       "E. Vendelbo-listen": 3
     }
@@ -137,8 +137,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 131,
       "O. Dansk Folkeparti": 115,
       "M. Moderaterne": 22,
-      "D. Nye Borgerlige": 10,
       "Å. Alternativet": 18,
+      "D. Nye Borgerlige": 10,
       "K. KD – Kristendemokraterne": 29,
       "E. Vendelbo-listen": 1
     }
@@ -146,25 +146,25 @@
   "701338": {
     "name": "Klaruphallen",
     "electorate": 4164,
-    "total_votes": 3181,
-    "valid_votes": 3127,
-    "invalid_votes": 54,
+    "total_votes": 3213,
+    "valid_votes": 3157,
+    "invalid_votes": 56,
     "is_reported": false,
     "votes": {
-      "A. Socialdemokratiet": 1125,
-      "V. Venstre, Danmarks Liberale Parti": 692,
-      "F. SF - Socialistisk Folkeparti": 220,
-      "C. Det Konservative Folkeparti": 251,
-      "I. Liberal Alliance": 173,
-      "B. Radikale Venstre": 123,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 257,
-      "Ø. Enhedslisten - De Rød-Grønne": 122,
-      "O. Dansk Folkeparti": 83,
-      "M. Moderaterne": 42,
-      "D. Nye Borgerlige": 22,
-      "Å. Alternativet": 4,
+      "A. Socialdemokratiet": 1186,
+      "V. Venstre, Danmarks Liberale Parti": 641,
+      "F. SF - Socialistisk Folkeparti": 230,
+      "C. Det Konservative Folkeparti": 278,
+      "I. Liberal Alliance": 188,
+      "B. Radikale Venstre": 119,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 246,
+      "Ø. Enhedslisten - De Rød-Grønne": 113,
+      "O. Dansk Folkeparti": 84,
+      "M. Moderaterne": 37,
+      "Å. Alternativet": 3,
+      "D. Nye Borgerlige": 20,
       "K. KD – Kristendemokraterne": 11,
-      "E. Vendelbo-listen": 2
+      "E. Vendelbo-listen": 1
     }
   },
   "706010": {
@@ -185,8 +185,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 148,
       "O. Dansk Folkeparti": 163,
       "M. Moderaterne": 77,
-      "D. Nye Borgerlige": 6,
       "Å. Alternativet": 14,
+      "D. Nye Borgerlige": 6,
       "K. KD – Kristendemokraterne": 22,
       "E. Vendelbo-listen": 3
     }
@@ -194,25 +194,25 @@
   "702950": {
     "name": "Gistrup Skoles Idrætshal",
     "electorate": 4555,
-    "total_votes": 3481,
-    "valid_votes": 3433,
-    "invalid_votes": 48,
+    "total_votes": 3517,
+    "valid_votes": 3467,
+    "invalid_votes": 50,
     "is_reported": false,
     "votes": {
-      "A. Socialdemokratiet": 1082,
-      "V. Venstre, Danmarks Liberale Parti": 798,
-      "F. SF - Socialistisk Folkeparti": 306,
-      "C. Det Konservative Folkeparti": 257,
-      "I. Liberal Alliance": 158,
-      "B. Radikale Venstre": 232,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 225,
-      "Ø. Enhedslisten - De Rød-Grønne": 227,
-      "O. Dansk Folkeparti": 64,
-      "M. Moderaterne": 44,
-      "D. Nye Borgerlige": 21,
-      "Å. Alternativet": 5,
-      "K. KD – Kristendemokraterne": 12,
-      "E. Vendelbo-listen": 2
+      "A. Socialdemokratiet": 1145,
+      "V. Venstre, Danmarks Liberale Parti": 747,
+      "F. SF - Socialistisk Folkeparti": 319,
+      "C. Det Konservative Folkeparti": 284,
+      "I. Liberal Alliance": 174,
+      "B. Radikale Venstre": 228,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 216,
+      "Ø. Enhedslisten - De Rød-Grønne": 213,
+      "O. Dansk Folkeparti": 66,
+      "M. Moderaterne": 38,
+      "Å. Alternativet": 4,
+      "D. Nye Borgerlige": 19,
+      "K. KD – Kristendemokraterne": 13,
+      "E. Vendelbo-listen": 1
     }
   },
   "748034": {
@@ -233,8 +233,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 190,
       "O. Dansk Folkeparti": 124,
       "M. Moderaterne": 33,
-      "D. Nye Borgerlige": 8,
       "Å. Alternativet": 17,
+      "D. Nye Borgerlige": 8,
       "K. KD – Kristendemokraterne": 31,
       "E. Vendelbo-listen": 2
     }
@@ -257,8 +257,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 281,
       "O. Dansk Folkeparti": 161,
       "M. Moderaterne": 30,
-      "D. Nye Borgerlige": 14,
       "Å. Alternativet": 27,
+      "D. Nye Borgerlige": 14,
       "K. KD – Kristendemokraterne": 34,
       "E. Vendelbo-listen": 3
     }
@@ -281,8 +281,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 28,
       "O. Dansk Folkeparti": 53,
       "M. Moderaterne": 2,
-      "D. Nye Borgerlige": 13,
       "Å. Alternativet": 0,
+      "D. Nye Borgerlige": 13,
       "K. KD – Kristendemokraterne": 0,
       "E. Vendelbo-listen": 0
     }
@@ -305,8 +305,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 59,
       "O. Dansk Folkeparti": 98,
       "M. Moderaterne": 10,
-      "D. Nye Borgerlige": 8,
       "Å. Alternativet": 5,
+      "D. Nye Borgerlige": 8,
       "K. KD – Kristendemokraterne": 6,
       "E. Vendelbo-listen": 2
     }
@@ -315,13 +315,13 @@
     "name": "Båndby - Hallen",
     "electorate": 4088,
     "total_votes": 2721,
-    "valid_votes": 2666,
-    "invalid_votes": 55,
+    "valid_votes": 2665,
+    "invalid_votes": 56,
     "is_reported": false,
     "votes": {
-      "A. Socialdemokratiet": 840,
-      "V. Venstre, Danmarks Liberale Parti": 617,
-      "F. SF - Socialistisk Folkeparti": 193,
+      "A. Socialdemokratiet": 841,
+      "V. Venstre, Danmarks Liberale Parti": 616,
+      "F. SF - Socialistisk Folkeparti": 192,
       "C. Det Konservative Folkeparti": 166,
       "I. Liberal Alliance": 99,
       "B. Radikale Venstre": 97,
@@ -329,8 +329,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 100,
       "O. Dansk Folkeparti": 138,
       "M. Moderaterne": 19,
-      "D. Nye Borgerlige": 21,
       "Å. Alternativet": 6,
+      "D. Nye Borgerlige": 21,
       "K. KD – Kristendemokraterne": 14,
       "E. Vendelbo-listen": 2
     }
@@ -353,8 +353,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 302,
       "O. Dansk Folkeparti": 84,
       "M. Moderaterne": 30,
-      "D. Nye Borgerlige": 15,
       "Å. Alternativet": 33,
+      "D. Nye Borgerlige": 15,
       "K. KD – Kristendemokraterne": 16,
       "E. Vendelbo-listen": 3
     }
@@ -377,8 +377,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 502,
       "O. Dansk Folkeparti": 98,
       "M. Moderaterne": 38,
-      "D. Nye Borgerlige": 14,
       "Å. Alternativet": 37,
+      "D. Nye Borgerlige": 14,
       "K. KD – Kristendemokraterne": 12,
       "E. Vendelbo-listen": 3
     }
@@ -401,8 +401,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 315,
       "O. Dansk Folkeparti": 159,
       "M. Moderaterne": 42,
-      "D. Nye Borgerlige": 17,
       "Å. Alternativet": 29,
+      "D. Nye Borgerlige": 17,
       "K. KD – Kristendemokraterne": 32,
       "E. Vendelbo-listen": 3
     }
@@ -425,8 +425,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 168,
       "O. Dansk Folkeparti": 118,
       "M. Moderaterne": 24,
-      "D. Nye Borgerlige": 14,
       "Å. Alternativet": 12,
+      "D. Nye Borgerlige": 14,
       "K. KD – Kristendemokraterne": 41,
       "E. Vendelbo-listen": 2
     }
@@ -449,8 +449,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 396,
       "O. Dansk Folkeparti": 138,
       "M. Moderaterne": 77,
-      "D. Nye Borgerlige": 17,
       "Å. Alternativet": 35,
+      "D. Nye Borgerlige": 17,
       "K. KD – Kristendemokraterne": 19,
       "E. Vendelbo-listen": 4
     }
@@ -473,8 +473,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 140,
       "O. Dansk Folkeparti": 94,
       "M. Moderaterne": 41,
-      "D. Nye Borgerlige": 12,
       "Å. Alternativet": 10,
+      "D. Nye Borgerlige": 12,
       "K. KD – Kristendemokraterne": 6,
       "E. Vendelbo-listen": 2
     }
@@ -482,23 +482,23 @@
   "705964": {
     "name": "Frejlev Skoles Idrætshal",
     "electorate": 4522,
-    "total_votes": 3317,
-    "valid_votes": 3270,
-    "invalid_votes": 47,
+    "total_votes": 3453,
+    "valid_votes": 3402,
+    "invalid_votes": 51,
     "is_reported": false,
     "votes": {
-      "A. Socialdemokratiet": 1451,
-      "V. Venstre, Danmarks Liberale Parti": 511,
-      "F. SF - Socialistisk Folkeparti": 159,
-      "C. Det Konservative Folkeparti": 303,
-      "I. Liberal Alliance": 177,
-      "B. Radikale Venstre": 133,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 230,
-      "Ø. Enhedslisten - De Rød-Grønne": 136,
-      "O. Dansk Folkeparti": 60,
-      "M. Moderaterne": 54,
-      "D. Nye Borgerlige": 37,
-      "Å. Alternativet": 5,
+      "A. Socialdemokratiet": 1525,
+      "V. Venstre, Danmarks Liberale Parti": 516,
+      "F. SF - Socialistisk Folkeparti": 196,
+      "C. Det Konservative Folkeparti": 296,
+      "I. Liberal Alliance": 212,
+      "B. Radikale Venstre": 128,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 249,
+      "Ø. Enhedslisten - De Rød-Grønne": 123,
+      "O. Dansk Folkeparti": 73,
+      "M. Moderaterne": 36,
+      "Å. Alternativet": 7,
+      "D. Nye Borgerlige": 27,
       "K. KD – Kristendemokraterne": 13,
       "E. Vendelbo-listen": 1
     }
@@ -506,25 +506,25 @@
   "708924": {
     "name": "Svenstruphallen",
     "electorate": 6167,
-    "total_votes": 4173,
-    "valid_votes": 4092,
-    "invalid_votes": 81,
-    "is_reported": false,
+    "total_votes": 4439,
+    "valid_votes": 4348,
+    "invalid_votes": 91,
+    "is_reported": true,
     "votes": {
-      "A. Socialdemokratiet": 1523,
-      "V. Venstre, Danmarks Liberale Parti": 668,
-      "F. SF - Socialistisk Folkeparti": 272,
-      "C. Det Konservative Folkeparti": 455,
-      "I. Liberal Alliance": 215,
-      "B. Radikale Venstre": 199,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 306,
-      "Ø. Enhedslisten - De Rød-Grønne": 205,
-      "O. Dansk Folkeparti": 124,
-      "M. Moderaterne": 71,
-      "D. Nye Borgerlige": 34,
-      "Å. Alternativet": 6,
+      "A. Socialdemokratiet": 1628,
+      "V. Venstre, Danmarks Liberale Parti": 684,
+      "F. SF - Socialistisk Folkeparti": 345,
+      "C. Det Konservative Folkeparti": 435,
+      "I. Liberal Alliance": 280,
+      "B. Radikale Venstre": 188,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 357,
+      "Ø. Enhedslisten - De Rød-Grønne": 178,
+      "O. Dansk Folkeparti": 172,
+      "M. Moderaterne": 39,
+      "Å. Alternativet": 10,
+      "D. Nye Borgerlige": 19,
       "K. KD – Kristendemokraterne": 12,
-      "E. Vendelbo-listen": 2
+      "E. Vendelbo-listen": 1
     }
   },
   "705970": {
@@ -545,8 +545,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 60,
       "O. Dansk Folkeparti": 82,
       "M. Moderaterne": 24,
-      "D. Nye Borgerlige": 25,
       "Å. Alternativet": 3,
+      "D. Nye Borgerlige": 25,
       "K. KD – Kristendemokraterne": 4,
       "E. Vendelbo-listen": 1
     }
@@ -569,8 +569,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 96,
       "O. Dansk Folkeparti": 85,
       "M. Moderaterne": 19,
-      "D. Nye Borgerlige": 18,
       "Å. Alternativet": 13,
+      "D. Nye Borgerlige": 18,
       "K. KD – Kristendemokraterne": 7,
       "E. Vendelbo-listen": 1
     }
@@ -593,8 +593,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 40,
       "O. Dansk Folkeparti": 33,
       "M. Moderaterne": 5,
-      "D. Nye Borgerlige": 14,
       "Å. Alternativet": 2,
+      "D. Nye Borgerlige": 14,
       "K. KD – Kristendemokraterne": 5,
       "E. Vendelbo-listen": 0
     }
@@ -617,8 +617,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 249,
       "O. Dansk Folkeparti": 124,
       "M. Moderaterne": 36,
-      "D. Nye Borgerlige": 16,
       "Å. Alternativet": 24,
+      "D. Nye Borgerlige": 16,
       "K. KD – Kristendemokraterne": 9,
       "E. Vendelbo-listen": 6
     }
@@ -641,8 +641,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 134,
       "O. Dansk Folkeparti": 86,
       "M. Moderaterne": 26,
-      "D. Nye Borgerlige": 17,
       "Å. Alternativet": 14,
+      "D. Nye Borgerlige": 17,
       "K. KD – Kristendemokraterne": 11,
       "E. Vendelbo-listen": 3
     }
@@ -665,8 +665,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 193,
       "O. Dansk Folkeparti": 212,
       "M. Moderaterne": 46,
-      "D. Nye Borgerlige": 28,
       "Å. Alternativet": 20,
+      "D. Nye Borgerlige": 28,
       "K. KD – Kristendemokraterne": 17,
       "E. Vendelbo-listen": 6
     }
@@ -689,8 +689,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 177,
       "O. Dansk Folkeparti": 193,
       "M. Moderaterne": 41,
-      "D. Nye Borgerlige": 26,
       "Å. Alternativet": 19,
+      "D. Nye Borgerlige": 26,
       "K. KD – Kristendemokraterne": 15,
       "E. Vendelbo-listen": 5
     }
@@ -699,22 +699,22 @@
     "name": "Multihallen Ved Vadumhallen",
     "electorate": 2413,
     "total_votes": 1830,
-    "valid_votes": 1809,
-    "invalid_votes": 21,
+    "valid_votes": 1810,
+    "invalid_votes": 20,
     "is_reported": false,
     "votes": {
-      "A. Socialdemokratiet": 839,
-      "V. Venstre, Danmarks Liberale Parti": 315,
+      "A. Socialdemokratiet": 842,
+      "V. Venstre, Danmarks Liberale Parti": 313,
       "F. SF - Socialistisk Folkeparti": 100,
-      "C. Det Konservative Folkeparti": 91,
+      "C. Det Konservative Folkeparti": 92,
       "I. Liberal Alliance": 88,
       "B. Radikale Venstre": 44,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 177,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 176,
       "Ø. Enhedslisten - De Rød-Grønne": 52,
       "O. Dansk Folkeparti": 56,
       "M. Moderaterne": 19,
-      "D. Nye Borgerlige": 9,
       "Å. Alternativet": 3,
+      "D. Nye Borgerlige": 9,
       "K. KD – Kristendemokraterne": 15,
       "E. Vendelbo-listen": 1
     }
@@ -737,8 +737,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 65,
       "O. Dansk Folkeparti": 63,
       "M. Moderaterne": 15,
-      "D. Nye Borgerlige": 12,
       "Å. Alternativet": 5,
+      "D. Nye Borgerlige": 12,
       "K. KD – Kristendemokraterne": 14,
       "E. Vendelbo-listen": 1
     }
@@ -761,8 +761,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 82,
       "O. Dansk Folkeparti": 80,
       "M. Moderaterne": 24,
-      "D. Nye Borgerlige": 11,
       "Å. Alternativet": 7,
+      "D. Nye Borgerlige": 11,
       "K. KD – Kristendemokraterne": 19,
       "E. Vendelbo-listen": 1
     }
@@ -770,23 +770,23 @@
   "708960": {
     "name": "Vodskov Kultur & Idrætscenter",
     "electorate": 5855,
-    "total_votes": 4102,
-    "valid_votes": 4021,
-    "invalid_votes": 81,
+    "total_votes": 4105,
+    "valid_votes": 4027,
+    "invalid_votes": 78,
     "is_reported": false,
     "votes": {
-      "A. Socialdemokratiet": 1173,
-      "V. Venstre, Danmarks Liberale Parti": 1038,
-      "F. SF - Socialistisk Folkeparti": 319,
-      "C. Det Konservative Folkeparti": 202,
-      "I. Liberal Alliance": 195,
+      "A. Socialdemokratiet": 1177,
+      "V. Venstre, Danmarks Liberale Parti": 1035,
+      "F. SF - Socialistisk Folkeparti": 320,
+      "C. Det Konservative Folkeparti": 204,
+      "I. Liberal Alliance": 196,
       "B. Radikale Venstre": 160,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 413,
       "Ø. Enhedslisten - De Rød-Grønne": 233,
-      "O. Dansk Folkeparti": 192,
+      "O. Dansk Folkeparti": 193,
       "M. Moderaterne": 43,
-      "D. Nye Borgerlige": 20,
       "Å. Alternativet": 22,
+      "D. Nye Borgerlige": 20,
       "K. KD – Kristendemokraterne": 9,
       "E. Vendelbo-listen": 2
     }
@@ -809,8 +809,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 287,
       "O. Dansk Folkeparti": 75,
       "M. Moderaterne": 34,
-      "D. Nye Borgerlige": 6,
       "Å. Alternativet": 30,
+      "D. Nye Borgerlige": 6,
       "K. KD – Kristendemokraterne": 13,
       "E. Vendelbo-listen": 1
     }
@@ -833,8 +833,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 524,
       "O. Dansk Folkeparti": 127,
       "M. Moderaterne": 53,
-      "D. Nye Borgerlige": 16,
       "Å. Alternativet": 46,
+      "D. Nye Borgerlige": 16,
       "K. KD – Kristendemokraterne": 15,
       "E. Vendelbo-listen": 3
     }
@@ -857,8 +857,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 76,
       "O. Dansk Folkeparti": 112,
       "M. Moderaterne": 21,
-      "D. Nye Borgerlige": 39,
       "Å. Alternativet": 8,
+      "D. Nye Borgerlige": 39,
       "K. KD – Kristendemokraterne": 8,
       "E. Vendelbo-listen": 5
     }
@@ -881,8 +881,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 64,
       "O. Dansk Folkeparti": 166,
       "M. Moderaterne": 19,
-      "D. Nye Borgerlige": 32,
       "Å. Alternativet": 8,
+      "D. Nye Borgerlige": 32,
       "K. KD – Kristendemokraterne": 7,
       "E. Vendelbo-listen": 3
     }
@@ -905,8 +905,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 18,
       "O. Dansk Folkeparti": 24,
       "M. Moderaterne": 2,
-      "D. Nye Borgerlige": 14,
       "Å. Alternativet": 1,
+      "D. Nye Borgerlige": 14,
       "K. KD – Kristendemokraterne": 1,
       "E. Vendelbo-listen": 1
     }
