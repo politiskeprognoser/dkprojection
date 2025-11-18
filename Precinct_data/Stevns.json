@@ -1,38 +1,86 @@
 {
   "706800": {
     "name": "Hårlevhallen",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 4842,
+    "total_votes": 3383,
+    "valid_votes": 3331,
+    "invalid_votes": 52,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 847,
+      "V. Venstre, Danmarks Liberale Parti": 624,
+      "C. Det Konservative Folkeparti": 496,
+      "O. Dansk Folkeparti": 312,
+      "F. SF - Socialistisk Folkeparti": 258,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 238,
+      "M. Moderaterne": 156,
+      "I. Liberal Alliance": 161,
+      "B. Radikale Venstre": 96,
+      "Ø. Enhedslisten - De Rød-Grønne": 111,
+      "Å. Alternativet": 32
+    }
   },
   "706794": {
     "name": "Strøby Idrætscenter",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 6276,
+    "total_votes": 4397,
+    "valid_votes": 4316,
+    "invalid_votes": 81,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "A. Socialdemokratiet": 995,
+      "V. Venstre, Danmarks Liberale Parti": 953,
+      "C. Det Konservative Folkeparti": 737,
+      "O. Dansk Folkeparti": 347,
+      "F. SF - Socialistisk Folkeparti": 321,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 210,
+      "M. Moderaterne": 315,
+      "I. Liberal Alliance": 171,
+      "B. Radikale Venstre": 123,
+      "Ø. Enhedslisten - De Rød-Grønne": 113,
+      "Å. Alternativet": 31
+    }
   },
   "703848": {
     "name": "Stevnshallen",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 5102,
+    "total_votes": 3573,
+    "valid_votes": 3519,
+    "invalid_votes": 54,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "A. Socialdemokratiet": 960,
+      "V. Venstre, Danmarks Liberale Parti": 552,
+      "C. Det Konservative Folkeparti": 603,
+      "O. Dansk Folkeparti": 363,
+      "F. SF - Socialistisk Folkeparti": 224,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 261,
+      "M. Moderaterne": 160,
+      "I. Liberal Alliance": 162,
+      "B. Radikale Venstre": 104,
+      "Ø. Enhedslisten - De Rød-Grønne": 99,
+      "Å. Alternativet": 31
+    }
   },
   "705452": {
     "name": "Sydstevnshallen",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 3118,
+    "total_votes": 2292,
+    "valid_votes": 2265,
+    "invalid_votes": 27,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "A. Socialdemokratiet": 559,
+      "V. Venstre, Danmarks Liberale Parti": 321,
+      "C. Det Konservative Folkeparti": 377,
+      "O. Dansk Folkeparti": 258,
+      "F. SF - Socialistisk Folkeparti": 158,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 152,
+      "M. Moderaterne": 143,
+      "I. Liberal Alliance": 124,
+      "B. Radikale Venstre": 80,
+      "Ø. Enhedslisten - De Rød-Grønne": 70,
+      "Å. Alternativet": 23
+    }
   }
 }

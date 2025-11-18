@@ -1,47 +1,102 @@
 {
   "711248": {
     "name": "Blovstrød",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 2701,
+    "total_votes": 2197,
+    "valid_votes": 2176,
+    "invalid_votes": 21,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 775,
+      "C. Det Konservative Folkeparti": 378,
+      "F. SF - Socialistisk Folkeparti": 338,
+      "A. Socialdemokratiet": 144,
+      "Ø. Enhedslisten - De Rød-Grønne": 213,
+      "B. Radikale Venstre": 128,
+      "I. Liberal Alliance": 72,
+      "O. Dansk Folkeparti": 52,
+      "M. Moderaterne": 60,
+      "U. Allerød Listen": 16
+    }
   },
   "703802": {
     "name": "Skovvang",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 4067,
+    "total_votes": 3000,
+    "valid_votes": 2958,
+    "invalid_votes": 42,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 828,
+      "C. Det Konservative Folkeparti": 602,
+      "F. SF - Socialistisk Folkeparti": 425,
+      "A. Socialdemokratiet": 357,
+      "Ø. Enhedslisten - De Rød-Grønne": 320,
+      "B. Radikale Venstre": 152,
+      "I. Liberal Alliance": 109,
+      "O. Dansk Folkeparti": 86,
+      "M. Moderaterne": 55,
+      "U. Allerød Listen": 24
+    }
   },
   "706698": {
     "name": "Lillerød",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 4424,
+    "total_votes": 3590,
+    "valid_votes": 3543,
+    "invalid_votes": 47,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 1204,
+      "C. Det Konservative Folkeparti": 691,
+      "F. SF - Socialistisk Folkeparti": 445,
+      "A. Socialdemokratiet": 383,
+      "Ø. Enhedslisten - De Rød-Grønne": 288,
+      "B. Radikale Venstre": 194,
+      "I. Liberal Alliance": 128,
+      "O. Dansk Folkeparti": 89,
+      "M. Moderaterne": 93,
+      "U. Allerød Listen": 28
+    }
   },
   "705404": {
     "name": "Lynge",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 4336,
+    "total_votes": 3228,
+    "valid_votes": 3158,
+    "invalid_votes": 70,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 1280,
+      "C. Det Konservative Folkeparti": 595,
+      "F. SF - Socialistisk Folkeparti": 266,
+      "A. Socialdemokratiet": 340,
+      "Ø. Enhedslisten - De Rød-Grønne": 302,
+      "B. Radikale Venstre": 91,
+      "I. Liberal Alliance": 110,
+      "O. Dansk Folkeparti": 79,
+      "M. Moderaterne": 70,
+      "U. Allerød Listen": 25
+    }
   },
   "705398": {
     "name": "Ravnsholt",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 4501,
+    "total_votes": 3841,
+    "valid_votes": 3796,
+    "invalid_votes": 45,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 1371,
+      "C. Det Konservative Folkeparti": 920,
+      "F. SF - Socialistisk Folkeparti": 383,
+      "A. Socialdemokratiet": 342,
+      "Ø. Enhedslisten - De Rød-Grønne": 259,
+      "B. Radikale Venstre": 159,
+      "I. Liberal Alliance": 149,
+      "O. Dansk Folkeparti": 94,
+      "M. Moderaterne": 88,
+      "U. Allerød Listen": 31
+    }
   }
 }

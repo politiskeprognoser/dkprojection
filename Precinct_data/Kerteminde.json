@@ -9,8 +9,8 @@
     "votes": {
       "C. Det Konservative Folkeparti": 259,
       "A. Socialdemokratiet": 213,
-      "E. Hverdagens Stemme": 133,
       "I. Liberal Alliance": 147,
+      "E. Hverdagens Stemme": 133,
       "F. SF - Socialistisk Folkeparti": 120,
       "Ø. Enhedslisten - De Rød-Grønne": 102,
       "V. Venstre, Danmarks Liberale Parti": 116,
@@ -23,22 +23,22 @@
   "706574": {
     "name": "Kerteminde",
     "electorate": 5670,
-    "total_votes": 4411,
-    "valid_votes": 4348,
-    "invalid_votes": 63,
-    "is_reported": false,
+    "total_votes": 4566,
+    "valid_votes": 4513,
+    "invalid_votes": 53,
+    "is_reported": true,
     "votes": {
-      "C. Det Konservative Folkeparti": 1130,
-      "A. Socialdemokratiet": 702,
-      "E. Hverdagens Stemme": 517,
-      "I. Liberal Alliance": 597,
-      "F. SF - Socialistisk Folkeparti": 491,
-      "Ø. Enhedslisten - De Rød-Grønne": 230,
-      "V. Venstre, Danmarks Liberale Parti": 255,
-      "O. Dansk Folkeparti": 123,
-      "B. Radikale Venstre": 174,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 96,
-      "M. Moderaterne": 33
+      "C. Det Konservative Folkeparti": 1413,
+      "A. Socialdemokratiet": 930,
+      "I. Liberal Alliance": 579,
+      "E. Hverdagens Stemme": 410,
+      "F. SF - Socialistisk Folkeparti": 330,
+      "Ø. Enhedslisten - De Rød-Grønne": 204,
+      "V. Venstre, Danmarks Liberale Parti": 242,
+      "O. Dansk Folkeparti": 171,
+      "B. Radikale Venstre": 158,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 56,
+      "M. Moderaterne": 20
     }
   },
   "748590": {
@@ -51,8 +51,8 @@
     "votes": {
       "C. Det Konservative Folkeparti": 327,
       "A. Socialdemokratiet": 247,
-      "E. Hverdagens Stemme": 120,
       "I. Liberal Alliance": 257,
+      "E. Hverdagens Stemme": 120,
       "F. SF - Socialistisk Folkeparti": 105,
       "Ø. Enhedslisten - De Rød-Grønne": 76,
       "V. Venstre, Danmarks Liberale Parti": 90,
@@ -72,8 +72,8 @@
     "votes": {
       "C. Det Konservative Folkeparti": 368,
       "A. Socialdemokratiet": 189,
-      "E. Hverdagens Stemme": 275,
       "I. Liberal Alliance": 72,
+      "E. Hverdagens Stemme": 275,
       "F. SF - Socialistisk Folkeparti": 63,
       "Ø. Enhedslisten - De Rød-Grønne": 47,
       "V. Venstre, Danmarks Liberale Parti": 48,
@@ -93,8 +93,8 @@
     "votes": {
       "C. Det Konservative Folkeparti": 1530,
       "A. Socialdemokratiet": 604,
-      "E. Hverdagens Stemme": 178,
       "I. Liberal Alliance": 148,
+      "E. Hverdagens Stemme": 178,
       "F. SF - Socialistisk Folkeparti": 107,
       "Ø. Enhedslisten - De Rød-Grønne": 66,
       "V. Venstre, Danmarks Liberale Parti": 68,
@@ -114,8 +114,8 @@
     "votes": {
       "C. Det Konservative Folkeparti": 547,
       "A. Socialdemokratiet": 745,
-      "E. Hverdagens Stemme": 455,
       "I. Liberal Alliance": 419,
+      "E. Hverdagens Stemme": 455,
       "F. SF - Socialistisk Folkeparti": 409,
       "Ø. Enhedslisten - De Rød-Grønne": 168,
       "V. Venstre, Danmarks Liberale Parti": 87,
