@@ -1,101 +1,211 @@
 {
   "708668": {
     "name": "Assens",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1804,
+    "total_votes": 1216,
+    "valid_votes": 1192,
+    "invalid_votes": 24,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 251,
+      "V. Venstre, Danmarks Liberale Parti": 119,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 190,
+      "C. Det Konservative Folkeparti": 450,
+      "F. SF - Socialistisk Folkeparti": 97,
+      "O. Dansk Folkeparti": 37,
+      "I. Liberal Alliance": 29,
+      "Å. Alternativet": 14,
+      "K. KD – Kristendemokraterne": 5
+    }
   },
   "700964": {
     "name": "Mariager",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 3345,
+    "total_votes": 2388,
+    "valid_votes": 2361,
+    "invalid_votes": 27,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 572,
+      "V. Venstre, Danmarks Liberale Parti": 473,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 330,
+      "C. Det Konservative Folkeparti": 524,
+      "F. SF - Socialistisk Folkeparti": 238,
+      "O. Dansk Folkeparti": 101,
+      "I. Liberal Alliance": 77,
+      "Å. Alternativet": 40,
+      "K. KD – Kristendemokraterne": 6
+    }
   },
   "707018": {
     "name": "Arden",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 3004,
+    "total_votes": 2130,
+    "valid_votes": 2098,
+    "invalid_votes": 32,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 952,
+      "V. Venstre, Danmarks Liberale Parti": 535,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 280,
+      "C. Det Konservative Folkeparti": 108,
+      "F. SF - Socialistisk Folkeparti": 109,
+      "O. Dansk Folkeparti": 54,
+      "I. Liberal Alliance": 43,
+      "Å. Alternativet": 14,
+      "K. KD – Kristendemokraterne": 3
+    }
   },
   "702354": {
     "name": "Valsgård",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1727,
+    "total_votes": 1269,
+    "valid_votes": 1254,
+    "invalid_votes": 15,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 385,
+      "V. Venstre, Danmarks Liberale Parti": 301,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 222,
+      "C. Det Konservative Folkeparti": 136,
+      "F. SF - Socialistisk Folkeparti": 84,
+      "O. Dansk Folkeparti": 48,
+      "I. Liberal Alliance": 48,
+      "Å. Alternativet": 22,
+      "K. KD – Kristendemokraterne": 8
+    }
   },
   "701046": {
     "name": "Vebbestrup",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1771,
+    "total_votes": 1235,
+    "valid_votes": 1223,
+    "invalid_votes": 12,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 238,
+      "V. Venstre, Danmarks Liberale Parti": 475,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 251,
+      "C. Det Konservative Folkeparti": 57,
+      "F. SF - Socialistisk Folkeparti": 54,
+      "O. Dansk Folkeparti": 71,
+      "I. Liberal Alliance": 52,
+      "Å. Alternativet": 22,
+      "K. KD – Kristendemokraterne": 3
+    }
   },
   "705600": {
     "name": "Hadsund",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 5431,
+    "total_votes": 3809,
+    "valid_votes": 3759,
+    "invalid_votes": 50,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 1096,
+      "V. Venstre, Danmarks Liberale Parti": 833,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 795,
+      "C. Det Konservative Folkeparti": 624,
+      "F. SF - Socialistisk Folkeparti": 199,
+      "O. Dansk Folkeparti": 91,
+      "I. Liberal Alliance": 73,
+      "Å. Alternativet": 38,
+      "K. KD – Kristendemokraterne": 10
+    }
   },
   "702360": {
     "name": "Veddum-Skelund",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 865,
+    "total_votes": 594,
+    "valid_votes": 589,
+    "invalid_votes": 5,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 164,
+      "V. Venstre, Danmarks Liberale Parti": 153,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 130,
+      "C. Det Konservative Folkeparti": 53,
+      "F. SF - Socialistisk Folkeparti": 16,
+      "O. Dansk Folkeparti": 18,
+      "I. Liberal Alliance": 48,
+      "Å. Alternativet": 7,
+      "K. KD – Kristendemokraterne": 0
+    }
   },
   "710066": {
     "name": "Als",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 2008,
+    "total_votes": 1464,
+    "valid_votes": 1440,
+    "invalid_votes": 24,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 410,
+      "V. Venstre, Danmarks Liberale Parti": 488,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 278,
+      "C. Det Konservative Folkeparti": 105,
+      "F. SF - Socialistisk Folkeparti": 59,
+      "O. Dansk Folkeparti": 44,
+      "I. Liberal Alliance": 47,
+      "Å. Alternativet": 6,
+      "K. KD – Kristendemokraterne": 3
+    }
   },
   "708660": {
     "name": "Hørby",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 2824,
+    "total_votes": 2076,
+    "valid_votes": 2045,
+    "invalid_votes": 31,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 568,
+      "V. Venstre, Danmarks Liberale Parti": 568,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 352,
+      "C. Det Konservative Folkeparti": 187,
+      "F. SF - Socialistisk Folkeparti": 158,
+      "O. Dansk Folkeparti": 90,
+      "I. Liberal Alliance": 87,
+      "Å. Alternativet": 28,
+      "K. KD – Kristendemokraterne": 7
+    }
   },
   "706980": {
     "name": "Onsild",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1677,
+    "total_votes": 1084,
+    "valid_votes": 1067,
+    "invalid_votes": 17,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 238,
+      "V. Venstre, Danmarks Liberale Parti": 241,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 265,
+      "C. Det Konservative Folkeparti": 113,
+      "F. SF - Socialistisk Folkeparti": 76,
+      "O. Dansk Folkeparti": 71,
+      "I. Liberal Alliance": 36,
+      "Å. Alternativet": 24,
+      "K. KD – Kristendemokraterne": 3
+    }
   },
   "702292": {
     "name": "Hobro",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 9028,
+    "total_votes": 6036,
+    "valid_votes": 5935,
+    "invalid_votes": 101,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 2209,
+      "V. Venstre, Danmarks Liberale Parti": 1238,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 680,
+      "C. Det Konservative Folkeparti": 581,
+      "F. SF - Socialistisk Folkeparti": 705,
+      "O. Dansk Folkeparti": 257,
+      "I. Liberal Alliance": 119,
+      "Å. Alternativet": 127,
+      "K. KD – Kristendemokraterne": 19
+    }
   }
 }

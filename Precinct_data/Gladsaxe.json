@@ -1,83 +1,191 @@
 {
   "708600": {
     "name": "Bagsværd",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 5241,
+    "total_votes": 3769,
+    "valid_votes": 3702,
+    "invalid_votes": 67,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "A. Socialdemokratiet": 721,
+      "Ø. Enhedslisten - De Rød-Grønne": 558,
+      "F. SF - Socialistisk Folkeparti": 530,
+      "V. Venstre, Danmarks Liberale Parti": 650,
+      "B. Radikale Venstre": 349,
+      "O. Dansk Folkeparti": 213,
+      "C. Det Konservative Folkeparti": 328,
+      "I. Liberal Alliance": 194,
+      "L. Lokallisten Gladsaxe": 51,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 52,
+      "M. Moderaterne": 56
+    }
   },
   "711428": {
     "name": "Hovedbiblioteket",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 7428,
+    "total_votes": 4725,
+    "valid_votes": 4625,
+    "invalid_votes": 100,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "A. Socialdemokratiet": 1104,
+      "Ø. Enhedslisten - De Rød-Grønne": 764,
+      "F. SF - Socialistisk Folkeparti": 710,
+      "V. Venstre, Danmarks Liberale Parti": 689,
+      "B. Radikale Venstre": 374,
+      "O. Dansk Folkeparti": 304,
+      "C. Det Konservative Folkeparti": 253,
+      "I. Liberal Alliance": 210,
+      "L. Lokallisten Gladsaxe": 91,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 78,
+      "M. Moderaterne": 48
+    }
   },
   "702286": {
     "name": "Egegård",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 6234,
+    "total_votes": 3723,
+    "valid_votes": 3657,
+    "invalid_votes": 66,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "A. Socialdemokratiet": 865,
+      "Ø. Enhedslisten - De Rød-Grønne": 545,
+      "F. SF - Socialistisk Folkeparti": 500,
+      "V. Venstre, Danmarks Liberale Parti": 584,
+      "B. Radikale Venstre": 288,
+      "O. Dansk Folkeparti": 275,
+      "C. Det Konservative Folkeparti": 242,
+      "I. Liberal Alliance": 162,
+      "L. Lokallisten Gladsaxe": 57,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 88,
+      "M. Moderaterne": 51
+    }
   },
   "710060": {
     "name": "Grønnemose",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 7371,
+    "total_votes": 4779,
+    "valid_votes": 4684,
+    "invalid_votes": 95,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "A. Socialdemokratiet": 979,
+      "Ø. Enhedslisten - De Rød-Grønne": 947,
+      "F. SF - Socialistisk Folkeparti": 733,
+      "V. Venstre, Danmarks Liberale Parti": 512,
+      "B. Radikale Venstre": 473,
+      "O. Dansk Folkeparti": 318,
+      "C. Det Konservative Folkeparti": 200,
+      "I. Liberal Alliance": 184,
+      "L. Lokallisten Gladsaxe": 223,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 63,
+      "M. Moderaterne": 52
+    }
   },
   "700958": {
     "name": "Mørkhøj",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 7676,
+    "total_votes": 4449,
+    "valid_votes": 4350,
+    "invalid_votes": 99,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "A. Socialdemokratiet": 1137,
+      "Ø. Enhedslisten - De Rød-Grønne": 713,
+      "F. SF - Socialistisk Folkeparti": 700,
+      "V. Venstre, Danmarks Liberale Parti": 538,
+      "B. Radikale Venstre": 307,
+      "O. Dansk Folkeparti": 324,
+      "C. Det Konservative Folkeparti": 230,
+      "I. Liberal Alliance": 186,
+      "L. Lokallisten Gladsaxe": 70,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 105,
+      "M. Moderaterne": 40
+    }
   },
   "700934": {
     "name": "Stengård",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 6589,
+    "total_votes": 5018,
+    "valid_votes": 4930,
+    "invalid_votes": 88,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "A. Socialdemokratiet": 1096,
+      "Ø. Enhedslisten - De Rød-Grønne": 777,
+      "F. SF - Socialistisk Folkeparti": 770,
+      "V. Venstre, Danmarks Liberale Parti": 786,
+      "B. Radikale Venstre": 535,
+      "O. Dansk Folkeparti": 232,
+      "C. Det Konservative Folkeparti": 341,
+      "I. Liberal Alliance": 204,
+      "L. Lokallisten Gladsaxe": 62,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 67,
+      "M. Moderaterne": 60
+    }
   },
   "706974": {
     "name": "Søborg",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 4390,
+    "total_votes": 3129,
+    "valid_votes": 3080,
+    "invalid_votes": 49,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "A. Socialdemokratiet": 625,
+      "Ø. Enhedslisten - De Rød-Grønne": 544,
+      "F. SF - Socialistisk Folkeparti": 479,
+      "V. Venstre, Danmarks Liberale Parti": 458,
+      "B. Radikale Venstre": 323,
+      "O. Dansk Folkeparti": 180,
+      "C. Det Konservative Folkeparti": 211,
+      "I. Liberal Alliance": 133,
+      "L. Lokallisten Gladsaxe": 45,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 50,
+      "M. Moderaterne": 32
+    }
   },
   "708592": {
     "name": "Vadgård",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 4756,
+    "total_votes": 3104,
+    "valid_votes": 3060,
+    "invalid_votes": 44,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "A. Socialdemokratiet": 696,
+      "Ø. Enhedslisten - De Rød-Grønne": 485,
+      "F. SF - Socialistisk Folkeparti": 421,
+      "V. Venstre, Danmarks Liberale Parti": 470,
+      "B. Radikale Venstre": 278,
+      "O. Dansk Folkeparti": 211,
+      "C. Det Konservative Folkeparti": 209,
+      "I. Liberal Alliance": 150,
+      "L. Lokallisten Gladsaxe": 31,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 68,
+      "M. Moderaterne": 41
+    }
   },
   "706944": {
     "name": "Værebro",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 3863,
+    "total_votes": 2116,
+    "valid_votes": 2086,
+    "invalid_votes": 30,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 417,
+      "Ø. Enhedslisten - De Rød-Grønne": 329,
+      "F. SF - Socialistisk Folkeparti": 290,
+      "V. Venstre, Danmarks Liberale Parti": 341,
+      "B. Radikale Venstre": 213,
+      "O. Dansk Folkeparti": 129,
+      "C. Det Konservative Folkeparti": 144,
+      "I. Liberal Alliance": 104,
+      "L. Lokallisten Gladsaxe": 52,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 39,
+      "M. Moderaterne": 28
+    }
   }
 }

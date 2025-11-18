@@ -1,47 +1,92 @@
 {
   "705682": {
     "name": "Nordmors",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1067,
+    "total_votes": 813,
+    "valid_votes": 801,
+    "invalid_votes": 12,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 236,
+      "A. Socialdemokratiet": 188,
+      "C. Det Konservative Folkeparti": 113,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 91,
+      "B. Radikale Venstre": 34,
+      "O. Dansk Folkeparti": 58,
+      "F. SF - Socialistisk Folkeparti": 50,
+      "Ø. Enhedslisten - De Rød-Grønne": 31
+    }
   },
   "702454": {
     "name": "Midtmors",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 3277,
+    "total_votes": 2563,
+    "valid_votes": 2523,
+    "invalid_votes": 40,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 900,
+      "A. Socialdemokratiet": 688,
+      "C. Det Konservative Folkeparti": 245,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 213,
+      "B. Radikale Venstre": 122,
+      "O. Dansk Folkeparti": 153,
+      "F. SF - Socialistisk Folkeparti": 139,
+      "Ø. Enhedslisten - De Rød-Grønne": 63
+    }
   },
   "711508": {
     "name": "Sydmors",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1889,
+    "total_votes": 1420,
+    "valid_votes": 1406,
+    "invalid_votes": 14,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 494,
+      "A. Socialdemokratiet": 334,
+      "C. Det Konservative Folkeparti": 124,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 185,
+      "B. Radikale Venstre": 92,
+      "O. Dansk Folkeparti": 88,
+      "F. SF - Socialistisk Folkeparti": 49,
+      "Ø. Enhedslisten - De Rød-Grønne": 40
+    }
   },
   "711514": {
     "name": "Sydvestmors",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1464,
+    "total_votes": 1130,
+    "valid_votes": 1120,
+    "invalid_votes": 10,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 425,
+      "A. Socialdemokratiet": 198,
+      "C. Det Konservative Folkeparti": 59,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 90,
+      "B. Radikale Venstre": 163,
+      "O. Dansk Folkeparti": 103,
+      "F. SF - Socialistisk Folkeparti": 45,
+      "Ø. Enhedslisten - De Rød-Grønne": 37
+    }
   },
   "710282": {
     "name": "Nykøbing",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 8001,
+    "total_votes": 6083,
+    "valid_votes": 5977,
+    "invalid_votes": 106,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 1908,
+      "A. Socialdemokratiet": 2389,
+      "C. Det Konservative Folkeparti": 400,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 290,
+      "B. Radikale Venstre": 320,
+      "O. Dansk Folkeparti": 199,
+      "F. SF - Socialistisk Folkeparti": 311,
+      "Ø. Enhedslisten - De Rød-Grønne": 160
+    }
   }
 }

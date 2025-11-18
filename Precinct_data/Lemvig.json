@@ -1,74 +1,146 @@
 {
   "706536": {
     "name": "Lemvig",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 5443,
+    "total_votes": 4223,
+    "valid_votes": 4186,
+    "invalid_votes": 37,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 1339,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 575,
+      "A. Socialdemokratiet": 1022,
+      "C. Det Konservative Folkeparti": 568,
+      "F. SF - Socialistisk Folkeparti": 325,
+      "L. Land- og Bylisten": 60,
+      "B. Radikale Venstre": 217,
+      "O. Dansk Folkeparti": 80
+    }
   },
   "711166": {
     "name": "Nørre Nissum",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1872,
+    "total_votes": 1413,
+    "valid_votes": 1397,
+    "invalid_votes": 16,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 258,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 342,
+      "A. Socialdemokratiet": 252,
+      "C. Det Konservative Folkeparti": 195,
+      "F. SF - Socialistisk Folkeparti": 150,
+      "L. Land- og Bylisten": 27,
+      "B. Radikale Venstre": 148,
+      "O. Dansk Folkeparti": 25
+    }
   },
   "711178": {
     "name": "Klinkby",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1692,
+    "total_votes": 1344,
+    "valid_votes": 1332,
+    "invalid_votes": 12,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 314,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 388,
+      "A. Socialdemokratiet": 263,
+      "C. Det Konservative Folkeparti": 120,
+      "F. SF - Socialistisk Folkeparti": 120,
+      "L. Land- og Bylisten": 23,
+      "B. Radikale Venstre": 55,
+      "O. Dansk Folkeparti": 49
+    }
   },
   "711172": {
     "name": "Ramme",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1457,
+    "total_votes": 1115,
+    "valid_votes": 1102,
+    "invalid_votes": 13,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 162,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 314,
+      "A. Socialdemokratiet": 273,
+      "C. Det Konservative Folkeparti": 83,
+      "F. SF - Socialistisk Folkeparti": 100,
+      "L. Land- og Bylisten": 60,
+      "B. Radikale Venstre": 61,
+      "O. Dansk Folkeparti": 49
+    }
   },
   "712242": {
     "name": "Bøvling",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 974,
+    "total_votes": 707,
+    "valid_votes": 696,
+    "invalid_votes": 11,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 141,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 233,
+      "A. Socialdemokratiet": 58,
+      "C. Det Konservative Folkeparti": 43,
+      "F. SF - Socialistisk Folkeparti": 41,
+      "L. Land- og Bylisten": 154,
+      "B. Radikale Venstre": 15,
+      "O. Dansk Folkeparti": 11
+    }
   },
   "711198": {
     "name": "Flynder",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1074,
+    "total_votes": 806,
+    "valid_votes": 799,
+    "invalid_votes": 7,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 155,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 234,
+      "A. Socialdemokratiet": 43,
+      "C. Det Konservative Folkeparti": 62,
+      "F. SF - Socialistisk Folkeparti": 47,
+      "L. Land- og Bylisten": 229,
+      "B. Radikale Venstre": 9,
+      "O. Dansk Folkeparti": 20
+    }
   },
   "706550": {
     "name": "Thyborøn",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1476,
+    "total_votes": 1086,
+    "valid_votes": 1078,
+    "invalid_votes": 8,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 630,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 290,
+      "A. Socialdemokratiet": 83,
+      "C. Det Konservative Folkeparti": 8,
+      "F. SF - Socialistisk Folkeparti": 44,
+      "L. Land- og Bylisten": 1,
+      "B. Radikale Venstre": 3,
+      "O. Dansk Folkeparti": 19
+    }
   },
   "701882": {
     "name": "Harboøre",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1287,
+    "total_votes": 1001,
+    "valid_votes": 992,
+    "invalid_votes": 9,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 527,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 209,
+      "A. Socialdemokratiet": 145,
+      "C. Det Konservative Folkeparti": 27,
+      "F. SF - Socialistisk Folkeparti": 49,
+      "L. Land- og Bylisten": 7,
+      "B. Radikale Venstre": 10,
+      "O. Dansk Folkeparti": 18
+    }
   }
 }

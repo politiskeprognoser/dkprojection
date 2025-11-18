@@ -1,65 +1,156 @@
 {
   "711302": {
     "name": "Struer",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 6511,
+    "total_votes": 4432,
+    "valid_votes": 4351,
+    "invalid_votes": 81,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 1470,
+      "A. Socialdemokratiet": 1408,
+      "C. Det Konservative Folkeparti": 237,
+      "F. SF - Socialistisk Folkeparti": 355,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 224,
+      "I. Liberal Alliance": 295,
+      "B. Radikale Venstre": 170,
+      "O. Dansk Folkeparti": 156,
+      "D. Nye Borgerlige": 13,
+      "K. DKP - Danmarks Kommunistiske Parti": 10,
+      "U. Adrian-Silviu Suiugan": 5,
+      "J. Verdensdemokraterne": 8
+    }
   },
   "702100": {
     "name": "Gimsing",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1705,
+    "total_votes": 1250,
+    "valid_votes": 1230,
+    "invalid_votes": 20,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 424,
+      "A. Socialdemokratiet": 371,
+      "C. Det Konservative Folkeparti": 57,
+      "F. SF - Socialistisk Folkeparti": 94,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 76,
+      "I. Liberal Alliance": 104,
+      "B. Radikale Venstre": 42,
+      "O. Dansk Folkeparti": 51,
+      "D. Nye Borgerlige": 2,
+      "K. DKP - Danmarks Kommunistiske Parti": 2,
+      "U. Adrian-Silviu Suiugan": 5,
+      "J. Verdensdemokraterne": 2
+    }
   },
   "703842": {
     "name": "Hjerm",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1312,
+    "total_votes": 1074,
+    "valid_votes": 1052,
+    "invalid_votes": 22,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 507,
+      "A. Socialdemokratiet": 273,
+      "C. Det Konservative Folkeparti": 31,
+      "F. SF - Socialistisk Folkeparti": 46,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 71,
+      "I. Liberal Alliance": 47,
+      "B. Radikale Venstre": 46,
+      "O. Dansk Folkeparti": 26,
+      "D. Nye Borgerlige": 3,
+      "K. DKP - Danmarks Kommunistiske Parti": 2,
+      "U. Adrian-Silviu Suiugan": 0,
+      "J. Verdensdemokraterne": 0
+    }
   },
   "700832": {
     "name": "Humlum",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1383,
+    "total_votes": 1063,
+    "valid_votes": 1051,
+    "invalid_votes": 12,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 329,
+      "A. Socialdemokratiet": 382,
+      "C. Det Konservative Folkeparti": 39,
+      "F. SF - Socialistisk Folkeparti": 66,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 97,
+      "I. Liberal Alliance": 77,
+      "B. Radikale Venstre": 22,
+      "O. Dansk Folkeparti": 33,
+      "D. Nye Borgerlige": 2,
+      "K. DKP - Danmarks Kommunistiske Parti": 3,
+      "U. Adrian-Silviu Suiugan": 1,
+      "J. Verdensdemokraterne": 0
+    }
   },
   "706786": {
     "name": "Bremdal",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1573,
+    "total_votes": 1319,
+    "valid_votes": 1307,
+    "invalid_votes": 12,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 524,
+      "A. Socialdemokratiet": 397,
+      "C. Det Konservative Folkeparti": 55,
+      "F. SF - Socialistisk Folkeparti": 101,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 59,
+      "I. Liberal Alliance": 75,
+      "B. Radikale Venstre": 53,
+      "O. Dansk Folkeparti": 38,
+      "D. Nye Borgerlige": 1,
+      "K. DKP - Danmarks Kommunistiske Parti": 3,
+      "U. Adrian-Silviu Suiugan": 1,
+      "J. Verdensdemokraterne": 0
+    }
   },
   "708418": {
     "name": "Langhøj",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1619,
+    "total_votes": 1252,
+    "valid_votes": 1234,
+    "invalid_votes": 18,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 639,
+      "A. Socialdemokratiet": 178,
+      "C. Det Konservative Folkeparti": 63,
+      "F. SF - Socialistisk Folkeparti": 59,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 142,
+      "I. Liberal Alliance": 76,
+      "B. Radikale Venstre": 34,
+      "O. Dansk Folkeparti": 31,
+      "D. Nye Borgerlige": 4,
+      "K. DKP - Danmarks Kommunistiske Parti": 2,
+      "U. Adrian-Silviu Suiugan": 3,
+      "J. Verdensdemokraterne": 3
+    }
   },
   "709888": {
     "name": "Hvidbjerg",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 2355,
+    "total_votes": 1713,
+    "valid_votes": 1685,
+    "invalid_votes": 28,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 381,
+      "A. Socialdemokratiet": 310,
+      "C. Det Konservative Folkeparti": 443,
+      "F. SF - Socialistisk Folkeparti": 109,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 148,
+      "I. Liberal Alliance": 75,
+      "B. Radikale Venstre": 167,
+      "O. Dansk Folkeparti": 39,
+      "D. Nye Borgerlige": 3,
+      "K. DKP - Danmarks Kommunistiske Parti": 3,
+      "U. Adrian-Silviu Suiugan": 7,
+      "J. Verdensdemokraterne": 0
+    }
   }
 }

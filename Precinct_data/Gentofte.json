@@ -1,92 +1,212 @@
 {
   "707338": {
     "name": "Jægersborg",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 6044,
+    "total_votes": 4555,
+    "valid_votes": 4514,
+    "invalid_votes": 41,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "C. Det Konservative Folkeparti": 2305,
+      "V. Venstre, Danmarks Liberale Parti": 621,
+      "B. Radikale Venstre": 406,
+      "F. SF - Socialistisk Folkeparti": 346,
+      "A. Socialdemokratiet": 229,
+      "Ø. Enhedslisten - De Rød-Grønne": 260,
+      "I. Liberal Alliance": 182,
+      "O. Dansk Folkeparti": 82,
+      "M. Moderaterne": 54,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 22,
+      "U. Alliancen for Børnene, Ungdommen og Fremtiden": 7
+    }
   },
   "704436": {
     "name": "Munkegård",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 4924,
+    "total_votes": 3686,
+    "valid_votes": 3634,
+    "invalid_votes": 52,
+    "is_reported": true,
+    "votes": {
+      "C. Det Konservative Folkeparti": 1377,
+      "V. Venstre, Danmarks Liberale Parti": 356,
+      "B. Radikale Venstre": 451,
+      "F. SF - Socialistisk Folkeparti": 484,
+      "A. Socialdemokratiet": 415,
+      "Ø. Enhedslisten - De Rød-Grønne": 308,
+      "I. Liberal Alliance": 93,
+      "O. Dansk Folkeparti": 77,
+      "M. Moderaterne": 46,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 20,
+      "U. Alliancen for Børnene, Ungdommen og Fremtiden": 7
+    }
   },
   "702884": {
     "name": "Rådhuset",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 6527,
+    "total_votes": 4810,
+    "valid_votes": 4784,
+    "invalid_votes": 26,
+    "is_reported": true,
+    "votes": {
+      "C. Det Konservative Folkeparti": 2393,
+      "V. Venstre, Danmarks Liberale Parti": 789,
+      "B. Radikale Venstre": 425,
+      "F. SF - Socialistisk Folkeparti": 363,
+      "A. Socialdemokratiet": 275,
+      "Ø. Enhedslisten - De Rød-Grønne": 194,
+      "I. Liberal Alliance": 190,
+      "O. Dansk Folkeparti": 78,
+      "M. Moderaterne": 58,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 17,
+      "U. Alliancen for Børnene, Ungdommen og Fremtiden": 2
+    }
   },
   "702878": {
     "name": "Bakkegård",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 6291,
+    "total_votes": 3872,
+    "valid_votes": 3802,
+    "invalid_votes": 70,
+    "is_reported": true,
+    "votes": {
+      "C. Det Konservative Folkeparti": 1558,
+      "V. Venstre, Danmarks Liberale Parti": 383,
+      "B. Radikale Venstre": 504,
+      "F. SF - Socialistisk Folkeparti": 391,
+      "A. Socialdemokratiet": 335,
+      "Ø. Enhedslisten - De Rød-Grønne": 312,
+      "I. Liberal Alliance": 135,
+      "O. Dansk Folkeparti": 112,
+      "M. Moderaterne": 32,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 26,
+      "U. Alliancen for Børnene, Ungdommen og Fremtiden": 14
+    }
   },
   "711716": {
     "name": "Dyssegård",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 5776,
+    "total_votes": 4335,
+    "valid_votes": 4286,
+    "invalid_votes": 49,
+    "is_reported": true,
+    "votes": {
+      "C. Det Konservative Folkeparti": 2004,
+      "V. Venstre, Danmarks Liberale Parti": 581,
+      "B. Radikale Venstre": 540,
+      "F. SF - Socialistisk Folkeparti": 310,
+      "A. Socialdemokratiet": 295,
+      "Ø. Enhedslisten - De Rød-Grønne": 236,
+      "I. Liberal Alliance": 167,
+      "O. Dansk Folkeparti": 63,
+      "M. Moderaterne": 53,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 32,
+      "U. Alliancen for Børnene, Ungdommen og Fremtiden": 5
+    }
   },
   "702890": {
     "name": "Maglegård",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 6150,
+    "total_votes": 4828,
+    "valid_votes": 4798,
+    "invalid_votes": 30,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "C. Det Konservative Folkeparti": 2301,
+      "V. Venstre, Danmarks Liberale Parti": 692,
+      "B. Radikale Venstre": 503,
+      "F. SF - Socialistisk Folkeparti": 387,
+      "A. Socialdemokratiet": 216,
+      "Ø. Enhedslisten - De Rød-Grønne": 200,
+      "I. Liberal Alliance": 254,
+      "O. Dansk Folkeparti": 109,
+      "M. Moderaterne": 115,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 16,
+      "U. Alliancen for Børnene, Ungdommen og Fremtiden": 5
+    }
   },
   "701254": {
     "name": "Hellerup",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 5977,
+    "total_votes": 4373,
+    "valid_votes": 4335,
+    "invalid_votes": 38,
+    "is_reported": true,
+    "votes": {
+      "C. Det Konservative Folkeparti": 1921,
+      "V. Venstre, Danmarks Liberale Parti": 643,
+      "B. Radikale Venstre": 378,
+      "F. SF - Socialistisk Folkeparti": 357,
+      "A. Socialdemokratiet": 275,
+      "Ø. Enhedslisten - De Rød-Grønne": 268,
+      "I. Liberal Alliance": 241,
+      "O. Dansk Folkeparti": 119,
+      "M. Moderaterne": 101,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 27,
+      "U. Alliancen for Børnene, Ungdommen og Fremtiden": 5
+    }
   },
   "702872": {
     "name": "Ordrup",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 5015,
+    "total_votes": 3756,
+    "valid_votes": 3717,
+    "invalid_votes": 39,
+    "is_reported": true,
+    "votes": {
+      "C. Det Konservative Folkeparti": 1872,
+      "V. Venstre, Danmarks Liberale Parti": 600,
+      "B. Radikale Venstre": 284,
+      "F. SF - Socialistisk Folkeparti": 270,
+      "A. Socialdemokratiet": 196,
+      "Ø. Enhedslisten - De Rød-Grønne": 168,
+      "I. Liberal Alliance": 137,
+      "O. Dansk Folkeparti": 91,
+      "M. Moderaterne": 79,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 18,
+      "U. Alliancen for Børnene, Ungdommen og Fremtiden": 2
+    }
   },
   "704424": {
     "name": "Skovshoved",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 5656,
+    "total_votes": 4305,
+    "valid_votes": 4277,
+    "invalid_votes": 28,
+    "is_reported": true,
+    "votes": {
+      "C. Det Konservative Folkeparti": 2075,
+      "V. Venstre, Danmarks Liberale Parti": 714,
+      "B. Radikale Venstre": 368,
+      "F. SF - Socialistisk Folkeparti": 256,
+      "A. Socialdemokratiet": 185,
+      "Ø. Enhedslisten - De Rød-Grønne": 164,
+      "I. Liberal Alliance": 271,
+      "O. Dansk Folkeparti": 101,
+      "M. Moderaterne": 119,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 17,
+      "U. Alliancen for Børnene, Ungdommen og Fremtiden": 7
+    }
   },
   "708814": {
     "name": "Skovgård",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 5284,
+    "total_votes": 3821,
+    "valid_votes": 3785,
+    "invalid_votes": 36,
+    "is_reported": true,
+    "votes": {
+      "C. Det Konservative Folkeparti": 1921,
+      "V. Venstre, Danmarks Liberale Parti": 555,
+      "B. Radikale Venstre": 286,
+      "F. SF - Socialistisk Folkeparti": 265,
+      "A. Socialdemokratiet": 192,
+      "Ø. Enhedslisten - De Rød-Grønne": 168,
+      "I. Liberal Alliance": 222,
+      "O. Dansk Folkeparti": 88,
+      "M. Moderaterne": 67,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 18,
+      "U. Alliancen for Børnene, Ungdommen og Fremtiden": 3
+    }
   }
 }

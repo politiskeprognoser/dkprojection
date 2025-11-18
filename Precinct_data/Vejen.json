@@ -1,173 +1,382 @@
 {
   "703026": {
     "name": "Brørup",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 4532,
+    "total_votes": 2946,
+    "valid_votes": 2894,
+    "invalid_votes": 52,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 863,
+      "A. Socialdemokratiet": 788,
+      "C. Det Konservative Folkeparti": 508,
+      "O. Dansk Folkeparti": 184,
+      "F. SF - Socialistisk Folkeparti": 157,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 218,
+      "I. Liberal Alliance": 90,
+      "M. Moderaterne": 51,
+      "B. Radikale Venstre": 28,
+      "Å. Alternativet": 7
+    }
   },
   "706022": {
     "name": "Lindknud",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 627,
+    "total_votes": 437,
+    "valid_votes": 432,
+    "invalid_votes": 5,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 199,
+      "A. Socialdemokratiet": 47,
+      "C. Det Konservative Folkeparti": 54,
+      "O. Dansk Folkeparti": 24,
+      "F. SF - Socialistisk Folkeparti": 29,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 41,
+      "I. Liberal Alliance": 18,
+      "M. Moderaterne": 12,
+      "B. Radikale Venstre": 1,
+      "Å. Alternativet": 7
+    }
   },
   "701368": {
     "name": "Holsted",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 2904,
+    "total_votes": 1783,
+    "valid_votes": 1750,
+    "invalid_votes": 33,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 475,
+      "A. Socialdemokratiet": 382,
+      "C. Det Konservative Folkeparti": 327,
+      "O. Dansk Folkeparti": 119,
+      "F. SF - Socialistisk Folkeparti": 77,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 149,
+      "I. Liberal Alliance": 65,
+      "M. Moderaterne": 55,
+      "B. Radikale Venstre": 80,
+      "Å. Alternativet": 21
+    }
   },
   "706028": {
     "name": "Føvling",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 859,
+    "total_votes": 602,
+    "valid_votes": 593,
+    "invalid_votes": 9,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 155,
+      "A. Socialdemokratiet": 121,
+      "C. Det Konservative Folkeparti": 59,
+      "O. Dansk Folkeparti": 55,
+      "F. SF - Socialistisk Folkeparti": 22,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 60,
+      "I. Liberal Alliance": 25,
+      "M. Moderaterne": 89,
+      "B. Radikale Venstre": 4,
+      "Å. Alternativet": 3
+    }
   },
   "707412": {
     "name": "Glejbjerg",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 936,
+    "total_votes": 655,
+    "valid_votes": 645,
+    "invalid_votes": 10,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 360,
+      "A. Socialdemokratiet": 56,
+      "C. Det Konservative Folkeparti": 47,
+      "O. Dansk Folkeparti": 42,
+      "F. SF - Socialistisk Folkeparti": 28,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 68,
+      "I. Liberal Alliance": 21,
+      "M. Moderaterne": 13,
+      "B. Radikale Venstre": 4,
+      "Å. Alternativet": 6
+    }
   },
   "707418": {
     "name": "Hovborg",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 441,
+    "total_votes": 298,
+    "valid_votes": 295,
+    "invalid_votes": 3,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 102,
+      "A. Socialdemokratiet": 43,
+      "C. Det Konservative Folkeparti": 50,
+      "O. Dansk Folkeparti": 23,
+      "F. SF - Socialistisk Folkeparti": 32,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 18,
+      "I. Liberal Alliance": 9,
+      "M. Moderaterne": 12,
+      "B. Radikale Venstre": 4,
+      "Å. Alternativet": 2
+    }
   },
   "701350": {
     "name": "Rødding",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 2760,
+    "total_votes": 1880,
+    "valid_votes": 1841,
+    "invalid_votes": 39,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 464,
+      "A. Socialdemokratiet": 168,
+      "C. Det Konservative Folkeparti": 826,
+      "O. Dansk Folkeparti": 121,
+      "F. SF - Socialistisk Folkeparti": 115,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 74,
+      "I. Liberal Alliance": 32,
+      "M. Moderaterne": 22,
+      "B. Radikale Venstre": 13,
+      "Å. Alternativet": 6
+    }
   },
   "704526": {
     "name": "Sdr. Hygum",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 707,
+    "total_votes": 501,
+    "valid_votes": 491,
+    "invalid_votes": 10,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 237,
+      "A. Socialdemokratiet": 48,
+      "C. Det Konservative Folkeparti": 107,
+      "O. Dansk Folkeparti": 31,
+      "F. SF - Socialistisk Folkeparti": 35,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 24,
+      "I. Liberal Alliance": 6,
+      "M. Moderaterne": 1,
+      "B. Radikale Venstre": 1,
+      "Å. Alternativet": 1
+    }
   },
   "706016": {
     "name": "Jels",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 2040,
+    "total_votes": 1540,
+    "valid_votes": 1516,
+    "invalid_votes": 24,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 688,
+      "A. Socialdemokratiet": 358,
+      "C. Det Konservative Folkeparti": 189,
+      "O. Dansk Folkeparti": 80,
+      "F. SF - Socialistisk Folkeparti": 59,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 65,
+      "I. Liberal Alliance": 38,
+      "M. Moderaterne": 25,
+      "B. Radikale Venstre": 9,
+      "Å. Alternativet": 5
+    }
   },
   "710606": {
     "name": "Lintrup",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 540,
+    "total_votes": 378,
+    "valid_votes": 370,
+    "invalid_votes": 8,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 122,
+      "A. Socialdemokratiet": 27,
+      "C. Det Konservative Folkeparti": 140,
+      "O. Dansk Folkeparti": 29,
+      "F. SF - Socialistisk Folkeparti": 8,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 29,
+      "I. Liberal Alliance": 9,
+      "M. Moderaterne": 5,
+      "B. Radikale Venstre": 0,
+      "Å. Alternativet": 1
+    }
   },
   "704538": {
     "name": "Skodborg",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1376,
+    "total_votes": 929,
+    "valid_votes": 916,
+    "invalid_votes": 13,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 488,
+      "A. Socialdemokratiet": 160,
+      "C. Det Konservative Folkeparti": 102,
+      "O. Dansk Folkeparti": 57,
+      "F. SF - Socialistisk Folkeparti": 37,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 31,
+      "I. Liberal Alliance": 27,
+      "M. Moderaterne": 12,
+      "B. Radikale Venstre": 1,
+      "Å. Alternativet": 1
+    }
   },
   "701380": {
     "name": "Københoved",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 380,
+    "total_votes": 288,
+    "valid_votes": 284,
+    "invalid_votes": 4,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 147,
+      "A. Socialdemokratiet": 19,
+      "C. Det Konservative Folkeparti": 51,
+      "O. Dansk Folkeparti": 18,
+      "F. SF - Socialistisk Folkeparti": 20,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 20,
+      "I. Liberal Alliance": 6,
+      "M. Moderaterne": 2,
+      "B. Radikale Venstre": 1,
+      "Å. Alternativet": 0
+    }
   },
   "710600": {
     "name": "Øster Lindet",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 595,
+    "total_votes": 394,
+    "valid_votes": 383,
+    "invalid_votes": 11,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 140,
+      "A. Socialdemokratiet": 48,
+      "C. Det Konservative Folkeparti": 92,
+      "O. Dansk Folkeparti": 33,
+      "F. SF - Socialistisk Folkeparti": 26,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 23,
+      "I. Liberal Alliance": 17,
+      "M. Moderaterne": 3,
+      "B. Radikale Venstre": 0,
+      "Å. Alternativet": 1
+    }
   },
   "704514": {
     "name": "Vejen",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 7575,
+    "total_votes": 4948,
+    "valid_votes": 4841,
+    "invalid_votes": 107,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 1592,
+      "A. Socialdemokratiet": 1070,
+      "C. Det Konservative Folkeparti": 759,
+      "O. Dansk Folkeparti": 346,
+      "F. SF - Socialistisk Folkeparti": 462,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 300,
+      "I. Liberal Alliance": 129,
+      "M. Moderaterne": 78,
+      "B. Radikale Venstre": 74,
+      "Å. Alternativet": 31
+    }
   },
   "703014": {
     "name": "Læborg",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 525,
+    "total_votes": 390,
+    "valid_votes": 387,
+    "invalid_votes": 3,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 163,
+      "A. Socialdemokratiet": 44,
+      "C. Det Konservative Folkeparti": 61,
+      "O. Dansk Folkeparti": 41,
+      "F. SF - Socialistisk Folkeparti": 26,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 20,
+      "I. Liberal Alliance": 19,
+      "M. Moderaterne": 10,
+      "B. Radikale Venstre": 1,
+      "Å. Alternativet": 2
+    }
   },
   "701362": {
     "name": "Askov-Malt",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 2816,
+    "total_votes": 2240,
+    "valid_votes": 2213,
+    "invalid_votes": 27,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 870,
+      "A. Socialdemokratiet": 377,
+      "C. Det Konservative Folkeparti": 487,
+      "O. Dansk Folkeparti": 104,
+      "F. SF - Socialistisk Folkeparti": 168,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 70,
+      "I. Liberal Alliance": 70,
+      "M. Moderaterne": 40,
+      "B. Radikale Venstre": 16,
+      "Å. Alternativet": 11
+    }
   },
   "704520": {
     "name": "Andst",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1113,
+    "total_votes": 758,
+    "valid_votes": 735,
+    "invalid_votes": 23,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 251,
+      "A. Socialdemokratiet": 86,
+      "C. Det Konservative Folkeparti": 132,
+      "O. Dansk Folkeparti": 88,
+      "F. SF - Socialistisk Folkeparti": 70,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 61,
+      "I. Liberal Alliance": 31,
+      "M. Moderaterne": 8,
+      "B. Radikale Venstre": 2,
+      "Å. Alternativet": 6
+    }
   },
   "703020": {
     "name": "Gesten",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1135,
+    "total_votes": 762,
+    "valid_votes": 747,
+    "invalid_votes": 15,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 299,
+      "A. Socialdemokratiet": 123,
+      "C. Det Konservative Folkeparti": 56,
+      "O. Dansk Folkeparti": 69,
+      "F. SF - Socialistisk Folkeparti": 63,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 74,
+      "I. Liberal Alliance": 30,
+      "M. Moderaterne": 21,
+      "B. Radikale Venstre": 4,
+      "Å. Alternativet": 8
+    }
   },
   "701386": {
     "name": "Bække",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1635,
+    "total_votes": 990,
+    "valid_votes": 973,
+    "invalid_votes": 17,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 315,
+      "A. Socialdemokratiet": 221,
+      "C. Det Konservative Folkeparti": 120,
+      "O. Dansk Folkeparti": 90,
+      "F. SF - Socialistisk Folkeparti": 38,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 101,
+      "I. Liberal Alliance": 63,
+      "M. Moderaterne": 11,
+      "B. Radikale Venstre": 9,
+      "Å. Alternativet": 5
+    }
   }
 }

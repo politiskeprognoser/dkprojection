@@ -1,56 +1,110 @@
 {
   "705552": {
     "name": "Bording",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 2853,
+    "total_votes": 1993,
+    "valid_votes": 1968,
+    "invalid_votes": 25,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 896,
+      "A. Socialdemokratiet": 367,
+      "C. Det Konservative Folkeparti": 95,
+      "O. Dansk Folkeparti": 269,
+      "L. Fælleslisten": 66,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 164,
+      "F. SF - Socialistisk Folkeparti": 47,
+      "I. Liberal Alliance": 64
+    }
   },
   "703930": {
     "name": "Brande",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 7487,
+    "total_votes": 5014,
+    "valid_votes": 4957,
+    "invalid_votes": 57,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 734,
+      "A. Socialdemokratiet": 299,
+      "C. Det Konservative Folkeparti": 845,
+      "O. Dansk Folkeparti": 293,
+      "L. Fælleslisten": 2027,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 426,
+      "F. SF - Socialistisk Folkeparti": 115,
+      "I. Liberal Alliance": 218
+    }
   },
   "709984": {
     "name": "Ejstrupholm",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 2829,
+    "total_votes": 1967,
+    "valid_votes": 1945,
+    "invalid_votes": 22,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 491,
+      "A. Socialdemokratiet": 385,
+      "C. Det Konservative Folkeparti": 339,
+      "O. Dansk Folkeparti": 258,
+      "L. Fælleslisten": 103,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 242,
+      "F. SF - Socialistisk Folkeparti": 68,
+      "I. Liberal Alliance": 59
+    }
   },
   "713316": {
     "name": "Engesvang",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 2393,
+    "total_votes": 1809,
+    "valid_votes": 1785,
+    "invalid_votes": 24,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 474,
+      "A. Socialdemokratiet": 556,
+      "C. Det Konservative Folkeparti": 39,
+      "O. Dansk Folkeparti": 474,
+      "L. Fælleslisten": 25,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 82,
+      "F. SF - Socialistisk Folkeparti": 102,
+      "I. Liberal Alliance": 33
+    }
   },
   "702176": {
     "name": "Ikast",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 14928,
+    "total_votes": 9778,
+    "valid_votes": 9621,
+    "invalid_votes": 157,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 3356,
+      "A. Socialdemokratiet": 2332,
+      "C. Det Konservative Folkeparti": 1261,
+      "O. Dansk Folkeparti": 1099,
+      "L. Fælleslisten": 302,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 573,
+      "F. SF - Socialistisk Folkeparti": 342,
+      "I. Liberal Alliance": 356
+    }
   },
   "713298": {
     "name": "Nørre Snede",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 2777,
+    "total_votes": 1781,
+    "valid_votes": 1762,
+    "invalid_votes": 19,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 542,
+      "A. Socialdemokratiet": 209,
+      "C. Det Konservative Folkeparti": 234,
+      "O. Dansk Folkeparti": 305,
+      "L. Fælleslisten": 62,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 168,
+      "F. SF - Socialistisk Folkeparti": 155,
+      "I. Liberal Alliance": 87
+    }
   }
 }

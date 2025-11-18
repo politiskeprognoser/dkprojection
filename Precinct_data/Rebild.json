@@ -1,101 +1,222 @@
 {
   "707882": {
     "name": "Støvring",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 7945,
+    "total_votes": 6035,
+    "valid_votes": 5951,
+    "invalid_votes": 84,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 1870,
+      "A. Socialdemokratiet": 1345,
+      "C. Det Konservative Folkeparti": 1239,
+      "F. SF - Socialistisk Folkeparti": 494,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 386,
+      "L. Den Sociale Fællesliste": 64,
+      "B. Radikale Venstre": 265,
+      "Ø. Enhedslisten - De Rød-Grønne": 104,
+      "O. Dansk Folkeparti": 151,
+      "R. Rebild Listen": 33
+    }
   },
   "709658": {
     "name": "Skørping",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 3381,
+    "total_votes": 2886,
+    "valid_votes": 2856,
+    "invalid_votes": 30,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 335,
+      "A. Socialdemokratiet": 535,
+      "C. Det Konservative Folkeparti": 320,
+      "F. SF - Socialistisk Folkeparti": 750,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 162,
+      "L. Den Sociale Fællesliste": 177,
+      "B. Radikale Venstre": 176,
+      "Ø. Enhedslisten - De Rød-Grønne": 299,
+      "O. Dansk Folkeparti": 36,
+      "R. Rebild Listen": 66
+    }
   },
   "703572": {
     "name": "Terndrup",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1863,
+    "total_votes": 1368,
+    "valid_votes": 1349,
+    "invalid_votes": 19,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 262,
+      "A. Socialdemokratiet": 203,
+      "C. Det Konservative Folkeparti": 91,
+      "F. SF - Socialistisk Folkeparti": 78,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 158,
+      "L. Den Sociale Fællesliste": 373,
+      "B. Radikale Venstre": 38,
+      "Ø. Enhedslisten - De Rød-Grønne": 33,
+      "O. Dansk Folkeparti": 34,
+      "R. Rebild Listen": 79
+    }
   },
   "712170": {
     "name": "Suldrup",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 2102,
+    "total_votes": 1587,
+    "valid_votes": 1565,
+    "invalid_votes": 22,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 379,
+      "A. Socialdemokratiet": 207,
+      "C. Det Konservative Folkeparti": 504,
+      "F. SF - Socialistisk Folkeparti": 128,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 171,
+      "L. Den Sociale Fællesliste": 27,
+      "B. Radikale Venstre": 32,
+      "Ø. Enhedslisten - De Rød-Grønne": 38,
+      "O. Dansk Folkeparti": 63,
+      "R. Rebild Listen": 16
+    }
   },
   "712164": {
     "name": "Nørager",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 2250,
+    "total_votes": 1512,
+    "valid_votes": 1488,
+    "invalid_votes": 24,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 628,
+      "A. Socialdemokratiet": 209,
+      "C. Det Konservative Folkeparti": 202,
+      "F. SF - Socialistisk Folkeparti": 57,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 205,
+      "L. Den Sociale Fællesliste": 36,
+      "B. Radikale Venstre": 38,
+      "Ø. Enhedslisten - De Rød-Grønne": 45,
+      "O. Dansk Folkeparti": 56,
+      "R. Rebild Listen": 12
+    }
   },
   "709652": {
     "name": "Haverslev",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1017,
+    "total_votes": 747,
+    "valid_votes": 739,
+    "invalid_votes": 8,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 384,
+      "A. Socialdemokratiet": 104,
+      "C. Det Konservative Folkeparti": 49,
+      "F. SF - Socialistisk Folkeparti": 24,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 92,
+      "L. Den Sociale Fællesliste": 21,
+      "B. Radikale Venstre": 20,
+      "Ø. Enhedslisten - De Rød-Grønne": 13,
+      "O. Dansk Folkeparti": 25,
+      "R. Rebild Listen": 7
+    }
   },
   "701822": {
     "name": "Øster Hornum",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1563,
+    "total_votes": 1250,
+    "valid_votes": 1232,
+    "invalid_votes": 18,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 294,
+      "A. Socialdemokratiet": 207,
+      "C. Det Konservative Folkeparti": 276,
+      "F. SF - Socialistisk Folkeparti": 271,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 77,
+      "L. Den Sociale Fællesliste": 13,
+      "B. Radikale Venstre": 34,
+      "Ø. Enhedslisten - De Rød-Grønne": 24,
+      "O. Dansk Folkeparti": 26,
+      "R. Rebild Listen": 10
+    }
   },
   "711096": {
     "name": "Bælum",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1232,
+    "total_votes": 918,
+    "valid_votes": 902,
+    "invalid_votes": 16,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 124,
+      "A. Socialdemokratiet": 112,
+      "C. Det Konservative Folkeparti": 96,
+      "F. SF - Socialistisk Folkeparti": 55,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 103,
+      "L. Den Sociale Fællesliste": 303,
+      "B. Radikale Venstre": 25,
+      "Ø. Enhedslisten - De Rød-Grønne": 31,
+      "O. Dansk Folkeparti": 27,
+      "R. Rebild Listen": 26
+    }
   },
   "706392": {
     "name": "Ravnkilde",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 677,
+    "total_votes": 488,
+    "valid_votes": 484,
+    "invalid_votes": 4,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 118,
+      "A. Socialdemokratiet": 126,
+      "C. Det Konservative Folkeparti": 48,
+      "F. SF - Socialistisk Folkeparti": 26,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 89,
+      "L. Den Sociale Fællesliste": 20,
+      "B. Radikale Venstre": 8,
+      "Ø. Enhedslisten - De Rød-Grønne": 16,
+      "O. Dansk Folkeparti": 19,
+      "R. Rebild Listen": 14
+    }
   },
   "712144": {
     "name": "Blenstrup",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1133,
+    "total_votes": 842,
+    "valid_votes": 824,
+    "invalid_votes": 18,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 93,
+      "A. Socialdemokratiet": 163,
+      "C. Det Konservative Folkeparti": 56,
+      "F. SF - Socialistisk Folkeparti": 58,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 138,
+      "L. Den Sociale Fællesliste": 130,
+      "B. Radikale Venstre": 105,
+      "Ø. Enhedslisten - De Rød-Grønne": 37,
+      "O. Dansk Folkeparti": 20,
+      "R. Rebild Listen": 24
+    }
   },
   "705168": {
     "name": "Veggerby",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 529,
+    "total_votes": 400,
+    "valid_votes": 397,
+    "invalid_votes": 3,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 95,
+      "A. Socialdemokratiet": 60,
+      "C. Det Konservative Folkeparti": 76,
+      "F. SF - Socialistisk Folkeparti": 37,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 62,
+      "L. Den Sociale Fællesliste": 9,
+      "B. Radikale Venstre": 25,
+      "Ø. Enhedslisten - De Rød-Grønne": 14,
+      "O. Dansk Folkeparti": 17,
+      "R. Rebild Listen": 2
+    }
   }
 }

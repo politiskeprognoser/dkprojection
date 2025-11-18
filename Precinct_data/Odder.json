@@ -1,92 +1,192 @@
 {
   "709406": {
     "name": "Odder",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 11271,
+    "total_votes": 8253,
+    "valid_votes": 8157,
+    "invalid_votes": 96,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "A. Socialdemokratiet": 2128,
+      "C. Det Konservative Folkeparti": 1882,
+      "V. Venstre, Danmarks Liberale Parti": 1789,
+      "F. SF - Socialistisk Folkeparti": 739,
+      "Ø. Enhedslisten - De Rød-Grønne": 721,
+      "O. Dansk Folkeparti": 344,
+      "I. Liberal Alliance": 283,
+      "B. Radikale Venstre": 239,
+      "M. Moderaterne": 32
+    }
   },
   "701640": {
     "name": "Torrild",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 366,
+    "total_votes": 313,
+    "valid_votes": 312,
+    "invalid_votes": 1,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 11,
+      "C. Det Konservative Folkeparti": 99,
+      "V. Venstre, Danmarks Liberale Parti": 130,
+      "F. SF - Socialistisk Folkeparti": 15,
+      "Ø. Enhedslisten - De Rød-Grønne": 32,
+      "O. Dansk Folkeparti": 10,
+      "I. Liberal Alliance": 7,
+      "B. Radikale Venstre": 8,
+      "M. Moderaterne": 0
+    }
   },
   "701632": {
     "name": "Saksild - Nølev",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1491,
+    "total_votes": 1213,
+    "valid_votes": 1192,
+    "invalid_votes": 21,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 258,
+      "C. Det Konservative Folkeparti": 248,
+      "V. Venstre, Danmarks Liberale Parti": 232,
+      "F. SF - Socialistisk Folkeparti": 164,
+      "Ø. Enhedslisten - De Rød-Grønne": 144,
+      "O. Dansk Folkeparti": 50,
+      "I. Liberal Alliance": 41,
+      "B. Radikale Venstre": 48,
+      "M. Moderaterne": 7
+    }
   },
   "709400": {
     "name": "Randlev - Bjerager",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1036,
+    "total_votes": 792,
+    "valid_votes": 777,
+    "invalid_votes": 15,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 223,
+      "C. Det Konservative Folkeparti": 138,
+      "V. Venstre, Danmarks Liberale Parti": 156,
+      "F. SF - Socialistisk Folkeparti": 75,
+      "Ø. Enhedslisten - De Rød-Grønne": 101,
+      "O. Dansk Folkeparti": 28,
+      "I. Liberal Alliance": 23,
+      "B. Radikale Venstre": 31,
+      "M. Moderaterne": 2
+    }
   },
   "703392": {
     "name": "Hou, Gosmer - Halling",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1818,
+    "total_votes": 1497,
+    "valid_votes": 1480,
+    "invalid_votes": 17,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 445,
+      "C. Det Konservative Folkeparti": 232,
+      "V. Venstre, Danmarks Liberale Parti": 354,
+      "F. SF - Socialistisk Folkeparti": 142,
+      "Ø. Enhedslisten - De Rød-Grønne": 129,
+      "O. Dansk Folkeparti": 36,
+      "I. Liberal Alliance": 87,
+      "B. Radikale Venstre": 54,
+      "M. Moderaterne": 1
+    }
   },
   "704968": {
     "name": "Gylling",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 922,
+    "total_votes": 652,
+    "valid_votes": 647,
+    "invalid_votes": 5,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 81,
+      "C. Det Konservative Folkeparti": 288,
+      "V. Venstre, Danmarks Liberale Parti": 82,
+      "F. SF - Socialistisk Folkeparti": 85,
+      "Ø. Enhedslisten - De Rød-Grønne": 37,
+      "O. Dansk Folkeparti": 44,
+      "I. Liberal Alliance": 16,
+      "B. Radikale Venstre": 11,
+      "M. Moderaterne": 3
+    }
   },
   "706210": {
     "name": "Ørting-Falling",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1063,
+    "total_votes": 786,
+    "valid_votes": 777,
+    "invalid_votes": 9,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 176,
+      "C. Det Konservative Folkeparti": 245,
+      "V. Venstre, Danmarks Liberale Parti": 132,
+      "F. SF - Socialistisk Folkeparti": 63,
+      "Ø. Enhedslisten - De Rød-Grønne": 60,
+      "O. Dansk Folkeparti": 51,
+      "I. Liberal Alliance": 26,
+      "B. Radikale Venstre": 16,
+      "M. Moderaterne": 8
+    }
   },
   "704986": {
     "name": "Hundslund",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1025,
+    "total_votes": 754,
+    "valid_votes": 735,
+    "invalid_votes": 19,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 150,
+      "C. Det Konservative Folkeparti": 168,
+      "V. Venstre, Danmarks Liberale Parti": 173,
+      "F. SF - Socialistisk Folkeparti": 54,
+      "Ø. Enhedslisten - De Rød-Grønne": 87,
+      "O. Dansk Folkeparti": 43,
+      "I. Liberal Alliance": 22,
+      "B. Radikale Venstre": 35,
+      "M. Moderaterne": 3
+    }
   },
   "711964": {
     "name": "Alrø",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
+    "electorate": 114,
+    "total_votes": 98,
+    "valid_votes": 98,
     "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 12,
+      "C. Det Konservative Folkeparti": 41,
+      "V. Venstre, Danmarks Liberale Parti": 22,
+      "F. SF - Socialistisk Folkeparti": 5,
+      "Ø. Enhedslisten - De Rød-Grønne": 9,
+      "O. Dansk Folkeparti": 1,
+      "I. Liberal Alliance": 4,
+      "B. Radikale Venstre": 4,
+      "M. Moderaterne": 0
+    }
   },
   "710838": {
     "name": "Tunø",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 63,
+    "total_votes": 53,
+    "valid_votes": 51,
+    "invalid_votes": 2,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 16,
+      "C. Det Konservative Folkeparti": 8,
+      "V. Venstre, Danmarks Liberale Parti": 18,
+      "F. SF - Socialistisk Folkeparti": 2,
+      "Ø. Enhedslisten - De Rød-Grønne": 5,
+      "O. Dansk Folkeparti": 0,
+      "I. Liberal Alliance": 1,
+      "B. Radikale Venstre": 0,
+      "M. Moderaterne": 1
+    }
   }
 }

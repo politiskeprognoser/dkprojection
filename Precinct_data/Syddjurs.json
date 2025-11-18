@@ -1,74 +1,178 @@
 {
   "701596": {
     "name": "Ebeltoft",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 7705,
+    "total_votes": 5428,
+    "valid_votes": 5354,
+    "invalid_votes": 74,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "A. Socialdemokratiet": 1307,
+      "V. Venstre, Danmarks Liberale Parti": 845,
+      "F. SF - Socialistisk Folkeparti": 699,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 500,
+      "C. Det Konservative Folkeparti": 646,
+      "Ø. Enhedslisten - De Rød-Grønne": 264,
+      "B. Radikale Venstre": 497,
+      "Å. Alternativet": 276,
+      "I. Liberal Alliance": 122,
+      "O. Dansk Folkeparti": 97,
+      "Z. Velfærdslisten Syddjurs": 96,
+      "J. Partiet Samfundssind for Frihed": 5
+    }
   },
   "703350": {
     "name": "Mols",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 3215,
+    "total_votes": 2550,
+    "valid_votes": 2512,
+    "invalid_votes": 38,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 615,
+      "V. Venstre, Danmarks Liberale Parti": 686,
+      "F. SF - Socialistisk Folkeparti": 311,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 204,
+      "C. Det Konservative Folkeparti": 138,
+      "Ø. Enhedslisten - De Rød-Grønne": 175,
+      "B. Radikale Venstre": 61,
+      "Å. Alternativet": 199,
+      "I. Liberal Alliance": 46,
+      "O. Dansk Folkeparti": 36,
+      "Z. Velfærdslisten Syddjurs": 41,
+      "J. Partiet Samfundssind for Frihed": 0
+    }
   },
   "703380": {
     "name": "Tirstrup",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1719,
+    "total_votes": 1164,
+    "valid_votes": 1153,
+    "invalid_votes": 11,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 211,
+      "V. Venstre, Danmarks Liberale Parti": 133,
+      "F. SF - Socialistisk Folkeparti": 255,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 218,
+      "C. Det Konservative Folkeparti": 80,
+      "Ø. Enhedslisten - De Rød-Grønne": 90,
+      "B. Radikale Venstre": 20,
+      "Å. Alternativet": 54,
+      "I. Liberal Alliance": 26,
+      "O. Dansk Folkeparti": 45,
+      "Z. Velfærdslisten Syddjurs": 18,
+      "J. Partiet Samfundssind for Frihed": 3
+    }
   },
   "711940": {
     "name": "Kolind",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 2686,
+    "total_votes": 1927,
+    "valid_votes": 1897,
+    "invalid_votes": 30,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "A. Socialdemokratiet": 425,
+      "V. Venstre, Danmarks Liberale Parti": 341,
+      "F. SF - Socialistisk Folkeparti": 156,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 317,
+      "C. Det Konservative Folkeparti": 373,
+      "Ø. Enhedslisten - De Rød-Grønne": 65,
+      "B. Radikale Venstre": 24,
+      "Å. Alternativet": 55,
+      "I. Liberal Alliance": 68,
+      "O. Dansk Folkeparti": 48,
+      "Z. Velfærdslisten Syddjurs": 22,
+      "J. Partiet Samfundssind for Frihed": 3
+    }
   },
   "711952": {
     "name": "Ryomgård",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 3869,
+    "total_votes": 2660,
+    "valid_votes": 2619,
+    "invalid_votes": 41,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 990,
+      "V. Venstre, Danmarks Liberale Parti": 354,
+      "F. SF - Socialistisk Folkeparti": 228,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 416,
+      "C. Det Konservative Folkeparti": 260,
+      "Ø. Enhedslisten - De Rød-Grønne": 101,
+      "B. Radikale Venstre": 39,
+      "Å. Alternativet": 55,
+      "I. Liberal Alliance": 80,
+      "O. Dansk Folkeparti": 67,
+      "Z. Velfærdslisten Syddjurs": 26,
+      "J. Partiet Samfundssind for Frihed": 3
+    }
   },
   "701618": {
     "name": "Hornslet",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 6488,
+    "total_votes": 4736,
+    "valid_votes": 4672,
+    "invalid_votes": 64,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 1534,
+      "V. Venstre, Danmarks Liberale Parti": 964,
+      "F. SF - Socialistisk Folkeparti": 530,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 335,
+      "C. Det Konservative Folkeparti": 487,
+      "Ø. Enhedslisten - De Rød-Grønne": 234,
+      "B. Radikale Venstre": 158,
+      "Å. Alternativet": 94,
+      "I. Liberal Alliance": 143,
+      "O. Dansk Folkeparti": 160,
+      "Z. Velfærdslisten Syddjurs": 29,
+      "J. Partiet Samfundssind for Frihed": 4
+    }
   },
   "710826": {
     "name": "Mørke",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 2883,
+    "total_votes": 2023,
+    "valid_votes": 1995,
+    "invalid_votes": 28,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 585,
+      "V. Venstre, Danmarks Liberale Parti": 364,
+      "F. SF - Socialistisk Folkeparti": 305,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 281,
+      "C. Det Konservative Folkeparti": 111,
+      "Ø. Enhedslisten - De Rød-Grønne": 86,
+      "B. Radikale Venstre": 48,
+      "Å. Alternativet": 39,
+      "I. Liberal Alliance": 79,
+      "O. Dansk Folkeparti": 73,
+      "Z. Velfærdslisten Syddjurs": 21,
+      "J. Partiet Samfundssind for Frihed": 3
+    }
   },
   "711958": {
     "name": "Rønde",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 6886,
+    "total_votes": 5120,
+    "valid_votes": 5060,
+    "invalid_votes": 60,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "A. Socialdemokratiet": 1443,
+      "V. Venstre, Danmarks Liberale Parti": 1049,
+      "F. SF - Socialistisk Folkeparti": 557,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 468,
+      "C. Det Konservative Folkeparti": 507,
+      "Ø. Enhedslisten - De Rød-Grønne": 320,
+      "B. Radikale Venstre": 190,
+      "Å. Alternativet": 211,
+      "I. Liberal Alliance": 153,
+      "O. Dansk Folkeparti": 102,
+      "Z. Velfærdslisten Syddjurs": 55,
+      "J. Partiet Samfundssind for Frihed": 5
+    }
   }
 }

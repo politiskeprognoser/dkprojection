@@ -1,65 +1,156 @@
 {
   "705570": {
     "name": "Dianalund",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 4760,
+    "total_votes": 2892,
+    "valid_votes": 2821,
+    "invalid_votes": 71,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "A. Socialdemokratiet": 640,
+      "V. Venstre, Danmarks Liberale Parti": 458,
+      "C. Det Konservative Folkeparti": 614,
+      "F. SF - Socialistisk Folkeparti": 173,
+      "Ø. Enhedslisten - De Rød-Grønne": 210,
+      "O. Dansk Folkeparti": 313,
+      "I. Liberal Alliance": 126,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 132,
+      "B. Radikale Venstre": 40,
+      "D. Nye Borgerlige": 60,
+      "M. Moderaterne": 42,
+      "L. Alle Mennesker Er Værdifulde": 13
+    }
   },
   "705564": {
     "name": "Ruds Vedby",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1592,
+    "total_votes": 929,
+    "valid_votes": 911,
+    "invalid_votes": 18,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 184,
+      "V. Venstre, Danmarks Liberale Parti": 110,
+      "C. Det Konservative Folkeparti": 249,
+      "F. SF - Socialistisk Folkeparti": 44,
+      "Ø. Enhedslisten - De Rød-Grønne": 85,
+      "O. Dansk Folkeparti": 98,
+      "I. Liberal Alliance": 42,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 51,
+      "B. Radikale Venstre": 6,
+      "D. Nye Borgerlige": 19,
+      "M. Moderaterne": 18,
+      "L. Alle Mennesker Er Værdifulde": 5
+    }
   },
   "711404": {
     "name": "Alsted Fjenneslev",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1489,
+    "total_votes": 1034,
+    "valid_votes": 1009,
+    "invalid_votes": 25,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 199,
+      "V. Venstre, Danmarks Liberale Parti": 295,
+      "C. Det Konservative Folkeparti": 61,
+      "F. SF - Socialistisk Folkeparti": 78,
+      "Ø. Enhedslisten - De Rød-Grønne": 80,
+      "O. Dansk Folkeparti": 62,
+      "I. Liberal Alliance": 37,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 92,
+      "B. Radikale Venstre": 19,
+      "D. Nye Borgerlige": 47,
+      "M. Moderaterne": 39,
+      "L. Alle Mennesker Er Værdifulde": 0
+    }
   },
   "702234": {
     "name": "Sorø",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 4477,
+    "total_votes": 3262,
+    "valid_votes": 3212,
+    "invalid_votes": 50,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 889,
+      "V. Venstre, Danmarks Liberale Parti": 677,
+      "C. Det Konservative Folkeparti": 344,
+      "F. SF - Socialistisk Folkeparti": 308,
+      "Ø. Enhedslisten - De Rød-Grønne": 336,
+      "O. Dansk Folkeparti": 87,
+      "I. Liberal Alliance": 157,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 58,
+      "B. Radikale Venstre": 211,
+      "D. Nye Borgerlige": 63,
+      "M. Moderaterne": 82,
+      "L. Alle Mennesker Er Værdifulde": 0
+    }
   },
   "711410": {
     "name": "Frederiksberg",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 4229,
+    "total_votes": 3299,
+    "valid_votes": 3262,
+    "invalid_votes": 37,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "A. Socialdemokratiet": 842,
+      "V. Venstre, Danmarks Liberale Parti": 736,
+      "C. Det Konservative Folkeparti": 248,
+      "F. SF - Socialistisk Folkeparti": 456,
+      "Ø. Enhedslisten - De Rød-Grønne": 325,
+      "O. Dansk Folkeparti": 86,
+      "I. Liberal Alliance": 147,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 70,
+      "B. Radikale Venstre": 176,
+      "D. Nye Borgerlige": 64,
+      "M. Moderaterne": 110,
+      "L. Alle Mennesker Er Værdifulde": 2
+    }
   },
   "700914": {
     "name": "Pedersborg",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 3447,
+    "total_votes": 2478,
+    "valid_votes": 2435,
+    "invalid_votes": 43,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 630,
+      "V. Venstre, Danmarks Liberale Parti": 693,
+      "C. Det Konservative Folkeparti": 191,
+      "F. SF - Socialistisk Folkeparti": 167,
+      "Ø. Enhedslisten - De Rød-Grønne": 139,
+      "O. Dansk Folkeparti": 122,
+      "I. Liberal Alliance": 145,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 90,
+      "B. Radikale Venstre": 82,
+      "D. Nye Borgerlige": 73,
+      "M. Moderaterne": 98,
+      "L. Alle Mennesker Er Værdifulde": 5
+    }
   },
   "710022": {
     "name": "Stenlille",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 4502,
+    "total_votes": 2859,
+    "valid_votes": 2799,
+    "invalid_votes": 60,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 661,
+      "V. Venstre, Danmarks Liberale Parti": 574,
+      "C. Det Konservative Folkeparti": 363,
+      "F. SF - Socialistisk Folkeparti": 230,
+      "Ø. Enhedslisten - De Rød-Grønne": 169,
+      "O. Dansk Folkeparti": 234,
+      "I. Liberal Alliance": 123,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 155,
+      "B. Radikale Venstre": 49,
+      "D. Nye Borgerlige": 160,
+      "M. Moderaterne": 74,
+      "L. Alle Mennesker Er Værdifulde": 7
+    }
   }
 }

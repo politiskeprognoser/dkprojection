@@ -1,56 +1,134 @@
 {
   "711216": {
     "name": "Vestamager",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 5217,
+    "total_votes": 3573,
+    "valid_votes": 3495,
+    "invalid_votes": 78,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 1086,
+      "O. Dansk Folkeparti": 666,
+      "F. SF - Socialistisk Folkeparti": 315,
+      "C. Det Konservative Folkeparti": 308,
+      "Ø. Enhedslisten - De Rød-Grønne": 199,
+      "V. Venstre, Danmarks Liberale Parti": 231,
+      "I. Liberal Alliance": 227,
+      "B. Radikale Venstre": 120,
+      "M. Moderaterne": 109,
+      "T. Tårnby Listen": 125,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 103,
+      "E. Velfærdslisten (Tårnby Kommune)": 6
+    }
   },
   "701986": {
     "name": "Pilegården",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 5573,
+    "total_votes": 4175,
+    "valid_votes": 4109,
+    "invalid_votes": 66,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 1260,
+      "O. Dansk Folkeparti": 472,
+      "F. SF - Socialistisk Folkeparti": 439,
+      "C. Det Konservative Folkeparti": 425,
+      "Ø. Enhedslisten - De Rød-Grønne": 291,
+      "V. Venstre, Danmarks Liberale Parti": 366,
+      "I. Liberal Alliance": 251,
+      "B. Radikale Venstre": 197,
+      "M. Moderaterne": 191,
+      "T. Tårnby Listen": 127,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 86,
+      "E. Velfærdslisten (Tårnby Kommune)": 4
+    }
   },
   "709804": {
     "name": "Tårnby",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 5342,
+    "total_votes": 3251,
+    "valid_votes": 3189,
+    "invalid_votes": 62,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "A. Socialdemokratiet": 1138,
+      "O. Dansk Folkeparti": 443,
+      "F. SF - Socialistisk Folkeparti": 321,
+      "C. Det Konservative Folkeparti": 223,
+      "Ø. Enhedslisten - De Rød-Grønne": 253,
+      "V. Venstre, Danmarks Liberale Parti": 158,
+      "I. Liberal Alliance": 165,
+      "B. Radikale Venstre": 146,
+      "M. Moderaterne": 128,
+      "T. Tårnby Listen": 135,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 75,
+      "E. Velfærdslisten (Tårnby Kommune)": 4
+    }
   },
   "708328": {
     "name": "Korsvejen",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 4491,
+    "total_votes": 2998,
+    "valid_votes": 2951,
+    "invalid_votes": 47,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 1015,
+      "O. Dansk Folkeparti": 370,
+      "F. SF - Socialistisk Folkeparti": 366,
+      "C. Det Konservative Folkeparti": 208,
+      "Ø. Enhedslisten - De Rød-Grønne": 294,
+      "V. Venstre, Danmarks Liberale Parti": 139,
+      "I. Liberal Alliance": 150,
+      "B. Radikale Venstre": 134,
+      "M. Moderaterne": 89,
+      "T. Tårnby Listen": 119,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 64,
+      "E. Velfærdslisten (Tårnby Kommune)": 3
+    }
   },
   "701992": {
     "name": "Løjtegården",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 4171,
+    "total_votes": 2922,
+    "valid_votes": 2871,
+    "invalid_votes": 51,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 912,
+      "O. Dansk Folkeparti": 330,
+      "F. SF - Socialistisk Folkeparti": 313,
+      "C. Det Konservative Folkeparti": 251,
+      "Ø. Enhedslisten - De Rød-Grønne": 226,
+      "V. Venstre, Danmarks Liberale Parti": 167,
+      "I. Liberal Alliance": 163,
+      "B. Radikale Venstre": 136,
+      "M. Moderaterne": 189,
+      "T. Tårnby Listen": 110,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 67,
+      "E. Velfærdslisten (Tårnby Kommune)": 7
+    }
   },
   "708012": {
     "name": "Kastrup",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 9158,
+    "total_votes": 5354,
+    "valid_votes": 5244,
+    "invalid_votes": 110,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "A. Socialdemokratiet": 1972,
+      "O. Dansk Folkeparti": 720,
+      "F. SF - Socialistisk Folkeparti": 506,
+      "C. Det Konservative Folkeparti": 348,
+      "Ø. Enhedslisten - De Rød-Grønne": 488,
+      "V. Venstre, Danmarks Liberale Parti": 184,
+      "I. Liberal Alliance": 287,
+      "B. Radikale Venstre": 191,
+      "M. Moderaterne": 177,
+      "T. Tårnby Listen": 230,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 134,
+      "E. Velfærdslisten (Tårnby Kommune)": 7
+    }
   }
 }

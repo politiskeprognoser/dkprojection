@@ -1,83 +1,191 @@
 {
   "711588": {
     "name": "Birkerød",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 5571,
+    "total_votes": 4240,
+    "valid_votes": 4200,
+    "invalid_votes": 40,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "C. Det Konservative Folkeparti": 1307,
+      "V. Venstre, Danmarks Liberale Parti": 548,
+      "B. Radikale Venstre": 439,
+      "I. Liberal Alliance": 339,
+      "Ø. Enhedslisten - De Rød-Grønne": 374,
+      "A. Socialdemokratiet": 375,
+      "F. SF - Socialistisk Folkeparti": 228,
+      "O. Dansk Folkeparti": 231,
+      "L. Lokallisten (Rudersdal Kommune)": 252,
+      "M. Moderaterne": 70,
+      "Å. Alternativet": 37
+    }
   },
   "748890": {
     "name": "Grünersvej",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 5318,
+    "total_votes": 4167,
+    "valid_votes": 4140,
+    "invalid_votes": 27,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "C. Det Konservative Folkeparti": 1963,
+      "V. Venstre, Danmarks Liberale Parti": 596,
+      "B. Radikale Venstre": 329,
+      "I. Liberal Alliance": 297,
+      "Ø. Enhedslisten - De Rød-Grønne": 246,
+      "A. Socialdemokratiet": 197,
+      "F. SF - Socialistisk Folkeparti": 205,
+      "O. Dansk Folkeparti": 140,
+      "L. Lokallisten (Rudersdal Kommune)": 57,
+      "M. Moderaterne": 85,
+      "Å. Alternativet": 25
+    }
   },
   "704274": {
     "name": "Nærum",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 4418,
+    "total_votes": 3020,
+    "valid_votes": 2979,
+    "invalid_votes": 41,
+    "is_reported": true,
+    "votes": {
+      "C. Det Konservative Folkeparti": 1004,
+      "V. Venstre, Danmarks Liberale Parti": 429,
+      "B. Radikale Venstre": 279,
+      "I. Liberal Alliance": 224,
+      "Ø. Enhedslisten - De Rød-Grønne": 240,
+      "A. Socialdemokratiet": 330,
+      "F. SF - Socialistisk Folkeparti": 206,
+      "O. Dansk Folkeparti": 141,
+      "L. Lokallisten (Rudersdal Kommune)": 57,
+      "M. Moderaterne": 47,
+      "Å. Alternativet": 22
+    }
   },
   "702734": {
     "name": "Sjælsø",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 5914,
+    "total_votes": 4496,
+    "valid_votes": 4461,
+    "invalid_votes": 35,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "C. Det Konservative Folkeparti": 1538,
+      "V. Venstre, Danmarks Liberale Parti": 590,
+      "B. Radikale Venstre": 498,
+      "I. Liberal Alliance": 380,
+      "Ø. Enhedslisten - De Rød-Grønne": 371,
+      "A. Socialdemokratiet": 263,
+      "F. SF - Socialistisk Folkeparti": 257,
+      "O. Dansk Folkeparti": 211,
+      "L. Lokallisten (Rudersdal Kommune)": 230,
+      "M. Moderaterne": 87,
+      "Å. Alternativet": 36
+    }
   },
   "702728": {
     "name": "Skovly",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 2734,
+    "total_votes": 2165,
+    "valid_votes": 2150,
+    "invalid_votes": 15,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "C. Det Konservative Folkeparti": 960,
+      "V. Venstre, Danmarks Liberale Parti": 293,
+      "B. Radikale Venstre": 213,
+      "I. Liberal Alliance": 179,
+      "Ø. Enhedslisten - De Rød-Grønne": 124,
+      "A. Socialdemokratiet": 110,
+      "F. SF - Socialistisk Folkeparti": 106,
+      "O. Dansk Folkeparti": 69,
+      "L. Lokallisten (Rudersdal Kommune)": 37,
+      "M. Moderaterne": 45,
+      "Å. Alternativet": 14
+    }
   },
   "705784": {
     "name": "Toftevang",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 6329,
+    "total_votes": 4747,
+    "valid_votes": 4684,
+    "invalid_votes": 63,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "C. Det Konservative Folkeparti": 1499,
+      "V. Venstre, Danmarks Liberale Parti": 586,
+      "B. Radikale Venstre": 551,
+      "I. Liberal Alliance": 379,
+      "Ø. Enhedslisten - De Rød-Grønne": 462,
+      "A. Socialdemokratiet": 316,
+      "F. SF - Socialistisk Folkeparti": 277,
+      "O. Dansk Folkeparti": 240,
+      "L. Lokallisten (Rudersdal Kommune)": 248,
+      "M. Moderaterne": 87,
+      "Å. Alternativet": 39
+    }
   },
   "707194": {
     "name": "Trørød",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 4463,
+    "total_votes": 3323,
+    "valid_votes": 3297,
+    "invalid_votes": 26,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "C. Det Konservative Folkeparti": 1296,
+      "V. Venstre, Danmarks Liberale Parti": 577,
+      "B. Radikale Venstre": 293,
+      "I. Liberal Alliance": 264,
+      "Ø. Enhedslisten - De Rød-Grønne": 187,
+      "A. Socialdemokratiet": 243,
+      "F. SF - Socialistisk Folkeparti": 175,
+      "O. Dansk Folkeparti": 135,
+      "L. Lokallisten (Rudersdal Kommune)": 41,
+      "M. Moderaterne": 63,
+      "Å. Alternativet": 23
+    }
   },
   "708708": {
     "name": "Vangebo",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 3092,
+    "total_votes": 2448,
+    "valid_votes": 2406,
+    "invalid_votes": 42,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "C. Det Konservative Folkeparti": 1075,
+      "V. Venstre, Danmarks Liberale Parti": 423,
+      "B. Radikale Venstre": 212,
+      "I. Liberal Alliance": 184,
+      "Ø. Enhedslisten - De Rød-Grønne": 145,
+      "A. Socialdemokratiet": 84,
+      "F. SF - Socialistisk Folkeparti": 117,
+      "O. Dansk Folkeparti": 81,
+      "L. Lokallisten (Rudersdal Kommune)": 28,
+      "M. Moderaterne": 43,
+      "Å. Alternativet": 14
+    }
   },
   "701142": {
     "name": "Vedbæk",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 6232,
+    "total_votes": 4734,
+    "valid_votes": 4678,
+    "invalid_votes": 56,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "C. Det Konservative Folkeparti": 1955,
+      "V. Venstre, Danmarks Liberale Parti": 1001,
+      "B. Radikale Venstre": 374,
+      "I. Liberal Alliance": 375,
+      "Ø. Enhedslisten - De Rød-Grønne": 235,
+      "A. Socialdemokratiet": 173,
+      "F. SF - Socialistisk Folkeparti": 197,
+      "O. Dansk Folkeparti": 176,
+      "L. Lokallisten (Rudersdal Kommune)": 62,
+      "M. Moderaterne": 97,
+      "Å. Alternativet": 33
+    }
   }
 }

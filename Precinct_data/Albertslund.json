@@ -1,47 +1,102 @@
 {
   "704718": {
     "name": "Herstedøster Skole",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 4992,
+    "total_votes": 3171,
+    "valid_votes": 3100,
+    "invalid_votes": 71,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 665,
+      "F. SF - Socialistisk Folkeparti": 651,
+      "Ø. Enhedslisten - De Rød-Grønne": 458,
+      "C. Det Konservative Folkeparti": 442,
+      "O. Dansk Folkeparti": 236,
+      "B. Radikale Venstre": 195,
+      "L. Albertslund-Listen": 169,
+      "I. Liberal Alliance": 143,
+      "V. Venstre, Danmarks Liberale Parti": 103,
+      "T. Grøn Velfærd": 38
+    }
   },
   "709136": {
     "name": "Egelundskolen",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 3862,
+    "total_votes": 2674,
+    "valid_votes": 2640,
+    "invalid_votes": 34,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 745,
+      "F. SF - Socialistisk Folkeparti": 523,
+      "Ø. Enhedslisten - De Rød-Grønne": 202,
+      "C. Det Konservative Folkeparti": 354,
+      "O. Dansk Folkeparti": 275,
+      "B. Radikale Venstre": 158,
+      "L. Albertslund-Listen": 149,
+      "I. Liberal Alliance": 130,
+      "V. Venstre, Danmarks Liberale Parti": 87,
+      "T. Grøn Velfærd": 17
+    }
   },
   "710708": {
     "name": "Herstedlund Skole",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 3778,
+    "total_votes": 2121,
+    "valid_votes": 2084,
+    "invalid_votes": 37,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 644,
+      "F. SF - Socialistisk Folkeparti": 376,
+      "Ø. Enhedslisten - De Rød-Grønne": 242,
+      "C. Det Konservative Folkeparti": 167,
+      "O. Dansk Folkeparti": 183,
+      "B. Radikale Venstre": 241,
+      "L. Albertslund-Listen": 119,
+      "I. Liberal Alliance": 65,
+      "V. Venstre, Danmarks Liberale Parti": 32,
+      "T. Grøn Velfærd": 15
+    }
   },
   "709130": {
     "name": "Kongsholmcenteret",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 4430,
+    "total_votes": 2453,
+    "valid_votes": 2422,
+    "invalid_votes": 31,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 767,
+      "F. SF - Socialistisk Folkeparti": 397,
+      "Ø. Enhedslisten - De Rød-Grønne": 296,
+      "C. Det Konservative Folkeparti": 159,
+      "O. Dansk Folkeparti": 308,
+      "B. Radikale Venstre": 143,
+      "L. Albertslund-Listen": 214,
+      "I. Liberal Alliance": 39,
+      "V. Venstre, Danmarks Liberale Parti": 80,
+      "T. Grøn Velfærd": 19
+    }
   },
   "706090": {
     "name": "Herstedvester Skole",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 5102,
+    "total_votes": 3377,
+    "valid_votes": 3330,
+    "invalid_votes": 47,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 981,
+      "F. SF - Socialistisk Folkeparti": 697,
+      "Ø. Enhedslisten - De Rød-Grønne": 341,
+      "C. Det Konservative Folkeparti": 271,
+      "O. Dansk Folkeparti": 210,
+      "B. Radikale Venstre": 339,
+      "L. Albertslund-Listen": 209,
+      "I. Liberal Alliance": 125,
+      "V. Venstre, Danmarks Liberale Parti": 132,
+      "T. Grøn Velfærd": 25
+    }
   }
 }

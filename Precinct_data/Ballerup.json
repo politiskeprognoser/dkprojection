@@ -1,83 +1,191 @@
 {
   "701002": {
     "name": "Tapeten",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 4699,
+    "total_votes": 2893,
+    "valid_votes": 2814,
+    "invalid_votes": 79,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "A. Socialdemokratiet": 1288,
+      "F. SF - Socialistisk Folkeparti": 358,
+      "B. Radikale Venstre": 238,
+      "O. Dansk Folkeparti": 269,
+      "V. Venstre, Danmarks Liberale Parti": 188,
+      "I. Liberal Alliance": 173,
+      "C. Det Konservative Folkeparti": 144,
+      "Ø. Enhedslisten - De Rød-Grønne": 87,
+      "M. Moderaterne": 37,
+      "D. Nye Borgerlige": 18,
+      "E. Befri Ballerup": 14
+    }
   },
   "706986": {
     "name": "Balleruphallen - Rugvænget",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 8122,
+    "total_votes": 4601,
+    "valid_votes": 4462,
+    "invalid_votes": 139,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "A. Socialdemokratiet": 1907,
+      "F. SF - Socialistisk Folkeparti": 621,
+      "B. Radikale Venstre": 349,
+      "O. Dansk Folkeparti": 437,
+      "V. Venstre, Danmarks Liberale Parti": 309,
+      "I. Liberal Alliance": 296,
+      "C. Det Konservative Folkeparti": 217,
+      "Ø. Enhedslisten - De Rød-Grønne": 208,
+      "M. Moderaterne": 63,
+      "D. Nye Borgerlige": 31,
+      "E. Befri Ballerup": 24
+    }
   },
   "710146": {
     "name": "Skovvejens Skole - Vest",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 2673,
+    "total_votes": 1937,
+    "valid_votes": 1891,
+    "invalid_votes": 46,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "A. Socialdemokratiet": 691,
+      "F. SF - Socialistisk Folkeparti": 263,
+      "B. Radikale Venstre": 174,
+      "O. Dansk Folkeparti": 156,
+      "V. Venstre, Danmarks Liberale Parti": 194,
+      "I. Liberal Alliance": 126,
+      "C. Det Konservative Folkeparti": 166,
+      "Ø. Enhedslisten - De Rød-Grønne": 69,
+      "M. Moderaterne": 29,
+      "D. Nye Borgerlige": 13,
+      "E. Befri Ballerup": 10
+    }
   },
   "710158": {
     "name": "Grantoftehallen",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 4088,
+    "total_votes": 2418,
+    "valid_votes": 2358,
+    "invalid_votes": 60,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "A. Socialdemokratiet": 1037,
+      "F. SF - Socialistisk Folkeparti": 358,
+      "B. Radikale Venstre": 198,
+      "O. Dansk Folkeparti": 234,
+      "V. Venstre, Danmarks Liberale Parti": 141,
+      "I. Liberal Alliance": 158,
+      "C. Det Konservative Folkeparti": 98,
+      "Ø. Enhedslisten - De Rød-Grønne": 75,
+      "M. Moderaterne": 28,
+      "D. Nye Borgerlige": 18,
+      "E. Befri Ballerup": 13
+    }
   },
   "705652": {
     "name": "Idrætshallen",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 4016,
+    "total_votes": 3058,
+    "valid_votes": 2996,
+    "invalid_votes": 62,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "A. Socialdemokratiet": 1167,
+      "F. SF - Socialistisk Folkeparti": 399,
+      "B. Radikale Venstre": 328,
+      "O. Dansk Folkeparti": 212,
+      "V. Venstre, Danmarks Liberale Parti": 302,
+      "I. Liberal Alliance": 189,
+      "C. Det Konservative Folkeparti": 218,
+      "Ø. Enhedslisten - De Rød-Grønne": 89,
+      "M. Moderaterne": 66,
+      "D. Nye Borgerlige": 11,
+      "E. Befri Ballerup": 15
+    }
   },
   "704024": {
     "name": "Skovlunde Skole - Lundebjerg",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 6963,
+    "total_votes": 3966,
+    "valid_votes": 3857,
+    "invalid_votes": 109,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "A. Socialdemokratiet": 1665,
+      "F. SF - Socialistisk Folkeparti": 473,
+      "B. Radikale Venstre": 376,
+      "O. Dansk Folkeparti": 369,
+      "V. Venstre, Danmarks Liberale Parti": 241,
+      "I. Liberal Alliance": 250,
+      "C. Det Konservative Folkeparti": 200,
+      "Ø. Enhedslisten - De Rød-Grønne": 190,
+      "M. Moderaterne": 51,
+      "D. Nye Borgerlige": 23,
+      "E. Befri Ballerup": 19
+    }
   },
   "706992": {
     "name": "Måløv Ny Hal",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 4364,
+    "total_votes": 3213,
+    "valid_votes": 3154,
+    "invalid_votes": 59,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "A. Socialdemokratiet": 1173,
+      "F. SF - Socialistisk Folkeparti": 385,
+      "B. Radikale Venstre": 321,
+      "O. Dansk Folkeparti": 229,
+      "V. Venstre, Danmarks Liberale Parti": 280,
+      "I. Liberal Alliance": 218,
+      "C. Det Konservative Folkeparti": 265,
+      "Ø. Enhedslisten - De Rød-Grønne": 181,
+      "M. Moderaterne": 72,
+      "D. Nye Borgerlige": 13,
+      "E. Befri Ballerup": 17
+    }
   },
   "710152": {
     "name": "Egebjerghallen",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 3871,
+    "total_votes": 2972,
+    "valid_votes": 2910,
+    "invalid_votes": 62,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "A. Socialdemokratiet": 979,
+      "F. SF - Socialistisk Folkeparti": 468,
+      "B. Radikale Venstre": 306,
+      "O. Dansk Folkeparti": 192,
+      "V. Venstre, Danmarks Liberale Parti": 295,
+      "I. Liberal Alliance": 200,
+      "C. Det Konservative Folkeparti": 236,
+      "Ø. Enhedslisten - De Rød-Grønne": 134,
+      "M. Moderaterne": 70,
+      "D. Nye Borgerlige": 14,
+      "E. Befri Ballerup": 16
+    }
   },
   "710164": {
     "name": "Østerhøjhallen",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 2303,
+    "total_votes": 1733,
+    "valid_votes": 1701,
+    "invalid_votes": 32,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 580,
+      "F. SF - Socialistisk Folkeparti": 232,
+      "B. Radikale Venstre": 182,
+      "O. Dansk Folkeparti": 128,
+      "V. Venstre, Danmarks Liberale Parti": 118,
+      "I. Liberal Alliance": 108,
+      "C. Det Konservative Folkeparti": 135,
+      "Ø. Enhedslisten - De Rød-Grønne": 170,
+      "M. Moderaterne": 33,
+      "D. Nye Borgerlige": 6,
+      "E. Befri Ballerup": 9
+    }
   }
 }

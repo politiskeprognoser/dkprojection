@@ -1,137 +1,302 @@
 {
   "705918": {
     "name": "Thisted",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 11869,
+    "total_votes": 8215,
+    "valid_votes": 8074,
+    "invalid_votes": 141,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 2442,
+      "V. Venstre, Danmarks Liberale Parti": 1416,
+      "C. Det Konservative Folkeparti": 993,
+      "I. Liberal Alliance": 1312,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 481,
+      "Ø. Enhedslisten - De Rød-Grønne": 495,
+      "F. SF - Socialistisk Folkeparti": 481,
+      "O. Dansk Folkeparti": 259,
+      "B. Radikale Venstre": 132,
+      "T. Thy Borgerlige": 63
+    }
   },
   "748371": {
     "name": "Snedsted",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 2755,
+    "total_votes": 2063,
+    "valid_votes": 2041,
+    "invalid_votes": 22,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 428,
+      "V. Venstre, Danmarks Liberale Parti": 330,
+      "C. Det Konservative Folkeparti": 314,
+      "I. Liberal Alliance": 197,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 275,
+      "Ø. Enhedslisten - De Rød-Grønne": 154,
+      "F. SF - Socialistisk Folkeparti": 87,
+      "O. Dansk Folkeparti": 155,
+      "B. Radikale Venstre": 25,
+      "T. Thy Borgerlige": 76
+    }
   },
   "748374": {
     "name": "Hurup",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 3310,
+    "total_votes": 2406,
+    "valid_votes": 2378,
+    "invalid_votes": 28,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 673,
+      "V. Venstre, Danmarks Liberale Parti": 531,
+      "C. Det Konservative Folkeparti": 525,
+      "I. Liberal Alliance": 117,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 174,
+      "Ø. Enhedslisten - De Rød-Grønne": 76,
+      "F. SF - Socialistisk Folkeparti": 91,
+      "O. Dansk Folkeparti": 109,
+      "B. Radikale Venstre": 28,
+      "T. Thy Borgerlige": 54
+    }
   },
   "748376": {
     "name": "Hanstholm",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 2229,
+    "total_votes": 1407,
+    "valid_votes": 1392,
+    "invalid_votes": 15,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 293,
+      "V. Venstre, Danmarks Liberale Parti": 221,
+      "C. Det Konservative Folkeparti": 211,
+      "I. Liberal Alliance": 343,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 164,
+      "Ø. Enhedslisten - De Rød-Grønne": 31,
+      "F. SF - Socialistisk Folkeparti": 53,
+      "O. Dansk Folkeparti": 63,
+      "B. Radikale Venstre": 4,
+      "T. Thy Borgerlige": 9
+    }
   },
   "702944": {
     "name": "Sjørring",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 2296,
+    "total_votes": 1701,
+    "valid_votes": 1679,
+    "invalid_votes": 22,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 368,
+      "V. Venstre, Danmarks Liberale Parti": 261,
+      "C. Det Konservative Folkeparti": 256,
+      "I. Liberal Alliance": 235,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 159,
+      "Ø. Enhedslisten - De Rød-Grønne": 131,
+      "F. SF - Socialistisk Folkeparti": 107,
+      "O. Dansk Folkeparti": 79,
+      "B. Radikale Venstre": 32,
+      "T. Thy Borgerlige": 51
+    }
   },
   "709112": {
     "name": "Vesløs",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 851,
+    "total_votes": 624,
+    "valid_votes": 612,
+    "invalid_votes": 12,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 121,
+      "V. Venstre, Danmarks Liberale Parti": 68,
+      "C. Det Konservative Folkeparti": 129,
+      "I. Liberal Alliance": 62,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 72,
+      "Ø. Enhedslisten - De Rød-Grønne": 37,
+      "F. SF - Socialistisk Folkeparti": 54,
+      "O. Dansk Folkeparti": 45,
+      "B. Radikale Venstre": 8,
+      "T. Thy Borgerlige": 16
+    }
   },
   "705906": {
     "name": "Vestervig",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1457,
+    "total_votes": 1086,
+    "valid_votes": 1074,
+    "invalid_votes": 12,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 295,
+      "V. Venstre, Danmarks Liberale Parti": 168,
+      "C. Det Konservative Folkeparti": 291,
+      "I. Liberal Alliance": 58,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 86,
+      "Ø. Enhedslisten - De Rød-Grønne": 34,
+      "F. SF - Socialistisk Folkeparti": 48,
+      "O. Dansk Folkeparti": 59,
+      "B. Radikale Venstre": 14,
+      "T. Thy Borgerlige": 21
+    }
   },
   "704712": {
     "name": "Bedsted",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1438,
+    "total_votes": 1057,
+    "valid_votes": 1044,
+    "invalid_votes": 13,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 177,
+      "V. Venstre, Danmarks Liberale Parti": 295,
+      "C. Det Konservative Folkeparti": 88,
+      "I. Liberal Alliance": 47,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 145,
+      "Ø. Enhedslisten - De Rød-Grønne": 71,
+      "F. SF - Socialistisk Folkeparti": 55,
+      "O. Dansk Folkeparti": 86,
+      "B. Radikale Venstre": 13,
+      "T. Thy Borgerlige": 67
+    }
   },
   "748375": {
     "name": "Nors",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1402,
+    "total_votes": 1073,
+    "valid_votes": 1063,
+    "invalid_votes": 10,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 186,
+      "V. Venstre, Danmarks Liberale Parti": 154,
+      "C. Det Konservative Folkeparti": 85,
+      "I. Liberal Alliance": 336,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 148,
+      "Ø. Enhedslisten - De Rød-Grønne": 40,
+      "F. SF - Socialistisk Folkeparti": 33,
+      "O. Dansk Folkeparti": 62,
+      "B. Radikale Venstre": 7,
+      "T. Thy Borgerlige": 12
+    }
   },
   "708884": {
     "name": "Frøstrup",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1052,
+    "total_votes": 814,
+    "valid_votes": 799,
+    "invalid_votes": 15,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 111,
+      "V. Venstre, Danmarks Liberale Parti": 90,
+      "C. Det Konservative Folkeparti": 250,
+      "I. Liberal Alliance": 51,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 73,
+      "Ø. Enhedslisten - De Rød-Grønne": 65,
+      "F. SF - Socialistisk Folkeparti": 110,
+      "O. Dansk Folkeparti": 29,
+      "B. Radikale Venstre": 11,
+      "T. Thy Borgerlige": 9
+    }
   },
   "748372": {
     "name": "Vorupør",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 763,
+    "total_votes": 612,
+    "valid_votes": 608,
+    "invalid_votes": 4,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 180,
+      "V. Venstre, Danmarks Liberale Parti": 121,
+      "C. Det Konservative Folkeparti": 62,
+      "I. Liberal Alliance": 45,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 47,
+      "Ø. Enhedslisten - De Rød-Grønne": 44,
+      "F. SF - Socialistisk Folkeparti": 21,
+      "O. Dansk Folkeparti": 64,
+      "B. Radikale Venstre": 11,
+      "T. Thy Borgerlige": 13
+    }
   },
   "748370": {
     "name": "Koldby",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1728,
+    "total_votes": 1232,
+    "valid_votes": 1211,
+    "invalid_votes": 21,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 261,
+      "V. Venstre, Danmarks Liberale Parti": 228,
+      "C. Det Konservative Folkeparti": 249,
+      "I. Liberal Alliance": 77,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 135,
+      "Ø. Enhedslisten - De Rød-Grønne": 72,
+      "F. SF - Socialistisk Folkeparti": 52,
+      "O. Dansk Folkeparti": 74,
+      "B. Radikale Venstre": 16,
+      "T. Thy Borgerlige": 47
+    }
   },
   "748373": {
     "name": "Østerild",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 999,
+    "total_votes": 674,
+    "valid_votes": 667,
+    "invalid_votes": 7,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 163,
+      "V. Venstre, Danmarks Liberale Parti": 108,
+      "C. Det Konservative Folkeparti": 99,
+      "I. Liberal Alliance": 112,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 90,
+      "Ø. Enhedslisten - De Rød-Grønne": 15,
+      "F. SF - Socialistisk Folkeparti": 30,
+      "O. Dansk Folkeparti": 32,
+      "B. Radikale Venstre": 8,
+      "T. Thy Borgerlige": 10
+    }
   },
   "748377": {
     "name": "Sennels",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1004,
+    "total_votes": 851,
+    "valid_votes": 843,
+    "invalid_votes": 8,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 151,
+      "V. Venstre, Danmarks Liberale Parti": 202,
+      "C. Det Konservative Folkeparti": 61,
+      "I. Liberal Alliance": 284,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 41,
+      "Ø. Enhedslisten - De Rød-Grønne": 43,
+      "F. SF - Socialistisk Folkeparti": 37,
+      "O. Dansk Folkeparti": 14,
+      "B. Radikale Venstre": 7,
+      "T. Thy Borgerlige": 3
+    }
   },
   "701270": {
     "name": "Klitmøller",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 982,
+    "total_votes": 799,
+    "valid_votes": 787,
+    "invalid_votes": 12,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 192,
+      "V. Venstre, Danmarks Liberale Parti": 55,
+      "C. Det Konservative Folkeparti": 62,
+      "I. Liberal Alliance": 53,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 18,
+      "Ø. Enhedslisten - De Rød-Grønne": 93,
+      "F. SF - Socialistisk Folkeparti": 35,
+      "O. Dansk Folkeparti": 28,
+      "B. Radikale Venstre": 246,
+      "T. Thy Borgerlige": 5
+    }
   }
 }

@@ -1,56 +1,140 @@
 {
   "702064": {
     "name": "Nordvanghallen",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 2606,
+    "total_votes": 1941,
+    "valid_votes": 1911,
+    "invalid_votes": 30,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "A. Socialdemokratiet": 784,
+      "V. Venstre, Danmarks Liberale Parti": 351,
+      "F. SF - Socialistisk Folkeparti": 148,
+      "I. Liberal Alliance": 143,
+      "C. Det Konservative Folkeparti": 153,
+      "B. Radikale Venstre": 117,
+      "U. Bylisten": 61,
+      "O. Dansk Folkeparti": 58,
+      "Ø. Enhedslisten - De Rød-Grønne": 49,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 30,
+      "M. Moderaterne": 8,
+      "D. Nye Borgerlige": 5,
+      "Å. Alternativet": 4
+    }
   },
   "708406": {
     "name": "Sognegården",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 2954,
+    "total_votes": 1750,
+    "valid_votes": 1719,
+    "invalid_votes": 31,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "A. Socialdemokratiet": 639,
+      "V. Venstre, Danmarks Liberale Parti": 340,
+      "F. SF - Socialistisk Folkeparti": 157,
+      "I. Liberal Alliance": 117,
+      "C. Det Konservative Folkeparti": 97,
+      "B. Radikale Venstre": 97,
+      "U. Bylisten": 111,
+      "O. Dansk Folkeparti": 65,
+      "Ø. Enhedslisten - De Rød-Grønne": 55,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 25,
+      "M. Moderaterne": 8,
+      "D. Nye Borgerlige": 4,
+      "Å. Alternativet": 4
+    }
   },
   "708412": {
     "name": "Søndervanghallen",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 4711,
+    "total_votes": 2651,
+    "valid_votes": 2583,
+    "invalid_votes": 68,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "A. Socialdemokratiet": 1118,
+      "V. Venstre, Danmarks Liberale Parti": 415,
+      "F. SF - Socialistisk Folkeparti": 186,
+      "I. Liberal Alliance": 174,
+      "C. Det Konservative Folkeparti": 162,
+      "B. Radikale Venstre": 127,
+      "U. Bylisten": 132,
+      "O. Dansk Folkeparti": 109,
+      "Ø. Enhedslisten - De Rød-Grønne": 98,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 38,
+      "M. Moderaterne": 9,
+      "D. Nye Borgerlige": 10,
+      "Å. Alternativet": 5
+    }
   },
   "700820": {
     "name": "Vestervangskolen",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 4406,
+    "total_votes": 2459,
+    "valid_votes": 2389,
+    "invalid_votes": 70,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "A. Socialdemokratiet": 1292,
+      "V. Venstre, Danmarks Liberale Parti": 227,
+      "F. SF - Socialistisk Folkeparti": 162,
+      "I. Liberal Alliance": 130,
+      "C. Det Konservative Folkeparti": 86,
+      "B. Radikale Venstre": 119,
+      "U. Bylisten": 90,
+      "O. Dansk Folkeparti": 122,
+      "Ø. Enhedslisten - De Rød-Grønne": 106,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 35,
+      "M. Moderaterne": 7,
+      "D. Nye Borgerlige": 9,
+      "Å. Alternativet": 4
+    }
   },
   "711278": {
     "name": "Ejbyhallen",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1551,
+    "total_votes": 1225,
+    "valid_votes": 1209,
+    "invalid_votes": 16,
+    "is_reported": true,
+    "votes": {
+      "A. Socialdemokratiet": 434,
+      "V. Venstre, Danmarks Liberale Parti": 311,
+      "F. SF - Socialistisk Folkeparti": 76,
+      "I. Liberal Alliance": 98,
+      "C. Det Konservative Folkeparti": 85,
+      "B. Radikale Venstre": 48,
+      "U. Bylisten": 47,
+      "O. Dansk Folkeparti": 45,
+      "Ø. Enhedslisten - De Rød-Grønne": 31,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 21,
+      "M. Moderaterne": 8,
+      "D. Nye Borgerlige": 2,
+      "Å. Alternativet": 3
+    }
   },
   "700826": {
     "name": "Hvissingehallen",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 3347,
+    "total_votes": 2252,
+    "valid_votes": 2211,
+    "invalid_votes": 41,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "A. Socialdemokratiet": 986,
+      "V. Venstre, Danmarks Liberale Parti": 368,
+      "F. SF - Socialistisk Folkeparti": 169,
+      "I. Liberal Alliance": 154,
+      "C. Det Konservative Folkeparti": 142,
+      "B. Radikale Venstre": 89,
+      "U. Bylisten": 92,
+      "O. Dansk Folkeparti": 74,
+      "Ø. Enhedslisten - De Rød-Grønne": 76,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 40,
+      "M. Moderaterne": 8,
+      "D. Nye Borgerlige": 8,
+      "Å. Alternativet": 5
+    }
   }
 }

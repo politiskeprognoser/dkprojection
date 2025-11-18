@@ -1,128 +1,282 @@
 {
   "708562": {
     "name": "Aalestrup",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 3115,
+    "total_votes": 2019,
+    "valid_votes": 1994,
+    "invalid_votes": 25,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 611,
+      "C. Det Konservative Folkeparti": 581,
+      "A. Socialdemokratiet": 285,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 308,
+      "F. SF - Socialistisk Folkeparti": 96,
+      "O. Dansk Folkeparti": 44,
+      "I. Liberal Alliance": 40,
+      "B. Radikale Venstre": 16,
+      "K. KD – Kristendemokraterne": 6,
+      "L. Borgerlisten (Vesthimmerland Kommune)": 7
+    }
   },
   "705538": {
     "name": "Farsø",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 3827,
+    "total_votes": 2640,
+    "valid_votes": 2613,
+    "invalid_votes": 27,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 788,
+      "C. Det Konservative Folkeparti": 644,
+      "A. Socialdemokratiet": 472,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 341,
+      "F. SF - Socialistisk Folkeparti": 136,
+      "O. Dansk Folkeparti": 57,
+      "I. Liberal Alliance": 83,
+      "B. Radikale Venstre": 65,
+      "K. KD – Kristendemokraterne": 17,
+      "L. Borgerlisten (Vesthimmerland Kommune)": 10
+    }
   },
   "708538": {
     "name": "Strandby",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 637,
+    "total_votes": 443,
+    "valid_votes": 438,
+    "invalid_votes": 5,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 117,
+      "C. Det Konservative Folkeparti": 74,
+      "A. Socialdemokratiet": 80,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 82,
+      "F. SF - Socialistisk Folkeparti": 31,
+      "O. Dansk Folkeparti": 9,
+      "I. Liberal Alliance": 8,
+      "B. Radikale Venstre": 28,
+      "K. KD – Kristendemokraterne": 4,
+      "L. Borgerlisten (Vesthimmerland Kommune)": 5
+    }
   },
   "700858": {
     "name": "Aars",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 7620,
+    "total_votes": 5305,
+    "valid_votes": 5247,
+    "invalid_votes": 58,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 1258,
+      "C. Det Konservative Folkeparti": 1735,
+      "A. Socialdemokratiet": 1069,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 456,
+      "F. SF - Socialistisk Folkeparti": 309,
+      "O. Dansk Folkeparti": 144,
+      "I. Liberal Alliance": 112,
+      "B. Radikale Venstre": 114,
+      "K. KD – Kristendemokraterne": 32,
+      "L. Borgerlisten (Vesthimmerland Kommune)": 18
+    }
   },
   "711328": {
     "name": "Hvalpsund",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 1310,
+    "total_votes": 887,
+    "valid_votes": 877,
+    "invalid_votes": 10,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 353,
+      "C. Det Konservative Folkeparti": 126,
+      "A. Socialdemokratiet": 162,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 116,
+      "F. SF - Socialistisk Folkeparti": 50,
+      "O. Dansk Folkeparti": 11,
+      "I. Liberal Alliance": 25,
+      "B. Radikale Venstre": 23,
+      "K. KD – Kristendemokraterne": 7,
+      "L. Borgerlisten (Vesthimmerland Kommune)": 4
+    }
   },
   "710016": {
     "name": "Gislum-Vognsild",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 830,
+    "total_votes": 573,
+    "valid_votes": 562,
+    "invalid_votes": 11,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 169,
+      "C. Det Konservative Folkeparti": 92,
+      "A. Socialdemokratiet": 144,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 82,
+      "F. SF - Socialistisk Folkeparti": 26,
+      "O. Dansk Folkeparti": 20,
+      "I. Liberal Alliance": 14,
+      "B. Radikale Venstre": 5,
+      "K. KD – Kristendemokraterne": 8,
+      "L. Borgerlisten (Vesthimmerland Kommune)": 2
+    }
   },
   "710008": {
     "name": "Gedsted",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1448,
+    "total_votes": 1015,
+    "valid_votes": 999,
+    "invalid_votes": 16,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 543,
+      "C. Det Konservative Folkeparti": 72,
+      "A. Socialdemokratiet": 105,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 137,
+      "F. SF - Socialistisk Folkeparti": 65,
+      "O. Dansk Folkeparti": 38,
+      "I. Liberal Alliance": 17,
+      "B. Radikale Venstre": 9,
+      "K. KD – Kristendemokraterne": 4,
+      "L. Borgerlisten (Vesthimmerland Kommune)": 9
+    }
   },
   "705558": {
     "name": "Hornum-Ulstrup",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 1354,
+    "total_votes": 878,
+    "valid_votes": 865,
+    "invalid_votes": 13,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 193,
+      "C. Det Konservative Folkeparti": 311,
+      "A. Socialdemokratiet": 131,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 96,
+      "F. SF - Socialistisk Folkeparti": 53,
+      "O. Dansk Folkeparti": 42,
+      "I. Liberal Alliance": 21,
+      "B. Radikale Venstre": 10,
+      "K. KD – Kristendemokraterne": 5,
+      "L. Borgerlisten (Vesthimmerland Kommune)": 3
+    }
   },
   "710002": {
     "name": "Vester Hornum",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 843,
+    "total_votes": 556,
+    "valid_votes": 547,
+    "invalid_votes": 9,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 107,
+      "C. Det Konservative Folkeparti": 133,
+      "A. Socialdemokratiet": 86,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 105,
+      "F. SF - Socialistisk Folkeparti": 32,
+      "O. Dansk Folkeparti": 13,
+      "I. Liberal Alliance": 25,
+      "B. Radikale Venstre": 33,
+      "K. KD – Kristendemokraterne": 8,
+      "L. Borgerlisten (Vesthimmerland Kommune)": 5
+    }
   },
   "702144": {
     "name": "Løgstør",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 3967,
+    "total_votes": 2711,
+    "valid_votes": 2671,
+    "invalid_votes": 40,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 1061,
+      "C. Det Konservative Folkeparti": 463,
+      "A. Socialdemokratiet": 438,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 312,
+      "F. SF - Socialistisk Folkeparti": 250,
+      "O. Dansk Folkeparti": 63,
+      "I. Liberal Alliance": 24,
+      "B. Radikale Venstre": 34,
+      "K. KD – Kristendemokraterne": 26,
+      "L. Borgerlisten (Vesthimmerland Kommune)": 0
+    }
   },
   "709958": {
     "name": "Ranum",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1337,
+    "total_votes": 843,
+    "valid_votes": 809,
+    "invalid_votes": 34,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 138,
+      "C. Det Konservative Folkeparti": 75,
+      "A. Socialdemokratiet": 118,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 144,
+      "F. SF - Socialistisk Folkeparti": 236,
+      "O. Dansk Folkeparti": 15,
+      "I. Liberal Alliance": 27,
+      "B. Radikale Venstre": 22,
+      "K. KD – Kristendemokraterne": 23,
+      "L. Borgerlisten (Vesthimmerland Kommune)": 11
+    }
   },
   "706876": {
     "name": "Salling",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 984,
+    "total_votes": 647,
+    "valid_votes": 640,
+    "invalid_votes": 7,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 223,
+      "C. Det Konservative Folkeparti": 79,
+      "A. Socialdemokratiet": 77,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 146,
+      "F. SF - Socialistisk Folkeparti": 59,
+      "O. Dansk Folkeparti": 23,
+      "I. Liberal Alliance": 18,
+      "B. Radikale Venstre": 1,
+      "K. KD – Kristendemokraterne": 9,
+      "L. Borgerlisten (Vesthimmerland Kommune)": 5
+    }
   },
   "700908": {
     "name": "Overlade",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 750,
+    "total_votes": 490,
+    "valid_votes": 481,
+    "invalid_votes": 9,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 247,
+      "C. Det Konservative Folkeparti": 35,
+      "A. Socialdemokratiet": 44,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 80,
+      "F. SF - Socialistisk Folkeparti": 39,
+      "O. Dansk Folkeparti": 11,
+      "I. Liberal Alliance": 9,
+      "B. Radikale Venstre": 4,
+      "K. KD – Kristendemokraterne": 9,
+      "L. Borgerlisten (Vesthimmerland Kommune)": 3
+    }
   },
   "709966": {
     "name": "Skivum-Giver",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 628,
+    "total_votes": 445,
+    "valid_votes": 441,
+    "invalid_votes": 4,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 85,
+      "C. Det Konservative Folkeparti": 78,
+      "A. Socialdemokratiet": 157,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 67,
+      "F. SF - Socialistisk Folkeparti": 19,
+      "O. Dansk Folkeparti": 11,
+      "I. Liberal Alliance": 11,
+      "B. Radikale Venstre": 10,
+      "K. KD – Kristendemokraterne": 1,
+      "L. Borgerlisten (Vesthimmerland Kommune)": 2
+    }
   }
 }

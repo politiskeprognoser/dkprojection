@@ -1,74 +1,170 @@
 {
   "703836": {
     "name": "Holmegårdshallen",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 4947,
+    "total_votes": 3368,
+    "valid_votes": 3273,
+    "invalid_votes": 95,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "F. SF - Socialistisk Folkeparti": 896,
+      "A. Socialdemokratiet": 629,
+      "C. Det Konservative Folkeparti": 316,
+      "O. Dansk Folkeparti": 351,
+      "L. Hvidovrelisten": 329,
+      "Ø. Enhedslisten - De Rød-Grønne": 266,
+      "I. Liberal Alliance": 162,
+      "B. Radikale Venstre": 164,
+      "V. Venstre, Danmarks Liberale Parti": 67,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 49,
+      "M. Moderaterne": 44
+    }
   },
   "709882": {
     "name": "Præstemoseskolen",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 3531,
+    "total_votes": 2254,
+    "valid_votes": 2202,
+    "invalid_votes": 52,
+    "is_reported": true,
+    "votes": {
+      "F. SF - Socialistisk Folkeparti": 555,
+      "A. Socialdemokratiet": 535,
+      "C. Det Konservative Folkeparti": 210,
+      "O. Dansk Folkeparti": 249,
+      "L. Hvidovrelisten": 220,
+      "Ø. Enhedslisten - De Rød-Grønne": 147,
+      "I. Liberal Alliance": 105,
+      "B. Radikale Venstre": 71,
+      "V. Venstre, Danmarks Liberale Parti": 47,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 33,
+      "M. Moderaterne": 30
+    }
   },
   "702088": {
     "name": "Sønderkærskolen",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 4539,
+    "total_votes": 2912,
+    "valid_votes": 2854,
+    "invalid_votes": 58,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "F. SF - Socialistisk Folkeparti": 695,
+      "A. Socialdemokratiet": 790,
+      "C. Det Konservative Folkeparti": 217,
+      "O. Dansk Folkeparti": 295,
+      "L. Hvidovrelisten": 258,
+      "Ø. Enhedslisten - De Rød-Grønne": 228,
+      "I. Liberal Alliance": 128,
+      "B. Radikale Venstre": 110,
+      "V. Venstre, Danmarks Liberale Parti": 59,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 43,
+      "M. Moderaterne": 31
+    }
   },
   "706734": {
     "name": "Kometen",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 4862,
+    "total_votes": 3335,
+    "valid_votes": 3269,
+    "invalid_votes": 66,
+    "is_reported": true,
+    "votes": {
+      "F. SF - Socialistisk Folkeparti": 971,
+      "A. Socialdemokratiet": 765,
+      "C. Det Konservative Folkeparti": 327,
+      "O. Dansk Folkeparti": 339,
+      "L. Hvidovrelisten": 217,
+      "Ø. Enhedslisten - De Rød-Grønne": 190,
+      "I. Liberal Alliance": 139,
+      "B. Radikale Venstre": 101,
+      "V. Venstre, Danmarks Liberale Parti": 80,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 77,
+      "M. Moderaterne": 63
+    }
   },
   "702094": {
     "name": "Dansborghallen",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 5583,
+    "total_votes": 3938,
+    "valid_votes": 3847,
+    "invalid_votes": 91,
+    "is_reported": true,
+    "votes": {
+      "F. SF - Socialistisk Folkeparti": 1111,
+      "A. Socialdemokratiet": 805,
+      "C. Det Konservative Folkeparti": 473,
+      "O. Dansk Folkeparti": 317,
+      "L. Hvidovrelisten": 304,
+      "Ø. Enhedslisten - De Rød-Grønne": 215,
+      "I. Liberal Alliance": 185,
+      "B. Radikale Venstre": 169,
+      "V. Venstre, Danmarks Liberale Parti": 157,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 54,
+      "M. Moderaterne": 57
+    }
   },
   "702070": {
     "name": "Frihedens Idrætscenter",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 5711,
+    "total_votes": 3873,
+    "valid_votes": 3797,
+    "invalid_votes": 76,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "F. SF - Socialistisk Folkeparti": 1088,
+      "A. Socialdemokratiet": 958,
+      "C. Det Konservative Folkeparti": 423,
+      "O. Dansk Folkeparti": 335,
+      "L. Hvidovrelisten": 287,
+      "Ø. Enhedslisten - De Rød-Grønne": 195,
+      "I. Liberal Alliance": 158,
+      "B. Radikale Venstre": 121,
+      "V. Venstre, Danmarks Liberale Parti": 113,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 54,
+      "M. Moderaterne": 65
+    }
   },
   "702080": {
     "name": "Avedøre Skole",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 6472,
+    "total_votes": 3977,
+    "valid_votes": 3899,
+    "invalid_votes": 78,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "F. SF - Socialistisk Folkeparti": 952,
+      "A. Socialdemokratiet": 1015,
+      "C. Det Konservative Folkeparti": 472,
+      "O. Dansk Folkeparti": 390,
+      "L. Hvidovrelisten": 322,
+      "Ø. Enhedslisten - De Rød-Grønne": 181,
+      "I. Liberal Alliance": 180,
+      "B. Radikale Venstre": 139,
+      "V. Venstre, Danmarks Liberale Parti": 124,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 63,
+      "M. Moderaterne": 61
+    }
   },
   "706740": {
     "name": "Avedøre Idrætscenter",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 5663,
+    "total_votes": 3082,
+    "valid_votes": 3010,
+    "invalid_votes": 72,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "F. SF - Socialistisk Folkeparti": 713,
+      "A. Socialdemokratiet": 941,
+      "C. Det Konservative Folkeparti": 250,
+      "O. Dansk Folkeparti": 269,
+      "L. Hvidovrelisten": 252,
+      "Ø. Enhedslisten - De Rød-Grønne": 223,
+      "I. Liberal Alliance": 119,
+      "B. Radikale Venstre": 104,
+      "V. Venstre, Danmarks Liberale Parti": 59,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 47,
+      "M. Moderaterne": 33
+    }
   }
 }

@@ -1,83 +1,191 @@
 {
   "710178": {
     "name": "Lyngby Midt",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 6252,
+    "total_votes": 3912,
+    "valid_votes": 3861,
+    "invalid_votes": 51,
+    "is_reported": true,
+    "votes": {
+      "C. Det Konservative Folkeparti": 1531,
+      "B. Radikale Venstre": 437,
+      "F. SF - Socialistisk Folkeparti": 536,
+      "A. Socialdemokratiet": 410,
+      "Ø. Enhedslisten - De Rød-Grønne": 243,
+      "V. Venstre, Danmarks Liberale Parti": 211,
+      "I. Liberal Alliance": 218,
+      "O. Dansk Folkeparti": 180,
+      "M. Moderaterne": 55,
+      "Å. Alternativet": 36,
+      "Z. Saxen": 4
+    }
   },
   "708642": {
     "name": "Lyngby Idrætsby",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 5263,
+    "total_votes": 3301,
+    "valid_votes": 3247,
+    "invalid_votes": 54,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "C. Det Konservative Folkeparti": 1046,
+      "B. Radikale Venstre": 418,
+      "F. SF - Socialistisk Folkeparti": 449,
+      "A. Socialdemokratiet": 592,
+      "Ø. Enhedslisten - De Rød-Grønne": 251,
+      "V. Venstre, Danmarks Liberale Parti": 112,
+      "I. Liberal Alliance": 144,
+      "O. Dansk Folkeparti": 176,
+      "M. Moderaterne": 25,
+      "Å. Alternativet": 32,
+      "Z. Saxen": 2
+    }
   },
   "704030": {
     "name": "Trongård",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 5784,
+    "total_votes": 3916,
+    "valid_votes": 3838,
+    "invalid_votes": 78,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "C. Det Konservative Folkeparti": 1638,
+      "B. Radikale Venstre": 514,
+      "F. SF - Socialistisk Folkeparti": 446,
+      "A. Socialdemokratiet": 373,
+      "Ø. Enhedslisten - De Rød-Grønne": 261,
+      "V. Venstre, Danmarks Liberale Parti": 179,
+      "I. Liberal Alliance": 194,
+      "O. Dansk Folkeparti": 155,
+      "M. Moderaterne": 39,
+      "Å. Alternativet": 36,
+      "Z. Saxen": 3
+    }
   },
   "706998": {
     "name": "Engelsborg",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 5496,
+    "total_votes": 4056,
+    "valid_votes": 4003,
+    "invalid_votes": 53,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "C. Det Konservative Folkeparti": 1728,
+      "B. Radikale Venstre": 497,
+      "F. SF - Socialistisk Folkeparti": 482,
+      "A. Socialdemokratiet": 402,
+      "Ø. Enhedslisten - De Rød-Grønne": 222,
+      "V. Venstre, Danmarks Liberale Parti": 201,
+      "I. Liberal Alliance": 201,
+      "O. Dansk Folkeparti": 180,
+      "M. Moderaterne": 47,
+      "Å. Alternativet": 40,
+      "Z. Saxen": 3
+    }
   },
   "711474": {
     "name": "Taarbæk",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1151,
+    "total_votes": 921,
+    "valid_votes": 911,
+    "invalid_votes": 10,
+    "is_reported": true,
+    "votes": {
+      "C. Det Konservative Folkeparti": 475,
+      "B. Radikale Venstre": 160,
+      "F. SF - Socialistisk Folkeparti": 72,
+      "A. Socialdemokratiet": 55,
+      "Ø. Enhedslisten - De Rød-Grønne": 51,
+      "V. Venstre, Danmarks Liberale Parti": 23,
+      "I. Liberal Alliance": 37,
+      "O. Dansk Folkeparti": 18,
+      "M. Moderaterne": 5,
+      "Å. Alternativet": 15,
+      "Z. Saxen": 0
+    }
   },
   "704050": {
     "name": "Virum",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 5156,
+    "total_votes": 4312,
+    "valid_votes": 4274,
+    "invalid_votes": 38,
+    "is_reported": true,
+    "votes": {
+      "C. Det Konservative Folkeparti": 2156,
+      "B. Radikale Venstre": 539,
+      "F. SF - Socialistisk Folkeparti": 394,
+      "A. Socialdemokratiet": 298,
+      "Ø. Enhedslisten - De Rød-Grønne": 149,
+      "V. Venstre, Danmarks Liberale Parti": 329,
+      "I. Liberal Alliance": 235,
+      "O. Dansk Folkeparti": 89,
+      "M. Moderaterne": 48,
+      "Å. Alternativet": 36,
+      "Z. Saxen": 1
+    }
   },
   "710170": {
     "name": "Hummeltofte",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 3959,
+    "total_votes": 3247,
+    "valid_votes": 3203,
+    "invalid_votes": 44,
+    "is_reported": true,
+    "votes": {
+      "C. Det Konservative Folkeparti": 1504,
+      "B. Radikale Venstre": 410,
+      "F. SF - Socialistisk Folkeparti": 428,
+      "A. Socialdemokratiet": 326,
+      "Ø. Enhedslisten - De Rød-Grønne": 152,
+      "V. Venstre, Danmarks Liberale Parti": 136,
+      "I. Liberal Alliance": 102,
+      "O. Dansk Folkeparti": 87,
+      "M. Moderaterne": 35,
+      "Å. Alternativet": 22,
+      "Z. Saxen": 1
+    }
   },
   "702310": {
     "name": "Virumhallerne",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 6749,
+    "total_votes": 5231,
+    "valid_votes": 5141,
+    "invalid_votes": 90,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "C. Det Konservative Folkeparti": 2137,
+      "B. Radikale Venstre": 658,
+      "F. SF - Socialistisk Folkeparti": 721,
+      "A. Socialdemokratiet": 614,
+      "Ø. Enhedslisten - De Rød-Grønne": 248,
+      "V. Venstre, Danmarks Liberale Parti": 293,
+      "I. Liberal Alliance": 226,
+      "O. Dansk Folkeparti": 148,
+      "M. Moderaterne": 53,
+      "Å. Alternativet": 42,
+      "Z. Saxen": 1
+    }
   },
   "710194": {
     "name": "Lundtofte",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 5415,
+    "total_votes": 3607,
+    "valid_votes": 3557,
+    "invalid_votes": 50,
+    "is_reported": true,
+    "votes": {
+      "C. Det Konservative Folkeparti": 1360,
+      "B. Radikale Venstre": 470,
+      "F. SF - Socialistisk Folkeparti": 564,
+      "A. Socialdemokratiet": 419,
+      "Ø. Enhedslisten - De Rød-Grønne": 248,
+      "V. Venstre, Danmarks Liberale Parti": 139,
+      "I. Liberal Alliance": 118,
+      "O. Dansk Folkeparti": 172,
+      "M. Moderaterne": 32,
+      "Å. Alternativet": 33,
+      "Z. Saxen": 2
+    }
   }
 }

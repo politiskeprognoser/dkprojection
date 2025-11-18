@@ -1,65 +1,135 @@
 {
   "704500": {
     "name": "Billund",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 5813,
+    "total_votes": 4006,
+    "valid_votes": 3929,
+    "invalid_votes": 77,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 1651,
+      "A. Socialdemokratiet": 1077,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 304,
+      "F. SF - Socialistisk Folkeparti": 270,
+      "C. Det Konservative Folkeparti": 165,
+      "O. Dansk Folkeparti": 172,
+      "M. Moderaterne": 88,
+      "N. Billund International": 162,
+      "Å. Alternativet": 40
+    }
   },
   "701374": {
     "name": "Sdr. Omme",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1880,
+    "total_votes": 1237,
+    "valid_votes": 1216,
+    "invalid_votes": 21,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 223,
+      "A. Socialdemokratiet": 262,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 433,
+      "F. SF - Socialistisk Folkeparti": 64,
+      "C. Det Konservative Folkeparti": 151,
+      "O. Dansk Folkeparti": 59,
+      "M. Moderaterne": 12,
+      "N. Billund International": 4,
+      "Å. Alternativet": 8
+    }
   },
   "704532": {
     "name": "Vorbasse",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1662,
+    "total_votes": 1199,
+    "valid_votes": 1171,
+    "invalid_votes": 28,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 419,
+      "A. Socialdemokratiet": 330,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 248,
+      "F. SF - Socialistisk Folkeparti": 50,
+      "C. Det Konservative Folkeparti": 23,
+      "O. Dansk Folkeparti": 72,
+      "M. Moderaterne": 15,
+      "N. Billund International": 9,
+      "Å. Alternativet": 5
+    }
   },
   "702968": {
     "name": "Filskov",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 803,
+    "total_votes": 583,
+    "valid_votes": 574,
+    "invalid_votes": 9,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 304,
+      "A. Socialdemokratiet": 88,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 90,
+      "F. SF - Socialistisk Folkeparti": 17,
+      "C. Det Konservative Folkeparti": 19,
+      "O. Dansk Folkeparti": 36,
+      "M. Moderaterne": 14,
+      "N. Billund International": 4,
+      "Å. Alternativet": 2
+    }
   },
   "710594": {
     "name": "St./Krogager",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 775,
+    "total_votes": 509,
+    "valid_votes": 501,
+    "invalid_votes": 8,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 294,
+      "A. Socialdemokratiet": 75,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 52,
+      "F. SF - Socialistisk Folkeparti": 34,
+      "C. Det Konservative Folkeparti": 9,
+      "O. Dansk Folkeparti": 31,
+      "M. Moderaterne": 0,
+      "N. Billund International": 3,
+      "Å. Alternativet": 3
+    }
   },
   "707400": {
     "name": "Grindsted",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 8620,
+    "total_votes": 5700,
+    "valid_votes": 5605,
+    "invalid_votes": 95,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 1835,
+      "A. Socialdemokratiet": 1299,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 685,
+      "F. SF - Socialistisk Folkeparti": 833,
+      "C. Det Konservative Folkeparti": 427,
+      "O. Dansk Folkeparti": 308,
+      "M. Moderaterne": 165,
+      "N. Billund International": 25,
+      "Å. Alternativet": 28
+    }
   },
   "708930": {
     "name": "Hejnsvig",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1527,
+    "total_votes": 1067,
+    "valid_votes": 1054,
+    "invalid_votes": 13,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 483,
+      "A. Socialdemokratiet": 217,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 187,
+      "F. SF - Socialistisk Folkeparti": 50,
+      "C. Det Konservative Folkeparti": 38,
+      "O. Dansk Folkeparti": 52,
+      "M. Moderaterne": 15,
+      "N. Billund International": 8,
+      "Å. Alternativet": 4
+    }
   }
 }

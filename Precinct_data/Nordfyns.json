@@ -1,92 +1,212 @@
 {
   "748639": {
     "name": "Bogense",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 4723,
+    "total_votes": 3366,
+    "valid_votes": 3292,
+    "invalid_votes": 74,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 1490,
+      "A. Socialdemokratiet": 775,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 270,
+      "F. SF - Socialistisk Folkeparti": 129,
+      "O. Dansk Folkeparti": 153,
+      "C. Det Konservative Folkeparti": 126,
+      "I. Liberal Alliance": 110,
+      "B. Radikale Venstre": 163,
+      "Ø. Enhedslisten - De Rød-Grønne": 46,
+      "D. Vi ældre": 24,
+      "E. Nordfyn på forkant": 6
+    }
   },
   "748634": {
     "name": "Klinte",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 721,
+    "total_votes": 495,
+    "valid_votes": 478,
+    "invalid_votes": 17,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 220,
+      "A. Socialdemokratiet": 89,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 38,
+      "F. SF - Socialistisk Folkeparti": 22,
+      "O. Dansk Folkeparti": 36,
+      "C. Det Konservative Folkeparti": 21,
+      "I. Liberal Alliance": 20,
+      "B. Radikale Venstre": 20,
+      "Ø. Enhedslisten - De Rød-Grønne": 7,
+      "D. Vi ældre": 4,
+      "E. Nordfyn på forkant": 1
+    }
   },
   "748632": {
     "name": "Krogsbølle",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 2598,
+    "total_votes": 1767,
+    "valid_votes": 1737,
+    "invalid_votes": 30,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 728,
+      "A. Socialdemokratiet": 334,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 201,
+      "F. SF - Socialistisk Folkeparti": 136,
+      "O. Dansk Folkeparti": 134,
+      "C. Det Konservative Folkeparti": 50,
+      "I. Liberal Alliance": 55,
+      "B. Radikale Venstre": 31,
+      "Ø. Enhedslisten - De Rød-Grønne": 45,
+      "D. Vi ældre": 19,
+      "E. Nordfyn på forkant": 4
+    }
   },
   "748636": {
     "name": "Otterup",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 5363,
+    "total_votes": 3737,
+    "valid_votes": 3668,
+    "invalid_votes": 69,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 1518,
+      "A. Socialdemokratiet": 950,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 244,
+      "F. SF - Socialistisk Folkeparti": 243,
+      "O. Dansk Folkeparti": 314,
+      "C. Det Konservative Folkeparti": 84,
+      "I. Liberal Alliance": 105,
+      "B. Radikale Venstre": 59,
+      "Ø. Enhedslisten - De Rød-Grønne": 71,
+      "D. Vi ældre": 77,
+      "E. Nordfyn på forkant": 3
+    }
   },
   "748630": {
     "name": "Skovløkke",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 934,
+    "total_votes": 697,
+    "valid_votes": 680,
+    "invalid_votes": 17,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 174,
+      "A. Socialdemokratiet": 146,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 86,
+      "F. SF - Socialistisk Folkeparti": 79,
+      "O. Dansk Folkeparti": 108,
+      "C. Det Konservative Folkeparti": 17,
+      "I. Liberal Alliance": 18,
+      "B. Radikale Venstre": 19,
+      "Ø. Enhedslisten - De Rød-Grønne": 17,
+      "D. Vi ældre": 12,
+      "E. Nordfyn på forkant": 4
+    }
   },
   "748631": {
     "name": "Veflinge",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1134,
+    "total_votes": 830,
+    "valid_votes": 817,
+    "invalid_votes": 13,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 271,
+      "A. Socialdemokratiet": 195,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 90,
+      "F. SF - Socialistisk Folkeparti": 85,
+      "O. Dansk Folkeparti": 48,
+      "C. Det Konservative Folkeparti": 48,
+      "I. Liberal Alliance": 30,
+      "B. Radikale Venstre": 15,
+      "Ø. Enhedslisten - De Rød-Grønne": 20,
+      "D. Vi ældre": 8,
+      "E. Nordfyn på forkant": 7
+    }
   },
   "748635": {
     "name": "Hårslev",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1070,
+    "total_votes": 686,
+    "valid_votes": 673,
+    "invalid_votes": 13,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 268,
+      "A. Socialdemokratiet": 103,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 106,
+      "F. SF - Socialistisk Folkeparti": 57,
+      "O. Dansk Folkeparti": 41,
+      "C. Det Konservative Folkeparti": 23,
+      "I. Liberal Alliance": 35,
+      "B. Radikale Venstre": 19,
+      "Ø. Enhedslisten - De Rød-Grønne": 10,
+      "D. Vi ældre": 4,
+      "E. Nordfyn på forkant": 7
+    }
   },
   "748633": {
     "name": "Morud",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 2267,
+    "total_votes": 1786,
+    "valid_votes": 1755,
+    "invalid_votes": 31,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 484,
+      "A. Socialdemokratiet": 297,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 59,
+      "F. SF - Socialistisk Folkeparti": 221,
+      "O. Dansk Folkeparti": 56,
+      "C. Det Konservative Folkeparti": 371,
+      "I. Liberal Alliance": 140,
+      "B. Radikale Venstre": 55,
+      "Ø. Enhedslisten - De Rød-Grønne": 28,
+      "D. Vi ældre": 31,
+      "E. Nordfyn på forkant": 13
+    }
   },
   "748638": {
     "name": "Særslev",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1222,
+    "total_votes": 857,
+    "valid_votes": 841,
+    "invalid_votes": 16,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 335,
+      "A. Socialdemokratiet": 172,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 88,
+      "F. SF - Socialistisk Folkeparti": 68,
+      "O. Dansk Folkeparti": 56,
+      "C. Det Konservative Folkeparti": 29,
+      "I. Liberal Alliance": 33,
+      "B. Radikale Venstre": 32,
+      "Ø. Enhedslisten - De Rød-Grønne": 13,
+      "D. Vi ældre": 11,
+      "E. Nordfyn på forkant": 4
+    }
   },
   "748637": {
     "name": "Søndersø",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 3494,
+    "total_votes": 2412,
+    "valid_votes": 2354,
+    "invalid_votes": 58,
+    "is_reported": true,
+    "votes": {
+      "V. Venstre, Danmarks Liberale Parti": 965,
+      "A. Socialdemokratiet": 529,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 134,
+      "F. SF - Socialistisk Folkeparti": 268,
+      "O. Dansk Folkeparti": 137,
+      "C. Det Konservative Folkeparti": 124,
+      "I. Liberal Alliance": 68,
+      "B. Radikale Venstre": 62,
+      "Ø. Enhedslisten - De Rød-Grønne": 31,
+      "D. Vi ældre": 27,
+      "E. Nordfyn på forkant": 9
+    }
   }
 }

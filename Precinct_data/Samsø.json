@@ -1,20 +1,30 @@
 {
   "709154": {
     "name": "Tranebjerg",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 2716,
+    "total_votes": 2200,
+    "valid_votes": 2146,
+    "invalid_votes": 54,
+    "is_reported": true,
+    "votes": {
+      "C. Det Konservative Folkeparti": 809,
+      "A. Socialdemokratiet": 524,
+      "F. SF - Socialistisk Folkeparti": 405,
+      "V. Venstre, Danmarks Liberale Parti": 408
+    }
   },
   "704790": {
     "name": "Nordby",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 359,
+    "total_votes": 287,
+    "valid_votes": 281,
+    "invalid_votes": 6,
+    "is_reported": true,
+    "votes": {
+      "C. Det Konservative Folkeparti": 72,
+      "A. Socialdemokratiet": 85,
+      "F. SF - Socialistisk Folkeparti": 64,
+      "V. Venstre, Danmarks Liberale Parti": 60
+    }
   }
 }

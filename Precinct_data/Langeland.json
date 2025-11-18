@@ -1,47 +1,107 @@
 {
   "707504": {
     "name": "Bagenkop",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 744,
+    "total_votes": 578,
+    "valid_votes": 570,
+    "invalid_votes": 8,
+    "is_reported": true,
+    "votes": {
+      "C. Det Konservative Folkeparti": 203,
+      "A. Socialdemokratiet": 54,
+      "V. Venstre, Danmarks Liberale Parti": 136,
+      "F. SF - Socialistisk Folkeparti": 56,
+      "L. Lokallisten Langeland": 24,
+      "B. Radikale Venstre": 11,
+      "I. Liberal Alliance": 17,
+      "Ø. Enhedslisten - De Rød-Grønne": 20,
+      "O. Dansk Folkeparti": 22,
+      "M. Moderaterne": 6,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 21
+    }
   },
   "704630": {
     "name": "Humble",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1895,
+    "total_votes": 1356,
+    "valid_votes": 1333,
+    "invalid_votes": 23,
+    "is_reported": true,
+    "votes": {
+      "C. Det Konservative Folkeparti": 473,
+      "A. Socialdemokratiet": 157,
+      "V. Venstre, Danmarks Liberale Parti": 214,
+      "F. SF - Socialistisk Folkeparti": 116,
+      "L. Lokallisten Langeland": 68,
+      "B. Radikale Venstre": 40,
+      "I. Liberal Alliance": 64,
+      "Ø. Enhedslisten - De Rød-Grønne": 54,
+      "O. Dansk Folkeparti": 60,
+      "M. Moderaterne": 34,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 53
+    }
   },
   "704594": {
     "name": "Rudkøbing",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 4814,
+    "total_votes": 3604,
+    "valid_votes": 3547,
+    "invalid_votes": 57,
+    "is_reported": true,
+    "votes": {
+      "C. Det Konservative Folkeparti": 1203,
+      "A. Socialdemokratiet": 571,
+      "V. Venstre, Danmarks Liberale Parti": 407,
+      "F. SF - Socialistisk Folkeparti": 431,
+      "L. Lokallisten Langeland": 181,
+      "B. Radikale Venstre": 184,
+      "I. Liberal Alliance": 139,
+      "Ø. Enhedslisten - De Rød-Grønne": 150,
+      "O. Dansk Folkeparti": 86,
+      "M. Moderaterne": 128,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 67
+    }
   },
   "701464": {
     "name": "Tullebølle",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1564,
+    "total_votes": 1139,
+    "valid_votes": 1117,
+    "invalid_votes": 22,
+    "is_reported": true,
+    "votes": {
+      "C. Det Konservative Folkeparti": 398,
+      "A. Socialdemokratiet": 190,
+      "V. Venstre, Danmarks Liberale Parti": 87,
+      "F. SF - Socialistisk Folkeparti": 124,
+      "L. Lokallisten Langeland": 88,
+      "B. Radikale Venstre": 47,
+      "I. Liberal Alliance": 48,
+      "Ø. Enhedslisten - De Rød-Grønne": 35,
+      "O. Dansk Folkeparti": 29,
+      "M. Moderaterne": 31,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 40
+    }
   },
   "748510": {
     "name": "Snøde",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 1242,
+    "total_votes": 903,
+    "valid_votes": 871,
+    "invalid_votes": 32,
+    "is_reported": true,
+    "votes": {
+      "C. Det Konservative Folkeparti": 241,
+      "A. Socialdemokratiet": 74,
+      "V. Venstre, Danmarks Liberale Parti": 53,
+      "F. SF - Socialistisk Folkeparti": 86,
+      "L. Lokallisten Langeland": 204,
+      "B. Radikale Venstre": 60,
+      "I. Liberal Alliance": 39,
+      "Ø. Enhedslisten - De Rød-Grønne": 26,
+      "O. Dansk Folkeparti": 41,
+      "M. Moderaterne": 21,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 26
+    }
   }
 }
