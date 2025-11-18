@@ -10,14 +10,14 @@
       "F. SF - Socialistisk Folkeparti": 896,
       "A. Socialdemokratiet": 630,
       "C. Det Konservative Folkeparti": 316,
+      "O. Dansk Folkeparti": 350,
       "L. Hvidovrelisten": 328,
-      "O. Dansk Folkeparti": 347,
       "Ø. Enhedslisten - De Rød-Grønne": 266,
       "I. Liberal Alliance": 162,
       "B. Radikale Venstre": 164,
-      "M. Moderaterne": 47,
       "V. Venstre, Danmarks Liberale Parti": 67,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 49
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 49,
+      "M. Moderaterne": 44
     }
   },
   "709882": {
@@ -31,14 +31,14 @@
       "F. SF - Socialistisk Folkeparti": 555,
       "A. Socialdemokratiet": 535,
       "C. Det Konservative Folkeparti": 210,
-      "L. Hvidovrelisten": 220,
       "O. Dansk Folkeparti": 249,
+      "L. Hvidovrelisten": 220,
       "Ø. Enhedslisten - De Rød-Grønne": 147,
       "I. Liberal Alliance": 105,
       "B. Radikale Venstre": 71,
-      "M. Moderaterne": 30,
       "V. Venstre, Danmarks Liberale Parti": 47,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 33
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 33,
+      "M. Moderaterne": 30
     }
   },
   "702088": {
@@ -52,14 +52,14 @@
       "F. SF - Socialistisk Folkeparti": 696,
       "A. Socialdemokratiet": 791,
       "C. Det Konservative Folkeparti": 217,
+      "O. Dansk Folkeparti": 295,
       "L. Hvidovrelisten": 257,
-      "O. Dansk Folkeparti": 292,
       "Ø. Enhedslisten - De Rød-Grønne": 228,
       "I. Liberal Alliance": 128,
       "B. Radikale Venstre": 110,
-      "M. Moderaterne": 34,
       "V. Venstre, Danmarks Liberale Parti": 59,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 43
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 43,
+      "M. Moderaterne": 31
     }
   },
   "706734": {
@@ -73,14 +73,14 @@
       "F. SF - Socialistisk Folkeparti": 971,
       "A. Socialdemokratiet": 765,
       "C. Det Konservative Folkeparti": 327,
-      "L. Hvidovrelisten": 217,
       "O. Dansk Folkeparti": 339,
+      "L. Hvidovrelisten": 217,
       "Ø. Enhedslisten - De Rød-Grønne": 190,
       "I. Liberal Alliance": 139,
       "B. Radikale Venstre": 101,
-      "M. Moderaterne": 63,
       "V. Venstre, Danmarks Liberale Parti": 80,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 77
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 77,
+      "M. Moderaterne": 63
     }
   },
   "702094": {
@@ -94,14 +94,14 @@
       "F. SF - Socialistisk Folkeparti": 1111,
       "A. Socialdemokratiet": 805,
       "C. Det Konservative Folkeparti": 473,
-      "L. Hvidovrelisten": 304,
       "O. Dansk Folkeparti": 317,
+      "L. Hvidovrelisten": 304,
       "Ø. Enhedslisten - De Rød-Grønne": 215,
       "I. Liberal Alliance": 185,
       "B. Radikale Venstre": 169,
-      "M. Moderaterne": 57,
       "V. Venstre, Danmarks Liberale Parti": 157,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 54
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 54,
+      "M. Moderaterne": 57
     }
   },
   "702070": {
@@ -115,56 +115,56 @@
       "F. SF - Socialistisk Folkeparti": 1088,
       "A. Socialdemokratiet": 1048,
       "C. Det Konservative Folkeparti": 394,
+      "O. Dansk Folkeparti": 310,
       "L. Hvidovrelisten": 265,
-      "O. Dansk Folkeparti": 78,
       "Ø. Enhedslisten - De Rød-Grønne": 232,
       "I. Liberal Alliance": 147,
       "B. Radikale Venstre": 138,
-      "M. Moderaterne": 292,
       "V. Venstre, Danmarks Liberale Parti": 112,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 45
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 45,
+      "M. Moderaterne": 60
     }
   },
   "702080": {
     "name": "Avedøre Skole",
     "electorate": 6472,
     "total_votes": 3985,
-    "valid_votes": 3912,
-    "invalid_votes": 73,
+    "valid_votes": 3913,
+    "invalid_votes": 72,
     "is_reported": false,
     "votes": {
-      "F. SF - Socialistisk Folkeparti": 957,
+      "F. SF - Socialistisk Folkeparti": 950,
       "A. Socialdemokratiet": 1052,
       "C. Det Konservative Folkeparti": 461,
-      "L. Hvidovrelisten": 316,
-      "O. Dansk Folkeparti": 290,
+      "O. Dansk Folkeparti": 380,
+      "L. Hvidovrelisten": 313,
       "Ø. Enhedslisten - De Rød-Grønne": 195,
-      "I. Liberal Alliance": 177,
-      "B. Radikale Venstre": 146,
-      "M. Moderaterne": 135,
+      "I. Liberal Alliance": 175,
+      "B. Radikale Venstre": 145,
       "V. Venstre, Danmarks Liberale Parti": 123,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 60
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 60,
+      "M. Moderaterne": 59
     }
   },
   "706740": {
     "name": "Avedøre Idrætscenter",
     "electorate": 5663,
     "total_votes": 3089,
-    "valid_votes": 3021,
-    "invalid_votes": 68,
+    "valid_votes": 3022,
+    "invalid_votes": 67,
     "is_reported": false,
     "votes": {
-      "F. SF - Socialistisk Folkeparti": 715,
+      "F. SF - Socialistisk Folkeparti": 708,
       "A. Socialdemokratiet": 975,
       "C. Det Konservative Folkeparti": 244,
-      "L. Hvidovrelisten": 248,
-      "O. Dansk Folkeparti": 205,
-      "Ø. Enhedslisten - De Rød-Grønne": 233,
-      "I. Liberal Alliance": 116,
+      "O. Dansk Folkeparti": 261,
+      "L. Hvidovrelisten": 244,
+      "Ø. Enhedslisten - De Rød-Grønne": 232,
+      "I. Liberal Alliance": 114,
       "B. Radikale Venstre": 108,
-      "M. Moderaterne": 74,
       "V. Venstre, Danmarks Liberale Parti": 59,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 44
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 44,
+      "M. Moderaterne": 33
     }
   }
 }
