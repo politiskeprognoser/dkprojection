@@ -2,67 +2,67 @@
   "748880": {
     "name": "Aakjær",
     "electorate": 6411,
-    "total_votes": 4087,
-    "valid_votes": 3990,
-    "invalid_votes": 97,
+    "total_votes": 4148,
+    "valid_votes": 4048,
+    "invalid_votes": 100,
     "is_reported": false,
     "votes": {
-      "V. Venstre, Danmarks Liberale Parti": 799,
-      "A. Socialdemokratiet": 935,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 434,
-      "F. SF - Socialistisk Folkeparti": 456,
-      "O. Dansk Folkeparti": 527,
-      "L. Skive-Listen": 386,
-      "I. Liberal Alliance": 132,
-      "D. Nye Borgerlige": 72,
-      "Ø. Enhedslisten - De Rød-Grønne": 82,
-      "C. Det Konservative Folkeparti": 63,
-      "B. Radikale Venstre": 81,
-      "M. Moderaterne": 23
+      "V. Venstre, Danmarks Liberale Parti": 892,
+      "A. Socialdemokratiet": 711,
+      "F. SF - Socialistisk Folkeparti": 795,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 461,
+      "L. Skive-Listen": 438,
+      "O. Dansk Folkeparti": 189,
+      "I. Liberal Alliance": 149,
+      "D. Nye Borgerlige": 79,
+      "C. Det Konservative Folkeparti": 128,
+      "Ø. Enhedslisten - De Rød-Grønne": 114,
+      "B. Radikale Venstre": 72,
+      "M. Moderaterne": 20
     }
   },
   "748883": {
     "name": "Skivehus",
     "electorate": 5115,
-    "total_votes": 3924,
-    "valid_votes": 3844,
-    "invalid_votes": 80,
+    "total_votes": 3972,
+    "valid_votes": 3891,
+    "invalid_votes": 81,
     "is_reported": false,
     "votes": {
-      "V. Venstre, Danmarks Liberale Parti": 1014,
-      "A. Socialdemokratiet": 801,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 365,
-      "F. SF - Socialistisk Folkeparti": 450,
-      "O. Dansk Folkeparti": 494,
-      "L. Skive-Listen": 319,
-      "I. Liberal Alliance": 134,
-      "D. Nye Borgerlige": 51,
-      "Ø. Enhedslisten - De Rød-Grønne": 43,
-      "C. Det Konservative Folkeparti": 76,
-      "B. Radikale Venstre": 77,
-      "M. Moderaterne": 20
+      "V. Venstre, Danmarks Liberale Parti": 1130,
+      "A. Socialdemokratiet": 608,
+      "F. SF - Socialistisk Folkeparti": 756,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 389,
+      "L. Skive-Listen": 360,
+      "O. Dansk Folkeparti": 142,
+      "I. Liberal Alliance": 141,
+      "D. Nye Borgerlige": 56,
+      "C. Det Konservative Folkeparti": 152,
+      "Ø. Enhedslisten - De Rød-Grønne": 72,
+      "B. Radikale Venstre": 68,
+      "M. Moderaterne": 17
     }
   },
   "748874": {
     "name": "Brårup",
     "electorate": 5578,
-    "total_votes": 3796,
-    "valid_votes": 3714,
-    "invalid_votes": 82,
-    "is_reported": false,
+    "total_votes": 3851,
+    "valid_votes": 3763,
+    "invalid_votes": 88,
+    "is_reported": true,
     "votes": {
-      "V. Venstre, Danmarks Liberale Parti": 694,
-      "A. Socialdemokratiet": 967,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 386,
-      "F. SF - Socialistisk Folkeparti": 407,
-      "O. Dansk Folkeparti": 465,
-      "L. Skive-Listen": 429,
-      "I. Liberal Alliance": 115,
-      "D. Nye Borgerlige": 44,
-      "Ø. Enhedslisten - De Rød-Grønne": 77,
-      "C. Det Konservative Folkeparti": 54,
-      "B. Radikale Venstre": 55,
-      "M. Moderaterne": 21
+      "V. Venstre, Danmarks Liberale Parti": 778,
+      "A. Socialdemokratiet": 730,
+      "F. SF - Socialistisk Folkeparti": 732,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 411,
+      "L. Skive-Listen": 482,
+      "O. Dansk Folkeparti": 162,
+      "I. Liberal Alliance": 136,
+      "D. Nye Borgerlige": 48,
+      "C. Det Konservative Folkeparti": 111,
+      "Ø. Enhedslisten - De Rød-Grønne": 107,
+      "B. Radikale Venstre": 48,
+      "M. Moderaterne": 18
     }
   },
   "748881": {
@@ -75,14 +75,14 @@
     "votes": {
       "V. Venstre, Danmarks Liberale Parti": 633,
       "A. Socialdemokratiet": 435,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 272,
       "F. SF - Socialistisk Folkeparti": 226,
-      "O. Dansk Folkeparti": 453,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 272,
       "L. Skive-Listen": 84,
+      "O. Dansk Folkeparti": 453,
       "I. Liberal Alliance": 95,
       "D. Nye Borgerlige": 34,
-      "Ø. Enhedslisten - De Rød-Grønne": 37,
       "C. Det Konservative Folkeparti": 66,
+      "Ø. Enhedslisten - De Rød-Grønne": 37,
       "B. Radikale Venstre": 16,
       "M. Moderaterne": 9
     }
@@ -97,14 +97,14 @@
     "votes": {
       "V. Venstre, Danmarks Liberale Parti": 293,
       "A. Socialdemokratiet": 92,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 147,
       "F. SF - Socialistisk Folkeparti": 77,
-      "O. Dansk Folkeparti": 97,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 147,
       "L. Skive-Listen": 21,
+      "O. Dansk Folkeparti": 97,
       "I. Liberal Alliance": 19,
       "D. Nye Borgerlige": 7,
-      "Ø. Enhedslisten - De Rød-Grønne": 18,
       "C. Det Konservative Folkeparti": 21,
+      "Ø. Enhedslisten - De Rød-Grønne": 18,
       "B. Radikale Venstre": 11,
       "M. Moderaterne": 4
     }
@@ -119,14 +119,14 @@
     "votes": {
       "V. Venstre, Danmarks Liberale Parti": 93,
       "A. Socialdemokratiet": 47,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 60,
       "F. SF - Socialistisk Folkeparti": 42,
-      "O. Dansk Folkeparti": 22,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 60,
       "L. Skive-Listen": 131,
+      "O. Dansk Folkeparti": 22,
       "I. Liberal Alliance": 10,
       "D. Nye Borgerlige": 11,
-      "Ø. Enhedslisten - De Rød-Grønne": 6,
       "C. Det Konservative Folkeparti": 9,
+      "Ø. Enhedslisten - De Rød-Grønne": 6,
       "B. Radikale Venstre": 8,
       "M. Moderaterne": 1
     }
@@ -141,14 +141,14 @@
     "votes": {
       "V. Venstre, Danmarks Liberale Parti": 167,
       "A. Socialdemokratiet": 142,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 87,
       "F. SF - Socialistisk Folkeparti": 31,
-      "O. Dansk Folkeparti": 23,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 87,
       "L. Skive-Listen": 23,
+      "O. Dansk Folkeparti": 23,
       "I. Liberal Alliance": 26,
       "D. Nye Borgerlige": 10,
-      "Ø. Enhedslisten - De Rød-Grønne": 7,
       "C. Det Konservative Folkeparti": 2,
+      "Ø. Enhedslisten - De Rød-Grønne": 7,
       "B. Radikale Venstre": 4,
       "M. Moderaterne": 5
     }
@@ -163,14 +163,14 @@
     "votes": {
       "V. Venstre, Danmarks Liberale Parti": 94,
       "A. Socialdemokratiet": 57,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 68,
       "F. SF - Socialistisk Folkeparti": 122,
-      "O. Dansk Folkeparti": 25,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 68,
       "L. Skive-Listen": 4,
+      "O. Dansk Folkeparti": 25,
       "I. Liberal Alliance": 11,
       "D. Nye Borgerlige": 4,
-      "Ø. Enhedslisten - De Rød-Grønne": 5,
       "C. Det Konservative Folkeparti": 4,
+      "Ø. Enhedslisten - De Rød-Grønne": 5,
       "B. Radikale Venstre": 4,
       "M. Moderaterne": 3
     }
@@ -185,14 +185,14 @@
     "votes": {
       "V. Venstre, Danmarks Liberale Parti": 274,
       "A. Socialdemokratiet": 59,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 43,
       "F. SF - Socialistisk Folkeparti": 25,
-      "O. Dansk Folkeparti": 12,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 43,
       "L. Skive-Listen": 6,
+      "O. Dansk Folkeparti": 12,
       "I. Liberal Alliance": 13,
       "D. Nye Borgerlige": 16,
-      "Ø. Enhedslisten - De Rød-Grønne": 8,
       "C. Det Konservative Folkeparti": 5,
+      "Ø. Enhedslisten - De Rød-Grønne": 8,
       "B. Radikale Venstre": 1,
       "M. Moderaterne": 0
     }
@@ -207,14 +207,14 @@
     "votes": {
       "V. Venstre, Danmarks Liberale Parti": 276,
       "A. Socialdemokratiet": 188,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 112,
       "F. SF - Socialistisk Folkeparti": 123,
-      "O. Dansk Folkeparti": 44,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 112,
       "L. Skive-Listen": 12,
+      "O. Dansk Folkeparti": 44,
       "I. Liberal Alliance": 24,
       "D. Nye Borgerlige": 15,
-      "Ø. Enhedslisten - De Rød-Grønne": 10,
       "C. Det Konservative Folkeparti": 6,
+      "Ø. Enhedslisten - De Rød-Grønne": 10,
       "B. Radikale Venstre": 1,
       "M. Moderaterne": 2
     }
@@ -229,14 +229,14 @@
     "votes": {
       "V. Venstre, Danmarks Liberale Parti": 474,
       "A. Socialdemokratiet": 205,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 151,
       "F. SF - Socialistisk Folkeparti": 85,
-      "O. Dansk Folkeparti": 35,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 151,
       "L. Skive-Listen": 8,
+      "O. Dansk Folkeparti": 35,
       "I. Liberal Alliance": 25,
       "D. Nye Borgerlige": 95,
-      "Ø. Enhedslisten - De Rød-Grønne": 13,
       "C. Det Konservative Folkeparti": 7,
+      "Ø. Enhedslisten - De Rød-Grønne": 13,
       "B. Radikale Venstre": 5,
       "M. Moderaterne": 5
     }
@@ -251,14 +251,14 @@
     "votes": {
       "V. Venstre, Danmarks Liberale Parti": 317,
       "A. Socialdemokratiet": 86,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 154,
       "F. SF - Socialistisk Folkeparti": 33,
-      "O. Dansk Folkeparti": 26,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 154,
       "L. Skive-Listen": 7,
+      "O. Dansk Folkeparti": 26,
       "I. Liberal Alliance": 30,
       "D. Nye Borgerlige": 46,
-      "Ø. Enhedslisten - De Rød-Grønne": 15,
       "C. Det Konservative Folkeparti": 13,
+      "Ø. Enhedslisten - De Rød-Grønne": 15,
       "B. Radikale Venstre": 1,
       "M. Moderaterne": 1
     }
@@ -273,14 +273,14 @@
     "votes": {
       "V. Venstre, Danmarks Liberale Parti": 357,
       "A. Socialdemokratiet": 324,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 243,
       "F. SF - Socialistisk Folkeparti": 117,
-      "O. Dansk Folkeparti": 38,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 243,
       "L. Skive-Listen": 10,
+      "O. Dansk Folkeparti": 38,
       "I. Liberal Alliance": 31,
       "D. Nye Borgerlige": 51,
-      "Ø. Enhedslisten - De Rød-Grønne": 17,
       "C. Det Konservative Folkeparti": 8,
+      "Ø. Enhedslisten - De Rød-Grønne": 17,
       "B. Radikale Venstre": 13,
       "M. Moderaterne": 5
     }
@@ -295,14 +295,14 @@
     "votes": {
       "V. Venstre, Danmarks Liberale Parti": 285,
       "A. Socialdemokratiet": 238,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 123,
       "F. SF - Socialistisk Folkeparti": 48,
-      "O. Dansk Folkeparti": 74,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 123,
       "L. Skive-Listen": 20,
+      "O. Dansk Folkeparti": 74,
       "I. Liberal Alliance": 20,
       "D. Nye Borgerlige": 22,
-      "Ø. Enhedslisten - De Rød-Grønne": 11,
       "C. Det Konservative Folkeparti": 6,
+      "Ø. Enhedslisten - De Rød-Grønne": 11,
       "B. Radikale Venstre": 7,
       "M. Moderaterne": 2
     }
@@ -317,14 +317,14 @@
     "votes": {
       "V. Venstre, Danmarks Liberale Parti": 305,
       "A. Socialdemokratiet": 191,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 155,
       "F. SF - Socialistisk Folkeparti": 128,
-      "O. Dansk Folkeparti": 38,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 155,
       "L. Skive-Listen": 13,
+      "O. Dansk Folkeparti": 38,
       "I. Liberal Alliance": 33,
       "D. Nye Borgerlige": 12,
-      "Ø. Enhedslisten - De Rød-Grønne": 8,
       "C. Det Konservative Folkeparti": 10,
+      "Ø. Enhedslisten - De Rød-Grønne": 8,
       "B. Radikale Venstre": 7,
       "M. Moderaterne": 0
     }
@@ -339,14 +339,14 @@
     "votes": {
       "V. Venstre, Danmarks Liberale Parti": 508,
       "A. Socialdemokratiet": 112,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 195,
       "F. SF - Socialistisk Folkeparti": 96,
-      "O. Dansk Folkeparti": 47,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 195,
       "L. Skive-Listen": 20,
+      "O. Dansk Folkeparti": 47,
       "I. Liberal Alliance": 25,
       "D. Nye Borgerlige": 21,
-      "Ø. Enhedslisten - De Rød-Grønne": 17,
       "C. Det Konservative Folkeparti": 9,
+      "Ø. Enhedslisten - De Rød-Grønne": 17,
       "B. Radikale Venstre": 6,
       "M. Moderaterne": 0
     }
@@ -361,14 +361,14 @@
     "votes": {
       "V. Venstre, Danmarks Liberale Parti": 120,
       "A. Socialdemokratiet": 134,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 62,
       "F. SF - Socialistisk Folkeparti": 48,
-      "O. Dansk Folkeparti": 13,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 62,
       "L. Skive-Listen": 5,
+      "O. Dansk Folkeparti": 13,
       "I. Liberal Alliance": 9,
       "D. Nye Borgerlige": 11,
-      "Ø. Enhedslisten - De Rød-Grønne": 5,
       "C. Det Konservative Folkeparti": 1,
+      "Ø. Enhedslisten - De Rød-Grønne": 5,
       "B. Radikale Venstre": 3,
       "M. Moderaterne": 0
     }
@@ -383,14 +383,14 @@
     "votes": {
       "V. Venstre, Danmarks Liberale Parti": 246,
       "A. Socialdemokratiet": 80,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 242,
       "F. SF - Socialistisk Folkeparti": 64,
-      "O. Dansk Folkeparti": 27,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 242,
       "L. Skive-Listen": 4,
+      "O. Dansk Folkeparti": 27,
       "I. Liberal Alliance": 15,
       "D. Nye Borgerlige": 22,
-      "Ø. Enhedslisten - De Rød-Grønne": 7,
       "C. Det Konservative Folkeparti": 4,
+      "Ø. Enhedslisten - De Rød-Grønne": 7,
       "B. Radikale Venstre": 6,
       "M. Moderaterne": 1
     }
@@ -405,14 +405,14 @@
     "votes": {
       "V. Venstre, Danmarks Liberale Parti": 152,
       "A. Socialdemokratiet": 72,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 52,
       "F. SF - Socialistisk Folkeparti": 118,
-      "O. Dansk Folkeparti": 38,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 52,
       "L. Skive-Listen": 3,
+      "O. Dansk Folkeparti": 38,
       "I. Liberal Alliance": 13,
       "D. Nye Borgerlige": 15,
-      "Ø. Enhedslisten - De Rød-Grønne": 10,
       "C. Det Konservative Folkeparti": 7,
+      "Ø. Enhedslisten - De Rød-Grønne": 10,
       "B. Radikale Venstre": 2,
       "M. Moderaterne": 3
     }
@@ -427,14 +427,14 @@
     "votes": {
       "V. Venstre, Danmarks Liberale Parti": 245,
       "A. Socialdemokratiet": 48,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 119,
       "F. SF - Socialistisk Folkeparti": 63,
-      "O. Dansk Folkeparti": 13,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 119,
       "L. Skive-Listen": 15,
+      "O. Dansk Folkeparti": 13,
       "I. Liberal Alliance": 4,
       "D. Nye Borgerlige": 3,
-      "Ø. Enhedslisten - De Rød-Grønne": 25,
       "C. Det Konservative Folkeparti": 4,
+      "Ø. Enhedslisten - De Rød-Grønne": 25,
       "B. Radikale Venstre": 0,
       "M. Moderaterne": 1
     }

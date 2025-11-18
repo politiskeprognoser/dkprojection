@@ -112,23 +112,23 @@
   "708012": {
     "name": "Kastrup",
     "electorate": 9158,
-    "total_votes": 5350,
-    "valid_votes": 5241,
-    "invalid_votes": 109,
-    "is_reported": false,
+    "total_votes": 5626,
+    "valid_votes": 5506,
+    "invalid_votes": 120,
+    "is_reported": true,
     "votes": {
-      "A. Socialdemokratiet": 1962,
-      "O. Dansk Folkeparti": 728,
-      "F. SF - Socialistisk Folkeparti": 523,
-      "Ø. Enhedslisten - De Rød-Grønne": 496,
-      "C. Det Konservative Folkeparti": 341,
-      "V. Venstre, Danmarks Liberale Parti": 184,
-      "I. Liberal Alliance": 279,
-      "B. Radikale Venstre": 188,
-      "M. Moderaterne": 176,
-      "T. Tårnby Listen": 215,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 135,
-      "E. Velfærdslisten (Tårnby Kommune)": 14
+      "A. Socialdemokratiet": 2011,
+      "O. Dansk Folkeparti": 921,
+      "F. SF - Socialistisk Folkeparti": 560,
+      "Ø. Enhedslisten - De Rød-Grønne": 543,
+      "C. Det Konservative Folkeparti": 284,
+      "V. Venstre, Danmarks Liberale Parti": 237,
+      "I. Liberal Alliance": 231,
+      "B. Radikale Venstre": 172,
+      "M. Moderaterne": 130,
+      "T. Tårnby Listen": 248,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 156,
+      "E. Velfærdslisten (Tårnby Kommune)": 13
     }
   }
 }
