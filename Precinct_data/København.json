@@ -2,35 +2,35 @@
   "707732": {
     "name": "1. Østerbro",
     "electorate": 9254,
-    "total_votes": 6777,
-    "valid_votes": 6691,
-    "invalid_votes": 86,
+    "total_votes": 6727,
+    "valid_votes": 6639,
+    "invalid_votes": 88,
     "is_reported": false,
     "votes": {
-      "Ø. Enhedslisten - De Rød-Grønne": 1117,
-      "F. SF - Socialistisk Folkeparti": 1080,
-      "A. Socialdemokratiet": 910,
-      "C. Det Konservative Folkeparti": 1209,
-      "B. Radikale Venstre": 788,
-      "V. Venstre, Danmarks Liberale Parti": 460,
-      "I. Liberal Alliance": 405,
-      "Å. Alternativet": 258,
-      "O. Dansk Folkeparti": 240,
-      "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 39,
-      "M. Moderaterne": 99,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 26,
-      "R. Kommunistisk Parti": 7,
+      "Ø. Enhedslisten - De Rød-Grønne": 1097,
+      "F. SF - Socialistisk Folkeparti": 1153,
+      "A. Socialdemokratiet": 891,
+      "C. Det Konservative Folkeparti": 1146,
+      "B. Radikale Venstre": 776,
+      "V. Venstre, Danmarks Liberale Parti": 469,
+      "I. Liberal Alliance": 377,
+      "Å. Alternativet": 286,
+      "O. Dansk Folkeparti": 223,
+      "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 38,
+      "M. Moderaterne": 95,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 23,
+      "R. Kommunistisk Parti": 9,
       "T. Skamløse Demokrater": 13,
-      "K. KD – Kristendemokraterne": 17,
+      "K. KD – Kristendemokraterne": 18,
       "J. Hampepartiet": 3,
       "N. Demokraterne - hele Danmark skal leve": 6,
-      "P. DKP - Danmarks Kommunistiske Parti": 2,
-      "L. Lokallisten - København": 2,
-      "D. Nye Borgerlige": 5,
-      "Y. Fælles Fremtid": 2,
+      "P. DKP - Danmarks Kommunistiske Parti": 4,
+      "L. Lokallisten - København": 1,
+      "Y. Fælles Fremtid": 3,
+      "D. Nye Borgerlige": 4,
       "U. Din stemme i København": 2,
-      "Z. Solidarisk Integritet": 1,
-      "E. KaosTV": 0
+      "E. KaosTV": 1,
+      "Z. Solidarisk Integritet": 1
     }
   },
   "711932": {
@@ -60,181 +60,181 @@
       "N. Demokraterne - hele Danmark skal leve": 5,
       "P. DKP - Danmarks Kommunistiske Parti": 3,
       "L. Lokallisten - København": 1,
-      "D. Nye Borgerlige": 5,
       "Y. Fælles Fremtid": 2,
+      "D. Nye Borgerlige": 5,
       "U. Din stemme i København": 2,
-      "Z. Solidarisk Integritet": 1,
-      "E. KaosTV": 0
+      "E. KaosTV": 0,
+      "Z. Solidarisk Integritet": 1
     }
   },
   "704936": {
     "name": "1. Syd",
     "electorate": 8582,
-    "total_votes": 6677,
-    "valid_votes": 6606,
-    "invalid_votes": 71,
-    "is_reported": false,
+    "total_votes": 6591,
+    "valid_votes": 6514,
+    "invalid_votes": 77,
+    "is_reported": true,
     "votes": {
-      "Ø. Enhedslisten - De Rød-Grønne": 1216,
-      "F. SF - Socialistisk Folkeparti": 1084,
-      "A. Socialdemokratiet": 885,
-      "C. Det Konservative Folkeparti": 1144,
-      "B. Radikale Venstre": 803,
-      "V. Venstre, Danmarks Liberale Parti": 439,
-      "I. Liberal Alliance": 372,
-      "Å. Alternativet": 241,
-      "O. Dansk Folkeparti": 213,
-      "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 38,
-      "M. Moderaterne": 89,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 24,
-      "R. Kommunistisk Parti": 9,
+      "Ø. Enhedslisten - De Rød-Grønne": 1186,
+      "F. SF - Socialistisk Folkeparti": 1221,
+      "A. Socialdemokratiet": 851,
+      "C. Det Konservative Folkeparti": 1024,
+      "B. Radikale Venstre": 783,
+      "V. Venstre, Danmarks Liberale Parti": 456,
+      "I. Liberal Alliance": 317,
+      "Å. Alternativet": 293,
+      "O. Dansk Folkeparti": 180,
+      "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 37,
+      "M. Moderaterne": 82,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 20,
+      "R. Kommunistisk Parti": 12,
       "T. Skamløse Demokrater": 12,
       "K. KD – Kristendemokraterne": 17,
-      "J. Hampepartiet": 2,
+      "J. Hampepartiet": 4,
       "N. Demokraterne - hele Danmark skal leve": 6,
-      "P. DKP - Danmarks Kommunistiske Parti": 0,
-      "L. Lokallisten - København": 2,
-      "D. Nye Borgerlige": 5,
-      "Y. Fælles Fremtid": 2,
-      "U. Din stemme i København": 2,
-      "Z. Solidarisk Integritet": 1,
-      "E. KaosTV": 0
+      "P. DKP - Danmarks Kommunistiske Parti": 5,
+      "L. Lokallisten - København": 0,
+      "Y. Fælles Fremtid": 3,
+      "D. Nye Borgerlige": 3,
+      "U. Din stemme i København": 1,
+      "E. KaosTV": 1,
+      "Z. Solidarisk Integritet": 0
     }
   },
   "706160": {
     "name": "1. Vest",
     "electorate": 13106,
-    "total_votes": 8399,
-    "valid_votes": 8275,
-    "invalid_votes": 124,
+    "total_votes": 8328,
+    "valid_votes": 8199,
+    "invalid_votes": 129,
     "is_reported": false,
     "votes": {
-      "Ø. Enhedslisten - De Rød-Grønne": 1539,
-      "F. SF - Socialistisk Folkeparti": 1420,
-      "A. Socialdemokratiet": 1316,
-      "C. Det Konservative Folkeparti": 1179,
-      "B. Radikale Venstre": 851,
-      "V. Venstre, Danmarks Liberale Parti": 511,
-      "I. Liberal Alliance": 470,
-      "Å. Alternativet": 321,
-      "O. Dansk Folkeparti": 368,
-      "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 52,
-      "M. Moderaterne": 105,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 37,
-      "R. Kommunistisk Parti": 16,
+      "Ø. Enhedslisten - De Rød-Grønne": 1509,
+      "F. SF - Socialistisk Folkeparti": 1507,
+      "A. Socialdemokratiet": 1287,
+      "C. Det Konservative Folkeparti": 1116,
+      "B. Radikale Venstre": 837,
+      "V. Venstre, Danmarks Liberale Parti": 521,
+      "I. Liberal Alliance": 428,
+      "Å. Alternativet": 356,
+      "O. Dansk Folkeparti": 341,
+      "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 51,
+      "M. Moderaterne": 101,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 33,
+      "R. Kommunistisk Parti": 20,
       "T. Skamløse Demokrater": 17,
       "K. KD – Kristendemokraterne": 37,
-      "J. Hampepartiet": 6,
+      "J. Hampepartiet": 8,
       "N. Demokraterne - hele Danmark skal leve": 8,
-      "P. DKP - Danmarks Kommunistiske Parti": 3,
-      "L. Lokallisten - København": 3,
-      "D. Nye Borgerlige": 8,
-      "Y. Fælles Fremtid": 3,
-      "U. Din stemme i København": 3,
-      "Z. Solidarisk Integritet": 2,
-      "E. KaosTV": 0
+      "P. DKP - Danmarks Kommunistiske Parti": 6,
+      "L. Lokallisten - København": 1,
+      "Y. Fælles Fremtid": 4,
+      "D. Nye Borgerlige": 7,
+      "U. Din stemme i København": 2,
+      "E. KaosTV": 1,
+      "Z. Solidarisk Integritet": 1
     }
   },
   "710802": {
     "name": "1. Nordvest",
     "electorate": 11520,
-    "total_votes": 7859,
-    "valid_votes": 7750,
-    "invalid_votes": 109,
+    "total_votes": 7797,
+    "valid_votes": 7680,
+    "invalid_votes": 117,
     "is_reported": false,
     "votes": {
-      "Ø. Enhedslisten - De Rød-Grønne": 1254,
-      "F. SF - Socialistisk Folkeparti": 1302,
-      "A. Socialdemokratiet": 1229,
-      "C. Det Konservative Folkeparti": 1203,
-      "B. Radikale Venstre": 879,
-      "V. Venstre, Danmarks Liberale Parti": 513,
-      "I. Liberal Alliance": 483,
-      "Å. Alternativet": 298,
-      "O. Dansk Folkeparti": 336,
-      "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 48,
-      "M. Moderaterne": 99,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 30,
-      "R. Kommunistisk Parti": 9,
-      "T. Skamløse Demokrater": 16,
+      "Ø. Enhedslisten - De Rød-Grønne": 1231,
+      "F. SF - Socialistisk Folkeparti": 1385,
+      "A. Socialdemokratiet": 1202,
+      "C. Det Konservative Folkeparti": 1140,
+      "B. Radikale Venstre": 864,
+      "V. Venstre, Danmarks Liberale Parti": 524,
+      "I. Liberal Alliance": 445,
+      "Å. Alternativet": 331,
+      "O. Dansk Folkeparti": 312,
+      "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 47,
+      "M. Moderaterne": 95,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 28,
+      "R. Kommunistisk Parti": 10,
+      "T. Skamløse Demokrater": 15,
       "K. KD – Kristendemokraterne": 18,
-      "J. Hampepartiet": 3,
+      "J. Hampepartiet": 4,
       "N. Demokraterne - hele Danmark skal leve": 8,
-      "P. DKP - Danmarks Kommunistiske Parti": 3,
-      "L. Lokallisten - København": 3,
-      "D. Nye Borgerlige": 8,
+      "P. DKP - Danmarks Kommunistiske Parti": 6,
+      "L. Lokallisten - København": 1,
       "Y. Fælles Fremtid": 3,
-      "U. Din stemme i København": 3,
-      "Z. Solidarisk Integritet": 2,
-      "E. KaosTV": 0
+      "D. Nye Borgerlige": 7,
+      "U. Din stemme i København": 2,
+      "E. KaosTV": 1,
+      "Z. Solidarisk Integritet": 1
     }
   },
   "725338": {
     "name": "1. Øst",
     "electorate": 8847,
-    "total_votes": 6472,
-    "valid_votes": 6411,
-    "invalid_votes": 61,
+    "total_votes": 6424,
+    "valid_votes": 6361,
+    "invalid_votes": 63,
     "is_reported": false,
     "votes": {
-      "Ø. Enhedslisten - De Rød-Grønne": 881,
-      "F. SF - Socialistisk Folkeparti": 969,
-      "A. Socialdemokratiet": 740,
-      "C. Det Konservative Folkeparti": 1290,
-      "B. Radikale Venstre": 728,
-      "V. Venstre, Danmarks Liberale Parti": 609,
-      "I. Liberal Alliance": 496,
-      "Å. Alternativet": 236,
-      "O. Dansk Folkeparti": 224,
-      "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 40,
-      "M. Moderaterne": 119,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 25,
-      "R. Kommunistisk Parti": 5,
+      "Ø. Enhedslisten - De Rød-Grønne": 865,
+      "F. SF - Socialistisk Folkeparti": 1043,
+      "A. Socialdemokratiet": 725,
+      "C. Det Konservative Folkeparti": 1223,
+      "B. Radikale Venstre": 716,
+      "V. Venstre, Danmarks Liberale Parti": 622,
+      "I. Liberal Alliance": 465,
+      "Å. Alternativet": 264,
+      "O. Dansk Folkeparti": 205,
+      "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 39,
+      "M. Moderaterne": 115,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 23,
+      "R. Kommunistisk Parti": 6,
       "T. Skamløse Demokrater": 13,
       "K. KD – Kristendemokraterne": 14,
       "J. Hampepartiet": 2,
       "N. Demokraterne - hele Danmark skal leve": 6,
-      "P. DKP - Danmarks Kommunistiske Parti": 1,
-      "L. Lokallisten - København": 2,
-      "D. Nye Borgerlige": 6,
-      "Y. Fælles Fremtid": 2,
+      "P. DKP - Danmarks Kommunistiske Parti": 2,
+      "L. Lokallisten - København": 1,
+      "Y. Fælles Fremtid": 3,
+      "D. Nye Borgerlige": 5,
       "U. Din stemme i København": 2,
-      "Z. Solidarisk Integritet": 1,
-      "E. KaosTV": 0
+      "E. KaosTV": 1,
+      "Z. Solidarisk Integritet": 1
     }
   },
   "749398": {
     "name": "1. Nordhavn",
     "electorate": 9287,
-    "total_votes": 6659,
-    "valid_votes": 6582,
-    "invalid_votes": 77,
+    "total_votes": 6608,
+    "valid_votes": 6528,
+    "invalid_votes": 80,
     "is_reported": false,
     "votes": {
-      "Ø. Enhedslisten - De Rød-Grønne": 961,
-      "F. SF - Socialistisk Folkeparti": 1022,
-      "A. Socialdemokratiet": 833,
-      "C. Det Konservative Folkeparti": 1274,
-      "B. Radikale Venstre": 752,
-      "V. Venstre, Danmarks Liberale Parti": 545,
-      "I. Liberal Alliance": 464,
-      "Å. Alternativet": 252,
-      "O. Dansk Folkeparti": 242,
-      "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 40,
-      "M. Moderaterne": 113,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 26,
-      "R. Kommunistisk Parti": 5,
+      "Ø. Enhedslisten - De Rød-Grønne": 944,
+      "F. SF - Socialistisk Folkeparti": 1095,
+      "A. Socialdemokratiet": 815,
+      "C. Det Konservative Folkeparti": 1207,
+      "B. Radikale Venstre": 741,
+      "V. Venstre, Danmarks Liberale Parti": 556,
+      "I. Liberal Alliance": 433,
+      "Å. Alternativet": 280,
+      "O. Dansk Folkeparti": 224,
+      "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 39,
+      "M. Moderaterne": 109,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 23,
+      "R. Kommunistisk Parti": 6,
       "T. Skamløse Demokrater": 13,
       "K. KD – Kristendemokraterne": 17,
-      "J. Hampepartiet": 2,
+      "J. Hampepartiet": 3,
       "N. Demokraterne - hele Danmark skal leve": 6,
-      "P. DKP - Danmarks Kommunistiske Parti": 2,
-      "L. Lokallisten - København": 2,
-      "D. Nye Borgerlige": 6,
-      "Y. Fælles Fremtid": 2,
+      "P. DKP - Danmarks Kommunistiske Parti": 4,
+      "L. Lokallisten - København": 1,
+      "Y. Fælles Fremtid": 3,
+      "D. Nye Borgerlige": 5,
       "U. Din stemme i København": 2,
-      "Z. Solidarisk Integritet": 1,
-      "E. KaosTV": 0
+      "E. KaosTV": 1,
+      "Z. Solidarisk Integritet": 1
     }
   },
   "711204": {
@@ -264,11 +264,11 @@
       "N. Demokraterne - hele Danmark skal leve": 12,
       "P. DKP - Danmarks Kommunistiske Parti": 6,
       "L. Lokallisten - København": 10,
-      "D. Nye Borgerlige": 8,
       "Y. Fælles Fremtid": 4,
+      "D. Nye Borgerlige": 8,
       "U. Din stemme i København": 6,
-      "Z. Solidarisk Integritet": 3,
-      "E. KaosTV": 2
+      "E. KaosTV": 2,
+      "Z. Solidarisk Integritet": 3
     }
   },
   "706166": {
@@ -298,11 +298,11 @@
       "N. Demokraterne - hele Danmark skal leve": 4,
       "P. DKP - Danmarks Kommunistiske Parti": 8,
       "L. Lokallisten - København": 4,
-      "D. Nye Borgerlige": 4,
       "Y. Fælles Fremtid": 2,
+      "D. Nye Borgerlige": 4,
       "U. Din stemme i København": 2,
-      "Z. Solidarisk Integritet": 1,
-      "E. KaosTV": 2
+      "E. KaosTV": 2,
+      "Z. Solidarisk Integritet": 1
     }
   },
   "706562": {
@@ -332,11 +332,11 @@
       "N. Demokraterne - hele Danmark skal leve": 1,
       "P. DKP - Danmarks Kommunistiske Parti": 8,
       "L. Lokallisten - København": 5,
-      "D. Nye Borgerlige": 6,
       "Y. Fælles Fremtid": 4,
+      "D. Nye Borgerlige": 6,
       "U. Din stemme i København": 1,
-      "Z. Solidarisk Integritet": 0,
-      "E. KaosTV": 2
+      "E. KaosTV": 2,
+      "Z. Solidarisk Integritet": 0
     }
   },
   "712286": {
@@ -366,11 +366,11 @@
       "N. Demokraterne - hele Danmark skal leve": 9,
       "P. DKP - Danmarks Kommunistiske Parti": 15,
       "L. Lokallisten - København": 9,
-      "D. Nye Borgerlige": 9,
       "Y. Fælles Fremtid": 5,
+      "D. Nye Borgerlige": 9,
       "U. Din stemme i København": 5,
-      "Z. Solidarisk Integritet": 2,
-      "E. KaosTV": 4
+      "E. KaosTV": 4,
+      "Z. Solidarisk Integritet": 2
     }
   },
   "725346": {
@@ -400,11 +400,11 @@
       "N. Demokraterne - hele Danmark skal leve": 4,
       "P. DKP - Danmarks Kommunistiske Parti": 9,
       "L. Lokallisten - København": 2,
-      "D. Nye Borgerlige": 6,
       "Y. Fælles Fremtid": 1,
+      "D. Nye Borgerlige": 6,
       "U. Din stemme i København": 2,
-      "Z. Solidarisk Integritet": 1,
-      "E. KaosTV": 4
+      "E. KaosTV": 4,
+      "Z. Solidarisk Integritet": 1
     }
   },
   "749400": {
@@ -434,11 +434,11 @@
       "N. Demokraterne - hele Danmark skal leve": 5,
       "P. DKP - Danmarks Kommunistiske Parti": 3,
       "L. Lokallisten - København": 5,
-      "D. Nye Borgerlige": 6,
       "Y. Fælles Fremtid": 3,
+      "D. Nye Borgerlige": 6,
       "U. Din stemme i København": 3,
-      "Z. Solidarisk Integritet": 1,
-      "E. KaosTV": 2
+      "E. KaosTV": 2,
+      "Z. Solidarisk Integritet": 1
     }
   },
   "749401": {
@@ -468,11 +468,11 @@
       "N. Demokraterne - hele Danmark skal leve": 5,
       "P. DKP - Danmarks Kommunistiske Parti": 9,
       "L. Lokallisten - København": 5,
-      "D. Nye Borgerlige": 5,
       "Y. Fælles Fremtid": 2,
+      "D. Nye Borgerlige": 5,
       "U. Din stemme i København": 2,
-      "Z. Solidarisk Integritet": 1,
-      "E. KaosTV": 2
+      "E. KaosTV": 2,
+      "Z. Solidarisk Integritet": 1
     }
   },
   "711926": {
@@ -484,14 +484,14 @@
     "is_reported": false,
     "votes": {
       "Ø. Enhedslisten - De Rød-Grønne": 1417,
-      "F. SF - Socialistisk Folkeparti": 1149,
+      "F. SF - Socialistisk Folkeparti": 1150,
       "A. Socialdemokratiet": 812,
-      "C. Det Konservative Folkeparti": 1431,
-      "B. Radikale Venstre": 924,
+      "C. Det Konservative Folkeparti": 1430,
+      "B. Radikale Venstre": 923,
       "V. Venstre, Danmarks Liberale Parti": 569,
       "I. Liberal Alliance": 557,
       "Å. Alternativet": 387,
-      "O. Dansk Folkeparti": 201,
+      "O. Dansk Folkeparti": 202,
       "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 44,
       "M. Moderaterne": 150,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 35,
@@ -502,11 +502,11 @@
       "N. Demokraterne - hele Danmark skal leve": 7,
       "P. DKP - Danmarks Kommunistiske Parti": 3,
       "L. Lokallisten - København": 14,
-      "D. Nye Borgerlige": 8,
       "Y. Fælles Fremtid": 2,
+      "D. Nye Borgerlige": 8,
       "U. Din stemme i København": 2,
-      "Z. Solidarisk Integritet": 2,
-      "E. KaosTV": 1
+      "E. KaosTV": 1,
+      "Z. Solidarisk Integritet": 2
     }
   },
   "709378": {
@@ -536,11 +536,11 @@
       "N. Demokraterne - hele Danmark skal leve": 4,
       "P. DKP - Danmarks Kommunistiske Parti": 1,
       "L. Lokallisten - København": 3,
-      "D. Nye Borgerlige": 5,
       "Y. Fælles Fremtid": 3,
+      "D. Nye Borgerlige": 5,
       "U. Din stemme i København": 0,
-      "Z. Solidarisk Integritet": 1,
-      "E. KaosTV": 0
+      "E. KaosTV": 0,
+      "Z. Solidarisk Integritet": 1
     }
   },
   "704846": {
@@ -570,11 +570,11 @@
       "N. Demokraterne - hele Danmark skal leve": 11,
       "P. DKP - Danmarks Kommunistiske Parti": 7,
       "L. Lokallisten - København": 19,
-      "D. Nye Borgerlige": 8,
       "Y. Fælles Fremtid": 1,
+      "D. Nye Borgerlige": 8,
       "U. Din stemme i København": 2,
-      "Z. Solidarisk Integritet": 3,
-      "E. KaosTV": 5
+      "E. KaosTV": 5,
+      "Z. Solidarisk Integritet": 3
     }
   },
   "707672": {
@@ -604,11 +604,11 @@
       "N. Demokraterne - hele Danmark skal leve": 5,
       "P. DKP - Danmarks Kommunistiske Parti": 4,
       "L. Lokallisten - København": 4,
-      "D. Nye Borgerlige": 4,
       "Y. Fælles Fremtid": 1,
+      "D. Nye Borgerlige": 4,
       "U. Din stemme i København": 2,
-      "Z. Solidarisk Integritet": 2,
-      "E. KaosTV": 0
+      "E. KaosTV": 0,
+      "Z. Solidarisk Integritet": 2
     }
   },
   "749402": {
@@ -638,11 +638,11 @@
       "N. Demokraterne - hele Danmark skal leve": 2,
       "P. DKP - Danmarks Kommunistiske Parti": 0,
       "L. Lokallisten - København": 2,
-      "D. Nye Borgerlige": 5,
       "Y. Fælles Fremtid": 0,
+      "D. Nye Borgerlige": 5,
       "U. Din stemme i København": 2,
-      "Z. Solidarisk Integritet": 0,
-      "E. KaosTV": 0
+      "E. KaosTV": 0,
+      "Z. Solidarisk Integritet": 0
     }
   },
   "749404": {
@@ -672,11 +672,11 @@
       "N. Demokraterne - hele Danmark skal leve": 1,
       "P. DKP - Danmarks Kommunistiske Parti": 1,
       "L. Lokallisten - København": 18,
-      "D. Nye Borgerlige": 5,
       "Y. Fælles Fremtid": 2,
+      "D. Nye Borgerlige": 5,
       "U. Din stemme i København": 1,
-      "Z. Solidarisk Integritet": 0,
-      "E. KaosTV": 0
+      "E. KaosTV": 0,
+      "Z. Solidarisk Integritet": 0
     }
   },
   "707726": {
@@ -706,19 +706,19 @@
       "N. Demokraterne - hele Danmark skal leve": 10,
       "P. DKP - Danmarks Kommunistiske Parti": 5,
       "L. Lokallisten - København": 4,
-      "D. Nye Borgerlige": 5,
       "Y. Fælles Fremtid": 2,
+      "D. Nye Borgerlige": 5,
       "U. Din stemme i København": 4,
-      "Z. Solidarisk Integritet": 3,
-      "E. KaosTV": 0
+      "E. KaosTV": 0,
+      "Z. Solidarisk Integritet": 3
     }
   },
   "704930": {
     "name": "4. Nord",
     "electorate": 11320,
-    "total_votes": 6903,
+    "total_votes": 6902,
     "valid_votes": 6793,
-    "invalid_votes": 110,
+    "invalid_votes": 109,
     "is_reported": false,
     "votes": {
       "Ø. Enhedslisten - De Rød-Grønne": 1349,
@@ -740,11 +740,11 @@
       "N. Demokraterne - hele Danmark skal leve": 13,
       "P. DKP - Danmarks Kommunistiske Parti": 9,
       "L. Lokallisten - København": 5,
-      "D. Nye Borgerlige": 5,
       "Y. Fælles Fremtid": 2,
+      "D. Nye Borgerlige": 5,
       "U. Din stemme i København": 4,
-      "Z. Solidarisk Integritet": 4,
-      "E. KaosTV": 0
+      "E. KaosTV": 0,
+      "Z. Solidarisk Integritet": 4
     }
   },
   "706154": {
@@ -774,11 +774,11 @@
       "N. Demokraterne - hele Danmark skal leve": 12,
       "P. DKP - Danmarks Kommunistiske Parti": 4,
       "L. Lokallisten - København": 4,
-      "D. Nye Borgerlige": 5,
       "Y. Fælles Fremtid": 2,
+      "D. Nye Borgerlige": 5,
       "U. Din stemme i København": 4,
-      "Z. Solidarisk Integritet": 4,
-      "E. KaosTV": 0
+      "E. KaosTV": 0,
+      "Z. Solidarisk Integritet": 4
     }
   },
   "701580": {
@@ -808,11 +808,11 @@
       "N. Demokraterne - hele Danmark skal leve": 14,
       "P. DKP - Danmarks Kommunistiske Parti": 2,
       "L. Lokallisten - København": 5,
-      "D. Nye Borgerlige": 6,
       "Y. Fælles Fremtid": 2,
+      "D. Nye Borgerlige": 6,
       "U. Din stemme i København": 5,
-      "Z. Solidarisk Integritet": 4,
-      "E. KaosTV": 0
+      "E. KaosTV": 0,
+      "Z. Solidarisk Integritet": 4
     }
   },
   "749399": {
@@ -842,11 +842,11 @@
       "N. Demokraterne - hele Danmark skal leve": 13,
       "P. DKP - Danmarks Kommunistiske Parti": 8,
       "L. Lokallisten - København": 5,
-      "D. Nye Borgerlige": 5,
       "Y. Fælles Fremtid": 2,
+      "D. Nye Borgerlige": 5,
       "U. Din stemme i København": 4,
-      "Z. Solidarisk Integritet": 4,
-      "E. KaosTV": 0
+      "E. KaosTV": 0,
+      "Z. Solidarisk Integritet": 4
     }
   },
   "706196": {
@@ -876,33 +876,33 @@
       "N. Demokraterne - hele Danmark skal leve": 6,
       "P. DKP - Danmarks Kommunistiske Parti": 5,
       "L. Lokallisten - København": 7,
-      "D. Nye Borgerlige": 3,
       "Y. Fælles Fremtid": 4,
+      "D. Nye Borgerlige": 3,
       "U. Din stemme i København": 4,
-      "Z. Solidarisk Integritet": 3,
-      "E. KaosTV": 0
+      "E. KaosTV": 0,
+      "Z. Solidarisk Integritet": 3
     }
   },
   "706184": {
     "name": "5. Nord",
     "electorate": 11947,
     "total_votes": 7812,
-    "valid_votes": 7688,
-    "invalid_votes": 124,
+    "valid_votes": 7687,
+    "invalid_votes": 125,
     "is_reported": false,
     "votes": {
       "Ø. Enhedslisten - De Rød-Grønne": 2218,
       "F. SF - Socialistisk Folkeparti": 1506,
-      "A. Socialdemokratiet": 800,
+      "A. Socialdemokratiet": 801,
       "C. Det Konservative Folkeparti": 504,
       "B. Radikale Venstre": 919,
       "V. Venstre, Danmarks Liberale Parti": 356,
-      "I. Liberal Alliance": 297,
+      "I. Liberal Alliance": 296,
       "Å. Alternativet": 463,
       "O. Dansk Folkeparti": 170,
       "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 192,
       "M. Moderaterne": 93,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 31,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 30,
       "R. Kommunistisk Parti": 29,
       "T. Skamløse Demokrater": 23,
       "K. KD – Kristendemokraterne": 16,
@@ -910,11 +910,11 @@
       "N. Demokraterne - hele Danmark skal leve": 6,
       "P. DKP - Danmarks Kommunistiske Parti": 7,
       "L. Lokallisten - København": 5,
-      "D. Nye Borgerlige": 2,
       "Y. Fælles Fremtid": 21,
+      "D. Nye Borgerlige": 2,
       "U. Din stemme i København": 3,
-      "Z. Solidarisk Integritet": 3,
-      "E. KaosTV": 0
+      "E. KaosTV": 0,
+      "Z. Solidarisk Integritet": 3
     }
   },
   "703386": {
@@ -944,11 +944,11 @@
       "N. Demokraterne - hele Danmark skal leve": 3,
       "P. DKP - Danmarks Kommunistiske Parti": 11,
       "L. Lokallisten - København": 3,
-      "D. Nye Borgerlige": 1,
       "Y. Fælles Fremtid": 42,
+      "D. Nye Borgerlige": 1,
       "U. Din stemme i København": 2,
-      "Z. Solidarisk Integritet": 2,
-      "E. KaosTV": 0
+      "E. KaosTV": 0,
+      "Z. Solidarisk Integritet": 2
     }
   },
   "704962": {
@@ -978,11 +978,11 @@
       "N. Demokraterne - hele Danmark skal leve": 3,
       "P. DKP - Danmarks Kommunistiske Parti": 4,
       "L. Lokallisten - København": 3,
-      "D. Nye Borgerlige": 0,
       "Y. Fælles Fremtid": 1,
+      "D. Nye Borgerlige": 0,
       "U. Din stemme i København": 2,
-      "Z. Solidarisk Integritet": 2,
-      "E. KaosTV": 0
+      "E. KaosTV": 0,
+      "Z. Solidarisk Integritet": 2
     }
   },
   "710832": {
@@ -1012,31 +1012,31 @@
       "N. Demokraterne - hele Danmark skal leve": 4,
       "P. DKP - Danmarks Kommunistiske Parti": 9,
       "L. Lokallisten - København": 1,
-      "D. Nye Borgerlige": 2,
       "Y. Fælles Fremtid": 11,
+      "D. Nye Borgerlige": 2,
       "U. Din stemme i København": 1,
-      "Z. Solidarisk Integritet": 2,
-      "E. KaosTV": 1
+      "E. KaosTV": 1,
+      "Z. Solidarisk Integritet": 2
     }
   },
   "704956": {
     "name": "5. Nordvest",
     "electorate": 11548,
     "total_votes": 7203,
-    "valid_votes": 7105,
-    "invalid_votes": 98,
+    "valid_votes": 7104,
+    "invalid_votes": 99,
     "is_reported": false,
     "votes": {
       "Ø. Enhedslisten - De Rød-Grønne": 2411,
       "F. SF - Socialistisk Folkeparti": 1422,
-      "A. Socialdemokratiet": 646,
+      "A. Socialdemokratiet": 647,
       "C. Det Konservative Folkeparti": 374,
       "B. Radikale Venstre": 832,
       "V. Venstre, Danmarks Liberale Parti": 248,
       "I. Liberal Alliance": 217,
       "Å. Alternativet": 435,
       "O. Dansk Folkeparti": 139,
-      "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 161,
+      "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 160,
       "M. Moderaterne": 67,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 23,
       "R. Kommunistisk Parti": 40,
@@ -1045,25 +1045,25 @@
       "J. Hampepartiet": 16,
       "N. Demokraterne - hele Danmark skal leve": 5,
       "P. DKP - Danmarks Kommunistiske Parti": 10,
-      "L. Lokallisten - København": 5,
-      "D. Nye Borgerlige": 2,
+      "L. Lokallisten - København": 4,
       "Y. Fælles Fremtid": 18,
+      "D. Nye Borgerlige": 2,
       "U. Din stemme i København": 3,
-      "Z. Solidarisk Integritet": 3,
-      "E. KaosTV": 0
+      "E. KaosTV": 0,
+      "Z. Solidarisk Integritet": 3
     }
   },
   "725352": {
     "name": "5. Nørrebrohallen",
     "electorate": 12208,
     "total_votes": 7082,
-    "valid_votes": 6951,
-    "invalid_votes": 131,
+    "valid_votes": 6953,
+    "invalid_votes": 129,
     "is_reported": false,
     "votes": {
       "Ø. Enhedslisten - De Rød-Grønne": 2315,
-      "F. SF - Socialistisk Folkeparti": 1342,
-      "A. Socialdemokratiet": 747,
+      "F. SF - Socialistisk Folkeparti": 1343,
+      "A. Socialdemokratiet": 748,
       "C. Det Konservative Folkeparti": 343,
       "B. Radikale Venstre": 764,
       "V. Venstre, Danmarks Liberale Parti": 254,
@@ -1080,19 +1080,19 @@
       "N. Demokraterne - hele Danmark skal leve": 5,
       "P. DKP - Danmarks Kommunistiske Parti": 8,
       "L. Lokallisten - København": 5,
-      "D. Nye Borgerlige": 2,
       "Y. Fælles Fremtid": 18,
+      "D. Nye Borgerlige": 2,
       "U. Din stemme i København": 3,
-      "Z. Solidarisk Integritet": 3,
-      "E. KaosTV": 0
+      "E. KaosTV": 0,
+      "Z. Solidarisk Integritet": 3
     }
   },
   "707738": {
     "name": "6. Bispebjerg",
     "electorate": 13578,
-    "total_votes": 8223,
+    "total_votes": 8222,
     "valid_votes": 8024,
-    "invalid_votes": 199,
+    "invalid_votes": 198,
     "is_reported": false,
     "votes": {
       "Ø. Enhedslisten - De Rød-Grønne": 2716,
@@ -1114,11 +1114,11 @@
       "N. Demokraterne - hele Danmark skal leve": 9,
       "P. DKP - Danmarks Kommunistiske Parti": 13,
       "L. Lokallisten - København": 7,
-      "D. Nye Borgerlige": 3,
       "Y. Fælles Fremtid": 6,
+      "D. Nye Borgerlige": 3,
       "U. Din stemme i København": 2,
-      "Z. Solidarisk Integritet": 2,
-      "E. KaosTV": 6
+      "E. KaosTV": 6,
+      "Z. Solidarisk Integritet": 2
     }
   },
   "701606": {
@@ -1148,11 +1148,11 @@
       "N. Demokraterne - hele Danmark skal leve": 3,
       "P. DKP - Danmarks Kommunistiske Parti": 11,
       "L. Lokallisten - København": 5,
-      "D. Nye Borgerlige": 1,
       "Y. Fælles Fremtid": 3,
+      "D. Nye Borgerlige": 1,
       "U. Din stemme i København": 3,
-      "Z. Solidarisk Integritet": 0,
-      "E. KaosTV": 5
+      "E. KaosTV": 5,
+      "Z. Solidarisk Integritet": 0
     }
   },
   "706172": {
@@ -1182,11 +1182,11 @@
       "N. Demokraterne - hele Danmark skal leve": 8,
       "P. DKP - Danmarks Kommunistiske Parti": 7,
       "L. Lokallisten - København": 4,
-      "D. Nye Borgerlige": 4,
       "Y. Fælles Fremtid": 4,
+      "D. Nye Borgerlige": 4,
       "U. Din stemme i København": 0,
-      "Z. Solidarisk Integritet": 3,
-      "E. KaosTV": 3
+      "E. KaosTV": 3,
+      "Z. Solidarisk Integritet": 3
     }
   },
   "710808": {
@@ -1216,11 +1216,11 @@
       "N. Demokraterne - hele Danmark skal leve": 7,
       "P. DKP - Danmarks Kommunistiske Parti": 16,
       "L. Lokallisten - København": 6,
-      "D. Nye Borgerlige": 3,
       "Y. Fælles Fremtid": 5,
+      "D. Nye Borgerlige": 3,
       "U. Din stemme i København": 2,
-      "Z. Solidarisk Integritet": 2,
-      "E. KaosTV": 5
+      "E. KaosTV": 5,
+      "Z. Solidarisk Integritet": 2
     }
   },
   "725358": {
@@ -1250,11 +1250,11 @@
       "N. Demokraterne - hele Danmark skal leve": 4,
       "P. DKP - Danmarks Kommunistiske Parti": 10,
       "L. Lokallisten - København": 4,
-      "D. Nye Borgerlige": 2,
       "Y. Fælles Fremtid": 3,
+      "D. Nye Borgerlige": 2,
       "U. Din stemme i København": 1,
-      "Z. Solidarisk Integritet": 1,
-      "E. KaosTV": 3
+      "E. KaosTV": 3,
+      "Z. Solidarisk Integritet": 1
     }
   },
   "710820": {
@@ -1284,11 +1284,11 @@
       "N. Demokraterne - hele Danmark skal leve": 3,
       "P. DKP - Danmarks Kommunistiske Parti": 2,
       "L. Lokallisten - København": 1,
-      "D. Nye Borgerlige": 1,
       "Y. Fælles Fremtid": 8,
+      "D. Nye Borgerlige": 1,
       "U. Din stemme i København": 1,
-      "Z. Solidarisk Integritet": 1,
-      "E. KaosTV": 3
+      "E. KaosTV": 3,
+      "Z. Solidarisk Integritet": 1
     }
   },
   "701626": {
@@ -1318,11 +1318,11 @@
       "N. Demokraterne - hele Danmark skal leve": 7,
       "P. DKP - Danmarks Kommunistiske Parti": 8,
       "L. Lokallisten - København": 7,
-      "D. Nye Borgerlige": 5,
       "Y. Fælles Fremtid": 9,
+      "D. Nye Borgerlige": 5,
       "U. Din stemme i København": 3,
-      "Z. Solidarisk Integritet": 1,
-      "E. KaosTV": 4
+      "E. KaosTV": 4,
+      "Z. Solidarisk Integritet": 1
     }
   },
   "706178": {
@@ -1352,11 +1352,11 @@
       "N. Demokraterne - hele Danmark skal leve": 7,
       "P. DKP - Danmarks Kommunistiske Parti": 10,
       "L. Lokallisten - København": 7,
-      "D. Nye Borgerlige": 3,
       "Y. Fælles Fremtid": 9,
+      "D. Nye Borgerlige": 3,
       "U. Din stemme i København": 3,
-      "Z. Solidarisk Integritet": 1,
-      "E. KaosTV": 4
+      "E. KaosTV": 4,
+      "Z. Solidarisk Integritet": 1
     }
   },
   "711946": {
@@ -1386,11 +1386,11 @@
       "N. Demokraterne - hele Danmark skal leve": 4,
       "P. DKP - Danmarks Kommunistiske Parti": 2,
       "L. Lokallisten - København": 4,
-      "D. Nye Borgerlige": 2,
       "Y. Fælles Fremtid": 5,
+      "D. Nye Borgerlige": 2,
       "U. Din stemme i København": 2,
-      "Z. Solidarisk Integritet": 1,
-      "E. KaosTV": 2
+      "E. KaosTV": 2,
+      "Z. Solidarisk Integritet": 1
     }
   },
   "707744": {
@@ -1420,11 +1420,11 @@
       "N. Demokraterne - hele Danmark skal leve": 7,
       "P. DKP - Danmarks Kommunistiske Parti": 4,
       "L. Lokallisten - København": 7,
-      "D. Nye Borgerlige": 4,
       "Y. Fælles Fremtid": 8,
+      "D. Nye Borgerlige": 4,
       "U. Din stemme i København": 3,
-      "Z. Solidarisk Integritet": 1,
-      "E. KaosTV": 3
+      "E. KaosTV": 3,
+      "Z. Solidarisk Integritet": 1
     }
   },
   "703374": {
@@ -1454,25 +1454,25 @@
       "N. Demokraterne - hele Danmark skal leve": 5,
       "P. DKP - Danmarks Kommunistiske Parti": 8,
       "L. Lokallisten - København": 7,
-      "D. Nye Borgerlige": 4,
       "Y. Fælles Fremtid": 2,
+      "D. Nye Borgerlige": 4,
       "U. Din stemme i København": 2,
-      "Z. Solidarisk Integritet": 0,
-      "E. KaosTV": 1
+      "E. KaosTV": 1,
+      "Z. Solidarisk Integritet": 0
     }
   },
   "710814": {
     "name": "7. Vanløse",
     "electorate": 11466,
     "total_votes": 7979,
-    "valid_votes": 7798,
-    "invalid_votes": 181,
+    "valid_votes": 7797,
+    "invalid_votes": 182,
     "is_reported": false,
     "votes": {
       "Ø. Enhedslisten - De Rød-Grønne": 1402,
       "F. SF - Socialistisk Folkeparti": 1402,
       "A. Socialdemokratiet": 1074,
-      "C. Det Konservative Folkeparti": 941,
+      "C. Det Konservative Folkeparti": 940,
       "B. Radikale Venstre": 744,
       "V. Venstre, Danmarks Liberale Parti": 484,
       "I. Liberal Alliance": 375,
@@ -1488,11 +1488,11 @@
       "N. Demokraterne - hele Danmark skal leve": 7,
       "P. DKP - Danmarks Kommunistiske Parti": 6,
       "L. Lokallisten - København": 7,
-      "D. Nye Borgerlige": 4,
       "Y. Fælles Fremtid": 9,
+      "D. Nye Borgerlige": 4,
       "U. Din stemme i København": 3,
-      "Z. Solidarisk Integritet": 1,
-      "E. KaosTV": 4
+      "E. KaosTV": 4,
+      "Z. Solidarisk Integritet": 1
     }
   },
   "707648": {
@@ -1522,11 +1522,11 @@
       "N. Demokraterne - hele Danmark skal leve": 11,
       "P. DKP - Danmarks Kommunistiske Parti": 6,
       "L. Lokallisten - København": 3,
-      "D. Nye Borgerlige": 4,
       "Y. Fælles Fremtid": 3,
+      "D. Nye Borgerlige": 4,
       "U. Din stemme i København": 1,
-      "Z. Solidarisk Integritet": 4,
-      "E. KaosTV": 0
+      "E. KaosTV": 0,
+      "Z. Solidarisk Integritet": 4
     }
   },
   "709306": {
@@ -1556,11 +1556,11 @@
       "N. Demokraterne - hele Danmark skal leve": 8,
       "P. DKP - Danmarks Kommunistiske Parti": 2,
       "L. Lokallisten - København": 4,
-      "D. Nye Borgerlige": 3,
       "Y. Fælles Fremtid": 3,
+      "D. Nye Borgerlige": 3,
       "U. Din stemme i København": 3,
-      "Z. Solidarisk Integritet": 2,
-      "E. KaosTV": 2
+      "E. KaosTV": 2,
+      "Z. Solidarisk Integritet": 2
     }
   },
   "704776": {
@@ -1590,11 +1590,11 @@
       "N. Demokraterne - hele Danmark skal leve": 7,
       "P. DKP - Danmarks Kommunistiske Parti": 3,
       "L. Lokallisten - København": 3,
-      "D. Nye Borgerlige": 3,
       "Y. Fælles Fremtid": 2,
+      "D. Nye Borgerlige": 3,
       "U. Din stemme i København": 3,
-      "Z. Solidarisk Integritet": 2,
-      "E. KaosTV": 1
+      "E. KaosTV": 1,
+      "Z. Solidarisk Integritet": 2
     }
   },
   "711890": {
@@ -1624,11 +1624,11 @@
       "N. Demokraterne - hele Danmark skal leve": 5,
       "P. DKP - Danmarks Kommunistiske Parti": 1,
       "L. Lokallisten - København": 4,
-      "D. Nye Borgerlige": 3,
       "Y. Fælles Fremtid": 0,
+      "D. Nye Borgerlige": 3,
       "U. Din stemme i København": 4,
-      "Z. Solidarisk Integritet": 0,
-      "E. KaosTV": 2
+      "E. KaosTV": 2,
+      "Z. Solidarisk Integritet": 0
     }
   },
   "701520": {
@@ -1658,11 +1658,11 @@
       "N. Demokraterne - hele Danmark skal leve": 3,
       "P. DKP - Danmarks Kommunistiske Parti": 3,
       "L. Lokallisten - København": 1,
-      "D. Nye Borgerlige": 3,
       "Y. Fælles Fremtid": 3,
+      "D. Nye Borgerlige": 3,
       "U. Din stemme i København": 2,
-      "Z. Solidarisk Integritet": 1,
-      "E. KaosTV": 2
+      "E. KaosTV": 2,
+      "Z. Solidarisk Integritet": 1
     }
   },
   "704784": {
@@ -1692,11 +1692,11 @@
       "N. Demokraterne - hele Danmark skal leve": 7,
       "P. DKP - Danmarks Kommunistiske Parti": 3,
       "L. Lokallisten - København": 3,
-      "D. Nye Borgerlige": 3,
       "Y. Fælles Fremtid": 2,
+      "D. Nye Borgerlige": 3,
       "U. Din stemme i København": 3,
-      "Z. Solidarisk Integritet": 2,
-      "E. KaosTV": 2
+      "E. KaosTV": 2,
+      "Z. Solidarisk Integritet": 2
     }
   },
   "709384": {
@@ -1726,11 +1726,11 @@
       "N. Demokraterne - hele Danmark skal leve": 3,
       "P. DKP - Danmarks Kommunistiske Parti": 5,
       "L. Lokallisten - København": 3,
-      "D. Nye Borgerlige": 3,
       "Y. Fælles Fremtid": 0,
+      "D. Nye Borgerlige": 3,
       "U. Din stemme i København": 2,
-      "Z. Solidarisk Integritet": 1,
-      "E. KaosTV": 1
+      "E. KaosTV": 1,
+      "Z. Solidarisk Integritet": 1
     }
   },
   "701612": {
@@ -1760,11 +1760,11 @@
       "N. Demokraterne - hele Danmark skal leve": 4,
       "P. DKP - Danmarks Kommunistiske Parti": 8,
       "L. Lokallisten - København": 3,
-      "D. Nye Borgerlige": 5,
       "Y. Fælles Fremtid": 0,
+      "D. Nye Borgerlige": 5,
       "U. Din stemme i København": 2,
-      "Z. Solidarisk Integritet": 1,
-      "E. KaosTV": 2
+      "E. KaosTV": 2,
+      "Z. Solidarisk Integritet": 1
     }
   },
   "706112": {
@@ -1794,11 +1794,11 @@
       "N. Demokraterne - hele Danmark skal leve": 6,
       "P. DKP - Danmarks Kommunistiske Parti": 4,
       "L. Lokallisten - København": 2,
-      "D. Nye Borgerlige": 8,
       "Y. Fælles Fremtid": 0,
+      "D. Nye Borgerlige": 8,
       "U. Din stemme i København": 3,
-      "Z. Solidarisk Integritet": 1,
-      "E. KaosTV": 2
+      "E. KaosTV": 2,
+      "Z. Solidarisk Integritet": 1
     }
   },
   "709330": {
@@ -1828,11 +1828,11 @@
       "N. Demokraterne - hele Danmark skal leve": 2,
       "P. DKP - Danmarks Kommunistiske Parti": 3,
       "L. Lokallisten - København": 3,
-      "D. Nye Borgerlige": 5,
       "Y. Fælles Fremtid": 0,
+      "D. Nye Borgerlige": 5,
       "U. Din stemme i København": 1,
-      "Z. Solidarisk Integritet": 1,
-      "E. KaosTV": 2
+      "E. KaosTV": 2,
+      "Z. Solidarisk Integritet": 1
     }
   },
   "709338": {
@@ -1862,11 +1862,11 @@
       "N. Demokraterne - hele Danmark skal leve": 5,
       "P. DKP - Danmarks Kommunistiske Parti": 5,
       "L. Lokallisten - København": 4,
-      "D. Nye Borgerlige": 5,
       "Y. Fælles Fremtid": 0,
+      "D. Nye Borgerlige": 5,
       "U. Din stemme i København": 2,
-      "Z. Solidarisk Integritet": 1,
-      "E. KaosTV": 2
+      "E. KaosTV": 2,
+      "Z. Solidarisk Integritet": 1
     }
   },
   "704918": {
@@ -1896,11 +1896,11 @@
       "N. Demokraterne - hele Danmark skal leve": 3,
       "P. DKP - Danmarks Kommunistiske Parti": 6,
       "L. Lokallisten - København": 3,
-      "D. Nye Borgerlige": 7,
       "Y. Fælles Fremtid": 0,
+      "D. Nye Borgerlige": 7,
       "U. Din stemme i København": 1,
-      "Z. Solidarisk Integritet": 1,
-      "E. KaosTV": 1
+      "E. KaosTV": 1,
+      "Z. Solidarisk Integritet": 1
     }
   },
   "706120": {
@@ -1930,11 +1930,11 @@
       "N. Demokraterne - hele Danmark skal leve": 3,
       "P. DKP - Danmarks Kommunistiske Parti": 5,
       "L. Lokallisten - København": 7,
-      "D. Nye Borgerlige": 6,
       "Y. Fælles Fremtid": 0,
+      "D. Nye Borgerlige": 6,
       "U. Din stemme i København": 1,
-      "Z. Solidarisk Integritet": 0,
-      "E. KaosTV": 1
+      "E. KaosTV": 1,
+      "Z. Solidarisk Integritet": 0
     }
   },
   "749403": {
@@ -1964,11 +1964,11 @@
       "N. Demokraterne - hele Danmark skal leve": 2,
       "P. DKP - Danmarks Kommunistiske Parti": 0,
       "L. Lokallisten - København": 0,
-      "D. Nye Borgerlige": 4,
       "Y. Fælles Fremtid": 1,
+      "D. Nye Borgerlige": 4,
       "U. Din stemme i København": 1,
-      "Z. Solidarisk Integritet": 1,
-      "E. KaosTV": 1
+      "E. KaosTV": 1,
+      "Z. Solidarisk Integritet": 1
     }
   }
 }
