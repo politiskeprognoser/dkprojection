@@ -23,8 +23,8 @@
       "U. Alliancen for Børnene, Ungdommen og Fremtiden": 14,
       "K. KD – Kristendemokraterne": 2,
       "D. Nye Borgerlige": 11,
-      "N. Folkestyret.dk": 1,
-      "E. Borgernes Gribskov": 9
+      "E. Borgernes Gribskov": 9,
+      "N. Folkestyret.dk": 1
     }
   },
   "701158": {
@@ -51,8 +51,8 @@
       "U. Alliancen for Børnene, Ungdommen og Fremtiden": 10,
       "K. KD – Kristendemokraterne": 4,
       "D. Nye Borgerlige": 2,
-      "N. Folkestyret.dk": 0,
-      "E. Borgernes Gribskov": 4
+      "E. Borgernes Gribskov": 4,
+      "N. Folkestyret.dk": 0
     }
   },
   "708732": {
@@ -79,8 +79,8 @@
       "U. Alliancen for Børnene, Ungdommen og Fremtiden": 2,
       "K. KD – Kristendemokraterne": 1,
       "D. Nye Borgerlige": 0,
-      "N. Folkestyret.dk": 0,
-      "E. Borgernes Gribskov": 0
+      "E. Borgernes Gribskov": 0,
+      "N. Folkestyret.dk": 0
     }
   },
   "704286": {
@@ -107,8 +107,8 @@
       "U. Alliancen for Børnene, Ungdommen og Fremtiden": 14,
       "K. KD – Kristendemokraterne": 31,
       "D. Nye Borgerlige": 4,
-      "N. Folkestyret.dk": 7,
-      "E. Borgernes Gribskov": 2
+      "E. Borgernes Gribskov": 2,
+      "N. Folkestyret.dk": 7
     }
   },
   "705834": {
@@ -135,36 +135,36 @@
       "U. Alliancen for Børnene, Ungdommen og Fremtiden": 11,
       "K. KD – Kristendemokraterne": 4,
       "D. Nye Borgerlige": 4,
-      "N. Folkestyret.dk": 2,
-      "E. Borgernes Gribskov": 1
+      "E. Borgernes Gribskov": 1,
+      "N. Folkestyret.dk": 2
     }
   },
   "711598": {
     "name": "Gilleleje",
     "electorate": 5754,
     "total_votes": 4176,
-    "valid_votes": 4112,
-    "invalid_votes": 64,
+    "valid_votes": 4111,
+    "invalid_votes": 65,
     "is_reported": false,
     "votes": {
-      "C. Det Konservative Folkeparti": 1370,
+      "C. Det Konservative Folkeparti": 1371,
       "G. Nytgribskov": 258,
       "O. Dansk Folkeparti": 394,
       "F. SF - Socialistisk Folkeparti": 339,
       "A. Socialdemokratiet": 333,
-      "V. Venstre, Danmarks Liberale Parti": 281,
+      "V. Venstre, Danmarks Liberale Parti": 280,
       "M. Moderaterne": 214,
       "B. Radikale Venstre": 249,
       "I. Liberal Alliance": 179,
       "Ø. Enhedslisten - De Rød-Grønne": 201,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 147,
-      "Å. Alternativet": 29,
+      "Å. Alternativet": 28,
       "L. Listen ByogLand": 58,
       "U. Alliancen for Børnene, Ungdommen og Fremtiden": 21,
       "K. KD – Kristendemokraterne": 19,
       "D. Nye Borgerlige": 8,
-      "N. Folkestyret.dk": 4,
-      "E. Borgernes Gribskov": 8
+      "E. Borgernes Gribskov": 8,
+      "N. Folkestyret.dk": 4
     }
   },
   "707246": {
@@ -191,8 +191,8 @@
       "U. Alliancen for Børnene, Ungdommen og Fremtiden": 7,
       "K. KD – Kristendemokraterne": 5,
       "D. Nye Borgerlige": 4,
-      "N. Folkestyret.dk": 1,
-      "E. Borgernes Gribskov": 3
+      "E. Borgernes Gribskov": 3,
+      "N. Folkestyret.dk": 1
     }
   },
   "704298": {
@@ -203,24 +203,24 @@
     "invalid_votes": 114,
     "is_reported": false,
     "votes": {
-      "C. Det Konservative Folkeparti": 1138,
-      "G. Nytgribskov": 688,
-      "O. Dansk Folkeparti": 475,
-      "F. SF - Socialistisk Folkeparti": 413,
-      "A. Socialdemokratiet": 497,
-      "V. Venstre, Danmarks Liberale Parti": 390,
-      "M. Moderaterne": 276,
-      "B. Radikale Venstre": 214,
-      "I. Liberal Alliance": 243,
-      "Ø. Enhedslisten - De Rød-Grønne": 144,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 175,
-      "Å. Alternativet": 54,
-      "L. Listen ByogLand": 19,
-      "U. Alliancen for Børnene, Ungdommen og Fremtiden": 29,
-      "K. KD – Kristendemokraterne": 12,
-      "D. Nye Borgerlige": 9,
-      "N. Folkestyret.dk": 11,
-      "E. Borgernes Gribskov": 6
+      "C. Det Konservative Folkeparti": 1207,
+      "G. Nytgribskov": 683,
+      "O. Dansk Folkeparti": 455,
+      "F. SF - Socialistisk Folkeparti": 428,
+      "A. Socialdemokratiet": 524,
+      "V. Venstre, Danmarks Liberale Parti": 336,
+      "M. Moderaterne": 270,
+      "B. Radikale Venstre": 206,
+      "I. Liberal Alliance": 224,
+      "Ø. Enhedslisten - De Rød-Grønne": 154,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 180,
+      "Å. Alternativet": 43,
+      "L. Listen ByogLand": 21,
+      "U. Alliancen for Børnene, Ungdommen og Fremtiden": 23,
+      "K. KD – Kristendemokraterne": 9,
+      "D. Nye Borgerlige": 14,
+      "E. Borgernes Gribskov": 8,
+      "N. Folkestyret.dk": 8
     }
   },
   "705812": {
@@ -247,36 +247,36 @@
       "U. Alliancen for Børnene, Ungdommen og Fremtiden": 2,
       "K. KD – Kristendemokraterne": 5,
       "D. Nye Borgerlige": 3,
-      "N. Folkestyret.dk": 0,
-      "E. Borgernes Gribskov": 2
+      "E. Borgernes Gribskov": 2,
+      "N. Folkestyret.dk": 0
     }
   },
   "702752": {
     "name": "Ramløse",
     "electorate": 2476,
-    "total_votes": 1828,
-    "valid_votes": 1802,
-    "invalid_votes": 26,
-    "is_reported": false,
+    "total_votes": 1861,
+    "valid_votes": 1828,
+    "invalid_votes": 33,
+    "is_reported": true,
     "votes": {
-      "C. Det Konservative Folkeparti": 440,
-      "G. Nytgribskov": 190,
-      "O. Dansk Folkeparti": 175,
-      "F. SF - Socialistisk Folkeparti": 154,
-      "A. Socialdemokratiet": 119,
-      "V. Venstre, Danmarks Liberale Parti": 213,
-      "M. Moderaterne": 121,
-      "B. Radikale Venstre": 90,
-      "I. Liberal Alliance": 107,
-      "Ø. Enhedslisten - De Rød-Grønne": 48,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 84,
-      "Å. Alternativet": 23,
-      "L. Listen ByogLand": 8,
-      "U. Alliancen for Børnene, Ungdommen og Fremtiden": 13,
-      "K. KD – Kristendemokraterne": 5,
-      "D. Nye Borgerlige": 5,
-      "N. Folkestyret.dk": 5,
-      "E. Borgernes Gribskov": 2
+      "C. Det Konservative Folkeparti": 557,
+      "G. Nytgribskov": 185,
+      "O. Dansk Folkeparti": 147,
+      "F. SF - Socialistisk Folkeparti": 180,
+      "A. Socialdemokratiet": 152,
+      "V. Venstre, Danmarks Liberale Parti": 134,
+      "M. Moderaterne": 111,
+      "B. Radikale Venstre": 78,
+      "I. Liberal Alliance": 79,
+      "Ø. Enhedslisten - De Rød-Grønne": 70,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 93,
+      "Å. Alternativet": 6,
+      "L. Listen ByogLand": 13,
+      "U. Alliancen for Børnene, Ungdommen og Fremtiden": 4,
+      "K. KD – Kristendemokraterne": 0,
+      "D. Nye Borgerlige": 13,
+      "E. Borgernes Gribskov": 6,
+      "N. Folkestyret.dk": 0
     }
   },
   "704292": {
@@ -303,8 +303,8 @@
       "U. Alliancen for Børnene, Ungdommen og Fremtiden": 13,
       "K. KD – Kristendemokraterne": 2,
       "D. Nye Borgerlige": 3,
-      "N. Folkestyret.dk": 8,
-      "E. Borgernes Gribskov": 2
+      "E. Borgernes Gribskov": 2,
+      "N. Folkestyret.dk": 8
     }
   },
   "701184": {
@@ -331,8 +331,8 @@
       "U. Alliancen for Børnene, Ungdommen og Fremtiden": 4,
       "K. KD – Kristendemokraterne": 1,
       "D. Nye Borgerlige": 2,
-      "N. Folkestyret.dk": 2,
-      "E. Borgernes Gribskov": 1
+      "E. Borgernes Gribskov": 1,
+      "N. Folkestyret.dk": 2
     }
   }
 }
