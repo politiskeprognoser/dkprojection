@@ -200,23 +200,23 @@
   "748884": {
     "name": "Rødding",
     "electorate": 1097,
-    "total_votes": 831,
-    "valid_votes": 813,
-    "invalid_votes": 18,
-    "is_reported": false,
+    "total_votes": 797,
+    "valid_votes": 780,
+    "invalid_votes": 17,
+    "is_reported": true,
     "votes": {
-      "V. Venstre, Danmarks Liberale Parti": 276,
-      "A. Socialdemokratiet": 188,
-      "F. SF - Socialistisk Folkeparti": 123,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 112,
-      "L. Skive-Listen": 12,
-      "O. Dansk Folkeparti": 44,
+      "V. Venstre, Danmarks Liberale Parti": 393,
+      "A. Socialdemokratiet": 134,
+      "F. SF - Socialistisk Folkeparti": 62,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 100,
+      "L. Skive-Listen": 5,
+      "O. Dansk Folkeparti": 27,
       "I. Liberal Alliance": 24,
-      "C. Det Konservative Folkeparti": 6,
-      "D. Nye Borgerlige": 15,
-      "Ø. Enhedslisten - De Rød-Grønne": 10,
-      "B. Radikale Venstre": 1,
-      "M. Moderaterne": 2
+      "C. Det Konservative Folkeparti": 3,
+      "D. Nye Borgerlige": 12,
+      "Ø. Enhedslisten - De Rød-Grønne": 14,
+      "B. Radikale Venstre": 6,
+      "M. Moderaterne": 0
     }
   },
   "748872": {
