@@ -44,22 +44,22 @@
   "748632": {
     "name": "Krogsbølle",
     "electorate": 2598,
-    "total_votes": 1767,
-    "valid_votes": 1737,
-    "invalid_votes": 30,
-    "is_reported": true,
+    "total_votes": 1770,
+    "valid_votes": 1743,
+    "invalid_votes": 27,
+    "is_reported": false,
     "votes": {
-      "V. Venstre, Danmarks Liberale Parti": 728,
-      "A. Socialdemokratiet": 334,
-      "F. SF - Socialistisk Folkeparti": 136,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 201,
-      "O. Dansk Folkeparti": 134,
-      "C. Det Konservative Folkeparti": 50,
+      "V. Venstre, Danmarks Liberale Parti": 729,
+      "A. Socialdemokratiet": 398,
+      "F. SF - Socialistisk Folkeparti": 100,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 145,
+      "O. Dansk Folkeparti": 164,
+      "C. Det Konservative Folkeparti": 38,
       "I. Liberal Alliance": 55,
-      "B. Radikale Venstre": 31,
-      "Ø. Enhedslisten - De Rød-Grønne": 45,
-      "D. Vi ældre": 19,
-      "E. Nordfyn på forkant": 4
+      "B. Radikale Venstre": 32,
+      "Ø. Enhedslisten - De Rød-Grønne": 40,
+      "D. Vi ældre": 39,
+      "E. Nordfyn på forkant": 3
     }
   },
   "748636": {
