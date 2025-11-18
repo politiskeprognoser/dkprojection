@@ -17,8 +17,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 375,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 106,
       "M. Moderaterne": 53,
-      "K. KD – Kristendemokraterne": 3,
       "J. Borgernes Lokal Liste": 9,
+      "K. KD – Kristendemokraterne": 3,
       "L. Den Lille Mands Parti": 13
     }
   },
@@ -40,8 +40,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 229,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 51,
       "M. Moderaterne": 40,
-      "K. KD – Kristendemokraterne": 10,
       "J. Borgernes Lokal Liste": 6,
+      "K. KD – Kristendemokraterne": 10,
       "L. Den Lille Mands Parti": 1
     }
   },
@@ -63,8 +63,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 195,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 93,
       "M. Moderaterne": 31,
-      "K. KD – Kristendemokraterne": 7,
       "J. Borgernes Lokal Liste": 6,
+      "K. KD – Kristendemokraterne": 7,
       "L. Den Lille Mands Parti": 6
     }
   },
@@ -86,8 +86,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 279,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 166,
       "M. Moderaterne": 103,
-      "K. KD – Kristendemokraterne": 13,
       "J. Borgernes Lokal Liste": 14,
+      "K. KD – Kristendemokraterne": 13,
       "L. Den Lille Mands Parti": 12
     }
   },
@@ -109,8 +109,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 86,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 132,
       "M. Moderaterne": 26,
-      "K. KD – Kristendemokraterne": 4,
       "J. Borgernes Lokal Liste": 9,
+      "K. KD – Kristendemokraterne": 4,
       "L. Den Lille Mands Parti": 7
     }
   },
@@ -132,8 +132,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 49,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 109,
       "M. Moderaterne": 21,
-      "K. KD – Kristendemokraterne": 3,
       "J. Borgernes Lokal Liste": 7,
+      "K. KD – Kristendemokraterne": 3,
       "L. Den Lille Mands Parti": 4
     }
   },
@@ -155,32 +155,32 @@
       "Ø. Enhedslisten - De Rød-Grønne": 95,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 150,
       "M. Moderaterne": 26,
-      "K. KD – Kristendemokraterne": 9,
       "J. Borgernes Lokal Liste": 28,
+      "K. KD – Kristendemokraterne": 9,
       "L. Den Lille Mands Parti": 6
     }
   },
   "701902": {
     "name": "Centrum Syd",
     "electorate": 5491,
-    "total_votes": 3137,
-    "valid_votes": 3045,
-    "invalid_votes": 92,
+    "total_votes": 3116,
+    "valid_votes": 3021,
+    "invalid_votes": 95,
     "is_reported": false,
     "votes": {
-      "V. Venstre, Danmarks Liberale Parti": 699,
+      "V. Venstre, Danmarks Liberale Parti": 697,
       "A. Socialdemokratiet": 532,
-      "O. Dansk Folkeparti": 485,
-      "F. SF - Socialistisk Folkeparti": 433,
-      "I. Liberal Alliance": 219,
-      "C. Det Konservative Folkeparti": 124,
-      "B. Radikale Venstre": 181,
-      "Ø. Enhedslisten - De Rød-Grønne": 180,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 87,
-      "M. Moderaterne": 72,
-      "K. KD – Kristendemokraterne": 17,
-      "J. Borgernes Lokal Liste": 9,
-      "L. Den Lille Mands Parti": 7
+      "O. Dansk Folkeparti": 469,
+      "F. SF - Socialistisk Folkeparti": 449,
+      "I. Liberal Alliance": 211,
+      "C. Det Konservative Folkeparti": 125,
+      "B. Radikale Venstre": 183,
+      "Ø. Enhedslisten - De Rød-Grønne": 172,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 92,
+      "M. Moderaterne": 62,
+      "J. Borgernes Lokal Liste": 10,
+      "K. KD – Kristendemokraterne": 13,
+      "L. Den Lille Mands Parti": 6
     }
   },
   "701916": {
@@ -201,32 +201,32 @@
       "Ø. Enhedslisten - De Rød-Grønne": 290,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 121,
       "M. Moderaterne": 105,
-      "K. KD – Kristendemokraterne": 35,
       "J. Borgernes Lokal Liste": 14,
+      "K. KD – Kristendemokraterne": 35,
       "L. Den Lille Mands Parti": 14
     }
   },
   "712320": {
     "name": "Seest",
     "electorate": 4989,
-    "total_votes": 3813,
-    "valid_votes": 3747,
-    "invalid_votes": 66,
-    "is_reported": false,
+    "total_votes": 3745,
+    "valid_votes": 3677,
+    "invalid_votes": 68,
+    "is_reported": true,
     "votes": {
-      "V. Venstre, Danmarks Liberale Parti": 1200,
-      "A. Socialdemokratiet": 586,
-      "O. Dansk Folkeparti": 480,
-      "F. SF - Socialistisk Folkeparti": 436,
-      "I. Liberal Alliance": 243,
-      "C. Det Konservative Folkeparti": 212,
-      "B. Radikale Venstre": 157,
-      "Ø. Enhedslisten - De Rød-Grønne": 130,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 117,
-      "M. Moderaterne": 109,
-      "K. KD – Kristendemokraterne": 58,
-      "J. Borgernes Lokal Liste": 11,
-      "L. Den Lille Mands Parti": 8
+      "V. Venstre, Danmarks Liberale Parti": 1192,
+      "A. Socialdemokratiet": 595,
+      "O. Dansk Folkeparti": 430,
+      "F. SF - Socialistisk Folkeparti": 500,
+      "I. Liberal Alliance": 220,
+      "C. Det Konservative Folkeparti": 226,
+      "B. Radikale Venstre": 164,
+      "Ø. Enhedslisten - De Rød-Grønne": 101,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 143,
+      "M. Moderaterne": 52,
+      "J. Borgernes Lokal Liste": 14,
+      "K. KD – Kristendemokraterne": 35,
+      "L. Den Lille Mands Parti": 5
     }
   },
   "701908": {
@@ -247,8 +247,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 67,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 72,
       "M. Moderaterne": 145,
-      "K. KD – Kristendemokraterne": 4,
       "J. Borgernes Lokal Liste": 3,
+      "K. KD – Kristendemokraterne": 4,
       "L. Den Lille Mands Parti": 5
     }
   },
@@ -270,8 +270,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 115,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 112,
       "M. Moderaterne": 24,
-      "K. KD – Kristendemokraterne": 3,
       "J. Borgernes Lokal Liste": 11,
+      "K. KD – Kristendemokraterne": 3,
       "L. Den Lille Mands Parti": 9
     }
   },
@@ -293,8 +293,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 55,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 84,
       "M. Moderaterne": 47,
-      "K. KD – Kristendemokraterne": 11,
       "J. Borgernes Lokal Liste": 11,
+      "K. KD – Kristendemokraterne": 11,
       "L. Den Lille Mands Parti": 2
     }
   },
@@ -302,22 +302,22 @@
     "name": "Vamdrup/Hjarup/Ødis",
     "electorate": 5853,
     "total_votes": 3911,
-    "valid_votes": 3844,
-    "invalid_votes": 67,
+    "valid_votes": 3845,
+    "invalid_votes": 66,
     "is_reported": false,
     "votes": {
-      "V. Venstre, Danmarks Liberale Parti": 1194,
-      "A. Socialdemokratiet": 801,
-      "O. Dansk Folkeparti": 459,
-      "F. SF - Socialistisk Folkeparti": 260,
-      "I. Liberal Alliance": 250,
-      "C. Det Konservative Folkeparti": 323,
-      "B. Radikale Venstre": 111,
-      "Ø. Enhedslisten - De Rød-Grønne": 117,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 239,
+      "V. Venstre, Danmarks Liberale Parti": 1206,
+      "A. Socialdemokratiet": 796,
+      "O. Dansk Folkeparti": 453,
+      "F. SF - Socialistisk Folkeparti": 265,
+      "I. Liberal Alliance": 249,
+      "C. Det Konservative Folkeparti": 322,
+      "B. Radikale Venstre": 112,
+      "Ø. Enhedslisten - De Rød-Grønne": 112,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 240,
       "M. Moderaterne": 53,
-      "K. KD – Kristendemokraterne": 13,
-      "J. Borgernes Lokal Liste": 15,
+      "J. Borgernes Lokal Liste": 16,
+      "K. KD – Kristendemokraterne": 12,
       "L. Den Lille Mands Parti": 9
     }
   },
@@ -339,8 +339,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 95,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 235,
       "M. Moderaterne": 31,
-      "K. KD – Kristendemokraterne": 25,
       "J. Borgernes Lokal Liste": 30,
+      "K. KD – Kristendemokraterne": 25,
       "L. Den Lille Mands Parti": 12
     }
   }
