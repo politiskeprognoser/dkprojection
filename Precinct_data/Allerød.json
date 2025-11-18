@@ -2,12 +2,12 @@
   "711248": {
     "name": "Blovstrød",
     "electorate": 2701,
-    "total_votes": 2171,
-    "valid_votes": 2147,
-    "invalid_votes": 24,
+    "total_votes": 2169,
+    "valid_votes": 2144,
+    "invalid_votes": 25,
     "is_reported": true,
     "votes": {
-      "V. Venstre, Danmarks Liberale Parti": 679,
+      "V. Venstre, Danmarks Liberale Parti": 676,
       "C. Det Konservative Folkeparti": 439,
       "F. SF - Socialistisk Folkeparti": 405,
       "A. Socialdemokratiet": 176,

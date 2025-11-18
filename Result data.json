@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-18T23:47:26+00:00",
+  "timestamp": "2025-11-18T23:48:20+00:00",
   "relevant_parties": [
     "A. Socialdemokratiet",
     "V. Venstre, Danmarks Liberale Parti",
@@ -68,9 +68,9 @@
     "total_precincts": 1314,
     "current": {
       "electorate": 4369145,
-      "total_votes": 3032187,
-      "invalid_votes": 51606,
-      "valid_votes": 2980581,
+      "total_votes": 3032185,
+      "invalid_votes": 51607,
+      "valid_votes": 2980578,
       "votes": {
         "A. Socialdemokratiet": 710183,
         "B. Radikale Venstre": 150269,
@@ -90,7 +90,7 @@
         "Kommunistisk Parti": 1106,
         "Skamløse Demokrater": 455,
         "Din stemme i København": 58,
-        "V. Venstre, Danmarks Liberale Parti": 556669,
+        "V. Venstre, Danmarks Liberale Parti": 556666,
         "Fælles Fremtid": 119,
         "Solidarisk Integritet": 43,
         "Æ. Danmarksdemokraterne - Inger Støjberg": 147414,
@@ -614,9 +614,9 @@
     },
     "projected": {
       "electorate": 4785807,
-      "total_votes": 3309624,
-      "invalid_votes": 55922,
-      "valid_votes": 3253702,
+      "total_votes": 3309622,
+      "invalid_votes": 55923,
+      "valid_votes": 3253699,
       "votes": {
         "A. Socialdemokratiet": 753862,
         "B. Radikale Venstre": 173927,
@@ -636,7 +636,7 @@
         "Kommunistisk Parti": 1788,
         "Skamløse Demokrater": 946,
         "Din stemme i København": 119,
-        "V. Venstre, Danmarks Liberale Parti": 579962,
+        "V. Venstre, Danmarks Liberale Parti": 579959,
         "Fælles Fremtid": 265,
         "Solidarisk Integritet": 88,
         "Æ. Danmarksdemokraterne - Inger Støjberg": 151548,
@@ -8154,19 +8154,19 @@
           "M. Moderaterne": 253,
           "O. Dansk Folkeparti": 517,
           "U. Allerød Listen": 123,
-          "V. Venstre, Danmarks Liberale Parti": 4857,
+          "V. Venstre, Danmarks Liberale Parti": 4854,
           "Ø. Enhedslisten - De Rød-Grønne": 1423
         },
         "percentages": {
           "A. Socialdemokratiet": 10.77,
           "B. Radikale Venstre": 4.26,
           "C. Det Konservative Folkeparti": 22.75,
-          "F. SF - Socialistisk Folkeparti": 12.59,
+          "F. SF - Socialistisk Folkeparti": 12.6,
           "I. Liberal Alliance": 3.96,
           "M. Moderaterne": 1.61,
           "O. Dansk Folkeparti": 3.29,
           "U. Allerød Listen": 0.78,
-          "V. Venstre, Danmarks Liberale Parti": 30.92,
+          "V. Venstre, Danmarks Liberale Parti": 30.91,
           "Ø. Enhedslisten - De Rød-Grønne": 9.06
         },
         "quotients": {
@@ -8193,24 +8193,24 @@
           "V. Venstre, Danmarks Liberale Parti": 7,
           "Ø. Enhedslisten - De Rød-Grønne": 2
         },
-        "valid_votes": 15706,
-        "invalid_votes": 240,
-        "total_votes": 15946,
+        "valid_votes": 15703,
+        "invalid_votes": 241,
+        "total_votes": 15944,
         "electorate": 20029,
         "divisor": 700,
         "alliances": {
           "1": {
             "votes": 5761,
             "seats": 8,
-            "percentages": 36.68,
+            "percentages": 36.69,
             "quotient": 8.23,
             "divisor": 600,
             "wins_seat": true
           },
           "3": {
-            "votes": 5110,
+            "votes": 5107,
             "seats": 7,
-            "percentages": 32.54,
+            "percentages": 32.52,
             "quotient": 7.3,
             "divisor": 500,
             "wins_seat": true
@@ -8235,19 +8235,19 @@
           "M. Moderaterne": 253,
           "O. Dansk Folkeparti": 517,
           "U. Allerød Listen": 123,
-          "V. Venstre, Danmarks Liberale Parti": 4857,
+          "V. Venstre, Danmarks Liberale Parti": 4854,
           "Ø. Enhedslisten - De Rød-Grønne": 1423
         },
         "percentages": {
           "A. Socialdemokratiet": 10.77,
           "B. Radikale Venstre": 4.26,
           "C. Det Konservative Folkeparti": 22.75,
-          "F. SF - Socialistisk Folkeparti": 12.59,
+          "F. SF - Socialistisk Folkeparti": 12.6,
           "I. Liberal Alliance": 3.96,
           "M. Moderaterne": 1.61,
           "O. Dansk Folkeparti": 3.29,
           "U. Allerød Listen": 0.78,
-          "V. Venstre, Danmarks Liberale Parti": 30.92,
+          "V. Venstre, Danmarks Liberale Parti": 30.91,
           "Ø. Enhedslisten - De Rød-Grønne": 9.06
         },
         "quotients": {
@@ -8274,24 +8274,24 @@
           "V. Venstre, Danmarks Liberale Parti": 7,
           "Ø. Enhedslisten - De Rød-Grønne": 2
         },
-        "valid_votes": 15706,
-        "invalid_votes": 240,
-        "total_votes": 15946,
+        "valid_votes": 15703,
+        "invalid_votes": 241,
+        "total_votes": 15944,
         "electorate": 20029,
         "divisor": 700,
         "alliances": {
           "1": {
             "votes": 5761,
             "seats": 8,
-            "percentages": 36.68,
+            "percentages": 36.69,
             "quotient": 8.23,
             "divisor": 600,
             "wins_seat": true
           },
           "3": {
-            "votes": 5110,
+            "votes": 5107,
             "seats": 7,
-            "percentages": 32.54,
+            "percentages": 32.52,
             "quotient": 7.3,
             "divisor": 500,
             "wins_seat": true
