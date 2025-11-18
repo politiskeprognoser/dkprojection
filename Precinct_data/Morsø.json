@@ -74,18 +74,18 @@
   "710282": {
     "name": "Nykøbing",
     "electorate": 8001,
-    "total_votes": 6083,
-    "valid_votes": 5977,
+    "total_votes": 6088,
+    "valid_votes": 5982,
     "invalid_votes": 106,
     "is_reported": true,
     "votes": {
       "V. Venstre, Danmarks Liberale Parti": 1908,
-      "A. Socialdemokratiet": 2389,
+      "A. Socialdemokratiet": 2394,
       "C. Det Konservative Folkeparti": 400,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 290,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 289,
       "B. Radikale Venstre": 320,
       "O. Dansk Folkeparti": 199,
-      "F. SF - Socialistisk Folkeparti": 311,
+      "F. SF - Socialistisk Folkeparti": 312,
       "Ø. Enhedslisten - De Rød-Grønne": 160
     }
   }
