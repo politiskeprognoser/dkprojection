@@ -149,13 +149,13 @@
   "748633": {
     "name": "Morud",
     "electorate": 2267,
-    "total_votes": 1786,
-    "valid_votes": 1755,
+    "total_votes": 1787,
+    "valid_votes": 1756,
     "invalid_votes": 31,
     "is_reported": true,
     "votes": {
       "V. Venstre, Danmarks Liberale Parti": 484,
-      "A. Socialdemokratiet": 297,
+      "A. Socialdemokratiet": 298,
       "F. SF - Socialistisk Folkeparti": 221,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 59,
       "O. Dansk Folkeparti": 56,
