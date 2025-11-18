@@ -15,8 +15,8 @@
       "I. Liberal Alliance": 302,
       "O. Dansk Folkeparti": 173,
       "B. Radikale Venstre": 201,
-      "M. Moderaterne": 124,
       "L. Lokallisten Roskilde": 72,
+      "M. Moderaterne": 124,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 18,
       "Å. Alternativet": 20
     }
@@ -24,23 +24,23 @@
   "708806": {
     "name": "Klostermarken",
     "electorate": 4687,
-    "total_votes": 3517,
-    "valid_votes": 3517,
-    "invalid_votes": 0,
-    "is_reported": false,
+    "total_votes": 3843,
+    "valid_votes": 3801,
+    "invalid_votes": 42,
+    "is_reported": true,
     "votes": {
-      "A. Socialdemokratiet": 648,
-      "C. Det Konservative Folkeparti": 717,
-      "F. SF - Socialistisk Folkeparti": 590,
-      "V. Venstre, Danmarks Liberale Parti": 304,
-      "Ø. Enhedslisten - De Rød-Grønne": 321,
-      "I. Liberal Alliance": 284,
-      "O. Dansk Folkeparti": 196,
-      "B. Radikale Venstre": 204,
-      "M. Moderaterne": 127,
-      "L. Lokallisten Roskilde": 80,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 26,
-      "Å. Alternativet": 20
+      "A. Socialdemokratiet": 849,
+      "C. Det Konservative Folkeparti": 811,
+      "F. SF - Socialistisk Folkeparti": 573,
+      "V. Venstre, Danmarks Liberale Parti": 318,
+      "Ø. Enhedslisten - De Rød-Grønne": 291,
+      "I. Liberal Alliance": 305,
+      "O. Dansk Folkeparti": 170,
+      "B. Radikale Venstre": 248,
+      "L. Lokallisten Roskilde": 86,
+      "M. Moderaterne": 110,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 18,
+      "Å. Alternativet": 22
     }
   },
   "704350": {
@@ -59,8 +59,8 @@
       "I. Liberal Alliance": 254,
       "O. Dansk Folkeparti": 269,
       "B. Radikale Venstre": 302,
-      "M. Moderaterne": 104,
       "L. Lokallisten Roskilde": 95,
+      "M. Moderaterne": 104,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 43,
       "Å. Alternativet": 23
     }
@@ -81,8 +81,8 @@
       "I. Liberal Alliance": 198,
       "O. Dansk Folkeparti": 229,
       "B. Radikale Venstre": 171,
-      "M. Moderaterne": 62,
       "L. Lokallisten Roskilde": 53,
+      "M. Moderaterne": 62,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 27,
       "Å. Alternativet": 22
     }
@@ -103,8 +103,8 @@
       "I. Liberal Alliance": 361,
       "O. Dansk Folkeparti": 351,
       "B. Radikale Venstre": 283,
-      "M. Moderaterne": 83,
       "L. Lokallisten Roskilde": 129,
+      "M. Moderaterne": 83,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 42,
       "Å. Alternativet": 39
     }
@@ -112,22 +112,22 @@
   "702794": {
     "name": "Himmelev",
     "electorate": 6278,
-    "total_votes": 4513,
-    "valid_votes": 4513,
+    "total_votes": 4583,
+    "valid_votes": 4583,
     "invalid_votes": 0,
     "is_reported": false,
     "votes": {
-      "A. Socialdemokratiet": 740,
-      "C. Det Konservative Folkeparti": 924,
-      "F. SF - Socialistisk Folkeparti": 730,
-      "V. Venstre, Danmarks Liberale Parti": 511,
-      "Ø. Enhedslisten - De Rød-Grønne": 366,
-      "I. Liberal Alliance": 418,
-      "O. Dansk Folkeparti": 210,
-      "B. Radikale Venstre": 268,
-      "M. Moderaterne": 172,
-      "L. Lokallisten Roskilde": 107,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 35,
+      "A. Socialdemokratiet": 779,
+      "C. Det Konservative Folkeparti": 949,
+      "F. SF - Socialistisk Folkeparti": 729,
+      "V. Venstre, Danmarks Liberale Parti": 515,
+      "Ø. Enhedslisten - De Rød-Grønne": 362,
+      "I. Liberal Alliance": 426,
+      "O. Dansk Folkeparti": 205,
+      "B. Radikale Venstre": 279,
+      "L. Lokallisten Roskilde": 109,
+      "M. Moderaterne": 165,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 33,
       "Å. Alternativet": 32
     }
   },
@@ -147,8 +147,8 @@
       "I. Liberal Alliance": 178,
       "O. Dansk Folkeparti": 287,
       "B. Radikale Venstre": 111,
-      "M. Moderaterne": 59,
       "L. Lokallisten Roskilde": 58,
+      "M. Moderaterne": 59,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 22,
       "Å. Alternativet": 7
     }
@@ -169,8 +169,8 @@
       "I. Liberal Alliance": 141,
       "O. Dansk Folkeparti": 120,
       "B. Radikale Venstre": 73,
-      "M. Moderaterne": 58,
       "L. Lokallisten Roskilde": 55,
+      "M. Moderaterne": 58,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 23,
       "Å. Alternativet": 6
     }
@@ -191,8 +191,8 @@
       "I. Liberal Alliance": 74,
       "O. Dansk Folkeparti": 71,
       "B. Radikale Venstre": 17,
-      "M. Moderaterne": 15,
       "L. Lokallisten Roskilde": 23,
+      "M. Moderaterne": 15,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 16,
       "Å. Alternativet": 6
     }
@@ -200,23 +200,23 @@
   "711710": {
     "name": "Tjørnegård",
     "electorate": 6247,
-    "total_votes": 3100,
-    "valid_votes": 3100,
+    "total_votes": 3187,
+    "valid_votes": 3187,
     "invalid_votes": 0,
     "is_reported": false,
     "votes": {
-      "A. Socialdemokratiet": 778,
-      "C. Det Konservative Folkeparti": 440,
-      "F. SF - Socialistisk Folkeparti": 574,
-      "V. Venstre, Danmarks Liberale Parti": 188,
+      "A. Socialdemokratiet": 830,
+      "C. Det Konservative Folkeparti": 457,
+      "F. SF - Socialistisk Folkeparti": 576,
+      "V. Venstre, Danmarks Liberale Parti": 191,
       "Ø. Enhedslisten - De Rød-Grønne": 293,
-      "I. Liberal Alliance": 217,
-      "O. Dansk Folkeparti": 246,
-      "B. Radikale Venstre": 154,
-      "M. Moderaterne": 74,
-      "L. Lokallisten Roskilde": 77,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 29,
-      "Å. Alternativet": 30
+      "I. Liberal Alliance": 222,
+      "O. Dansk Folkeparti": 245,
+      "B. Radikale Venstre": 163,
+      "L. Lokallisten Roskilde": 79,
+      "M. Moderaterne": 72,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 28,
+      "Å. Alternativet": 31
     }
   },
   "704320": {
@@ -235,8 +235,8 @@
       "I. Liberal Alliance": 112,
       "O. Dansk Folkeparti": 178,
       "B. Radikale Venstre": 84,
-      "M. Moderaterne": 31,
       "L. Lokallisten Roskilde": 29,
+      "M. Moderaterne": 31,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 34,
       "Å. Alternativet": 21
     }
@@ -257,8 +257,8 @@
       "I. Liberal Alliance": 410,
       "O. Dansk Folkeparti": 335,
       "B. Radikale Venstre": 132,
-      "M. Moderaterne": 178,
       "L. Lokallisten Roskilde": 77,
+      "M. Moderaterne": 178,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 55,
       "Å. Alternativet": 35
     }
@@ -279,8 +279,8 @@
       "I. Liberal Alliance": 199,
       "O. Dansk Folkeparti": 204,
       "B. Radikale Venstre": 61,
-      "M. Moderaterne": 46,
       "L. Lokallisten Roskilde": 47,
+      "M. Moderaterne": 46,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 37,
       "Å. Alternativet": 6
     }
@@ -301,8 +301,8 @@
       "I. Liberal Alliance": 206,
       "O. Dansk Folkeparti": 188,
       "B. Radikale Venstre": 56,
-      "M. Moderaterne": 73,
       "L. Lokallisten Roskilde": 39,
+      "M. Moderaterne": 73,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 35,
       "Å. Alternativet": 12
     }
@@ -323,8 +323,8 @@
       "I. Liberal Alliance": 64,
       "O. Dansk Folkeparti": 110,
       "B. Radikale Venstre": 46,
-      "M. Moderaterne": 28,
       "L. Lokallisten Roskilde": 39,
+      "M. Moderaterne": 28,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 32,
       "Å. Alternativet": 4
     }
@@ -332,23 +332,23 @@
   "707326": {
     "name": "Viby",
     "electorate": 5153,
-    "total_votes": 3854,
-    "valid_votes": 3796,
-    "invalid_votes": 58,
-    "is_reported": false,
+    "total_votes": 3750,
+    "valid_votes": 3672,
+    "invalid_votes": 78,
+    "is_reported": true,
     "votes": {
-      "A. Socialdemokratiet": 697,
-      "C. Det Konservative Folkeparti": 972,
-      "F. SF - Socialistisk Folkeparti": 383,
-      "V. Venstre, Danmarks Liberale Parti": 635,
-      "Ø. Enhedslisten - De Rød-Grønne": 175,
-      "I. Liberal Alliance": 251,
-      "O. Dansk Folkeparti": 326,
-      "B. Radikale Venstre": 114,
-      "M. Moderaterne": 62,
-      "L. Lokallisten Roskilde": 97,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 69,
-      "Å. Alternativet": 15
+      "A. Socialdemokratiet": 905,
+      "C. Det Konservative Folkeparti": 515,
+      "F. SF - Socialistisk Folkeparti": 378,
+      "V. Venstre, Danmarks Liberale Parti": 673,
+      "Ø. Enhedslisten - De Rød-Grønne": 180,
+      "I. Liberal Alliance": 234,
+      "O. Dansk Folkeparti": 295,
+      "B. Radikale Venstre": 115,
+      "L. Lokallisten Roskilde": 257,
+      "M. Moderaterne": 40,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 71,
+      "Å. Alternativet": 9
     }
   },
   "707332": {
@@ -367,8 +367,8 @@
       "I. Liberal Alliance": 32,
       "O. Dansk Folkeparti": 80,
       "B. Radikale Venstre": 17,
-      "M. Moderaterne": 10,
       "L. Lokallisten Roskilde": 12,
+      "M. Moderaterne": 10,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 19,
       "Å. Alternativet": 3
     }
@@ -389,8 +389,8 @@
       "I. Liberal Alliance": 206,
       "O. Dansk Folkeparti": 93,
       "B. Radikale Venstre": 257,
-      "M. Moderaterne": 65,
       "L. Lokallisten Roskilde": 92,
+      "M. Moderaterne": 65,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 9,
       "Å. Alternativet": 42
     }
