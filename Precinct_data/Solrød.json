@@ -11,10 +11,10 @@
       "V. Venstre, Danmarks Liberale Parti": 545,
       "A. Socialdemokratiet": 255,
       "L. HavdrupListen": 932,
-      "T. VoresSolrød": 48,
       "C. Det Konservative Folkeparti": 96,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 118,
+      "T. VoresSolrød": 48,
       "F. SF - Socialistisk Folkeparti": 111,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 118,
       "O. Dansk Folkeparti": 110,
       "B. Radikale Venstre": 43,
       "Ø. Enhedslisten - De Rød-Grønne": 53
@@ -32,10 +32,10 @@
       "V. Venstre, Danmarks Liberale Parti": 954,
       "A. Socialdemokratiet": 620,
       "L. HavdrupListen": 42,
-      "T. VoresSolrød": 363,
       "C. Det Konservative Folkeparti": 426,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 198,
+      "T. VoresSolrød": 363,
       "F. SF - Socialistisk Folkeparti": 205,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 198,
       "O. Dansk Folkeparti": 139,
       "B. Radikale Venstre": 156,
       "Ø. Enhedslisten - De Rød-Grønne": 83
@@ -44,22 +44,22 @@
   "703740": {
     "name": "Det Sydlige Strandområde",
     "electorate": 8421,
-    "total_votes": 6344,
-    "valid_votes": 6299,
-    "invalid_votes": 45,
-    "is_reported": false,
+    "total_votes": 6282,
+    "valid_votes": 6187,
+    "invalid_votes": 95,
+    "is_reported": true,
     "votes": {
-      "I. Liberal Alliance": 2230,
-      "V. Venstre, Danmarks Liberale Parti": 1195,
-      "A. Socialdemokratiet": 735,
-      "L. HavdrupListen": 185,
-      "T. VoresSolrød": 565,
-      "C. Det Konservative Folkeparti": 427,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 230,
-      "F. SF - Socialistisk Folkeparti": 216,
-      "O. Dansk Folkeparti": 185,
-      "B. Radikale Venstre": 183,
-      "Ø. Enhedslisten - De Rød-Grønne": 148
+      "I. Liberal Alliance": 2154,
+      "V. Venstre, Danmarks Liberale Parti": 1187,
+      "A. Socialdemokratiet": 774,
+      "L. HavdrupListen": 63,
+      "C. Det Konservative Folkeparti": 503,
+      "T. VoresSolrød": 526,
+      "F. SF - Socialistisk Folkeparti": 272,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 258,
+      "O. Dansk Folkeparti": 173,
+      "B. Radikale Venstre": 140,
+      "Ø. Enhedslisten - De Rød-Grønne": 137
     }
   }
 }
