@@ -2,21 +2,21 @@
   "701852": {
     "name": "Børne- og Kulturhuset",
     "electorate": 2960,
-    "total_votes": 1330,
-    "valid_votes": 1298,
-    "invalid_votes": 32,
-    "is_reported": false,
+    "total_votes": 1418,
+    "valid_votes": 1382,
+    "invalid_votes": 36,
+    "is_reported": true,
     "votes": {
-      "C. Det Konservative Folkeparti": 405,
-      "A. Socialdemokratiet": 334,
-      "B. Radikale Venstre": 192,
-      "O. Dansk Folkeparti": 120,
-      "F. SF - Socialistisk Folkeparti": 103,
-      "Ø. Enhedslisten - De Rød-Grønne": 106,
-      "V. Venstre, Danmarks Liberale Parti": 19,
-      "I. Liberal Alliance": 5,
+      "C. Det Konservative Folkeparti": 414,
+      "A. Socialdemokratiet": 325,
+      "B. Radikale Venstre": 220,
+      "O. Dansk Folkeparti": 125,
+      "F. SF - Socialistisk Folkeparti": 96,
+      "Ø. Enhedslisten - De Rød-Grønne": 133,
+      "I. Liberal Alliance": 17,
+      "V. Venstre, Danmarks Liberale Parti": 18,
       "M. Moderaterne": 4,
-      "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 10
+      "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 30
     }
   },
   "701958": {
@@ -33,8 +33,8 @@
       "O. Dansk Folkeparti": 223,
       "F. SF - Socialistisk Folkeparti": 167,
       "Ø. Enhedslisten - De Rød-Grønne": 169,
-      "V. Venstre, Danmarks Liberale Parti": 35,
       "I. Liberal Alliance": 22,
+      "V. Venstre, Danmarks Liberale Parti": 35,
       "M. Moderaterne": 11,
       "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 16
     }
@@ -53,8 +53,8 @@
       "O. Dansk Folkeparti": 315,
       "F. SF - Socialistisk Folkeparti": 263,
       "Ø. Enhedslisten - De Rød-Grønne": 183,
-      "V. Venstre, Danmarks Liberale Parti": 39,
       "I. Liberal Alliance": 25,
+      "V. Venstre, Danmarks Liberale Parti": 39,
       "M. Moderaterne": 22,
       "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 29
     }
@@ -62,21 +62,21 @@
   "707896": {
     "name": "Rådhuset",
     "electorate": 7267,
-    "total_votes": 3404,
-    "valid_votes": 3311,
-    "invalid_votes": 93,
+    "total_votes": 3459,
+    "valid_votes": 3364,
+    "invalid_votes": 95,
     "is_reported": false,
     "votes": {
-      "C. Det Konservative Folkeparti": 1101,
-      "A. Socialdemokratiet": 666,
-      "B. Radikale Venstre": 520,
-      "O. Dansk Folkeparti": 275,
-      "F. SF - Socialistisk Folkeparti": 335,
-      "Ø. Enhedslisten - De Rød-Grønne": 293,
+      "C. Det Konservative Folkeparti": 1114,
+      "A. Socialdemokratiet": 668,
+      "B. Radikale Venstre": 532,
+      "O. Dansk Folkeparti": 278,
+      "F. SF - Socialistisk Folkeparti": 336,
+      "Ø. Enhedslisten - De Rød-Grønne": 304,
+      "I. Liberal Alliance": 39,
       "V. Venstre, Danmarks Liberale Parti": 38,
-      "I. Liberal Alliance": 35,
       "M. Moderaterne": 22,
-      "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 26
+      "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 33
     }
   },
   "706412": {
@@ -93,8 +93,8 @@
       "O. Dansk Folkeparti": 363,
       "F. SF - Socialistisk Folkeparti": 252,
       "Ø. Enhedslisten - De Rød-Grønne": 225,
-      "V. Venstre, Danmarks Liberale Parti": 72,
       "I. Liberal Alliance": 54,
+      "V. Venstre, Danmarks Liberale Parti": 72,
       "M. Moderaterne": 30,
       "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 27
     }
@@ -102,21 +102,21 @@
   "703634": {
     "name": "Torstorp Skole",
     "electorate": 4185,
-    "total_votes": 2169,
-    "valid_votes": 2133,
-    "invalid_votes": 36,
+    "total_votes": 2201,
+    "valid_votes": 2166,
+    "invalid_votes": 35,
     "is_reported": false,
     "votes": {
-      "C. Det Konservative Folkeparti": 741,
+      "C. Det Konservative Folkeparti": 749,
       "A. Socialdemokratiet": 476,
-      "B. Radikale Venstre": 250,
-      "O. Dansk Folkeparti": 208,
-      "F. SF - Socialistisk Folkeparti": 179,
-      "Ø. Enhedslisten - De Rød-Grønne": 188,
+      "B. Radikale Venstre": 257,
+      "O. Dansk Folkeparti": 210,
+      "F. SF - Socialistisk Folkeparti": 178,
+      "Ø. Enhedslisten - De Rød-Grønne": 195,
+      "I. Liberal Alliance": 33,
       "V. Venstre, Danmarks Liberale Parti": 34,
-      "I. Liberal Alliance": 29,
-      "M. Moderaterne": 11,
-      "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 17
+      "M. Moderaterne": 12,
+      "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 22
     }
   },
   "701952": {
@@ -133,8 +133,8 @@
       "O. Dansk Folkeparti": 113,
       "F. SF - Socialistisk Folkeparti": 69,
       "Ø. Enhedslisten - De Rød-Grønne": 75,
-      "V. Venstre, Danmarks Liberale Parti": 33,
       "I. Liberal Alliance": 23,
+      "V. Venstre, Danmarks Liberale Parti": 33,
       "M. Moderaterne": 11,
       "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 5
     }
@@ -142,9 +142,9 @@
   "701970": {
     "name": "Charlotteskolen",
     "electorate": 3665,
-    "total_votes": 2089,
+    "total_votes": 2090,
     "valid_votes": 2056,
-    "invalid_votes": 33,
+    "invalid_votes": 34,
     "is_reported": false,
     "votes": {
       "C. Det Konservative Folkeparti": 894,
@@ -153,8 +153,8 @@
       "O. Dansk Folkeparti": 163,
       "F. SF - Socialistisk Folkeparti": 242,
       "Ø. Enhedslisten - De Rød-Grønne": 128,
-      "V. Venstre, Danmarks Liberale Parti": 38,
       "I. Liberal Alliance": 66,
+      "V. Venstre, Danmarks Liberale Parti": 38,
       "M. Moderaterne": 37,
       "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 5
     }
@@ -173,8 +173,8 @@
       "O. Dansk Folkeparti": 313,
       "F. SF - Socialistisk Folkeparti": 315,
       "Ø. Enhedslisten - De Rød-Grønne": 144,
-      "V. Venstre, Danmarks Liberale Parti": 128,
       "I. Liberal Alliance": 87,
+      "V. Venstre, Danmarks Liberale Parti": 128,
       "M. Moderaterne": 56,
       "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 4
     }
@@ -193,8 +193,8 @@
       "O. Dansk Folkeparti": 48,
       "F. SF - Socialistisk Folkeparti": 49,
       "Ø. Enhedslisten - De Rød-Grønne": 42,
-      "V. Venstre, Danmarks Liberale Parti": 14,
       "I. Liberal Alliance": 15,
+      "V. Venstre, Danmarks Liberale Parti": 14,
       "M. Moderaterne": 8,
       "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 0
     }
@@ -213,8 +213,8 @@
       "O. Dansk Folkeparti": 222,
       "F. SF - Socialistisk Folkeparti": 376,
       "Ø. Enhedslisten - De Rød-Grønne": 214,
-      "V. Venstre, Danmarks Liberale Parti": 66,
       "I. Liberal Alliance": 141,
+      "V. Venstre, Danmarks Liberale Parti": 66,
       "M. Moderaterne": 42,
       "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 12
     }
