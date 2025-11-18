@@ -6,10 +6,12 @@
   "I. Liberal Alliance": ["#3fb2be", "white"],
   "M. Moderaterne": ["#b385e0", "white"],
   "O. Dansk Folkeparti": ["#fcd03b", "black"],
+  "S. Slesvigsk Parti": ["#e8ae00", "black"],
   "V. Venstre, Danmarks Liberale Parti": ["#002883", "white"],
   "Æ. Danmarksdemokraterne - Inger Støjberg": ["#479ee5", "white"],
   "Ø. Enhedslisten - De Rød-Grønne": ["#e6801a", "white"],
   "Å. Alternativet": ["#00ff00", "black"],
+  "D. Nye Borgerlige": ["#127B7f", "white"],
   "K. KD - Kristendemokraterne": ["#b1a269", "black"],
-  "S. Slesvigsk Parti": ["#e8ae00", "black"]
+  "Q. Frie Grønne - Danmarks nye venstrefløjsparti": ["#5abe82", "black"]
 }

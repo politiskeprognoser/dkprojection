@@ -161,8 +161,10 @@
                       "Æ. Danmarksdemokraterne - Inger Støjberg": ["#479ee5", "white"],
                       "Ø. Enhedslisten - De Rød-Grønne": ["#e6801a", "white"],
                       "Å. Alternativet": ["#00ff00", "black"],
+                      "S. Slesvigsk Parti": ["#e8ae00", "black"],
+                      "D. Nye Borgerlige": ["#127B7f", "white"],
                       "K. KD - Kristendemokraterne": ["#b1a269", "black"],
-                      "S. Slesvigsk Parti": ["#e8ae00", "black"]
+                      "Q. Frie Grønne - Danmarks nye venstrefløjsparti": ["#5abe82", "black"]
                     };
 
                     const [bg, fg] = partyColors[party] || ["#808080", "white"];
@@ -472,8 +474,8 @@
                   else if (short.includes("O")) bg = "#FFD866", fg = "black";
                   else if (short.includes("Æ")) bg = "#59A3B2";
                   else if (short.includes("Å")) bg = "#C0FFC0", fg = "black";
-                  else if (short.includes("K")) bg = "#CCC099", fg = "black";
                   else if (short.includes("S")) bg = "#664747";
+                  else if (short.includes("K")) bg = "#CCC099", fg = "black";
 
                   label.dataset.bg = bg;
                   label.dataset.fg = fg;
