@@ -2,12 +2,12 @@
   "708600": {
     "name": "Bagsværd",
     "electorate": 5241,
-    "total_votes": 3761,
+    "total_votes": 3762,
     "valid_votes": 3692,
-    "invalid_votes": 69,
+    "invalid_votes": 70,
     "is_reported": false,
     "votes": {
-      "A. Socialdemokratiet": 792,
+      "A. Socialdemokratiet": 793,
       "F. SF - Socialistisk Folkeparti": 601,
       "V. Venstre, Danmarks Liberale Parti": 569,
       "Ø. Enhedslisten - De Rød-Grønne": 347,
@@ -15,7 +15,7 @@
       "O. Dansk Folkeparti": 219,
       "C. Det Konservative Folkeparti": 322,
       "I. Liberal Alliance": 218,
-      "L. Lokallisten Gladsaxe": 102,
+      "L. Lokallisten Gladsaxe": 101,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 52,
       "M. Moderaterne": 68
     }
@@ -65,22 +65,22 @@
   "710060": {
     "name": "Grønnemose",
     "electorate": 7371,
-    "total_votes": 4782,
-    "valid_votes": 4686,
-    "invalid_votes": 96,
-    "is_reported": false,
+    "total_votes": 4810,
+    "valid_votes": 4755,
+    "invalid_votes": 55,
+    "is_reported": true,
     "votes": {
-      "A. Socialdemokratiet": 1063,
-      "F. SF - Socialistisk Folkeparti": 760,
-      "V. Venstre, Danmarks Liberale Parti": 380,
-      "Ø. Enhedslisten - De Rød-Grønne": 713,
-      "B. Radikale Venstre": 529,
-      "O. Dansk Folkeparti": 343,
-      "C. Det Konservative Folkeparti": 179,
-      "I. Liberal Alliance": 168,
-      "L. Lokallisten Gladsaxe": 412,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 69,
-      "M. Moderaterne": 70
+      "A. Socialdemokratiet": 1305,
+      "F. SF - Socialistisk Folkeparti": 758,
+      "V. Venstre, Danmarks Liberale Parti": 368,
+      "Ø. Enhedslisten - De Rød-Grønne": 798,
+      "B. Radikale Venstre": 573,
+      "O. Dansk Folkeparti": 292,
+      "C. Det Konservative Folkeparti": 198,
+      "I. Liberal Alliance": 136,
+      "L. Lokallisten Gladsaxe": 194,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 90,
+      "M. Moderaterne": 43
     }
   },
   "700958": {
