@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-18T22:31:40+00:00",
+  "timestamp": "2025-11-18T22:32:36+00:00",
   "relevant_parties": [
     "A. Socialdemokratiet",
     "V. Venstre, Danmarks Liberale Parti",
@@ -70,7 +70,7 @@
       "invalid_votes": 40483,
       "valid_votes": 2319013,
       "votes": {
-        "A. Socialdemokratiet": 561089,
+        "A. Socialdemokratiet": 561090,
         "B. Radikale Venstre": 103715,
         "C. Det Konservative Folkeparti": 279735,
         "D. Nye Borgerlige": 3144,
@@ -88,7 +88,7 @@
         "Kommunistisk Parti": 479,
         "Skamløse Demokrater": 44,
         "Din stemme i København": 7,
-        "V. Venstre, Danmarks Liberale Parti": 469808,
+        "V. Venstre, Danmarks Liberale Parti": 469807,
         "Fælles Fremtid": 13,
         "Solidarisk Integritet": 6,
         "Æ. Danmarksdemokraterne - Inger Støjberg": 132338,
@@ -589,7 +589,7 @@
       "invalid_votes": 54434,
       "valid_votes": 3156607,
       "votes": {
-        "A. Socialdemokratiet": 730264,
+        "A. Socialdemokratiet": 730265,
         "B. Radikale Venstre": 167770,
         "C. Det Konservative Folkeparti": 383201,
         "D. Nye Borgerlige": 3625,
@@ -607,7 +607,7 @@
         "Kommunistisk Parti": 1825,
         "Skamløse Demokrater": 939,
         "Din stemme i København": 162,
-        "V. Venstre, Danmarks Liberale Parti": 573786,
+        "V. Venstre, Danmarks Liberale Parti": 573785,
         "Fælles Fremtid": 323,
         "Solidarisk Integritet": 116,
         "Æ. Danmarksdemokraterne - Inger Støjberg": 151519,
@@ -18317,7 +18317,7 @@
     "Haderslev": {
       "current": {
         "votes": {
-          "A. Socialdemokratiet": 6589,
+          "A. Socialdemokratiet": 6590,
           "B. Radikale Venstre": 793,
           "C. Det Konservative Folkeparti": 2929,
           "D. Nye Borgerlige": 73,
@@ -18326,7 +18326,7 @@
           "K. KD – Kristendemokraterne": 305,
           "O. Dansk Folkeparti": 2861,
           "S. Slesvigsk Parti": 911,
-          "V. Venstre, Danmarks Liberale Parti": 7410,
+          "V. Venstre, Danmarks Liberale Parti": 7409,
           "Æ. Danmarksdemokraterne - Inger Støjberg": 1974,
           "Ø. Enhedslisten - De Rød-Grønne": 1306,
           "Å. Alternativet": 154
@@ -18383,15 +18383,15 @@
         "divisor": 870,
         "alliances": {
           "3": {
-            "votes": 14073,
+            "votes": 14072,
             "seats": 16,
             "percentages": 48.39,
-            "quotient": 16.18,
+            "quotient": 16.17,
             "divisor": 800,
             "wins_seat": true
           },
           "1": {
-            "votes": 8610,
+            "votes": 8611,
             "seats": 9,
             "percentages": 29.61,
             "quotient": 9.9,
@@ -18418,7 +18418,7 @@
       },
       "projected": {
         "votes": {
-          "A. Socialdemokratiet": 6589,
+          "A. Socialdemokratiet": 6590,
           "B. Radikale Venstre": 793,
           "C. Det Konservative Folkeparti": 2929,
           "D. Nye Borgerlige": 73,
@@ -18427,7 +18427,7 @@
           "K. KD – Kristendemokraterne": 305,
           "O. Dansk Folkeparti": 2861,
           "S. Slesvigsk Parti": 911,
-          "V. Venstre, Danmarks Liberale Parti": 7410,
+          "V. Venstre, Danmarks Liberale Parti": 7409,
           "Æ. Danmarksdemokraterne - Inger Støjberg": 1974,
           "Ø. Enhedslisten - De Rød-Grønne": 1306,
           "Å. Alternativet": 154
@@ -18484,15 +18484,15 @@
         "divisor": 870,
         "alliances": {
           "3": {
-            "votes": 14073,
+            "votes": 14072,
             "seats": 16,
             "percentages": 48.39,
-            "quotient": 16.18,
+            "quotient": 16.17,
             "divisor": 800,
             "wins_seat": true
           },
           "1": {
-            "votes": 8610,
+            "votes": 8611,
             "seats": 9,
             "percentages": 29.61,
             "quotient": 9.9,
