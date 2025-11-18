@@ -149,22 +149,22 @@
   "707918": {
     "name": "Fensmark",
     "electorate": 4094,
-    "total_votes": 2955,
-    "valid_votes": 2890,
-    "invalid_votes": 65,
-    "is_reported": false,
+    "total_votes": 3108,
+    "valid_votes": 3057,
+    "invalid_votes": 51,
+    "is_reported": true,
     "votes": {
-      "A. Socialdemokratiet": 996,
-      "V. Venstre, Danmarks Liberale Parti": 536,
-      "C. Det Konservative Folkeparti": 412,
-      "I. Liberal Alliance": 253,
-      "O. Dansk Folkeparti": 230,
-      "F. SF - Socialistisk Folkeparti": 179,
-      "B. Radikale Venstre": 126,
-      "Ø. Enhedslisten - De Rød-Grønne": 75,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 50,
+      "A. Socialdemokratiet": 1020,
+      "V. Venstre, Danmarks Liberale Parti": 518,
+      "C. Det Konservative Folkeparti": 434,
+      "I. Liberal Alliance": 239,
+      "O. Dansk Folkeparti": 340,
+      "F. SF - Socialistisk Folkeparti": 190,
+      "B. Radikale Venstre": 95,
+      "Ø. Enhedslisten - De Rød-Grønne": 101,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 84,
       "M. Moderaterne": 18,
-      "Å. Alternativet": 15
+      "Å. Alternativet": 18
     }
   },
   "709726": {

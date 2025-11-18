@@ -57,15 +57,15 @@
     "name": "Sydvestmors",
     "electorate": 1464,
     "total_votes": 1130,
-    "valid_votes": 1120,
-    "invalid_votes": 10,
+    "valid_votes": 1122,
+    "invalid_votes": 8,
     "is_reported": true,
     "votes": {
       "V. Venstre, Danmarks Liberale Parti": 425,
       "A. Socialdemokratiet": 198,
       "C. Det Konservative Folkeparti": 59,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 90,
-      "B. Radikale Venstre": 163,
+      "B. Radikale Venstre": 165,
       "O. Dansk Folkeparti": 103,
       "F. SF - Socialistisk Folkeparti": 45,
       "Ø. Enhedslisten - De Rød-Grønne": 37
