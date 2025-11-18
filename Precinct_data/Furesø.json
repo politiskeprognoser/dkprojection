@@ -1,65 +1,156 @@
 {
   "700970": {
     "name": "Værløse",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 7731,
+    "total_votes": 5813,
+    "valid_votes": 5723,
+    "invalid_votes": 90,
+    "is_reported": true,
+    "votes": {
+      "C. Det Konservative Folkeparti": 1431,
+      "A. Socialdemokratiet": 1396,
+      "V. Venstre, Danmarks Liberale Parti": 857,
+      "B. Radikale Venstre": 678,
+      "Ø. Enhedslisten - De Rød-Grønne": 369,
+      "F. SF - Socialistisk Folkeparti": 361,
+      "I. Liberal Alliance": 235,
+      "O. Dansk Folkeparti": 234,
+      "M. Moderaterne": 27,
+      "E. Furesørødderne": 63,
+      "Å. Alternativet": 47,
+      "L. Lokallisten Bedre Borgerinddragelse": 25
+    }
   },
   "710110": {
     "name": "Hareskov",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 2720,
+    "total_votes": 2354,
+    "valid_votes": 2338,
+    "invalid_votes": 16,
+    "is_reported": true,
+    "votes": {
+      "C. Det Konservative Folkeparti": 689,
+      "A. Socialdemokratiet": 386,
+      "V. Venstre, Danmarks Liberale Parti": 481,
+      "B. Radikale Venstre": 308,
+      "Ø. Enhedslisten - De Rød-Grønne": 151,
+      "F. SF - Socialistisk Folkeparti": 148,
+      "I. Liberal Alliance": 86,
+      "O. Dansk Folkeparti": 35,
+      "M. Moderaterne": 13,
+      "E. Furesørødderne": 9,
+      "Å. Alternativet": 29,
+      "L. Lokallisten Bedre Borgerinddragelse": 3
+    }
   },
   "703986": {
     "name": "Søndersø",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 3971,
+    "total_votes": 3273,
+    "valid_votes": 3258,
+    "invalid_votes": 15,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "C. Det Konservative Folkeparti": 904,
+      "A. Socialdemokratiet": 615,
+      "V. Venstre, Danmarks Liberale Parti": 531,
+      "B. Radikale Venstre": 444,
+      "Ø. Enhedslisten - De Rød-Grønne": 215,
+      "F. SF - Socialistisk Folkeparti": 202,
+      "I. Liberal Alliance": 144,
+      "O. Dansk Folkeparti": 101,
+      "M. Moderaterne": 18,
+      "E. Furesørødderne": 28,
+      "Å. Alternativet": 45,
+      "L. Lokallisten Bedre Borgerinddragelse": 11
+    }
   },
   "710104": {
     "name": "Jonstrup",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 1758,
+    "total_votes": 1459,
+    "valid_votes": 1441,
+    "invalid_votes": 18,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "C. Det Konservative Folkeparti": 224,
+      "A. Socialdemokratiet": 299,
+      "V. Venstre, Danmarks Liberale Parti": 200,
+      "B. Radikale Venstre": 189,
+      "Ø. Enhedslisten - De Rød-Grønne": 130,
+      "F. SF - Socialistisk Folkeparti": 243,
+      "I. Liberal Alliance": 59,
+      "O. Dansk Folkeparti": 48,
+      "M. Moderaterne": 10,
+      "E. Furesørødderne": 14,
+      "Å. Alternativet": 20,
+      "L. Lokallisten Bedre Borgerinddragelse": 5
+    }
   },
   "708606": {
     "name": "Stavnsholt",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 4248,
+    "total_votes": 3363,
+    "valid_votes": 3333,
+    "invalid_votes": 30,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "C. Det Konservative Folkeparti": 1073,
+      "A. Socialdemokratiet": 808,
+      "V. Venstre, Danmarks Liberale Parti": 199,
+      "B. Radikale Venstre": 290,
+      "Ø. Enhedslisten - De Rød-Grønne": 266,
+      "F. SF - Socialistisk Folkeparti": 218,
+      "I. Liberal Alliance": 137,
+      "O. Dansk Folkeparti": 138,
+      "M. Moderaterne": 98,
+      "E. Furesørødderne": 67,
+      "Å. Alternativet": 18,
+      "L. Lokallisten Bedre Borgerinddragelse": 21
+    }
   },
   "705614": {
     "name": "Solvang",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
+    "electorate": 6872,
+    "total_votes": 5223,
+    "valid_votes": 5172,
+    "invalid_votes": 51,
     "is_reported": false,
-    "votes": {}
+    "votes": {
+      "C. Det Konservative Folkeparti": 1466,
+      "A. Socialdemokratiet": 1185,
+      "V. Venstre, Danmarks Liberale Parti": 331,
+      "B. Radikale Venstre": 480,
+      "Ø. Enhedslisten - De Rød-Grønne": 514,
+      "F. SF - Socialistisk Folkeparti": 419,
+      "I. Liberal Alliance": 223,
+      "O. Dansk Folkeparti": 231,
+      "M. Moderaterne": 140,
+      "E. Furesørødderne": 104,
+      "Å. Alternativet": 46,
+      "L. Lokallisten Bedre Borgerinddragelse": 33
+    }
   },
   "706956": {
     "name": "Paltholm",
-    "electorate": 0,
-    "total_votes": 0,
-    "valid_votes": 0,
-    "invalid_votes": 0,
-    "is_reported": false,
-    "votes": {}
+    "electorate": 4895,
+    "total_votes": 2785,
+    "valid_votes": 2696,
+    "invalid_votes": 89,
+    "is_reported": true,
+    "votes": {
+      "C. Det Konservative Folkeparti": 557,
+      "A. Socialdemokratiet": 791,
+      "V. Venstre, Danmarks Liberale Parti": 192,
+      "B. Radikale Venstre": 186,
+      "Ø. Enhedslisten - De Rød-Grønne": 323,
+      "F. SF - Socialistisk Folkeparti": 220,
+      "I. Liberal Alliance": 90,
+      "O. Dansk Folkeparti": 162,
+      "M. Moderaterne": 47,
+      "E. Furesørødderne": 66,
+      "Å. Alternativet": 41,
+      "L. Lokallisten Bedre Borgerinddragelse": 21
+    }
   }
 }

@@ -107,22 +107,22 @@
   "700778": {
     "name": "Morten Børup",
     "electorate": 8436,
-    "total_votes": 5755,
-    "valid_votes": 5663,
-    "invalid_votes": 92,
-    "is_reported": false,
+    "total_votes": 6058,
+    "valid_votes": 5948,
+    "invalid_votes": 110,
+    "is_reported": true,
     "votes": {
-      "A. Socialdemokratiet": 1832,
-      "V. Venstre, Danmarks Liberale Parti": 735,
-      "F. SF - Socialistisk Folkeparti": 662,
-      "B. Radikale Venstre": 644,
-      "C. Det Konservative Folkeparti": 547,
-      "I. Liberal Alliance": 394,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 237,
+      "A. Socialdemokratiet": 1764,
+      "V. Venstre, Danmarks Liberale Parti": 926,
+      "F. SF - Socialistisk Folkeparti": 701,
+      "B. Radikale Venstre": 682,
+      "C. Det Konservative Folkeparti": 583,
+      "I. Liberal Alliance": 498,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 225,
       "Ø. Enhedslisten - De Rød-Grønne": 267,
-      "O. Dansk Folkeparti": 225,
-      "M. Moderaterne": 88,
-      "Å. Alternativet": 32
+      "O. Dansk Folkeparti": 203,
+      "M. Moderaterne": 53,
+      "Å. Alternativet": 46
     }
   },
   "711236": {
