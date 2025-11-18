@@ -128,22 +128,22 @@
   "702080": {
     "name": "Avedøre Skole",
     "electorate": 6472,
-    "total_votes": 3986,
-    "valid_votes": 3912,
-    "invalid_votes": 74,
-    "is_reported": false,
+    "total_votes": 4004,
+    "valid_votes": 3956,
+    "invalid_votes": 48,
+    "is_reported": true,
     "votes": {
-      "F. SF - Socialistisk Folkeparti": 927,
-      "A. Socialdemokratiet": 1063,
-      "C. Det Konservative Folkeparti": 457,
-      "O. Dansk Folkeparti": 400,
-      "L. Hvidovrelisten": 297,
-      "Ø. Enhedslisten - De Rød-Grønne": 210,
-      "I. Liberal Alliance": 168,
-      "B. Radikale Venstre": 146,
-      "V. Venstre, Danmarks Liberale Parti": 124,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 61,
-      "M. Moderaterne": 59
+      "F. SF - Socialistisk Folkeparti": 857,
+      "A. Socialdemokratiet": 1076,
+      "C. Det Konservative Folkeparti": 497,
+      "O. Dansk Folkeparti": 419,
+      "L. Hvidovrelisten": 341,
+      "Ø. Enhedslisten - De Rød-Grønne": 216,
+      "I. Liberal Alliance": 147,
+      "B. Radikale Venstre": 142,
+      "V. Venstre, Danmarks Liberale Parti": 131,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 65,
+      "M. Moderaterne": 65
     }
   },
   "706740": {
