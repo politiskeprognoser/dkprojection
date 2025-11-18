@@ -107,22 +107,22 @@
   "701196": {
     "name": "Ullerød",
     "electorate": 5374,
-    "total_votes": 3890,
-    "valid_votes": 3846,
-    "invalid_votes": 44,
-    "is_reported": false,
+    "total_votes": 3957,
+    "valid_votes": 3893,
+    "invalid_votes": 64,
+    "is_reported": true,
     "votes": {
-      "C. Det Konservative Folkeparti": 868,
-      "A. Socialdemokratiet": 729,
-      "F. SF - Socialistisk Folkeparti": 696,
-      "V. Venstre, Danmarks Liberale Parti": 520,
-      "M. Moderaterne": 285,
-      "I. Liberal Alliance": 190,
-      "B. Radikale Venstre": 149,
-      "O. Dansk Folkeparti": 168,
-      "Ø. Enhedslisten - De Rød-Grønne": 164,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 73,
-      "K. Bjarne Holm": 4
+      "C. Det Konservative Folkeparti": 1019,
+      "A. Socialdemokratiet": 725,
+      "F. SF - Socialistisk Folkeparti": 592,
+      "V. Venstre, Danmarks Liberale Parti": 518,
+      "M. Moderaterne": 319,
+      "I. Liberal Alliance": 189,
+      "B. Radikale Venstre": 157,
+      "O. Dansk Folkeparti": 169,
+      "Ø. Enhedslisten - De Rød-Grønne": 128,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 75,
+      "K. Bjarne Holm": 2
     }
   },
   "707266": {
