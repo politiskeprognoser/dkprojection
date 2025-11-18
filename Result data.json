@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-18T10:17:27+00:00",
+  "timestamp": "2025-11-18T11:01:58+00:00",
   "relevant_parties": [
     "Ø. Enhedslisten - De Rød-Grønne",
     "A. Socialdemokratiet",
@@ -7,11 +7,11 @@
     "C. Det Konservative Folkeparti",
     "V. Venstre, Danmarks Liberale Parti",
     "B. Radikale Venstre",
-    "R",
+    "Kommunistisk Parti",
     "O. Dansk Folkeparti",
     "Å. Alternativet",
     "M. Moderaterne",
-    "Q",
+    "Q. Frie Grønne - Danmarks nye venstrefløjsparti",
     "I. Liberal Alliance"
   ],
   "national": {
@@ -29,24 +29,24 @@
         "A. Socialdemokratiet": 1200,
         "B. Radikale Venstre": 374,
         "C. Det Konservative Folkeparti": 500,
-        "D": 22,
-        "E": 50,
+        "D. Nye Borgerlige": 22,
+        "KaosTV": 50,
         "F. SF - Socialistisk Folkeparti": 650,
         "I. Liberal Alliance": 202,
-        "J": 43,
-        "K": 20,
-        "L": 15,
+        "Hampepartiet": 43,
+        "K. KD – Kristendemokraterne": 20,
+        "Lokallisten - København": 15,
         "M. Moderaterne": 233,
-        "N": 100,
+        "Demokraterne - hele Danmark skal leve": 100,
         "O. Dansk Folkeparti": 250,
-        "P": 33,
-        "Q": 205,
-        "R": 350,
-        "T": 34,
-        "U": 6,
+        "DKP - Danmarks Kommunistiske Parti": 33,
+        "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 205,
+        "Kommunistisk Parti": 350,
+        "Skamløse Demokrater": 34,
+        "Din stemme i København": 6,
         "V. Venstre, Danmarks Liberale Parti": 450,
-        "Y": 3,
-        "Z": 39,
+        "Fælles Fremtid": 3,
+        "Solidarisk Integritet": 39,
         "Æ. Danmarksdemokraterne - Inger Støjberg": 56,
         "Ø. Enhedslisten - De Rød-Grønne": 1322,
         "Å. Alternativet": 243
@@ -55,24 +55,24 @@
         "A. Socialdemokratiet": 0,
         "B. Radikale Venstre": 0,
         "C. Det Konservative Folkeparti": 0,
-        "D": 0,
-        "E": 0,
+        "D. Nye Borgerlige": 0,
+        "KaosTV": 0,
         "F. SF - Socialistisk Folkeparti": 0,
         "I. Liberal Alliance": 0,
-        "J": 0,
-        "K": 0,
-        "L": 0,
+        "Hampepartiet": 0,
+        "K. KD – Kristendemokraterne": 0,
+        "Lokallisten - København": 0,
         "M. Moderaterne": 0,
-        "N": 0,
+        "Demokraterne - hele Danmark skal leve": 0,
         "O. Dansk Folkeparti": 0,
-        "P": 0,
-        "Q": 0,
-        "R": 0,
-        "T": 0,
-        "U": 0,
+        "DKP - Danmarks Kommunistiske Parti": 0,
+        "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 0,
+        "Kommunistisk Parti": 0,
+        "Skamløse Demokrater": 0,
+        "Din stemme i København": 0,
         "V. Venstre, Danmarks Liberale Parti": 0,
-        "Y": 0,
-        "Z": 0,
+        "Fælles Fremtid": 0,
+        "Solidarisk Integritet": 0,
         "Æ. Danmarksdemokraterne - Inger Støjberg": 0,
         "Ø. Enhedslisten - De Rød-Grønne": 0,
         "Å. Alternativet": 0
@@ -81,24 +81,24 @@
         "A. Socialdemokratiet": 11,
         "B. Radikale Venstre": 3,
         "C. Det Konservative Folkeparti": 5,
-        "D": 0,
-        "E": 0,
+        "D. Nye Borgerlige": 0,
+        "KaosTV": 0,
         "F. SF - Socialistisk Folkeparti": 6,
         "I. Liberal Alliance": 2,
-        "J": 0,
-        "K": 0,
-        "L": 0,
+        "Hampepartiet": 0,
+        "K. KD – Kristendemokraterne": 0,
+        "Lokallisten - København": 0,
         "M. Moderaterne": 2,
-        "N": 0,
+        "Demokraterne - hele Danmark skal leve": 0,
         "O. Dansk Folkeparti": 2,
-        "P": 0,
-        "Q": 2,
-        "R": 4,
-        "T": 0,
-        "U": 0,
+        "DKP - Danmarks Kommunistiske Parti": 0,
+        "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 2,
+        "Kommunistisk Parti": 4,
+        "Skamløse Demokrater": 0,
+        "Din stemme i København": 0,
         "V. Venstre, Danmarks Liberale Parti": 4,
-        "Y": 0,
-        "Z": 0,
+        "Fælles Fremtid": 0,
+        "Solidarisk Integritet": 0,
         "Æ. Danmarksdemokraterne - Inger Støjberg": 0,
         "Ø. Enhedslisten - De Rød-Grønne": 12,
         "Å. Alternativet": 2
@@ -113,24 +113,24 @@
         "A. Socialdemokratiet": 1200,
         "B. Radikale Venstre": 374,
         "C. Det Konservative Folkeparti": 500,
-        "D": 22,
-        "E": 50,
+        "D. Nye Borgerlige": 22,
+        "KaosTV": 50,
         "F. SF - Socialistisk Folkeparti": 650,
         "I. Liberal Alliance": 202,
-        "J": 43,
-        "K": 20,
-        "L": 15,
+        "Hampepartiet": 43,
+        "K. KD – Kristendemokraterne": 20,
+        "Lokallisten - København": 15,
         "M. Moderaterne": 233,
-        "N": 100,
+        "Demokraterne - hele Danmark skal leve": 100,
         "O. Dansk Folkeparti": 250,
-        "P": 33,
-        "Q": 205,
-        "R": 350,
-        "T": 34,
-        "U": 6,
+        "DKP - Danmarks Kommunistiske Parti": 33,
+        "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 205,
+        "Kommunistisk Parti": 350,
+        "Skamløse Demokrater": 34,
+        "Din stemme i København": 6,
         "V. Venstre, Danmarks Liberale Parti": 450,
-        "Y": 3,
-        "Z": 39,
+        "Fælles Fremtid": 3,
+        "Solidarisk Integritet": 39,
         "Æ. Danmarksdemokraterne - Inger Støjberg": 56,
         "Ø. Enhedslisten - De Rød-Grønne": 1322,
         "Å. Alternativet": 243
@@ -140,24 +140,24 @@
         "A. Socialdemokratiet": 11,
         "B. Radikale Venstre": 3,
         "C. Det Konservative Folkeparti": 5,
-        "D": 0,
-        "E": 0,
+        "D. Nye Borgerlige": 0,
+        "KaosTV": 0,
         "F. SF - Socialistisk Folkeparti": 6,
         "I. Liberal Alliance": 2,
-        "J": 0,
-        "K": 0,
-        "L": 0,
+        "Hampepartiet": 0,
+        "K. KD – Kristendemokraterne": 0,
+        "Lokallisten - København": 0,
         "M. Moderaterne": 2,
-        "N": 0,
+        "Demokraterne - hele Danmark skal leve": 0,
         "O. Dansk Folkeparti": 2,
-        "P": 0,
-        "Q": 2,
-        "R": 4,
-        "T": 0,
-        "U": 0,
+        "DKP - Danmarks Kommunistiske Parti": 0,
+        "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 2,
+        "Kommunistisk Parti": 4,
+        "Skamløse Demokrater": 0,
+        "Din stemme i København": 0,
         "V. Venstre, Danmarks Liberale Parti": 4,
-        "Y": 0,
-        "Z": 0,
+        "Fælles Fremtid": 0,
+        "Solidarisk Integritet": 0,
         "Æ. Danmarksdemokraterne - Inger Støjberg": 0,
         "Ø. Enhedslisten - De Rød-Grønne": 12,
         "Å. Alternativet": 2
@@ -456,6 +456,32 @@
           }
         }
       },
+      "party_names": {
+        "A. Socialdemokratiet": "A. Socialdemokratiet",
+        "B. Radikale Venstre": "B. Radikale Venstre",
+        "C. Det Konservative Folkeparti": "C. Det Konservative Folkeparti",
+        "D": "D. Nye Borgerlige",
+        "E": "E. KaosTV",
+        "F. SF - Socialistisk Folkeparti": "F. SF - Socialistisk Folkeparti",
+        "I. Liberal Alliance": "I. Liberal Alliance",
+        "J": "J. Hampepartiet",
+        "K": "K. KD – Kristendemokraterne",
+        "L": "L. Lokallisten - København",
+        "M. Moderaterne": "M. Moderaterne",
+        "N": "N. Demokraterne - hele Danmark skal leve",
+        "O. Dansk Folkeparti": "O. Dansk Folkeparti",
+        "P": "P. DKP - Danmarks Kommunistiske Parti",
+        "Q": "Q. Frie Grønne - Danmarks nye venstrefløjsparti",
+        "R": "R. Kommunistisk Parti",
+        "T": "T. Skamløse Demokrater",
+        "U": "U. Din stemme i København",
+        "V. Venstre, Danmarks Liberale Parti": "V. Venstre, Danmarks Liberale Parti",
+        "Y": "Y. Fælles Fremtid",
+        "Z": "Z. Solidarisk Integritet",
+        "Æ. Danmarksdemokraterne - Inger Støjberg": "Æ. Danmarksdemokraterne - Inger Støjberg",
+        "Ø. Enhedslisten - De Rød-Grønne": "Ø. Enhedslisten - De Rød-Grønne",
+        "Å. Alternativet": "Å. Alternativet"
+      },
       "percent_reported": 1.7,
       "precincts_reported": 1,
       "total_precincts": 58,
@@ -496,7 +522,7 @@
             "Å. Alternativet"
           ],
           "short_name": "F/N/Ø/Å",
-          "long_name": "F. SF - Socialistisk Folkeparti, N, Å. Alternativet, Ø. Enhedslisten - De Rød-Grønne"
+          "long_name": "F. SF - Socialistisk Folkeparti, N. Demokraterne - hele Danmark skal leve, Å. Alternativet, Ø. Enhedslisten - De Rød-Grønne"
         },
         {
           "id": "1",
@@ -522,7 +548,7 @@
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
           "short_name": "C/D/I/K/O/V/Æ",
-          "long_name": "C. Det Konservative Folkeparti, D, I. Liberal Alliance, K, O. Dansk Folkeparti, V. Venstre, Danmarks Liberale Parti, Æ. Danmarksdemokraterne - Inger Støjberg"
+          "long_name": "C. Det Konservative Folkeparti, D. Nye Borgerlige, I. Liberal Alliance, K. KD – Kristendemokraterne, O. Dansk Folkeparti, V. Venstre, Danmarks Liberale Parti, Æ. Danmarksdemokraterne - Inger Støjberg"
         },
         {
           "id": "3",
@@ -537,19 +563,22 @@
             "Z"
           ],
           "short_name": "E/J/P/Q/R/T/Z",
-          "long_name": "E, J, P, Q, R, T, Z"
+          "long_name": "E. KaosTV, J. Hampepartiet, P. DKP - Danmarks Kommunistiske Parti, Q. Frie Grønne - Danmarks nye venstrefløjsparti, R. Kommunistisk Parti, T. Skamløse Demokrater, Z. Solidarisk Integritet"
         },
         {
           "id": "L",
-          "type": "party"
+          "type": "party",
+          "name": "L. Lokallisten - København"
         },
         {
           "id": "U",
-          "type": "party"
+          "type": "party",
+          "name": "U. Din stemme i København"
         },
         {
           "id": "Y",
-          "type": "party"
+          "type": "party",
+          "name": "Y. Fælles Fremtid"
         }
       ]
     },
@@ -578,6 +607,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 8,
@@ -607,7 +637,7 @@
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
           "short_name": "C/E/K/T/Æ",
-          "long_name": "C. Det Konservative Folkeparti, E, K, T, Æ. Danmarksdemokraterne - Inger Støjberg"
+          "long_name": "C. Det Konservative Folkeparti, E. Hvid-sten Frederiksbergs uafhængige Borgerliste, K. KD – Kristendemokraterne, T. Borgernes Frederiksberg, Æ. Danmarksdemokraterne - Inger Støjberg"
         },
         {
           "id": "3",
@@ -648,6 +678,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 2,
@@ -674,7 +705,7 @@
             "V. Venstre, Danmarks Liberale Parti"
           ],
           "short_name": "B/G/I/M/V",
-          "long_name": "B. Radikale Venstre, G, I. Liberal Alliance, M. Moderaterne, V. Venstre, Danmarks Liberale Parti"
+          "long_name": "B. Radikale Venstre, G. Anne Grønlund, I. Liberal Alliance, M. Moderaterne, V. Venstre, Danmarks Liberale Parti"
         },
         {
           "id": "3",
@@ -714,6 +745,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 6,
@@ -727,7 +759,7 @@
             "E"
           ],
           "short_name": "A/E",
-          "long_name": "A. Socialdemokratiet, E"
+          "long_name": "A. Socialdemokratiet, E. Velfærdslisten (Tårnby Kommune)"
         },
         {
           "id": "2",
@@ -781,6 +813,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 10,
@@ -847,6 +880,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 9,
@@ -913,6 +947,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 9,
@@ -938,7 +973,7 @@
             "Ø. Enhedslisten - De Rød-Grønne"
           ],
           "short_name": "B/L/Ø",
-          "long_name": "B. Radikale Venstre, L, Ø. Enhedslisten - De Rød-Grønne"
+          "long_name": "B. Radikale Venstre, L. Lokallisten Gladsaxe, Ø. Enhedslisten - De Rød-Grønne"
         },
         {
           "id": "3",
@@ -988,6 +1023,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 3,
@@ -1043,6 +1079,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 7,
@@ -1067,7 +1104,7 @@
             "V. Venstre, Danmarks Liberale Parti"
           ],
           "short_name": "C/K/V",
-          "long_name": "C. Det Konservative Folkeparti, K, V. Venstre, Danmarks Liberale Parti"
+          "long_name": "C. Det Konservative Folkeparti, K. KD – Kristendemokraterne, V. Venstre, Danmarks Liberale Parti"
         },
         {
           "id": "3",
@@ -1117,6 +1154,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 8,
@@ -1131,7 +1169,7 @@
             "M. Moderaterne"
           ],
           "short_name": "B/L/M",
-          "long_name": "B. Radikale Venstre, L, M. Moderaterne"
+          "long_name": "B. Radikale Venstre, L. Hvidovrelisten, M. Moderaterne"
         },
         {
           "id": "2",
@@ -1183,6 +1221,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 6,
@@ -1207,7 +1246,7 @@
             "M. Moderaterne"
           ],
           "short_name": "B/K/M",
-          "long_name": "B. Radikale Venstre, K, M. Moderaterne"
+          "long_name": "B. Radikale Venstre, K. KD – Kristendemokraterne, M. Moderaterne"
         },
         {
           "id": "3",
@@ -1248,6 +1287,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 5,
@@ -1274,7 +1314,7 @@
             "M. Moderaterne"
           ],
           "short_name": "B/D/F/L/M",
-          "long_name": "B. Radikale Venstre, D, F. SF - Socialistisk Folkeparti, L, M. Moderaterne"
+          "long_name": "B. Radikale Venstre, D. IshøjDemokraterne, F. SF - Socialistisk Folkeparti, L. Ishøjlisten, M. Moderaterne"
         },
         {
           "id": "3",
@@ -1323,6 +1363,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 3,
@@ -1376,6 +1417,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 5,
@@ -1392,7 +1434,7 @@
             "Ø. Enhedslisten - De Rød-Grønne"
           ],
           "short_name": "B/F/L/T/Ø",
-          "long_name": "B. Radikale Venstre, F. SF - Socialistisk Folkeparti, L, T, Ø. Enhedslisten - De Rød-Grønne"
+          "long_name": "B. Radikale Venstre, F. SF - Socialistisk Folkeparti, L. Albertslund-Listen, T. Grøn Velfærd, Ø. Enhedslisten - De Rød-Grønne"
         },
         {
           "id": "2",
@@ -1433,6 +1475,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 11,
@@ -1449,7 +1492,7 @@
             "Ø. Enhedslisten - De Rød-Grønne"
           ],
           "short_name": "A/B/F/Q/Ø",
-          "long_name": "A. Socialdemokratiet, B. Radikale Venstre, F. SF - Socialistisk Folkeparti, Q, Ø. Enhedslisten - De Rød-Grønne"
+          "long_name": "A. Socialdemokratiet, B. Radikale Venstre, F. SF - Socialistisk Folkeparti, Q. Frie Grønne - Danmarks nye venstrefløjsparti, Ø. Enhedslisten - De Rød-Grønne"
         },
         {
           "id": "2",
@@ -1499,6 +1542,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 9,
@@ -1533,7 +1577,7 @@
             "O. Dansk Folkeparti"
           ],
           "short_name": "D/O",
-          "long_name": "D, O. Dansk Folkeparti"
+          "long_name": "D. Nye Borgerlige, O. Dansk Folkeparti"
         },
         {
           "id": "4",
@@ -1572,6 +1616,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 6,
@@ -1607,7 +1652,7 @@
             "D"
           ],
           "short_name": "C/D",
-          "long_name": "C. Det Konservative Folkeparti, D"
+          "long_name": "C. Det Konservative Folkeparti, D. Nye Borgerlige"
         },
         {
           "id": "4",
@@ -1628,7 +1673,7 @@
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
           "short_name": "U/Æ",
-          "long_name": "U, Æ. Danmarksdemokraterne - Inger Støjberg"
+          "long_name": "U. Bylisten, Æ. Danmarksdemokraterne - Inger Støjberg"
         }
       ]
     },
@@ -1657,6 +1702,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 12,
@@ -1683,7 +1729,7 @@
             "Å. Alternativet"
           ],
           "short_name": "B/K/M/Å",
-          "long_name": "B. Radikale Venstre, K, M. Moderaterne, Å. Alternativet"
+          "long_name": "B. Radikale Venstre, K. KD – Kristendemokraterne, M. Moderaterne, Å. Alternativet"
         },
         {
           "id": "3",
@@ -1706,7 +1752,7 @@
             "Y"
           ],
           "short_name": "E/Y",
-          "long_name": "E, Y"
+          "long_name": "E. Borgerforslag, Y. Stefan Warburg"
         }
       ]
     },
@@ -1735,6 +1781,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 8,
@@ -1763,7 +1810,7 @@
             "V. Venstre, Danmarks Liberale Parti"
           ],
           "short_name": "C/E/I/K/O/V",
-          "long_name": "C. Det Konservative Folkeparti, E, I. Liberal Alliance, K, O. Dansk Folkeparti, V. Venstre, Danmarks Liberale Parti"
+          "long_name": "C. Det Konservative Folkeparti, E. Fredensborg SocialKonservative, I. Liberal Alliance, K. KD – Kristendemokraterne, O. Dansk Folkeparti, V. Venstre, Danmarks Liberale Parti"
         },
         {
           "id": "3",
@@ -1803,6 +1850,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 5,
@@ -1816,7 +1864,7 @@
             "Q"
           ],
           "short_name": "A/Q",
-          "long_name": "A. Socialdemokratiet, Q"
+          "long_name": "A. Socialdemokratiet, Q. SocialKonservative (Hørsholm Kommune)"
         },
         {
           "id": "2",
@@ -1846,7 +1894,7 @@
             "T"
           ],
           "short_name": "E/T",
-          "long_name": "E, T"
+          "long_name": "E. Listen Anne Ehrenreich, T. Borgerlisten Hørsholm"
         },
         {
           "id": "5",
@@ -1885,6 +1933,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 13,
@@ -1950,6 +1999,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 12,
@@ -1975,7 +2025,7 @@
             "Å. Alternativet"
           ],
           "short_name": "B/K/Å",
-          "long_name": "B. Radikale Venstre, K, Å. Alternativet"
+          "long_name": "B. Radikale Venstre, K. KD – Kristendemokraterne, Å. Alternativet"
         },
         {
           "id": "3",
@@ -1988,7 +2038,7 @@
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
           "short_name": "C/I/L/O/Æ",
-          "long_name": "C. Det Konservative Folkeparti, I. Liberal Alliance, L, O. Dansk Folkeparti, Æ. Danmarksdemokraterne - Inger Støjberg"
+          "long_name": "C. Det Konservative Folkeparti, I. Liberal Alliance, L. Listen ByogLand, O. Dansk Folkeparti, Æ. Danmarksdemokraterne - Inger Støjberg"
         },
         {
           "id": "4",
@@ -1999,7 +2049,7 @@
             "U"
           ],
           "short_name": "E/N/U",
-          "long_name": "E, N, U"
+          "long_name": "E. Borgernes Gribskov, N. Folkestyret.dk, U. Alliancen for Børnene, Ungdommen og Fremtiden"
         },
         {
           "id": "5",
@@ -2010,7 +2060,7 @@
             "V. Venstre, Danmarks Liberale Parti"
           ],
           "short_name": "G/M/V",
-          "long_name": "G, M. Moderaterne, V. Venstre, Danmarks Liberale Parti"
+          "long_name": "G. Nytgribskov, M. Moderaterne, V. Venstre, Danmarks Liberale Parti"
         }
       ]
     },
@@ -2039,6 +2089,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 6,
@@ -2106,6 +2157,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 5,
@@ -2181,6 +2233,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 7,
@@ -2216,7 +2269,7 @@
             "V. Venstre, Danmarks Liberale Parti"
           ],
           "short_name": "C/L/V",
-          "long_name": "C. Det Konservative Folkeparti, L, V. Venstre, Danmarks Liberale Parti"
+          "long_name": "C. Det Konservative Folkeparti, L. Lokallisten Bedre Borgerinddragelse, V. Venstre, Danmarks Liberale Parti"
         },
         {
           "id": "4",
@@ -2228,7 +2281,7 @@
             "O. Dansk Folkeparti"
           ],
           "short_name": "E/I/M/O",
-          "long_name": "E, I. Liberal Alliance, M. Moderaterne, O. Dansk Folkeparti"
+          "long_name": "E. Furesørødderne, I. Liberal Alliance, M. Moderaterne, O. Dansk Folkeparti"
         }
       ]
     },
@@ -2257,6 +2310,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 9,
@@ -2271,7 +2325,7 @@
             "Å. Alternativet"
           ],
           "short_name": "B/E/Å",
-          "long_name": "B. Radikale Venstre, E, Å. Alternativet"
+          "long_name": "B. Radikale Venstre, E. Et Samlet Egedal, Å. Alternativet"
         },
         {
           "id": "2",
@@ -2303,7 +2357,7 @@
             "M. Moderaterne"
           ],
           "short_name": "L/M",
-          "long_name": "L, M. Moderaterne"
+          "long_name": "L. Lokallisten Ny Egedal, M. Moderaterne"
         }
       ]
     },
@@ -2332,6 +2386,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 5,
@@ -2358,7 +2413,7 @@
             "U"
           ],
           "short_name": "I/O/U",
-          "long_name": "I. Liberal Alliance, O. Dansk Folkeparti, U"
+          "long_name": "I. Liberal Alliance, O. Dansk Folkeparti, U. Allerød Listen"
         },
         {
           "id": "3",
@@ -2397,6 +2452,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 9,
@@ -2411,7 +2467,7 @@
             "L"
           ],
           "short_name": "B/F/L",
-          "long_name": "B. Radikale Venstre, F. SF - Socialistisk Folkeparti, L"
+          "long_name": "B. Radikale Venstre, F. SF - Socialistisk Folkeparti, L. Lokallisten (Rudersdal Kommune)"
         },
         {
           "id": "2",
@@ -2470,6 +2526,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 9,
@@ -2505,7 +2562,7 @@
             "K"
           ],
           "short_name": "I/K",
-          "long_name": "I. Liberal Alliance, K"
+          "long_name": "I. Liberal Alliance, K. KD – Kristendemokraterne"
         },
         {
           "id": "4",
@@ -2515,7 +2572,7 @@
             "Ø. Enhedslisten - De Rød-Grønne"
           ],
           "short_name": "Q/Ø",
-          "long_name": "Q, Ø. Enhedslisten - De Rød-Grønne"
+          "long_name": "Q. Frie Grønne - Danmarks nye venstrefløjsparti, Ø. Enhedslisten - De Rød-Grønne"
         }
       ]
     },
@@ -2544,6 +2601,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 15,
@@ -2588,7 +2646,7 @@
             "Ø. Enhedslisten - De Rød-Grønne"
           ],
           "short_name": "D/Ø",
-          "long_name": "D, Ø. Enhedslisten - De Rød-Grønne"
+          "long_name": "D. Vestlolland, Ø. Enhedslisten - De Rød-Grønne"
         }
       ]
     },
@@ -2617,6 +2675,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 20,
@@ -2642,7 +2701,7 @@
             "M. Moderaterne"
           ],
           "short_name": "B/L/M",
-          "long_name": "B. Radikale Venstre, L, M. Moderaterne"
+          "long_name": "B. Radikale Venstre, L. Guldborgsundlisten, M. Moderaterne"
         },
         {
           "id": "3",
@@ -2664,7 +2723,7 @@
             "T"
           ],
           "short_name": "O/T",
-          "long_name": "O. Dansk Folkeparti, T"
+          "long_name": "O. Dansk Folkeparti, T. Sydhavslisten"
         }
       ]
     },
@@ -2693,6 +2752,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 16,
@@ -2751,6 +2811,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 24,
@@ -2810,6 +2871,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 7,
@@ -2835,7 +2897,7 @@
             "Ø. Enhedslisten - De Rød-Grønne"
           ],
           "short_name": "F/T/Ø",
-          "long_name": "F. SF - Socialistisk Folkeparti, T, Ø. Enhedslisten - De Rød-Grønne"
+          "long_name": "F. SF - Socialistisk Folkeparti, T. HaslevFaxe-Listen, Ø. Enhedslisten - De Rød-Grønne"
         },
         {
           "id": "3",
@@ -2846,7 +2908,7 @@
             "M. Moderaterne"
           ],
           "short_name": "I/L/M",
-          "long_name": "I. Liberal Alliance, L, M. Moderaterne"
+          "long_name": "I. Liberal Alliance, L. Lokallisten (Faxe Kommune), M. Moderaterne"
         }
       ]
     },
@@ -2875,6 +2937,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 4,
@@ -2932,6 +2995,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 11,
@@ -2957,7 +3021,7 @@
             "Å. Alternativet"
           ],
           "short_name": "A/B/C/D/F/I/K/L/M/O/V/Æ/Ø/Å",
-          "long_name": "A. Socialdemokratiet, B. Radikale Venstre, C. Det Konservative Folkeparti, D, F. SF - Socialistisk Folkeparti, I. Liberal Alliance, K, L, M. Moderaterne, O. Dansk Folkeparti, V. Venstre, Danmarks Liberale Parti, Å. Alternativet, Æ. Danmarksdemokraterne - Inger Støjberg, Ø. Enhedslisten - De Rød-Grønne"
+          "long_name": "A. Socialdemokratiet, B. Radikale Venstre, C. Det Konservative Folkeparti, D. Corona Camping Listen, F. SF - Socialistisk Folkeparti, I. Liberal Alliance, K. KD – Kristendemokraterne, L. Borgernes Lokalliste Køge, M. Moderaterne, O. Dansk Folkeparti, V. Venstre, Danmarks Liberale Parti, Å. Alternativet, Æ. Danmarksdemokraterne - Inger Støjberg, Ø. Enhedslisten - De Rød-Grønne"
         }
       ]
     },
@@ -2986,6 +3050,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 10,
@@ -3053,6 +3118,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 7,
@@ -3069,7 +3135,7 @@
             "Ø. Enhedslisten - De Rød-Grønne"
           ],
           "short_name": "A/B/E/F/Ø",
-          "long_name": "A. Socialdemokratiet, B. Radikale Venstre, E, F. SF - Socialistisk Folkeparti, Ø. Enhedslisten - De Rød-Grønne"
+          "long_name": "A. Socialdemokratiet, B. Radikale Venstre, E. Lokallisten Mennesker Først, F. SF - Socialistisk Folkeparti, Ø. Enhedslisten - De Rød-Grønne"
         },
         {
           "id": "2",
@@ -3080,7 +3146,7 @@
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
           "short_name": "C/U/Æ",
-          "long_name": "C. Det Konservative Folkeparti, U, Æ. Danmarksdemokraterne - Inger Støjberg"
+          "long_name": "C. Det Konservative Folkeparti, U. Jesper Løvenbalk Fisker, Æ. Danmarksdemokraterne - Inger Støjberg"
         },
         {
           "id": "3",
@@ -3102,7 +3168,7 @@
             "V. Venstre, Danmarks Liberale Parti"
           ],
           "short_name": "K/L/M/V",
-          "long_name": "K, L, M. Moderaterne, V. Venstre, Danmarks Liberale Parti"
+          "long_name": "K. KD – Kristendemokraterne, L. Vores Lokalliste, M. Moderaterne, V. Venstre, Danmarks Liberale Parti"
         }
       ]
     },
@@ -3131,6 +3197,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 3,
@@ -3156,7 +3223,7 @@
             "T"
           ],
           "short_name": "C/L/T",
-          "long_name": "C. Det Konservative Folkeparti, L, T"
+          "long_name": "C. Det Konservative Folkeparti, L. HavdrupListen, T. VoresSolrød"
         },
         {
           "id": "3",
@@ -3196,6 +3263,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 18,
@@ -3233,7 +3301,7 @@
             "O. Dansk Folkeparti"
           ],
           "short_name": "L/O",
-          "long_name": "L, O. Dansk Folkeparti"
+          "long_name": "L. Lokallisten Roskilde, O. Dansk Folkeparti"
         }
       ]
     },
@@ -3262,6 +3330,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 15,
@@ -3276,7 +3345,7 @@
             "N"
           ],
           "short_name": "A/B/N",
-          "long_name": "A. Socialdemokratiet, B. Radikale Venstre, N"
+          "long_name": "A. Socialdemokratiet, B. Radikale Venstre, N. Ny Holbæk"
         },
         {
           "id": "2",
@@ -3338,6 +3407,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 12,
@@ -3383,7 +3453,7 @@
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
           "short_name": "L/Æ",
-          "long_name": "L, Æ. Danmarksdemokraterne - Inger Støjberg"
+          "long_name": "L. Lokalt Fokus, Æ. Danmarksdemokraterne - Inger Støjberg"
         },
         {
           "id": "5",
@@ -3393,7 +3463,7 @@
             "V. Venstre, Danmarks Liberale Parti"
           ],
           "short_name": "N/V",
-          "long_name": "N, V. Venstre, Danmarks Liberale Parti"
+          "long_name": "N. Nyt Odsherred, V. Venstre, Danmarks Liberale Parti"
         }
       ]
     },
@@ -3422,6 +3492,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 18,
@@ -3446,7 +3517,7 @@
             "L"
           ],
           "short_name": "B/L",
-          "long_name": "B. Radikale Venstre, L"
+          "long_name": "B. Radikale Venstre, L. Kalundborg Listen"
         },
         {
           "id": "3",
@@ -3468,7 +3539,7 @@
             "N"
           ],
           "short_name": "E/I/N",
-          "long_name": "E, I. Liberal Alliance, N"
+          "long_name": "E. Frit Borgerligt Fællesskab, I. Liberal Alliance, N. Nyt Kalundborg"
         },
         {
           "id": "5",
@@ -3507,6 +3578,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 13,
@@ -3537,7 +3609,7 @@
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
           "short_name": "C/D/I/K/L/O/Æ",
-          "long_name": "C. Det Konservative Folkeparti, D, I. Liberal Alliance, K, L, O. Dansk Folkeparti, Æ. Danmarksdemokraterne - Inger Støjberg"
+          "long_name": "C. Det Konservative Folkeparti, D. Nye Borgerlige, I. Liberal Alliance, K. KD – Kristendemokraterne, L. Landsbylisten, O. Dansk Folkeparti, Æ. Danmarksdemokraterne - Inger Støjberg"
         },
         {
           "id": "3",
@@ -3547,7 +3619,7 @@
             "V. Venstre, Danmarks Liberale Parti"
           ],
           "short_name": "N/V",
-          "long_name": "N, V. Venstre, Danmarks Liberale Parti"
+          "long_name": "N. Det Nære Parti, V. Venstre, Danmarks Liberale Parti"
         }
       ]
     },
@@ -3576,6 +3648,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 7,
@@ -3622,7 +3695,7 @@
             "V. Venstre, Danmarks Liberale Parti"
           ],
           "short_name": "D/I/O/V",
-          "long_name": "D, I. Liberal Alliance, O. Dansk Folkeparti, V. Venstre, Danmarks Liberale Parti"
+          "long_name": "D. Nye Borgerlige, I. Liberal Alliance, O. Dansk Folkeparti, V. Venstre, Danmarks Liberale Parti"
         }
       ]
     },
@@ -3651,6 +3724,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 18,
@@ -3675,7 +3749,7 @@
             "T"
           ],
           "short_name": "B/L/T",
-          "long_name": "B. Radikale Venstre, L, T"
+          "long_name": "B. Radikale Venstre, L. Storebæltslisten, T. Trelleborglisten"
         },
         {
           "id": "3",
@@ -3716,6 +3790,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 30,
@@ -3744,7 +3819,7 @@
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
           "short_name": "C/K/L/V/Æ",
-          "long_name": "C. Det Konservative Folkeparti, K, L, V. Venstre, Danmarks Liberale Parti, Æ. Danmarksdemokraterne - Inger Støjberg"
+          "long_name": "C. Det Konservative Folkeparti, K. KD – Kristendemokraterne, L. Et Bedre Odense, V. Venstre, Danmarks Liberale Parti, Æ. Danmarksdemokraterne - Inger Støjberg"
         },
         {
           "id": "3",
@@ -3754,7 +3829,7 @@
             "G"
           ],
           "short_name": "E/G",
-          "long_name": "E, G"
+          "long_name": "E. Lokallisten Nyt Odense, G. Stabilt Demokrati"
         },
         {
           "id": "4",
@@ -3765,7 +3840,7 @@
             "U"
           ],
           "short_name": "I/O/U",
-          "long_name": "I. Liberal Alliance, O. Dansk Folkeparti, U"
+          "long_name": "I. Liberal Alliance, O. Dansk Folkeparti, U. Det starter i Odense"
         },
         {
           "id": "5",
@@ -3776,7 +3851,7 @@
             "Å. Alternativet"
           ],
           "short_name": "Q/Ø/Å",
-          "long_name": "Q, Å. Alternativet, Ø. Enhedslisten - De Rød-Grønne"
+          "long_name": "Q. Frie Grønne - Danmarks nye venstrefløjsparti, Å. Alternativet, Ø. Enhedslisten - De Rød-Grønne"
         }
       ]
     },
@@ -3805,6 +3880,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 18,
@@ -3842,7 +3918,7 @@
             "V. Venstre, Danmarks Liberale Parti"
           ],
           "short_name": "L/V",
-          "long_name": "L, V. Venstre, Danmarks Liberale Parti"
+          "long_name": "L. Vi Lokale Demokrater, V. Venstre, Danmarks Liberale Parti"
         }
       ]
     },
@@ -3871,6 +3947,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 11,
@@ -3918,7 +3995,7 @@
             "Å. Alternativet"
           ],
           "short_name": "Q/T/Y/Ø/Å",
-          "long_name": "Q, T, Y, Å. Alternativet, Ø. Enhedslisten - De Rød-Grønne"
+          "long_name": "Q. Omsorgsgruppen, T. Tværpolitisk Anstændighed, Y. Solidarisk ansvar, Å. Alternativet, Ø. Enhedslisten - De Rød-Grønne"
         }
       ]
     },
@@ -3947,6 +4024,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 10,
@@ -4011,6 +4089,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 6,
@@ -4048,7 +4127,7 @@
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
           "short_name": "C/E/I/Æ",
-          "long_name": "C. Det Konservative Folkeparti, E, I. Liberal Alliance, Æ. Danmarksdemokraterne - Inger Støjberg"
+          "long_name": "C. Det Konservative Folkeparti, E. Hverdagens Stemme, I. Liberal Alliance, Æ. Danmarksdemokraterne - Inger Støjberg"
         }
       ]
     },
@@ -4077,6 +4156,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 13,
@@ -4092,7 +4172,7 @@
             "Å. Alternativet"
           ],
           "short_name": "B/F/N/Å",
-          "long_name": "B. Radikale Venstre, F. SF - Socialistisk Folkeparti, N, Å. Alternativet"
+          "long_name": "B. Radikale Venstre, F. SF - Socialistisk Folkeparti, N. Bedre By Nyborg, Å. Alternativet"
         },
         {
           "id": "2",
@@ -4114,7 +4194,7 @@
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
           "short_name": "L/V/Æ",
-          "long_name": "L, V. Venstre, Danmarks Liberale Parti, Æ. Danmarksdemokraterne - Inger Støjberg"
+          "long_name": "L. Vi Lokale Demokrater, V. Venstre, Danmarks Liberale Parti, Æ. Danmarksdemokraterne - Inger Støjberg"
         }
       ]
     },
@@ -4143,6 +4223,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 19,
@@ -4169,7 +4250,7 @@
             "O. Dansk Folkeparti"
           ],
           "short_name": "C/D/O",
-          "long_name": "C. Det Konservative Folkeparti, D, O. Dansk Folkeparti"
+          "long_name": "C. Det Konservative Folkeparti, D. Nye Borgerlige, O. Dansk Folkeparti"
         },
         {
           "id": "3",
@@ -4209,6 +4290,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 5,
@@ -4236,7 +4318,7 @@
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
           "short_name": "C/I/L/M/Æ",
-          "long_name": "C. Det Konservative Folkeparti, I. Liberal Alliance, L, M. Moderaterne, Æ. Danmarksdemokraterne - Inger Støjberg"
+          "long_name": "C. Det Konservative Folkeparti, I. Liberal Alliance, L. Lokallisten Langeland, M. Moderaterne, Æ. Danmarksdemokraterne - Inger Støjberg"
         },
         {
           "id": "3",
@@ -4275,6 +4357,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 21,
@@ -4289,7 +4372,7 @@
             "M. Moderaterne"
           ],
           "short_name": "B/L/M",
-          "long_name": "B. Radikale Venstre, L, M. Moderaterne"
+          "long_name": "B. Radikale Venstre, L. Lokallisten Faaborg-Midtfyn, M. Moderaterne"
         },
         {
           "id": "2",
@@ -4340,6 +4423,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 3,
@@ -4354,7 +4438,7 @@
             "F. SF - Socialistisk Folkeparti"
           ],
           "short_name": "A/E/F",
-          "long_name": "A. Socialdemokratiet, E, F. SF - Socialistisk Folkeparti"
+          "long_name": "A. Socialdemokratiet, E. Ærø i Centrum, F. SF - Socialistisk Folkeparti"
         },
         {
           "id": "2",
@@ -4413,6 +4497,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 17,
@@ -4450,7 +4535,7 @@
             "S. Slesvigsk Parti"
           ],
           "short_name": "K/M/S",
-          "long_name": "K, M. Moderaterne, S. Slesvigsk Parti"
+          "long_name": "K. KD – Kristendemokraterne, M. Moderaterne, S. Slesvigsk Parti"
         }
       ]
     },
@@ -4479,6 +4564,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 18,
@@ -4504,7 +4590,7 @@
             "S. Slesvigsk Parti"
           ],
           "short_name": "B/K/M/S",
-          "long_name": "B. Radikale Venstre, K, M. Moderaterne, S. Slesvigsk Parti"
+          "long_name": "B. Radikale Venstre, K. KD – Kristendemokraterne, M. Moderaterne, S. Slesvigsk Parti"
         },
         {
           "id": "3",
@@ -4514,7 +4600,7 @@
             "J"
           ],
           "short_name": "E/J",
-          "long_name": "E, J"
+          "long_name": "E. Smilla og Borgernes Liste, J. borgernes lokalliste"
         },
         {
           "id": "4",
@@ -4554,6 +4640,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 22,
@@ -4569,7 +4656,7 @@
             "Y"
           ],
           "short_name": "C/I/O/Y",
-          "long_name": "C. Det Konservative Folkeparti, I. Liberal Alliance, O. Dansk Folkeparti, Y"
+          "long_name": "C. Det Konservative Folkeparti, I. Liberal Alliance, O. Dansk Folkeparti, Y. Velfærdsdemokraterne"
         },
         {
           "id": "2",
@@ -4618,6 +4705,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 24,
@@ -4644,7 +4732,7 @@
             "J"
           ],
           "short_name": "E/J",
-          "long_name": "E, J"
+          "long_name": "E. Borgerlig Fornuft, J. Esbjerg 2.0"
         },
         {
           "id": "3",
@@ -4694,6 +4782,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 2,
@@ -4719,7 +4808,7 @@
             "Ø. Enhedslisten - De Rød-Grønne"
           ],
           "short_name": "B/L/Ø",
-          "long_name": "B. Radikale Venstre, L, Ø. Enhedslisten - De Rød-Grønne"
+          "long_name": "B. Radikale Venstre, L. Fanø Borgerliste, Ø. Enhedslisten - De Rød-Grønne"
         }
       ]
     },
@@ -4748,6 +4837,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 23,
@@ -4774,7 +4864,7 @@
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
           "short_name": "C/I/K/Æ",
-          "long_name": "C. Det Konservative Folkeparti, I. Liberal Alliance, K, Æ. Danmarksdemokraterne - Inger Støjberg"
+          "long_name": "C. Det Konservative Folkeparti, I. Liberal Alliance, K. KD – Kristendemokraterne, Æ. Danmarksdemokraterne - Inger Støjberg"
         },
         {
           "id": "3",
@@ -4814,6 +4904,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 7,
@@ -4867,6 +4958,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 19,
@@ -4933,6 +5025,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 34,
@@ -4959,7 +5052,7 @@
             "M. Moderaterne"
           ],
           "short_name": "C/I/K/M",
-          "long_name": "C. Det Konservative Folkeparti, I. Liberal Alliance, K, M. Moderaterne"
+          "long_name": "C. Det Konservative Folkeparti, I. Liberal Alliance, K. KD – Kristendemokraterne, M. Moderaterne"
         },
         {
           "id": "3",
@@ -4970,7 +5063,7 @@
             "Ø. Enhedslisten - De Rød-Grønne"
           ],
           "short_name": "F/R/Ø",
-          "long_name": "F. SF - Socialistisk Folkeparti, R, Ø. Enhedslisten - De Rød-Grønne"
+          "long_name": "F. SF - Socialistisk Folkeparti, R. Kommunistisk Parti, Ø. Enhedslisten - De Rød-Grønne"
         },
         {
           "id": "4",
@@ -5010,6 +5103,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 9,
@@ -5025,7 +5119,7 @@
             "Ø. Enhedslisten - De Rød-Grønne"
           ],
           "short_name": "B/F/G/Ø",
-          "long_name": "B. Radikale Venstre, F. SF - Socialistisk Folkeparti, G, Ø. Enhedslisten - De Rød-Grønne"
+          "long_name": "B. Radikale Venstre, F. SF - Socialistisk Folkeparti, G. Grøn Kultur, Ø. Enhedslisten - De Rød-Grønne"
         },
         {
           "id": "2",
@@ -5049,7 +5143,7 @@
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
           "short_name": "I/J/O/V/Æ",
-          "long_name": "I. Liberal Alliance, J, O. Dansk Folkeparti, V. Venstre, Danmarks Liberale Parti, Æ. Danmarksdemokraterne - Inger Støjberg"
+          "long_name": "I. Liberal Alliance, J. Borgernes Liste 7000, O. Dansk Folkeparti, V. Venstre, Danmarks Liberale Parti, Æ. Danmarksdemokraterne - Inger Støjberg"
         }
       ]
     },
@@ -5078,6 +5172,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 15,
@@ -5105,7 +5200,7 @@
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
           "short_name": "C/I/K/Æ",
-          "long_name": "C. Det Konservative Folkeparti, I. Liberal Alliance, K, Æ. Danmarksdemokraterne - Inger Støjberg"
+          "long_name": "C. Det Konservative Folkeparti, I. Liberal Alliance, K. KD – Kristendemokraterne, Æ. Danmarksdemokraterne - Inger Støjberg"
         },
         {
           "id": "3",
@@ -5117,7 +5212,7 @@
             "V. Venstre, Danmarks Liberale Parti"
           ],
           "short_name": "J/M/O/V",
-          "long_name": "J, M. Moderaterne, O. Dansk Folkeparti, V. Venstre, Danmarks Liberale Parti"
+          "long_name": "J. Borgernes Lokal Liste, M. Moderaterne, O. Dansk Folkeparti, V. Venstre, Danmarks Liberale Parti"
         }
       ]
     },
@@ -5146,6 +5241,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 22,
@@ -5171,7 +5267,7 @@
             "S. Slesvigsk Parti"
           ],
           "short_name": "B/C/K/S",
-          "long_name": "B. Radikale Venstre, C. Det Konservative Folkeparti, K, S. Slesvigsk Parti"
+          "long_name": "B. Radikale Venstre, C. Det Konservative Folkeparti, K. KD – Kristendemokraterne, S. Slesvigsk Parti"
         },
         {
           "id": "3",
@@ -5184,7 +5280,7 @@
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
           "short_name": "D/I/O/V/Æ",
-          "long_name": "D, I. Liberal Alliance, O. Dansk Folkeparti, V. Venstre, Danmarks Liberale Parti, Æ. Danmarksdemokraterne - Inger Støjberg"
+          "long_name": "D. Nye Borgerlige, I. Liberal Alliance, O. Dansk Folkeparti, V. Venstre, Danmarks Liberale Parti, Æ. Danmarksdemokraterne - Inger Støjberg"
         },
         {
           "id": "4",
@@ -5223,6 +5319,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 49,
@@ -5238,7 +5335,7 @@
             "T"
           ],
           "short_name": "B/K/M/T",
-          "long_name": "B. Radikale Venstre, K, M. Moderaterne, T"
+          "long_name": "B. Radikale Venstre, K. KD – Kristendemokraterne, M. Moderaterne, T. BorgerTinget"
         },
         {
           "id": "2",
@@ -5252,7 +5349,7 @@
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
           "short_name": "C/I/N/O/V/Æ",
-          "long_name": "C. Det Konservative Folkeparti, I. Liberal Alliance, N, O. Dansk Folkeparti, V. Venstre, Danmarks Liberale Parti, Æ. Danmarksdemokraterne - Inger Støjberg"
+          "long_name": "C. Det Konservative Folkeparti, I. Liberal Alliance, N. Nej til privatisering af kommunale veje, O. Dansk Folkeparti, V. Venstre, Danmarks Liberale Parti, Æ. Danmarksdemokraterne - Inger Støjberg"
         },
         {
           "id": "3",
@@ -5273,7 +5370,7 @@
             "R"
           ],
           "short_name": "Q/R",
-          "long_name": "Q, R"
+          "long_name": "Q. Frie Grønne - Danmarks nye venstrefløjsparti, R. Kommunistisk Parti"
         }
       ]
     },
@@ -5302,6 +5399,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 8,
@@ -5324,7 +5422,7 @@
             "Å. Alternativet"
           ],
           "short_name": "A/B/C/F/I/O/V/Z/Æ/Ø/Å",
-          "long_name": "A. Socialdemokratiet, B. Radikale Venstre, C. Det Konservative Folkeparti, F. SF - Socialistisk Folkeparti, I. Liberal Alliance, O. Dansk Folkeparti, V. Venstre, Danmarks Liberale Parti, Z, Å. Alternativet, Æ. Danmarksdemokraterne - Inger Støjberg, Ø. Enhedslisten - De Rød-Grønne"
+          "long_name": "A. Socialdemokratiet, B. Radikale Venstre, C. Det Konservative Folkeparti, F. SF - Socialistisk Folkeparti, I. Liberal Alliance, O. Dansk Folkeparti, V. Venstre, Danmarks Liberale Parti, Z. Velfærdslisten Syddjurs, Å. Alternativet, Æ. Danmarksdemokraterne - Inger Støjberg, Ø. Enhedslisten - De Rød-Grønne"
         }
       ]
     },
@@ -5353,6 +5451,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 10,
@@ -5368,7 +5467,7 @@
             "Ø. Enhedslisten - De Rød-Grønne"
           ],
           "short_name": "A/F/N/Ø",
-          "long_name": "A. Socialdemokratiet, F. SF - Socialistisk Folkeparti, N, Ø. Enhedslisten - De Rød-Grønne"
+          "long_name": "A. Socialdemokratiet, F. SF - Socialistisk Folkeparti, N. Natur- og Velfærdslisten, Ø. Enhedslisten - De Rød-Grønne"
         },
         {
           "id": "2",
@@ -5410,6 +5509,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 30,
@@ -5424,7 +5524,7 @@
             "K"
           ],
           "short_name": "B/J/K",
-          "long_name": "B. Radikale Venstre, J, K"
+          "long_name": "B. Radikale Venstre, J. Frie Stemmer - Jens Peter Hansen, K. KD – Kristendemokraterne"
         },
         {
           "id": "2",
@@ -5447,7 +5547,7 @@
             "Ø. Enhedslisten - De Rød-Grønne"
           ],
           "short_name": "E/F/Ø",
-          "long_name": "E, F. SF - Socialistisk Folkeparti, Ø. Enhedslisten - De Rød-Grønne"
+          "long_name": "E. Velfærdslisten (Randers Kommune), F. SF - Socialistisk Folkeparti, Ø. Enhedslisten - De Rød-Grønne"
         },
         {
           "id": "4",
@@ -5486,6 +5586,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 14,
@@ -5543,6 +5644,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 10,
@@ -5599,6 +5701,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 2,
@@ -5651,6 +5754,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 12,
@@ -5710,6 +5814,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 22,
@@ -5736,7 +5841,7 @@
             "I. Liberal Alliance"
           ],
           "short_name": "C/D/I",
-          "long_name": "C. Det Konservative Folkeparti, D, I. Liberal Alliance"
+          "long_name": "C. Det Konservative Folkeparti, D. Nye Borgerlige, I. Liberal Alliance"
         },
         {
           "id": "3",
@@ -5776,6 +5881,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 24,
@@ -5812,7 +5918,7 @@
             "K"
           ],
           "short_name": "G/I/K",
-          "long_name": "G, I. Liberal Alliance, K"
+          "long_name": "G. Seniorlisten Hedensted Kommune, I. Liberal Alliance, K. KD – Kristendemokraterne"
         },
         {
           "id": "4",
@@ -5823,7 +5929,7 @@
             "V. Venstre, Danmarks Liberale Parti"
           ],
           "short_name": "J/M/V",
-          "long_name": "J, M. Moderaterne, V. Venstre, Danmarks Liberale Parti"
+          "long_name": "J. SocialKonservative (Hedensted Kommune), M. Moderaterne, V. Venstre, Danmarks Liberale Parti"
         }
       ]
     },
@@ -5852,6 +5958,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 8,
@@ -5878,7 +5985,7 @@
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
           "short_name": "C/L/O/Æ",
-          "long_name": "C. Det Konservative Folkeparti, L, O. Dansk Folkeparti, Æ. Danmarksdemokraterne - Inger Støjberg"
+          "long_name": "C. Det Konservative Folkeparti, L. Land- og Bylisten, O. Dansk Folkeparti, Æ. Danmarksdemokraterne - Inger Støjberg"
         }
       ]
     },
@@ -5907,6 +6014,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 7,
@@ -5942,7 +6050,7 @@
             "U"
           ],
           "short_name": "D/O/U",
-          "long_name": "D, O. Dansk Folkeparti, U"
+          "long_name": "D. Nye Borgerlige, O. Dansk Folkeparti, U. Adrian-Silviu Suiugan"
         },
         {
           "id": "4",
@@ -5981,6 +6089,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 20,
@@ -6004,7 +6113,7 @@
             "L"
           ],
           "short_name": "B/L",
-          "long_name": "B. Radikale Venstre, L"
+          "long_name": "B. Radikale Venstre, L. Skive-Listen"
         },
         {
           "id": "3",
@@ -6055,6 +6164,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 16,
@@ -6069,7 +6179,7 @@
             "Å. Alternativet"
           ],
           "short_name": "B/K/Å",
-          "long_name": "B. Radikale Venstre, K, Å. Alternativet"
+          "long_name": "B. Radikale Venstre, K. KD – Kristendemokraterne, Å. Alternativet"
         },
         {
           "id": "2",
@@ -6110,7 +6220,7 @@
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
           "short_name": "Y/Æ",
-          "long_name": "Y, Æ. Danmarksdemokraterne - Inger Støjberg"
+          "long_name": "Y. Velfærdsdemokraterne, Æ. Danmarksdemokraterne - Inger Støjberg"
         }
       ]
     },
@@ -6139,6 +6249,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 28,
@@ -6154,7 +6265,7 @@
             "Ø. Enhedslisten - De Rød-Grønne"
           ],
           "short_name": "A/F/N/Ø",
-          "long_name": "A. Socialdemokratiet, F. SF - Socialistisk Folkeparti, N, Ø. Enhedslisten - De Rød-Grønne"
+          "long_name": "A. Socialdemokratiet, F. SF - Socialistisk Folkeparti, N. Deltagerlisten, Ø. Enhedslisten - De Rød-Grønne"
         },
         {
           "id": "2",
@@ -6165,7 +6276,7 @@
             "M. Moderaterne"
           ],
           "short_name": "B/L/M",
-          "long_name": "B. Radikale Venstre, L, M. Moderaterne"
+          "long_name": "B. Radikale Venstre, L. Louise Isager, M. Moderaterne"
         },
         {
           "id": "3",
@@ -6215,6 +6326,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 6,
@@ -6240,7 +6352,7 @@
             "L"
           ],
           "short_name": "F/L",
-          "long_name": "F. SF - Socialistisk Folkeparti, L"
+          "long_name": "F. SF - Socialistisk Folkeparti, L. Fælleslisten"
         }
       ]
     },
@@ -6269,6 +6381,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 26,
@@ -6282,7 +6395,7 @@
             "L"
           ],
           "short_name": "A/L",
-          "long_name": "A. Socialdemokratiet, L"
+          "long_name": "A. Socialdemokratiet, L. Borgerlisten (Herning Kommune)"
         },
         {
           "id": "2",
@@ -6307,7 +6420,7 @@
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
           "short_name": "C/D/I/K/O/Æ",
-          "long_name": "C. Det Konservative Folkeparti, D, I. Liberal Alliance, K, O. Dansk Folkeparti, Æ. Danmarksdemokraterne - Inger Støjberg"
+          "long_name": "C. Det Konservative Folkeparti, D. Nye Borgerlige, I. Liberal Alliance, K. KD – Kristendemokraterne, O. Dansk Folkeparti, Æ. Danmarksdemokraterne - Inger Støjberg"
         },
         {
           "id": "4",
@@ -6346,6 +6459,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 10,
@@ -6382,7 +6496,7 @@
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
           "short_name": "D/I/O/V/Æ",
-          "long_name": "D, I. Liberal Alliance, O. Dansk Folkeparti, V. Venstre, Danmarks Liberale Parti, Æ. Danmarksdemokraterne - Inger Støjberg"
+          "long_name": "D. Nye Borgerlige, I. Liberal Alliance, O. Dansk Folkeparti, V. Venstre, Danmarks Liberale Parti, Æ. Danmarksdemokraterne - Inger Støjberg"
         }
       ]
     },
@@ -6411,6 +6525,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 18,
@@ -6436,7 +6551,7 @@
             "O. Dansk Folkeparti"
           ],
           "short_name": "C/D/I/O",
-          "long_name": "C. Det Konservative Folkeparti, D, I. Liberal Alliance, O. Dansk Folkeparti"
+          "long_name": "C. Det Konservative Folkeparti, D. Nye Borgerlige, I. Liberal Alliance, O. Dansk Folkeparti"
         },
         {
           "id": "3",
@@ -6456,7 +6571,7 @@
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
           "short_name": "K/Æ",
-          "long_name": "K, Æ. Danmarksdemokraterne - Inger Støjberg"
+          "long_name": "K. KD – Kristendemokraterne, Æ. Danmarksdemokraterne - Inger Støjberg"
         }
       ]
     },
@@ -6485,6 +6600,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 15,
@@ -6548,6 +6664,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 1,
@@ -6562,7 +6679,7 @@
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
           "short_name": "L/V/Æ",
-          "long_name": "L, V. Venstre, Danmarks Liberale Parti, Æ. Danmarksdemokraterne - Inger Støjberg"
+          "long_name": "L. Læsø Borgerliste, V. Venstre, Danmarks Liberale Parti, Æ. Danmarksdemokraterne - Inger Støjberg"
         }
       ]
     },
@@ -6591,6 +6708,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 21,
@@ -6654,6 +6772,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 13,
@@ -6669,7 +6788,7 @@
             "M. Moderaterne"
           ],
           "short_name": "B/C/J/M",
-          "long_name": "B. Radikale Venstre, C. Det Konservative Folkeparti, J, M. Moderaterne"
+          "long_name": "B. Radikale Venstre, C. Det Konservative Folkeparti, J. Borgerlisten (Brønderslev Kommune), M. Moderaterne"
         },
         {
           "id": "2",
@@ -6681,7 +6800,7 @@
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
           "short_name": "D/O/V/Æ",
-          "long_name": "D, O. Dansk Folkeparti, V. Venstre, Danmarks Liberale Parti, Æ. Danmarksdemokraterne - Inger Støjberg"
+          "long_name": "D. Nye Borgerlige, O. Dansk Folkeparti, V. Venstre, Danmarks Liberale Parti, Æ. Danmarksdemokraterne - Inger Støjberg"
         },
         {
           "id": "3",
@@ -6720,6 +6839,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 19,
@@ -6744,7 +6864,7 @@
             "T"
           ],
           "short_name": "B/K/T",
-          "long_name": "B. Radikale Venstre, K, T"
+          "long_name": "B. Radikale Venstre, K. KD – Kristendemokraterne, T. Lokallisten Jammerbugt"
         },
         {
           "id": "3",
@@ -6755,7 +6875,7 @@
             "L"
           ],
           "short_name": "C/I/L",
-          "long_name": "C. Det Konservative Folkeparti, I. Liberal Alliance, L"
+          "long_name": "C. Det Konservative Folkeparti, I. Liberal Alliance, L. Vendelbo-Listen"
         },
         {
           "id": "4",
@@ -6795,6 +6915,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 5,
@@ -6848,6 +6969,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 15,
@@ -6884,7 +7006,7 @@
             "T"
           ],
           "short_name": "O/T",
-          "long_name": "O. Dansk Folkeparti, T"
+          "long_name": "O. Dansk Folkeparti, T. Thy Borgerlige"
         }
       ]
     },
@@ -6913,6 +7035,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 14,
@@ -6944,6 +7067,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 11,
@@ -6958,7 +7082,7 @@
             "R"
           ],
           "short_name": "A/L/R",
-          "long_name": "A. Socialdemokratiet, L, R"
+          "long_name": "A. Socialdemokratiet, L. Den Sociale Fællesliste, R. Rebild Listen"
         },
         {
           "id": "2",
@@ -7010,6 +7134,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 11,
@@ -7038,7 +7163,7 @@
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
           "short_name": "C/I/K/O/V/Æ",
-          "long_name": "C. Det Konservative Folkeparti, I. Liberal Alliance, K, O. Dansk Folkeparti, V. Venstre, Danmarks Liberale Parti, Æ. Danmarksdemokraterne - Inger Støjberg"
+          "long_name": "C. Det Konservative Folkeparti, I. Liberal Alliance, K. KD – Kristendemokraterne, O. Dansk Folkeparti, V. Venstre, Danmarks Liberale Parti, Æ. Danmarksdemokraterne - Inger Støjberg"
         }
       ]
     },
@@ -7067,6 +7192,7 @@
         "divisor": null,
         "alliances": {}
       },
+      "party_names": {},
       "percent_reported": 0.0,
       "precincts_reported": 0,
       "total_precincts": 38,
@@ -7106,7 +7232,7 @@
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
           "short_name": "C/I/K/O/V/Æ",
-          "long_name": "C. Det Konservative Folkeparti, I. Liberal Alliance, K, O. Dansk Folkeparti, V. Venstre, Danmarks Liberale Parti, Æ. Danmarksdemokraterne - Inger Støjberg"
+          "long_name": "C. Det Konservative Folkeparti, I. Liberal Alliance, K. KD – Kristendemokraterne, O. Dansk Folkeparti, V. Venstre, Danmarks Liberale Parti, Æ. Danmarksdemokraterne - Inger Støjberg"
         }
       ]
     }
