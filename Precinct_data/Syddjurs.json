@@ -2,23 +2,23 @@
   "701596": {
     "name": "Ebeltoft",
     "electorate": 7705,
-    "total_votes": 5428,
-    "valid_votes": 5354,
-    "invalid_votes": 74,
-    "is_reported": false,
+    "total_votes": 5671,
+    "valid_votes": 5596,
+    "invalid_votes": 75,
+    "is_reported": true,
     "votes": {
-      "A. Socialdemokratiet": 1298,
-      "V. Venstre, Danmarks Liberale Parti": 844,
-      "F. SF - Socialistisk Folkeparti": 701,
-      "C. Det Konservative Folkeparti": 654,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 499,
-      "Ø. Enhedslisten - De Rød-Grønne": 265,
-      "B. Radikale Venstre": 497,
-      "Å. Alternativet": 276,
-      "I. Liberal Alliance": 122,
-      "O. Dansk Folkeparti": 97,
-      "Z. Velfærdslisten Syddjurs": 96,
-      "J. Partiet Samfundssind for Frihed": 5
+      "A. Socialdemokratiet": 1410,
+      "V. Venstre, Danmarks Liberale Parti": 941,
+      "F. SF - Socialistisk Folkeparti": 714,
+      "C. Det Konservative Folkeparti": 984,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 376,
+      "Ø. Enhedslisten - De Rød-Grønne": 296,
+      "B. Radikale Venstre": 379,
+      "Å. Alternativet": 166,
+      "O. Dansk Folkeparti": 175,
+      "I. Liberal Alliance": 109,
+      "Z. Velfærdslisten Syddjurs": 43,
+      "J. Partiet Samfundssind for Frihed": 3
     }
   },
   "703350": {
@@ -37,8 +37,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 175,
       "B. Radikale Venstre": 61,
       "Å. Alternativet": 199,
-      "I. Liberal Alliance": 46,
       "O. Dansk Folkeparti": 36,
+      "I. Liberal Alliance": 46,
       "Z. Velfærdslisten Syddjurs": 41,
       "J. Partiet Samfundssind for Frihed": 0
     }
@@ -59,8 +59,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 91,
       "B. Radikale Venstre": 20,
       "Å. Alternativet": 54,
-      "I. Liberal Alliance": 26,
       "O. Dansk Folkeparti": 45,
+      "I. Liberal Alliance": 26,
       "Z. Velfærdslisten Syddjurs": 18,
       "J. Partiet Samfundssind for Frihed": 3
     }
@@ -81,8 +81,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 68,
       "B. Radikale Venstre": 30,
       "Å. Alternativet": 45,
-      "I. Liberal Alliance": 57,
       "O. Dansk Folkeparti": 57,
+      "I. Liberal Alliance": 57,
       "Z. Velfærdslisten Syddjurs": 18,
       "J. Partiet Samfundssind for Frihed": 5
     }
@@ -103,8 +103,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 102,
       "B. Radikale Venstre": 39,
       "Å. Alternativet": 55,
-      "I. Liberal Alliance": 80,
       "O. Dansk Folkeparti": 67,
+      "I. Liberal Alliance": 80,
       "Z. Velfærdslisten Syddjurs": 26,
       "J. Partiet Samfundssind for Frihed": 3
     }
@@ -112,23 +112,23 @@
   "701618": {
     "name": "Hornslet",
     "electorate": 6488,
-    "total_votes": 4682,
-    "valid_votes": 4623,
-    "invalid_votes": 59,
-    "is_reported": false,
+    "total_votes": 4738,
+    "valid_votes": 4674,
+    "invalid_votes": 64,
+    "is_reported": true,
     "votes": {
-      "A. Socialdemokratiet": 1291,
-      "V. Venstre, Danmarks Liberale Parti": 791,
-      "F. SF - Socialistisk Folkeparti": 618,
-      "C. Det Konservative Folkeparti": 661,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 444,
-      "Ø. Enhedslisten - De Rød-Grønne": 264,
-      "B. Radikale Venstre": 147,
-      "Å. Alternativet": 85,
-      "I. Liberal Alliance": 166,
-      "O. Dansk Folkeparti": 105,
-      "Z. Velfærdslisten Syddjurs": 45,
-      "J. Partiet Samfundssind for Frihed": 6
+      "A. Socialdemokratiet": 1533,
+      "V. Venstre, Danmarks Liberale Parti": 964,
+      "F. SF - Socialistisk Folkeparti": 531,
+      "C. Det Konservative Folkeparti": 487,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 335,
+      "Ø. Enhedslisten - De Rød-Grønne": 234,
+      "B. Radikale Venstre": 160,
+      "Å. Alternativet": 94,
+      "O. Dansk Folkeparti": 160,
+      "I. Liberal Alliance": 143,
+      "Z. Velfærdslisten Syddjurs": 29,
+      "J. Partiet Samfundssind for Frihed": 4
     }
   },
   "710826": {
@@ -147,8 +147,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 86,
       "B. Radikale Venstre": 48,
       "Å. Alternativet": 39,
-      "I. Liberal Alliance": 79,
       "O. Dansk Folkeparti": 73,
+      "I. Liberal Alliance": 79,
       "Z. Velfærdslisten Syddjurs": 21,
       "J. Partiet Samfundssind for Frihed": 3
     }
@@ -169,8 +169,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 306,
       "B. Radikale Venstre": 177,
       "Å. Alternativet": 197,
-      "I. Liberal Alliance": 152,
       "O. Dansk Folkeparti": 125,
+      "I. Liberal Alliance": 152,
       "Z. Velfærdslisten Syddjurs": 52,
       "J. Partiet Samfundssind for Frihed": 6
     }
