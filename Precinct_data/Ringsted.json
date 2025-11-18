@@ -255,9 +255,9 @@
   "704612": {
     "name": "Vigersted",
     "electorate": 1114,
-    "total_votes": 767,
-    "valid_votes": 753,
-    "invalid_votes": 14,
+    "total_votes": 764,
+    "valid_votes": 754,
+    "invalid_votes": 10,
     "is_reported": true,
     "votes": {
       "C. Det Konservative Folkeparti": 242,
@@ -270,7 +270,7 @@
       "I. Liberal Alliance": 20,
       "B. Radikale Venstre": 13,
       "D. Nye Borgerlige": 12,
-      "K. KD – Kristendemokraterne": 1,
+      "K. KD – Kristendemokraterne": 2,
       "L. Landsbylisten": 52,
       "N. Det Nære Parti": 0
     }
