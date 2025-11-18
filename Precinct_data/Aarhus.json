@@ -1104,8 +1104,8 @@
   "748351": {
     "name": "Generationernes Hus, Aarhus Ø",
     "electorate": 5384,
-    "total_votes": 4167,
-    "valid_votes": 4098,
+    "total_votes": 4177,
+    "valid_votes": 4108,
     "invalid_votes": 69,
     "is_reported": true,
     "votes": {
@@ -1124,7 +1124,7 @@
       "Q. Frie Grønne - Danmarks nye venstrefløjsparti": 1,
       "K. KD – Kristendemokraterne": 6,
       "E. Borger-Initiativet": 8,
-      "T. BorgerTinget": 1,
+      "T. BorgerTinget": 11,
       "R. Kommunistisk Parti": 1,
       "J. Aarhus Borgernes Stemme": 3,
       "P. Troværdig Politik": 0
