@@ -2,20 +2,20 @@
   "709406": {
     "name": "Odder",
     "electorate": 11271,
-    "total_votes": 8253,
-    "valid_votes": 8157,
-    "invalid_votes": 96,
-    "is_reported": false,
+    "total_votes": 8319,
+    "valid_votes": 8176,
+    "invalid_votes": 143,
+    "is_reported": true,
     "votes": {
-      "A. Socialdemokratiet": 2128,
-      "C. Det Konservative Folkeparti": 1882,
-      "V. Venstre, Danmarks Liberale Parti": 1789,
-      "F. SF - Socialistisk Folkeparti": 739,
-      "Ø. Enhedslisten - De Rød-Grønne": 721,
-      "O. Dansk Folkeparti": 344,
-      "I. Liberal Alliance": 283,
-      "B. Radikale Venstre": 239,
-      "M. Moderaterne": 32
+      "A. Socialdemokratiet": 2168,
+      "C. Det Konservative Folkeparti": 1562,
+      "V. Venstre, Danmarks Liberale Parti": 1726,
+      "F. SF - Socialistisk Folkeparti": 981,
+      "Ø. Enhedslisten - De Rød-Grønne": 751,
+      "O. Dansk Folkeparti": 310,
+      "B. Radikale Venstre": 345,
+      "I. Liberal Alliance": 302,
+      "M. Moderaterne": 31
     }
   },
   "701640": {
@@ -32,8 +32,8 @@
       "F. SF - Socialistisk Folkeparti": 15,
       "Ø. Enhedslisten - De Rød-Grønne": 32,
       "O. Dansk Folkeparti": 10,
-      "I. Liberal Alliance": 7,
       "B. Radikale Venstre": 8,
+      "I. Liberal Alliance": 7,
       "M. Moderaterne": 0
     }
   },
@@ -51,8 +51,8 @@
       "F. SF - Socialistisk Folkeparti": 164,
       "Ø. Enhedslisten - De Rød-Grønne": 144,
       "O. Dansk Folkeparti": 50,
-      "I. Liberal Alliance": 41,
       "B. Radikale Venstre": 48,
+      "I. Liberal Alliance": 41,
       "M. Moderaterne": 7
     }
   },
@@ -70,8 +70,8 @@
       "F. SF - Socialistisk Folkeparti": 75,
       "Ø. Enhedslisten - De Rød-Grønne": 101,
       "O. Dansk Folkeparti": 28,
-      "I. Liberal Alliance": 23,
       "B. Radikale Venstre": 31,
+      "I. Liberal Alliance": 23,
       "M. Moderaterne": 2
     }
   },
@@ -89,8 +89,8 @@
       "F. SF - Socialistisk Folkeparti": 142,
       "Ø. Enhedslisten - De Rød-Grønne": 129,
       "O. Dansk Folkeparti": 36,
-      "I. Liberal Alliance": 87,
       "B. Radikale Venstre": 54,
+      "I. Liberal Alliance": 87,
       "M. Moderaterne": 1
     }
   },
@@ -108,8 +108,8 @@
       "F. SF - Socialistisk Folkeparti": 85,
       "Ø. Enhedslisten - De Rød-Grønne": 37,
       "O. Dansk Folkeparti": 44,
-      "I. Liberal Alliance": 16,
       "B. Radikale Venstre": 11,
+      "I. Liberal Alliance": 16,
       "M. Moderaterne": 3
     }
   },
@@ -127,8 +127,8 @@
       "F. SF - Socialistisk Folkeparti": 63,
       "Ø. Enhedslisten - De Rød-Grønne": 60,
       "O. Dansk Folkeparti": 51,
-      "I. Liberal Alliance": 26,
       "B. Radikale Venstre": 16,
+      "I. Liberal Alliance": 26,
       "M. Moderaterne": 8
     }
   },
@@ -146,8 +146,8 @@
       "F. SF - Socialistisk Folkeparti": 54,
       "Ø. Enhedslisten - De Rød-Grønne": 87,
       "O. Dansk Folkeparti": 43,
-      "I. Liberal Alliance": 22,
       "B. Radikale Venstre": 35,
+      "I. Liberal Alliance": 22,
       "M. Moderaterne": 3
     }
   },
@@ -165,8 +165,8 @@
       "F. SF - Socialistisk Folkeparti": 5,
       "Ø. Enhedslisten - De Rød-Grønne": 9,
       "O. Dansk Folkeparti": 1,
-      "I. Liberal Alliance": 4,
       "B. Radikale Venstre": 4,
+      "I. Liberal Alliance": 4,
       "M. Moderaterne": 0
     }
   },
@@ -184,8 +184,8 @@
       "F. SF - Socialistisk Folkeparti": 2,
       "Ø. Enhedslisten - De Rød-Grønne": 5,
       "O. Dansk Folkeparti": 0,
-      "I. Liberal Alliance": 1,
       "B. Radikale Venstre": 0,
+      "I. Liberal Alliance": 1,
       "M. Moderaterne": 1
     }
   }

@@ -2,22 +2,22 @@
   "707664": {
     "name": "Hørsholm",
     "electorate": 5085,
-    "total_votes": 3684,
-    "valid_votes": 3638,
-    "invalid_votes": 46,
-    "is_reported": false,
+    "total_votes": 3821,
+    "valid_votes": 3733,
+    "invalid_votes": 88,
+    "is_reported": true,
     "votes": {
-      "C. Det Konservative Folkeparti": 1234,
-      "V. Venstre, Danmarks Liberale Parti": 569,
-      "I. Liberal Alliance": 538,
-      "A. Socialdemokratiet": 327,
-      "B. Radikale Venstre": 256,
+      "C. Det Konservative Folkeparti": 1272,
+      "V. Venstre, Danmarks Liberale Parti": 661,
+      "I. Liberal Alliance": 421,
+      "A. Socialdemokratiet": 309,
+      "B. Radikale Venstre": 267,
+      "F. SF - Socialistisk Folkeparti": 206,
       "E. Listen Anne Ehrenreich": 180,
-      "T. Borgerlisten Hørsholm": 178,
-      "F. SF - Socialistisk Folkeparti": 157,
-      "Q. SocialKonservative (Hørsholm Kommune)": 144,
-      "M. Moderaterne": 47,
-      "L. Ib Lunde's Liste": 8
+      "T. Borgerlisten Hørsholm": 174,
+      "Q. SocialKonservative (Hørsholm Kommune)": 197,
+      "M. Moderaterne": 41,
+      "L. Ib Lunde's Liste": 5
     }
   },
   "709324": {
@@ -33,9 +33,9 @@
       "I. Liberal Alliance": 481,
       "A. Socialdemokratiet": 385,
       "B. Radikale Venstre": 342,
+      "F. SF - Socialistisk Folkeparti": 242,
       "E. Listen Anne Ehrenreich": 180,
       "T. Borgerlisten Hørsholm": 214,
-      "F. SF - Socialistisk Folkeparti": 242,
       "Q. SocialKonservative (Hørsholm Kommune)": 207,
       "M. Moderaterne": 46,
       "L. Ib Lunde's Liste": 7
@@ -54,9 +54,9 @@
       "I. Liberal Alliance": 580,
       "A. Socialdemokratiet": 109,
       "B. Radikale Venstre": 177,
+      "F. SF - Socialistisk Folkeparti": 70,
       "E. Listen Anne Ehrenreich": 163,
       "T. Borgerlisten Hørsholm": 130,
-      "F. SF - Socialistisk Folkeparti": 70,
       "Q. SocialKonservative (Hørsholm Kommune)": 42,
       "M. Moderaterne": 37,
       "L. Ib Lunde's Liste": 8
@@ -75,9 +75,9 @@
       "I. Liberal Alliance": 48,
       "A. Socialdemokratiet": 14,
       "B. Radikale Venstre": 35,
+      "F. SF - Socialistisk Folkeparti": 10,
       "E. Listen Anne Ehrenreich": 13,
       "T. Borgerlisten Hørsholm": 8,
-      "F. SF - Socialistisk Folkeparti": 10,
       "Q. SocialKonservative (Hørsholm Kommune)": 7,
       "M. Moderaterne": 4,
       "L. Ib Lunde's Liste": 0
@@ -86,22 +86,22 @@
   "711902": {
     "name": "Vallerød",
     "electorate": 5524,
-    "total_votes": 4059,
+    "total_votes": 4060,
     "valid_votes": 4016,
-    "invalid_votes": 43,
+    "invalid_votes": 44,
     "is_reported": false,
     "votes": {
-      "C. Det Konservative Folkeparti": 1294,
-      "V. Venstre, Danmarks Liberale Parti": 640,
-      "I. Liberal Alliance": 601,
-      "A. Socialdemokratiet": 339,
-      "B. Radikale Venstre": 315,
-      "E. Listen Anne Ehrenreich": 208,
-      "T. Borgerlisten Hørsholm": 206,
-      "F. SF - Socialistisk Folkeparti": 202,
-      "Q. SocialKonservative (Hørsholm Kommune)": 154,
-      "M. Moderaterne": 48,
-      "L. Ib Lunde's Liste": 9
+      "C. Det Konservative Folkeparti": 1296,
+      "V. Venstre, Danmarks Liberale Parti": 666,
+      "I. Liberal Alliance": 552,
+      "A. Socialdemokratiet": 329,
+      "B. Radikale Venstre": 318,
+      "F. SF - Socialistisk Folkeparti": 219,
+      "E. Listen Anne Ehrenreich": 207,
+      "T. Borgerlisten Hørsholm": 203,
+      "Q. SocialKonservative (Hørsholm Kommune)": 173,
+      "M. Moderaterne": 45,
+      "L. Ib Lunde's Liste": 8
     }
   }
 }
