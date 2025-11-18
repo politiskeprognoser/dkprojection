@@ -107,22 +107,22 @@
   "702890": {
     "name": "Maglegård",
     "electorate": 6150,
-    "total_votes": 4828,
-    "valid_votes": 4798,
-    "invalid_votes": 30,
-    "is_reported": false,
+    "total_votes": 4873,
+    "valid_votes": 4833,
+    "invalid_votes": 40,
+    "is_reported": true,
     "votes": {
-      "C. Det Konservative Folkeparti": 2301,
-      "V. Venstre, Danmarks Liberale Parti": 692,
-      "B. Radikale Venstre": 503,
-      "F. SF - Socialistisk Folkeparti": 387,
-      "A. Socialdemokratiet": 216,
-      "Ø. Enhedslisten - De Rød-Grønne": 200,
-      "I. Liberal Alliance": 254,
-      "O. Dansk Folkeparti": 109,
-      "M. Moderaterne": 115,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 16,
-      "U. Alliancen for Børnene, Ungdommen og Fremtiden": 5
+      "C. Det Konservative Folkeparti": 2447,
+      "V. Venstre, Danmarks Liberale Parti": 763,
+      "B. Radikale Venstre": 428,
+      "F. SF - Socialistisk Folkeparti": 384,
+      "A. Socialdemokratiet": 228,
+      "Ø. Enhedslisten - De Rød-Grønne": 202,
+      "I. Liberal Alliance": 208,
+      "O. Dansk Folkeparti": 85,
+      "M. Moderaterne": 57,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 23,
+      "U. Alliancen for Børnene, Ungdommen og Fremtiden": 8
     }
   },
   "701254": {
