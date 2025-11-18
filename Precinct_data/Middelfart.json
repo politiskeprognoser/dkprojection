@@ -242,25 +242,25 @@
   "705434": {
     "name": "Fjelsted/Harndrup",
     "electorate": 1271,
-    "total_votes": 871,
-    "valid_votes": 851,
+    "total_votes": 812,
+    "valid_votes": 792,
     "invalid_votes": 20,
-    "is_reported": true,
+    "is_reported": false,
     "votes": {
-      "A. Socialdemokratiet": 222,
-      "V. Venstre, Danmarks Liberale Parti": 220,
-      "F. SF - Socialistisk Folkeparti": 41,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 103,
-      "I. Liberal Alliance": 58,
-      "O. Dansk Folkeparti": 61,
+      "A. Socialdemokratiet": 225,
+      "V. Venstre, Danmarks Liberale Parti": 154,
+      "F. SF - Socialistisk Folkeparti": 28,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 136,
+      "I. Liberal Alliance": 41,
+      "O. Dansk Folkeparti": 78,
       "Ø. Enhedslisten - De Rød-Grønne": 16,
-      "C. Det Konservative Folkeparti": 24,
-      "B. Radikale Venstre": 56,
-      "Å. Alternativet": 14,
+      "C. Det Konservative Folkeparti": 22,
+      "B. Radikale Venstre": 42,
+      "Å. Alternativet": 12,
       "T. Tværpolitisk Anstændighed": 26,
-      "M. Moderaterne": 3,
-      "Y. Solidarisk ansvar": 6,
-      "Q. Omsorgsgruppen": 1
+      "M. Moderaterne": 5,
+      "Y. Solidarisk ansvar": 3,
+      "Q. Omsorgsgruppen": 4
     }
   }
 }

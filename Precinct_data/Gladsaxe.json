@@ -2,22 +2,22 @@
   "708600": {
     "name": "Bagsværd",
     "electorate": 5241,
-    "total_votes": 3762,
-    "valid_votes": 3692,
-    "invalid_votes": 70,
-    "is_reported": false,
+    "total_votes": 3776,
+    "valid_votes": 3707,
+    "invalid_votes": 69,
+    "is_reported": true,
     "votes": {
-      "A. Socialdemokratiet": 793,
-      "F. SF - Socialistisk Folkeparti": 601,
-      "V. Venstre, Danmarks Liberale Parti": 569,
-      "Ø. Enhedslisten - De Rød-Grønne": 347,
-      "B. Radikale Venstre": 402,
-      "O. Dansk Folkeparti": 219,
-      "C. Det Konservative Folkeparti": 322,
-      "I. Liberal Alliance": 218,
-      "L. Lokallisten Gladsaxe": 101,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 52,
-      "M. Moderaterne": 68
+      "A. Socialdemokratiet": 767,
+      "F. SF - Socialistisk Folkeparti": 534,
+      "V. Venstre, Danmarks Liberale Parti": 613,
+      "Ø. Enhedslisten - De Rød-Grønne": 324,
+      "B. Radikale Venstre": 422,
+      "O. Dansk Folkeparti": 242,
+      "C. Det Konservative Folkeparti": 277,
+      "I. Liberal Alliance": 229,
+      "L. Lokallisten Gladsaxe": 108,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 47,
+      "M. Moderaterne": 144
     }
   },
   "711428": {
