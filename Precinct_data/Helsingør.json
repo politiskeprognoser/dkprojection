@@ -2,52 +2,52 @@
   "701118": {
     "name": "Helsingør Hallen",
     "electorate": 8573,
-    "total_votes": 5752,
-    "valid_votes": 5681,
-    "invalid_votes": 71,
-    "is_reported": false,
+    "total_votes": 5667,
+    "valid_votes": 5560,
+    "invalid_votes": 107,
+    "is_reported": true,
     "votes": {
-      "C. Det Konservative Folkeparti": 1501,
-      "A. Socialdemokratiet": 1328,
-      "F. SF - Socialistisk Folkeparti": 736,
-      "Ø. Enhedslisten - De Rød-Grønne": 539,
-      "O. Dansk Folkeparti": 341,
-      "I. Liberal Alliance": 292,
-      "V. Venstre, Danmarks Liberale Parti": 167,
-      "B. Radikale Venstre": 217,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 177,
-      "M. Moderaterne": 181,
-      "L. Lokaldemokraterne": 79,
-      "Å. Alternativet": 89,
-      "K. KD – Kristendemokraterne": 12,
-      "E. Borgerforslag": 8,
-      "T. De Kreative": 9,
+      "C. Det Konservative Folkeparti": 1416,
+      "A. Socialdemokratiet": 1223,
+      "F. SF - Socialistisk Folkeparti": 750,
+      "Ø. Enhedslisten - De Rød-Grønne": 541,
+      "O. Dansk Folkeparti": 337,
+      "I. Liberal Alliance": 305,
+      "V. Venstre, Danmarks Liberale Parti": 204,
+      "B. Radikale Venstre": 187,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 198,
+      "M. Moderaterne": 174,
+      "L. Lokaldemokraterne": 122,
+      "Å. Alternativet": 71,
+      "K. KD – Kristendemokraterne": 14,
+      "T. De Kreative": 10,
+      "E. Borgerforslag": 3,
       "Y. Stefan Warburg": 5
     }
   },
   "710298": {
     "name": "Skolen ved Gurrevej",
     "electorate": 8154,
-    "total_votes": 5086,
-    "valid_votes": 4993,
-    "invalid_votes": 93,
+    "total_votes": 5052,
+    "valid_votes": 4948,
+    "invalid_votes": 104,
     "is_reported": false,
     "votes": {
-      "C. Det Konservative Folkeparti": 1053,
-      "A. Socialdemokratiet": 1511,
-      "F. SF - Socialistisk Folkeparti": 601,
-      "Ø. Enhedslisten - De Rød-Grønne": 459,
-      "O. Dansk Folkeparti": 389,
-      "I. Liberal Alliance": 230,
-      "V. Venstre, Danmarks Liberale Parti": 136,
-      "B. Radikale Venstre": 130,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 222,
-      "M. Moderaterne": 99,
-      "L. Lokaldemokraterne": 68,
-      "Å. Alternativet": 67,
-      "K. KD – Kristendemokraterne": 10,
-      "E. Borgerforslag": 7,
-      "T. De Kreative": 7,
+      "C. Det Konservative Folkeparti": 1030,
+      "A. Socialdemokratiet": 1463,
+      "F. SF - Socialistisk Folkeparti": 608,
+      "Ø. Enhedslisten - De Rød-Grønne": 460,
+      "O. Dansk Folkeparti": 387,
+      "I. Liberal Alliance": 235,
+      "V. Venstre, Danmarks Liberale Parti": 145,
+      "B. Radikale Venstre": 123,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 228,
+      "M. Moderaterne": 98,
+      "L. Lokaldemokraterne": 82,
+      "Å. Alternativet": 61,
+      "K. KD – Kristendemokraterne": 11,
+      "T. De Kreative": 8,
+      "E. Borgerforslag": 5,
       "Y. Stefan Warburg": 4
     }
   },
@@ -72,8 +72,8 @@
       "L. Lokaldemokraterne": 60,
       "Å. Alternativet": 56,
       "K. KD – Kristendemokraterne": 6,
-      "E. Borgerforslag": 5,
       "T. De Kreative": 5,
+      "E. Borgerforslag": 5,
       "Y. Stefan Warburg": 3
     }
   },
@@ -98,8 +98,8 @@
       "L. Lokaldemokraterne": 105,
       "Å. Alternativet": 43,
       "K. KD – Kristendemokraterne": 6,
-      "E. Borgerforslag": 5,
       "T. De Kreative": 3,
+      "E. Borgerforslag": 5,
       "Y. Stefan Warburg": 4
     }
   },
@@ -124,8 +124,8 @@
       "L. Lokaldemokraterne": 81,
       "Å. Alternativet": 49,
       "K. KD – Kristendemokraterne": 11,
-      "E. Borgerforslag": 6,
       "T. De Kreative": 4,
+      "E. Borgerforslag": 6,
       "Y. Stefan Warburg": 3
     }
   },
@@ -150,8 +150,8 @@
       "L. Lokaldemokraterne": 8,
       "Å. Alternativet": 11,
       "K. KD – Kristendemokraterne": 10,
-      "E. Borgerforslag": 1,
       "T. De Kreative": 2,
+      "E. Borgerforslag": 1,
       "Y. Stefan Warburg": 1
     }
   },
@@ -176,8 +176,8 @@
       "L. Lokaldemokraterne": 21,
       "Å. Alternativet": 8,
       "K. KD – Kristendemokraterne": 3,
-      "E. Borgerforslag": 2,
       "T. De Kreative": 1,
+      "E. Borgerforslag": 2,
       "Y. Stefan Warburg": 1
     }
   },
@@ -202,8 +202,8 @@
       "L. Lokaldemokraterne": 20,
       "Å. Alternativet": 16,
       "K. KD – Kristendemokraterne": 2,
-      "E. Borgerforslag": 4,
       "T. De Kreative": 1,
+      "E. Borgerforslag": 4,
       "Y. Stefan Warburg": 0
     }
   },
@@ -228,8 +228,8 @@
       "L. Lokaldemokraterne": 28,
       "Å. Alternativet": 32,
       "K. KD – Kristendemokraterne": 5,
-      "E. Borgerforslag": 3,
       "T. De Kreative": 2,
+      "E. Borgerforslag": 3,
       "Y. Stefan Warburg": 3
     }
   },
@@ -254,8 +254,8 @@
       "L. Lokaldemokraterne": 27,
       "Å. Alternativet": 38,
       "K. KD – Kristendemokraterne": 10,
-      "E. Borgerforslag": 2,
       "T. De Kreative": 2,
+      "E. Borgerforslag": 2,
       "Y. Stefan Warburg": 0
     }
   },
@@ -280,8 +280,8 @@
       "L. Lokaldemokraterne": 102,
       "Å. Alternativet": 97,
       "K. KD – Kristendemokraterne": 9,
-      "E. Borgerforslag": 3,
       "T. De Kreative": 1,
+      "E. Borgerforslag": 3,
       "Y. Stefan Warburg": 1
     }
   },
@@ -306,8 +306,8 @@
       "L. Lokaldemokraterne": 29,
       "Å. Alternativet": 29,
       "K. KD – Kristendemokraterne": 7,
-      "E. Borgerforslag": 4,
       "T. De Kreative": 6,
+      "E. Borgerforslag": 4,
       "Y. Stefan Warburg": 1
     }
   }

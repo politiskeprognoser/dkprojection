@@ -2,22 +2,22 @@
   "709078": {
     "name": "Kulturhuset Pavillonen",
     "electorate": 7752,
-    "total_votes": 5302,
-    "valid_votes": 5155,
-    "invalid_votes": 147,
-    "is_reported": false,
+    "total_votes": 5318,
+    "valid_votes": 5253,
+    "invalid_votes": 65,
+    "is_reported": true,
     "votes": {
-      "A. Socialdemokratiet": 1414,
-      "V. Venstre, Danmarks Liberale Parti": 1205,
-      "F. SF - Socialistisk Folkeparti": 519,
-      "C. Det Konservative Folkeparti": 464,
-      "I. Liberal Alliance": 235,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 486,
-      "N. Natur- og Velfærdslisten": 380,
-      "O. Dansk Folkeparti": 275,
-      "Ø. Enhedslisten - De Rød-Grønne": 119,
-      "M. Moderaterne": 38,
-      "J. Norddjurs Uden Filter": 20
+      "V. Venstre, Danmarks Liberale Parti": 1496,
+      "A. Socialdemokratiet": 1491,
+      "F. SF - Socialistisk Folkeparti": 564,
+      "C. Det Konservative Folkeparti": 454,
+      "I. Liberal Alliance": 208,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 283,
+      "O. Dansk Folkeparti": 338,
+      "N. Natur- og Velfærdslisten": 178,
+      "Ø. Enhedslisten - De Rød-Grønne": 114,
+      "J. Norddjurs Uden Filter": 85,
+      "M. Moderaterne": 42
     }
   },
   "711832": {
@@ -28,17 +28,17 @@
     "invalid_votes": 8,
     "is_reported": true,
     "votes": {
-      "A. Socialdemokratiet": 23,
       "V. Venstre, Danmarks Liberale Parti": 15,
+      "A. Socialdemokratiet": 23,
       "F. SF - Socialistisk Folkeparti": 6,
       "C. Det Konservative Folkeparti": 3,
       "I. Liberal Alliance": 0,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 5,
-      "N. Natur- og Velfærdslisten": 13,
       "O. Dansk Folkeparti": 1,
+      "N. Natur- og Velfærdslisten": 13,
       "Ø. Enhedslisten - De Rød-Grønne": 14,
-      "M. Moderaterne": 1,
-      "J. Norddjurs Uden Filter": 0
+      "J. Norddjurs Uden Filter": 0,
+      "M. Moderaterne": 1
     }
   },
   "709066": {
@@ -49,38 +49,38 @@
     "invalid_votes": 24,
     "is_reported": true,
     "votes": {
-      "A. Socialdemokratiet": 350,
       "V. Venstre, Danmarks Liberale Parti": 313,
+      "A. Socialdemokratiet": 350,
       "F. SF - Socialistisk Folkeparti": 109,
       "C. Det Konservative Folkeparti": 87,
       "I. Liberal Alliance": 58,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 167,
-      "N. Natur- og Velfærdslisten": 80,
       "O. Dansk Folkeparti": 115,
+      "N. Natur- og Velfærdslisten": 80,
       "Ø. Enhedslisten - De Rød-Grønne": 42,
-      "M. Moderaterne": 5,
-      "J. Norddjurs Uden Filter": 5
+      "J. Norddjurs Uden Filter": 5,
+      "M. Moderaterne": 5
     }
   },
   "707484": {
     "name": "Grenaa Idrætscenter",
     "electorate": 5625,
-    "total_votes": 3639,
-    "valid_votes": 3541,
-    "invalid_votes": 98,
+    "total_votes": 3527,
+    "valid_votes": 3472,
+    "invalid_votes": 55,
     "is_reported": false,
     "votes": {
-      "A. Socialdemokratiet": 1101,
-      "V. Venstre, Danmarks Liberale Parti": 724,
-      "F. SF - Socialistisk Folkeparti": 326,
-      "C. Det Konservative Folkeparti": 278,
-      "I. Liberal Alliance": 159,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 312,
-      "N. Natur- og Velfærdslisten": 264,
-      "O. Dansk Folkeparti": 229,
-      "Ø. Enhedslisten - De Rød-Grønne": 107,
-      "M. Moderaterne": 27,
-      "J. Norddjurs Uden Filter": 14
+      "V. Venstre, Danmarks Liberale Parti": 846,
+      "A. Socialdemokratiet": 1110,
+      "F. SF - Socialistisk Folkeparti": 337,
+      "C. Det Konservative Folkeparti": 263,
+      "I. Liberal Alliance": 139,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 204,
+      "O. Dansk Folkeparti": 252,
+      "N. Natur- og Velfærdslisten": 145,
+      "Ø. Enhedslisten - De Rød-Grønne": 101,
+      "J. Norddjurs Uden Filter": 47,
+      "M. Moderaterne": 28
     }
   },
   "709072": {
@@ -91,17 +91,17 @@
     "invalid_votes": 32,
     "is_reported": true,
     "votes": {
-      "A. Socialdemokratiet": 368,
       "V. Venstre, Danmarks Liberale Parti": 607,
+      "A. Socialdemokratiet": 368,
       "F. SF - Socialistisk Folkeparti": 335,
       "C. Det Konservative Folkeparti": 246,
       "I. Liberal Alliance": 79,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 160,
-      "N. Natur- og Velfærdslisten": 261,
       "O. Dansk Folkeparti": 135,
+      "N. Natur- og Velfærdslisten": 261,
       "Ø. Enhedslisten - De Rød-Grønne": 43,
-      "M. Moderaterne": 9,
-      "J. Norddjurs Uden Filter": 5
+      "J. Norddjurs Uden Filter": 5,
+      "M. Moderaterne": 9
     }
   },
   "707518": {
@@ -112,17 +112,17 @@
     "invalid_votes": 17,
     "is_reported": true,
     "votes": {
-      "A. Socialdemokratiet": 178,
       "V. Venstre, Danmarks Liberale Parti": 296,
+      "A. Socialdemokratiet": 178,
       "F. SF - Socialistisk Folkeparti": 102,
       "C. Det Konservative Folkeparti": 205,
       "I. Liberal Alliance": 37,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 118,
-      "N. Natur- og Velfærdslisten": 84,
       "O. Dansk Folkeparti": 78,
+      "N. Natur- og Velfærdslisten": 84,
       "Ø. Enhedslisten - De Rød-Grønne": 28,
-      "M. Moderaterne": 9,
-      "J. Norddjurs Uden Filter": 4
+      "J. Norddjurs Uden Filter": 4,
+      "M. Moderaterne": 9
     }
   },
   "704660": {
@@ -133,17 +133,17 @@
     "invalid_votes": 13,
     "is_reported": true,
     "votes": {
-      "A. Socialdemokratiet": 239,
       "V. Venstre, Danmarks Liberale Parti": 348,
+      "A. Socialdemokratiet": 239,
       "F. SF - Socialistisk Folkeparti": 149,
       "C. Det Konservative Folkeparti": 63,
       "I. Liberal Alliance": 437,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 104,
-      "N. Natur- og Velfærdslisten": 93,
       "O. Dansk Folkeparti": 84,
+      "N. Natur- og Velfærdslisten": 93,
       "Ø. Enhedslisten - De Rød-Grønne": 26,
-      "M. Moderaterne": 8,
-      "J. Norddjurs Uden Filter": 4
+      "J. Norddjurs Uden Filter": 4,
+      "M. Moderaterne": 8
     }
   },
   "710680": {
@@ -154,17 +154,17 @@
     "invalid_votes": 28,
     "is_reported": true,
     "votes": {
-      "A. Socialdemokratiet": 319,
       "V. Venstre, Danmarks Liberale Parti": 386,
+      "A. Socialdemokratiet": 319,
       "F. SF - Socialistisk Folkeparti": 114,
       "C. Det Konservative Folkeparti": 154,
       "I. Liberal Alliance": 105,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 92,
-      "N. Natur- og Velfærdslisten": 50,
       "O. Dansk Folkeparti": 83,
+      "N. Natur- og Velfærdslisten": 50,
       "Ø. Enhedslisten - De Rød-Grønne": 15,
-      "M. Moderaterne": 8,
-      "J. Norddjurs Uden Filter": 1
+      "J. Norddjurs Uden Filter": 1,
+      "M. Moderaterne": 8
     }
   },
   "709084": {
@@ -175,17 +175,17 @@
     "invalid_votes": 42,
     "is_reported": true,
     "votes": {
-      "A. Socialdemokratiet": 545,
       "V. Venstre, Danmarks Liberale Parti": 432,
+      "A. Socialdemokratiet": 545,
       "F. SF - Socialistisk Folkeparti": 130,
       "C. Det Konservative Folkeparti": 368,
       "I. Liberal Alliance": 550,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 154,
-      "N. Natur- og Velfærdslisten": 69,
       "O. Dansk Folkeparti": 146,
+      "N. Natur- og Velfærdslisten": 69,
       "Ø. Enhedslisten - De Rød-Grønne": 40,
-      "M. Moderaterne": 16,
-      "J. Norddjurs Uden Filter": 3
+      "J. Norddjurs Uden Filter": 3,
+      "M. Moderaterne": 16
     }
   },
   "701476": {
@@ -196,17 +196,17 @@
     "invalid_votes": 14,
     "is_reported": true,
     "votes": {
-      "A. Socialdemokratiet": 180,
       "V. Venstre, Danmarks Liberale Parti": 323,
+      "A. Socialdemokratiet": 180,
       "F. SF - Socialistisk Folkeparti": 193,
       "C. Det Konservative Folkeparti": 71,
       "I. Liberal Alliance": 48,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 54,
-      "N. Natur- og Velfærdslisten": 70,
       "O. Dansk Folkeparti": 45,
+      "N. Natur- og Velfærdslisten": 70,
       "Ø. Enhedslisten - De Rød-Grønne": 18,
-      "M. Moderaterne": 4,
-      "J. Norddjurs Uden Filter": 2
+      "J. Norddjurs Uden Filter": 2,
+      "M. Moderaterne": 4
     }
   }
 }
