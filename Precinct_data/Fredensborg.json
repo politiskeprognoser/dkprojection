@@ -90,23 +90,23 @@
   "709818": {
     "name": "Kokkedal",
     "electorate": 7904,
-    "total_votes": 5231,
-    "valid_votes": 5157,
-    "invalid_votes": 74,
-    "is_reported": false,
+    "total_votes": 5198,
+    "valid_votes": 5132,
+    "invalid_votes": 66,
+    "is_reported": true,
     "votes": {
-      "A. Socialdemokratiet": 1807,
-      "C. Det Konservative Folkeparti": 821,
-      "V. Venstre, Danmarks Liberale Parti": 631,
-      "B. Radikale Venstre": 493,
-      "F. SF - Socialistisk Folkeparti": 364,
-      "O. Dansk Folkeparti": 356,
-      "I. Liberal Alliance": 283,
-      "Ø. Enhedslisten - De Rød-Grønne": 164,
-      "E. Fredensborg SocialKonservative": 61,
-      "M. Moderaterne": 66,
-      "Å. Alternativet": 70,
-      "K. KD – Kristendemokraterne": 41
+      "A. Socialdemokratiet": 1720,
+      "C. Det Konservative Folkeparti": 759,
+      "V. Venstre, Danmarks Liberale Parti": 508,
+      "B. Radikale Venstre": 667,
+      "F. SF - Socialistisk Folkeparti": 408,
+      "O. Dansk Folkeparti": 434,
+      "I. Liberal Alliance": 322,
+      "Ø. Enhedslisten - De Rød-Grønne": 141,
+      "E. Fredensborg SocialKonservative": 20,
+      "M. Moderaterne": 94,
+      "Å. Alternativet": 47,
+      "K. KD – Kristendemokraterne": 12
     }
   },
   "702010": {
@@ -117,18 +117,18 @@
     "invalid_votes": 47,
     "is_reported": false,
     "votes": {
-      "A. Socialdemokratiet": 779,
-      "C. Det Konservative Folkeparti": 353,
-      "V. Venstre, Danmarks Liberale Parti": 383,
-      "B. Radikale Venstre": 174,
-      "F. SF - Socialistisk Folkeparti": 311,
-      "O. Dansk Folkeparti": 173,
-      "I. Liberal Alliance": 160,
+      "A. Socialdemokratiet": 778,
+      "C. Det Konservative Folkeparti": 352,
+      "V. Venstre, Danmarks Liberale Parti": 382,
+      "B. Radikale Venstre": 176,
+      "F. SF - Socialistisk Folkeparti": 312,
+      "O. Dansk Folkeparti": 174,
+      "I. Liberal Alliance": 161,
       "Ø. Enhedslisten - De Rød-Grønne": 114,
-      "E. Fredensborg SocialKonservative": 21,
+      "E. Fredensborg SocialKonservative": 20,
       "M. Moderaterne": 32,
       "Å. Alternativet": 41,
-      "K. KD – Kristendemokraterne": 6
+      "K. KD – Kristendemokraterne": 5
     }
   },
   "700760": {
