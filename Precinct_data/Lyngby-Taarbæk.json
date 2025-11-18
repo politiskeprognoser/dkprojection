@@ -149,22 +149,22 @@
   "702310": {
     "name": "Virumhallerne",
     "electorate": 6749,
-    "total_votes": 5232,
-    "valid_votes": 5139,
-    "invalid_votes": 93,
-    "is_reported": false,
+    "total_votes": 5219,
+    "valid_votes": 5156,
+    "invalid_votes": 63,
+    "is_reported": true,
     "votes": {
-      "C. Det Konservative Folkeparti": 2137,
-      "F. SF - Socialistisk Folkeparti": 721,
-      "B. Radikale Venstre": 658,
-      "A. Socialdemokratiet": 613,
-      "Ø. Enhedslisten - De Rød-Grønne": 247,
-      "V. Venstre, Danmarks Liberale Parti": 293,
-      "I. Liberal Alliance": 226,
-      "O. Dansk Folkeparti": 148,
-      "M. Moderaterne": 53,
-      "Å. Alternativet": 42,
-      "Z. Saxen": 1
+      "C. Det Konservative Folkeparti": 2013,
+      "F. SF - Socialistisk Folkeparti": 758,
+      "B. Radikale Venstre": 711,
+      "A. Socialdemokratiet": 598,
+      "Ø. Enhedslisten - De Rød-Grønne": 261,
+      "V. Venstre, Danmarks Liberale Parti": 265,
+      "I. Liberal Alliance": 215,
+      "O. Dansk Folkeparti": 193,
+      "M. Moderaterne": 86,
+      "Å. Alternativet": 50,
+      "Z. Saxen": 6
     }
   },
   "710194": {
