@@ -19,8 +19,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 4,
       "B. Radikale Venstre": 3,
       "M. Moderaterne": 3,
-      "J. Frie Stemmer - Jens Peter Hansen": 0,
-      "K. KD – Kristendemokraterne": 0
+      "K. KD – Kristendemokraterne": 0,
+      "J. Frie Stemmer - Jens Peter Hansen": 0
     }
   },
   "704222": {
@@ -43,8 +43,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 16,
       "B. Radikale Venstre": 6,
       "M. Moderaterne": 2,
-      "J. Frie Stemmer - Jens Peter Hansen": 2,
-      "K. KD – Kristendemokraterne": 0
+      "K. KD – Kristendemokraterne": 0,
+      "J. Frie Stemmer - Jens Peter Hansen": 2
     }
   },
   "705768": {
@@ -67,8 +67,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 6,
       "B. Radikale Venstre": 10,
       "M. Moderaterne": 4,
-      "J. Frie Stemmer - Jens Peter Hansen": 0,
-      "K. KD – Kristendemokraterne": 0
+      "K. KD – Kristendemokraterne": 0,
+      "J. Frie Stemmer - Jens Peter Hansen": 0
     }
   },
   "710316": {
@@ -91,8 +91,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 22,
       "B. Radikale Venstre": 61,
       "M. Moderaterne": 14,
-      "J. Frie Stemmer - Jens Peter Hansen": 3,
-      "K. KD – Kristendemokraterne": 8
+      "K. KD – Kristendemokraterne": 8,
+      "J. Frie Stemmer - Jens Peter Hansen": 3
     }
   },
   "702710": {
@@ -115,8 +115,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 8,
       "B. Radikale Venstre": 18,
       "M. Moderaterne": 8,
-      "J. Frie Stemmer - Jens Peter Hansen": 5,
-      "K. KD – Kristendemokraterne": 3
+      "K. KD – Kristendemokraterne": 3,
+      "J. Frie Stemmer - Jens Peter Hansen": 5
     }
   },
   "701136": {
@@ -139,22 +139,22 @@
       "Ø. Enhedslisten - De Rød-Grønne": 13,
       "B. Radikale Venstre": 13,
       "M. Moderaterne": 8,
-      "J. Frie Stemmer - Jens Peter Hansen": 6,
-      "K. KD – Kristendemokraterne": 4
+      "K. KD – Kristendemokraterne": 4,
+      "J. Frie Stemmer - Jens Peter Hansen": 6
     }
   },
   "707150": {
     "name": "Rismølleskolen",
     "electorate": 4486,
     "total_votes": 3250,
-    "valid_votes": 3186,
-    "invalid_votes": 64,
+    "valid_votes": 3187,
+    "invalid_votes": 63,
     "is_reported": false,
     "votes": {
       "A. Socialdemokratiet": 560,
       "F. SF - Socialistisk Folkeparti": 534,
       "V. Venstre, Danmarks Liberale Parti": 336,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 248,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 249,
       "Q. Østbroen": 530,
       "C. Det Konservative Folkeparti": 257,
       "O. Dansk Folkeparti": 176,
@@ -163,8 +163,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 83,
       "B. Radikale Venstre": 61,
       "M. Moderaterne": 31,
-      "J. Frie Stemmer - Jens Peter Hansen": 12,
-      "K. KD – Kristendemokraterne": 16
+      "K. KD – Kristendemokraterne": 16,
+      "J. Frie Stemmer - Jens Peter Hansen": 12
     }
   },
   "704268": {
@@ -187,8 +187,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 18,
       "B. Radikale Venstre": 35,
       "M. Moderaterne": 23,
-      "J. Frie Stemmer - Jens Peter Hansen": 6,
-      "K. KD – Kristendemokraterne": 19
+      "K. KD – Kristendemokraterne": 19,
+      "J. Frie Stemmer - Jens Peter Hansen": 6
     }
   },
   "707188": {
@@ -211,32 +211,32 @@
       "Ø. Enhedslisten - De Rød-Grønne": 31,
       "B. Radikale Venstre": 56,
       "M. Moderaterne": 37,
-      "J. Frie Stemmer - Jens Peter Hansen": 8,
-      "K. KD – Kristendemokraterne": 16
+      "K. KD – Kristendemokraterne": 16,
+      "J. Frie Stemmer - Jens Peter Hansen": 8
     }
   },
   "710340": {
     "name": "Blicherskolen",
     "electorate": 2043,
-    "total_votes": 1457,
-    "valid_votes": 1430,
-    "invalid_votes": 27,
-    "is_reported": false,
+    "total_votes": 1501,
+    "valid_votes": 1475,
+    "invalid_votes": 26,
+    "is_reported": true,
     "votes": {
-      "A. Socialdemokratiet": 247,
-      "F. SF - Socialistisk Folkeparti": 288,
-      "V. Venstre, Danmarks Liberale Parti": 136,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 148,
-      "Q. Østbroen": 100,
-      "C. Det Konservative Folkeparti": 64,
-      "O. Dansk Folkeparti": 179,
-      "E. Velfærdslisten (Randers Kommune)": 65,
-      "I. Liberal Alliance": 61,
-      "Ø. Enhedslisten - De Rød-Grønne": 22,
-      "B. Radikale Venstre": 27,
-      "M. Moderaterne": 13,
-      "J. Frie Stemmer - Jens Peter Hansen": 77,
-      "K. KD – Kristendemokraterne": 3
+      "A. Socialdemokratiet": 364,
+      "F. SF - Socialistisk Folkeparti": 176,
+      "V. Venstre, Danmarks Liberale Parti": 203,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 195,
+      "Q. Østbroen": 81,
+      "C. Det Konservative Folkeparti": 65,
+      "O. Dansk Folkeparti": 146,
+      "E. Velfærdslisten (Randers Kommune)": 93,
+      "I. Liberal Alliance": 70,
+      "Ø. Enhedslisten - De Rød-Grønne": 18,
+      "B. Radikale Venstre": 29,
+      "M. Moderaterne": 11,
+      "K. KD – Kristendemokraterne": 6,
+      "J. Frie Stemmer - Jens Peter Hansen": 18
     }
   },
   "705778": {
@@ -259,8 +259,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 6,
       "B. Radikale Venstre": 7,
       "M. Moderaterne": 6,
-      "J. Frie Stemmer - Jens Peter Hansen": 16,
-      "K. KD – Kristendemokraterne": 2
+      "K. KD – Kristendemokraterne": 2,
+      "J. Frie Stemmer - Jens Peter Hansen": 16
     }
   },
   "707182": {
@@ -283,8 +283,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 83,
       "B. Radikale Venstre": 59,
       "M. Moderaterne": 14,
-      "J. Frie Stemmer - Jens Peter Hansen": 9,
-      "K. KD – Kristendemokraterne": 26
+      "K. KD – Kristendemokraterne": 26,
+      "J. Frie Stemmer - Jens Peter Hansen": 9
     }
   },
   "710322": {
@@ -307,19 +307,19 @@
       "Ø. Enhedslisten - De Rød-Grønne": 108,
       "B. Radikale Venstre": 78,
       "M. Moderaterne": 12,
-      "J. Frie Stemmer - Jens Peter Hansen": 9,
-      "K. KD – Kristendemokraterne": 28
+      "K. KD – Kristendemokraterne": 28,
+      "J. Frie Stemmer - Jens Peter Hansen": 9
     }
   },
   "711576": {
     "name": "Vestervangsskolen",
     "electorate": 5775,
     "total_votes": 3622,
-    "valid_votes": 3530,
-    "invalid_votes": 92,
+    "valid_votes": 3529,
+    "invalid_votes": 93,
     "is_reported": false,
     "votes": {
-      "A. Socialdemokratiet": 908,
+      "A. Socialdemokratiet": 907,
       "F. SF - Socialistisk Folkeparti": 623,
       "V. Venstre, Danmarks Liberale Parti": 516,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 214,
@@ -331,8 +331,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 143,
       "B. Radikale Venstre": 85,
       "M. Moderaterne": 34,
-      "J. Frie Stemmer - Jens Peter Hansen": 12,
-      "K. KD – Kristendemokraterne": 26
+      "K. KD – Kristendemokraterne": 26,
+      "J. Frie Stemmer - Jens Peter Hansen": 12
     }
   },
   "711582": {
@@ -355,8 +355,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 75,
       "B. Radikale Venstre": 40,
       "M. Moderaterne": 12,
-      "J. Frie Stemmer - Jens Peter Hansen": 7,
-      "K. KD – Kristendemokraterne": 12
+      "K. KD – Kristendemokraterne": 12,
+      "J. Frie Stemmer - Jens Peter Hansen": 7
     }
   },
   "704314": {
@@ -379,8 +379,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 83,
       "B. Radikale Venstre": 38,
       "M. Moderaterne": 44,
-      "J. Frie Stemmer - Jens Peter Hansen": 1,
-      "K. KD – Kristendemokraterne": 5
+      "K. KD – Kristendemokraterne": 5,
+      "J. Frie Stemmer - Jens Peter Hansen": 1
     }
   },
   "702764": {
@@ -403,8 +403,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 28,
       "B. Radikale Venstre": 49,
       "M. Moderaterne": 9,
-      "J. Frie Stemmer - Jens Peter Hansen": 2,
-      "K. KD – Kristendemokraterne": 5
+      "K. KD – Kristendemokraterne": 5,
+      "J. Frie Stemmer - Jens Peter Hansen": 2
     }
   },
   "701178": {
@@ -427,8 +427,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 15,
       "B. Radikale Venstre": 8,
       "M. Moderaterne": 9,
-      "J. Frie Stemmer - Jens Peter Hansen": 8,
-      "K. KD – Kristendemokraterne": 8
+      "K. KD – Kristendemokraterne": 8,
+      "J. Frie Stemmer - Jens Peter Hansen": 8
     }
   },
   "708750": {
@@ -451,8 +451,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 12,
       "B. Radikale Venstre": 5,
       "M. Moderaterne": 7,
-      "J. Frie Stemmer - Jens Peter Hansen": 72,
-      "K. KD – Kristendemokraterne": 1
+      "K. KD – Kristendemokraterne": 1,
+      "J. Frie Stemmer - Jens Peter Hansen": 72
     }
   },
   "708738": {
@@ -475,8 +475,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 6,
       "B. Radikale Venstre": 12,
       "M. Moderaterne": 5,
-      "J. Frie Stemmer - Jens Peter Hansen": 2,
-      "K. KD – Kristendemokraterne": 5
+      "K. KD – Kristendemokraterne": 5,
+      "J. Frie Stemmer - Jens Peter Hansen": 2
     }
   },
   "702776": {
@@ -487,20 +487,20 @@
     "invalid_votes": 23,
     "is_reported": false,
     "votes": {
-      "A. Socialdemokratiet": 183,
-      "F. SF - Socialistisk Folkeparti": 284,
-      "V. Venstre, Danmarks Liberale Parti": 152,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 170,
-      "Q. Østbroen": 59,
+      "A. Socialdemokratiet": 223,
+      "F. SF - Socialistisk Folkeparti": 236,
+      "V. Venstre, Danmarks Liberale Parti": 181,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 187,
+      "Q. Østbroen": 50,
       "C. Det Konservative Folkeparti": 65,
-      "O. Dansk Folkeparti": 159,
-      "E. Velfærdslisten (Randers Kommune)": 59,
-      "I. Liberal Alliance": 63,
-      "Ø. Enhedslisten - De Rød-Grønne": 28,
+      "O. Dansk Folkeparti": 143,
+      "E. Velfærdslisten (Randers Kommune)": 70,
+      "I. Liberal Alliance": 66,
+      "Ø. Enhedslisten - De Rød-Grønne": 26,
       "B. Radikale Venstre": 26,
-      "M. Moderaterne": 19,
-      "J. Frie Stemmer - Jens Peter Hansen": 70,
-      "K. KD – Kristendemokraterne": 10
+      "M. Moderaterne": 18,
+      "K. KD – Kristendemokraterne": 11,
+      "J. Frie Stemmer - Jens Peter Hansen": 45
     }
   },
   "707212": {
@@ -523,8 +523,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 172,
       "B. Radikale Venstre": 56,
       "M. Moderaterne": 65,
-      "J. Frie Stemmer - Jens Peter Hansen": 10,
-      "K. KD – Kristendemokraterne": 11
+      "K. KD – Kristendemokraterne": 11,
+      "J. Frie Stemmer - Jens Peter Hansen": 10
     }
   },
   "702770": {
@@ -547,8 +547,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 106,
       "B. Radikale Venstre": 44,
       "M. Moderaterne": 28,
-      "J. Frie Stemmer - Jens Peter Hansen": 6,
-      "K. KD – Kristendemokraterne": 6
+      "K. KD – Kristendemokraterne": 6,
+      "J. Frie Stemmer - Jens Peter Hansen": 6
     }
   },
   "711624": {
@@ -571,8 +571,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 138,
       "B. Radikale Venstre": 56,
       "M. Moderaterne": 38,
-      "J. Frie Stemmer - Jens Peter Hansen": 8,
-      "K. KD – Kristendemokraterne": 11
+      "K. KD – Kristendemokraterne": 11,
+      "J. Frie Stemmer - Jens Peter Hansen": 8
     }
   },
   "708744": {
@@ -583,34 +583,34 @@
     "invalid_votes": 93,
     "is_reported": false,
     "votes": {
-      "A. Socialdemokratiet": 1149,
-      "F. SF - Socialistisk Folkeparti": 718,
-      "V. Venstre, Danmarks Liberale Parti": 658,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 364,
+      "A. Socialdemokratiet": 1148,
+      "F. SF - Socialistisk Folkeparti": 719,
+      "V. Venstre, Danmarks Liberale Parti": 656,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 365,
       "Q. Østbroen": 161,
       "C. Det Konservative Folkeparti": 403,
       "O. Dansk Folkeparti": 285,
-      "E. Velfærdslisten (Randers Kommune)": 293,
+      "E. Velfærdslisten (Randers Kommune)": 294,
       "I. Liberal Alliance": 162,
       "Ø. Enhedslisten - De Rød-Grønne": 130,
       "B. Radikale Venstre": 112,
       "M. Moderaterne": 61,
-      "J. Frie Stemmer - Jens Peter Hansen": 16,
-      "K. KD – Kristendemokraterne": 35
+      "K. KD – Kristendemokraterne": 35,
+      "J. Frie Stemmer - Jens Peter Hansen": 16
     }
   },
   "711638": {
     "name": "Tirsdalens Skole",
     "electorate": 3330,
     "total_votes": 2300,
-    "valid_votes": 2260,
-    "invalid_votes": 40,
+    "valid_votes": 2261,
+    "invalid_votes": 39,
     "is_reported": false,
     "votes": {
-      "A. Socialdemokratiet": 474,
+      "A. Socialdemokratiet": 473,
       "F. SF - Socialistisk Folkeparti": 362,
       "V. Venstre, Danmarks Liberale Parti": 263,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 171,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 172,
       "Q. Østbroen": 278,
       "C. Det Konservative Folkeparti": 176,
       "O. Dansk Folkeparti": 119,
@@ -619,32 +619,32 @@
       "Ø. Enhedslisten - De Rød-Grønne": 66,
       "B. Radikale Venstre": 29,
       "M. Moderaterne": 28,
-      "J. Frie Stemmer - Jens Peter Hansen": 9,
-      "K. KD – Kristendemokraterne": 46
+      "K. KD – Kristendemokraterne": 47,
+      "J. Frie Stemmer - Jens Peter Hansen": 9
     }
   },
   "704280": {
     "name": "Paderup Gymnasium",
     "electorate": 1972,
     "total_votes": 1320,
-    "valid_votes": 1295,
-    "invalid_votes": 25,
+    "valid_votes": 1296,
+    "invalid_votes": 24,
     "is_reported": false,
     "votes": {
       "A. Socialdemokratiet": 228,
       "F. SF - Socialistisk Folkeparti": 173,
-      "V. Venstre, Danmarks Liberale Parti": 231,
+      "V. Venstre, Danmarks Liberale Parti": 230,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 140,
       "Q. Østbroen": 98,
       "C. Det Konservative Folkeparti": 109,
       "O. Dansk Folkeparti": 84,
-      "E. Velfærdslisten (Randers Kommune)": 80,
+      "E. Velfærdslisten (Randers Kommune)": 81,
       "I. Liberal Alliance": 46,
       "Ø. Enhedslisten - De Rød-Grønne": 34,
       "B. Radikale Venstre": 24,
       "M. Moderaterne": 25,
-      "J. Frie Stemmer - Jens Peter Hansen": 4,
-      "K. KD – Kristendemokraterne": 19
+      "K. KD – Kristendemokraterne": 19,
+      "J. Frie Stemmer - Jens Peter Hansen": 5
     }
   },
   "702716": {
@@ -655,33 +655,33 @@
     "invalid_votes": 31,
     "is_reported": false,
     "votes": {
-      "A. Socialdemokratiet": 473,
-      "F. SF - Socialistisk Folkeparti": 315,
-      "V. Venstre, Danmarks Liberale Parti": 373,
+      "A. Socialdemokratiet": 472,
+      "F. SF - Socialistisk Folkeparti": 316,
+      "V. Venstre, Danmarks Liberale Parti": 372,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 204,
       "Q. Østbroen": 147,
       "C. Det Konservative Folkeparti": 236,
       "O. Dansk Folkeparti": 121,
-      "E. Velfærdslisten (Randers Kommune)": 141,
+      "E. Velfærdslisten (Randers Kommune)": 142,
       "I. Liberal Alliance": 88,
       "Ø. Enhedslisten - De Rød-Grønne": 33,
       "B. Radikale Venstre": 37,
       "M. Moderaterne": 44,
-      "J. Frie Stemmer - Jens Peter Hansen": 8,
-      "K. KD – Kristendemokraterne": 23
+      "K. KD – Kristendemokraterne": 23,
+      "J. Frie Stemmer - Jens Peter Hansen": 8
     }
   },
   "710392": {
     "name": "Assentofthallen",
     "electorate": 3532,
     "total_votes": 2568,
-    "valid_votes": 2535,
-    "invalid_votes": 33,
+    "valid_votes": 2534,
+    "invalid_votes": 34,
     "is_reported": false,
     "votes": {
       "A. Socialdemokratiet": 258,
       "F. SF - Socialistisk Folkeparti": 283,
-      "V. Venstre, Danmarks Liberale Parti": 484,
+      "V. Venstre, Danmarks Liberale Parti": 483,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 347,
       "Q. Østbroen": 607,
       "C. Det Konservative Folkeparti": 145,
@@ -691,8 +691,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 26,
       "B. Radikale Venstre": 27,
       "M. Moderaterne": 18,
-      "J. Frie Stemmer - Jens Peter Hansen": 10,
-      "K. KD – Kristendemokraterne": 22
+      "K. KD – Kristendemokraterne": 22,
+      "J. Frie Stemmer - Jens Peter Hansen": 10
     }
   },
   "707204": {
@@ -715,8 +715,8 @@
       "Ø. Enhedslisten - De Rød-Grønne": 13,
       "B. Radikale Venstre": 10,
       "M. Moderaterne": 3,
-      "J. Frie Stemmer - Jens Peter Hansen": 2,
-      "K. KD – Kristendemokraterne": 3
+      "K. KD – Kristendemokraterne": 3,
+      "J. Frie Stemmer - Jens Peter Hansen": 2
     }
   }
 }
