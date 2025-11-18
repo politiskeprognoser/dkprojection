@@ -42,21 +42,21 @@
   "708538": {
     "name": "Strandby",
     "electorate": 637,
-    "total_votes": 446,
-    "valid_votes": 439,
-    "invalid_votes": 7,
-    "is_reported": false,
+    "total_votes": 443,
+    "valid_votes": 438,
+    "invalid_votes": 5,
+    "is_reported": true,
     "votes": {
-      "V. Venstre, Danmarks Liberale Parti": 124,
-      "C. Det Konservative Folkeparti": 92,
-      "A. Socialdemokratiet": 73,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 61,
-      "F. SF - Socialistisk Folkeparti": 24,
-      "I. Liberal Alliance": 18,
-      "O. Dansk Folkeparti": 16,
-      "B. Radikale Venstre": 26,
-      "K. KD – Kristendemokraterne": 2,
-      "L. Borgerlisten (Vesthimmerland Kommune)": 3
+      "V. Venstre, Danmarks Liberale Parti": 117,
+      "C. Det Konservative Folkeparti": 74,
+      "A. Socialdemokratiet": 80,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 82,
+      "F. SF - Socialistisk Folkeparti": 31,
+      "I. Liberal Alliance": 8,
+      "O. Dansk Folkeparti": 9,
+      "B. Radikale Venstre": 28,
+      "K. KD – Kristendemokraterne": 4,
+      "L. Borgerlisten (Vesthimmerland Kommune)": 5
     }
   },
   "700858": {
