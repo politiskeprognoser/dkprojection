@@ -182,21 +182,21 @@
   "707278": {
     "name": "Thorsø/Haurum/Sall",
     "electorate": 2843,
-    "total_votes": 1912,
-    "valid_votes": 1890,
-    "invalid_votes": 22,
-    "is_reported": false,
+    "total_votes": 1993,
+    "valid_votes": 1953,
+    "invalid_votes": 40,
+    "is_reported": true,
     "votes": {
-      "C. Det Konservative Folkeparti": 945,
-      "A. Socialdemokratiet": 268,
-      "V. Venstre, Danmarks Liberale Parti": 174,
-      "F. SF - Socialistisk Folkeparti": 75,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 133,
-      "I. Liberal Alliance": 75,
-      "O. Dansk Folkeparti": 116,
-      "Ø. Enhedslisten - De Rød-Grønne": 71,
-      "B. Radikale Venstre": 25,
-      "Å. Alternativet": 8
+      "C. Det Konservative Folkeparti": 856,
+      "A. Socialdemokratiet": 283,
+      "V. Venstre, Danmarks Liberale Parti": 275,
+      "F. SF - Socialistisk Folkeparti": 102,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 152,
+      "I. Liberal Alliance": 92,
+      "O. Dansk Folkeparti": 110,
+      "Ø. Enhedslisten - De Rød-Grønne": 50,
+      "B. Radikale Venstre": 29,
+      "Å. Alternativet": 4
     }
   },
   "711048": {
@@ -209,12 +209,12 @@
     "votes": {
       "C. Det Konservative Folkeparti": 265,
       "A. Socialdemokratiet": 167,
-      "V. Venstre, Danmarks Liberale Parti": 160,
-      "F. SF - Socialistisk Folkeparti": 65,
+      "V. Venstre, Danmarks Liberale Parti": 161,
+      "F. SF - Socialistisk Folkeparti": 66,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 114,
-      "I. Liberal Alliance": 95,
-      "O. Dansk Folkeparti": 61,
-      "Ø. Enhedslisten - De Rød-Grønne": 103,
+      "I. Liberal Alliance": 94,
+      "O. Dansk Folkeparti": 62,
+      "Ø. Enhedslisten - De Rød-Grønne": 101,
       "B. Radikale Venstre": 22,
       "Å. Alternativet": 6
     }
@@ -229,10 +229,10 @@
     "votes": {
       "C. Det Konservative Folkeparti": 675,
       "A. Socialdemokratiet": 430,
-      "V. Venstre, Danmarks Liberale Parti": 337,
+      "V. Venstre, Danmarks Liberale Parti": 338,
       "F. SF - Socialistisk Folkeparti": 177,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 93,
-      "I. Liberal Alliance": 85,
+      "I. Liberal Alliance": 84,
       "O. Dansk Folkeparti": 78,
       "Ø. Enhedslisten - De Rød-Grønne": 43,
       "B. Radikale Venstre": 107,
