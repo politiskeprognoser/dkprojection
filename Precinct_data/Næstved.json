@@ -338,22 +338,22 @@
   "706454": {
     "name": "Næstved Firma Sport",
     "electorate": 8124,
-    "total_votes": 5154,
-    "valid_votes": 5027,
-    "invalid_votes": 127,
+    "total_votes": 5149,
+    "valid_votes": 5023,
+    "invalid_votes": 126,
     "is_reported": false,
     "votes": {
-      "A. Socialdemokratiet": 1737,
-      "V. Venstre, Danmarks Liberale Parti": 615,
+      "A. Socialdemokratiet": 1739,
+      "V. Venstre, Danmarks Liberale Parti": 610,
       "C. Det Konservative Folkeparti": 537,
-      "I. Liberal Alliance": 564,
-      "O. Dansk Folkeparti": 380,
-      "F. SF - Socialistisk Folkeparti": 440,
+      "I. Liberal Alliance": 579,
+      "O. Dansk Folkeparti": 370,
+      "F. SF - Socialistisk Folkeparti": 436,
       "B. Radikale Venstre": 297,
-      "Ø. Enhedslisten - De Rød-Grønne": 276,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 94,
-      "M. Moderaterne": 39,
-      "Å. Alternativet": 48
+      "Ø. Enhedslisten - De Rød-Grønne": 278,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 90,
+      "M. Moderaterne": 38,
+      "Å. Alternativet": 49
     }
   },
   "701858": {
@@ -380,22 +380,22 @@
   "712204": {
     "name": "Lille Næstved Skole - Herlufsholmsvej",
     "electorate": 3022,
-    "total_votes": 2407,
-    "valid_votes": 2372,
-    "invalid_votes": 35,
-    "is_reported": false,
+    "total_votes": 2375,
+    "valid_votes": 2341,
+    "invalid_votes": 34,
+    "is_reported": true,
     "votes": {
-      "A. Socialdemokratiet": 624,
-      "V. Venstre, Danmarks Liberale Parti": 389,
-      "C. Det Konservative Folkeparti": 430,
-      "I. Liberal Alliance": 240,
-      "O. Dansk Folkeparti": 126,
-      "F. SF - Socialistisk Folkeparti": 154,
-      "B. Radikale Venstre": 225,
-      "Ø. Enhedslisten - De Rød-Grønne": 95,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 36,
-      "M. Moderaterne": 39,
-      "Å. Alternativet": 14
+      "A. Socialdemokratiet": 634,
+      "V. Venstre, Danmarks Liberale Parti": 362,
+      "C. Det Konservative Folkeparti": 425,
+      "I. Liberal Alliance": 305,
+      "O. Dansk Folkeparti": 85,
+      "F. SF - Socialistisk Folkeparti": 138,
+      "B. Radikale Venstre": 222,
+      "Ø. Enhedslisten - De Rød-Grønne": 105,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 18,
+      "M. Moderaterne": 30,
+      "Å. Alternativet": 17
     }
   },
   "711136": {
