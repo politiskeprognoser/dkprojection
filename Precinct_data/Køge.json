@@ -2,25 +2,25 @@
   "711336": {
     "name": "Køge By",
     "electorate": 9558,
-    "total_votes": 7157,
-    "valid_votes": 7085,
-    "invalid_votes": 72,
-    "is_reported": false,
+    "total_votes": 7063,
+    "valid_votes": 6960,
+    "invalid_votes": 103,
+    "is_reported": true,
     "votes": {
-      "V. Venstre, Danmarks Liberale Parti": 1395,
-      "A. Socialdemokratiet": 1301,
-      "C. Det Konservative Folkeparti": 1654,
-      "F. SF - Socialistisk Folkeparti": 821,
-      "D. Corona Camping Listen": 304,
-      "O. Dansk Folkeparti": 317,
-      "I. Liberal Alliance": 272,
-      "Ø. Enhedslisten - De Rød-Grønne": 334,
-      "B. Radikale Venstre": 250,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 139,
-      "K. KD – Kristendemokraterne": 70,
-      "M. Moderaterne": 173,
-      "L. Borgernes Lokalliste Køge": 34,
-      "Å. Alternativet": 21
+      "V. Venstre, Danmarks Liberale Parti": 1865,
+      "A. Socialdemokratiet": 1483,
+      "C. Det Konservative Folkeparti": 1186,
+      "F. SF - Socialistisk Folkeparti": 796,
+      "D. Corona Camping Listen": 251,
+      "O. Dansk Folkeparti": 290,
+      "I. Liberal Alliance": 333,
+      "Ø. Enhedslisten - De Rød-Grønne": 219,
+      "B. Radikale Venstre": 252,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 108,
+      "K. KD – Kristendemokraterne": 66,
+      "L. Borgernes Lokalliste Køge": 25,
+      "M. Moderaterne": 57,
+      "Å. Alternativet": 29
     }
   },
   "709930": {
@@ -42,8 +42,8 @@
       "B. Radikale Venstre": 106,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 68,
       "K. KD – Kristendemokraterne": 31,
-      "M. Moderaterne": 50,
       "L. Borgernes Lokalliste Køge": 17,
+      "M. Moderaterne": 50,
       "Å. Alternativet": 11
     }
   },
@@ -66,8 +66,8 @@
       "B. Radikale Venstre": 176,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 106,
       "K. KD – Kristendemokraterne": 41,
-      "M. Moderaterne": 51,
       "L. Borgernes Lokalliste Køge": 26,
+      "M. Moderaterne": 51,
       "Å. Alternativet": 20
     }
   },
@@ -90,8 +90,8 @@
       "B. Radikale Venstre": 84,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 52,
       "K. KD – Kristendemokraterne": 30,
-      "M. Moderaterne": 28,
       "L. Borgernes Lokalliste Køge": 18,
+      "M. Moderaterne": 28,
       "Å. Alternativet": 4
     }
   },
@@ -114,8 +114,8 @@
       "B. Radikale Venstre": 62,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 65,
       "K. KD – Kristendemokraterne": 46,
-      "M. Moderaterne": 72,
       "L. Borgernes Lokalliste Køge": 12,
+      "M. Moderaterne": 72,
       "Å. Alternativet": 8
     }
   },
@@ -138,8 +138,8 @@
       "B. Radikale Venstre": 75,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 148,
       "K. KD – Kristendemokraterne": 202,
-      "M. Moderaterne": 73,
       "L. Borgernes Lokalliste Køge": 39,
+      "M. Moderaterne": 73,
       "Å. Alternativet": 21
     }
   },
@@ -162,8 +162,8 @@
       "B. Radikale Venstre": 30,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 51,
       "K. KD – Kristendemokraterne": 6,
-      "M. Moderaterne": 13,
       "L. Borgernes Lokalliste Køge": 55,
+      "M. Moderaterne": 13,
       "Å. Alternativet": 14
     }
   },
@@ -186,8 +186,8 @@
       "B. Radikale Venstre": 17,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 42,
       "K. KD – Kristendemokraterne": 18,
-      "M. Moderaterne": 9,
       "L. Borgernes Lokalliste Køge": 102,
+      "M. Moderaterne": 9,
       "Å. Alternativet": 2
     }
   },
@@ -210,8 +210,8 @@
       "B. Radikale Venstre": 19,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 91,
       "K. KD – Kristendemokraterne": 30,
-      "M. Moderaterne": 9,
       "L. Borgernes Lokalliste Køge": 36,
+      "M. Moderaterne": 9,
       "Å. Alternativet": 2
     }
   },
@@ -234,8 +234,8 @@
       "B. Radikale Venstre": 5,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 42,
       "K. KD – Kristendemokraterne": 15,
-      "M. Moderaterne": 8,
       "L. Borgernes Lokalliste Køge": 7,
+      "M. Moderaterne": 8,
       "Å. Alternativet": 2
     }
   },
@@ -258,8 +258,8 @@
       "B. Radikale Venstre": 118,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 74,
       "K. KD – Kristendemokraterne": 21,
-      "M. Moderaterne": 17,
       "L. Borgernes Lokalliste Køge": 88,
+      "M. Moderaterne": 17,
       "Å. Alternativet": 15
     }
   }
