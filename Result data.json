@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-18T11:21:10+00:00",
+  "timestamp": "2025-11-18T11:35:50+00:00",
   "relevant_parties": [
     "Ø. Enhedslisten - De Rød-Grønne",
     "A. Socialdemokratiet",
@@ -552,7 +552,7 @@
           "type": "alliance",
           "parties": [
             "F. SF - Socialistisk Folkeparti",
-            "N",
+            "N. Demokraterne - hele Danmark skal leve",
             "Ø. Enhedslisten - De Rød-Grønne",
             "Å. Alternativet"
           ],
@@ -575,9 +575,9 @@
           "type": "alliance",
           "parties": [
             "C. Det Konservative Folkeparti",
-            "D",
+            "D. Nye Borgerlige",
             "I. Liberal Alliance",
-            "K",
+            "K. KD – Kristendemokraterne",
             "O. Dansk Folkeparti",
             "V. Venstre, Danmarks Liberale Parti",
             "Æ. Danmarksdemokraterne - Inger Støjberg"
@@ -589,29 +589,32 @@
           "id": "3",
           "type": "alliance",
           "parties": [
-            "E",
-            "J",
-            "P",
-            "Q",
-            "R",
-            "T",
-            "Z"
+            "E. KaosTV",
+            "J. Hampepartiet",
+            "P. DKP - Danmarks Kommunistiske Parti",
+            "Q. Frie Grønne - Danmarks nye venstrefløjsparti",
+            "R. Kommunistisk Parti",
+            "T. Skamløse Demokrater",
+            "Z. Solidarisk Integritet"
           ],
           "short_name": "E/J/P/Q/R/T/Z",
           "long_name": "E. KaosTV, J. Hampepartiet, P. DKP - Danmarks Kommunistiske Parti, Q. Frie Grønne - Danmarks nye venstrefløjsparti, R. Kommunistisk Parti, T. Skamløse Demokrater, Z. Solidarisk Integritet"
         },
         {
-          "id": "L",
+          "id": "L. Lokallisten - København",
+          "technical_id": "L",
           "type": "party",
           "name": "L. Lokallisten - København"
         },
         {
-          "id": "U",
+          "id": "U. Din stemme i København",
+          "technical_id": "U",
           "type": "party",
           "name": "U. Din stemme i København"
         },
         {
-          "id": "Y",
+          "id": "Y. Fælles Fremtid",
+          "technical_id": "Y",
           "type": "party",
           "name": "Y. Fælles Fremtid"
         }
@@ -666,9 +669,9 @@
           "type": "alliance",
           "parties": [
             "C. Det Konservative Folkeparti",
-            "E",
-            "K",
-            "T",
+            "E. Hvid-sten Frederiksbergs uafhængige Borgerliste",
+            "K. KD – Kristendemokraterne",
+            "T. Borgernes Frederiksberg",
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
           "short_name": "C/E/K/T/Æ",
@@ -734,7 +737,7 @@
           "type": "alliance",
           "parties": [
             "B. Radikale Venstre",
-            "G",
+            "G. Anne Grønlund",
             "I. Liberal Alliance",
             "M. Moderaterne",
             "V. Venstre, Danmarks Liberale Parti"
@@ -791,7 +794,7 @@
           "type": "alliance",
           "parties": [
             "A. Socialdemokratiet",
-            "E"
+            "E. Velfærdslisten (Tårnby Kommune)"
           ],
           "short_name": "A/E",
           "long_name": "A. Socialdemokratiet, E. Velfærdslisten (Tårnby Kommune)"
@@ -1004,7 +1007,7 @@
           "type": "alliance",
           "parties": [
             "B. Radikale Venstre",
-            "L",
+            "L. Lokallisten Gladsaxe",
             "Ø. Enhedslisten - De Rød-Grønne"
           ],
           "short_name": "B/L/Ø",
@@ -1135,7 +1138,7 @@
           "type": "alliance",
           "parties": [
             "C. Det Konservative Folkeparti",
-            "K",
+            "K. KD – Kristendemokraterne",
             "V. Venstre, Danmarks Liberale Parti"
           ],
           "short_name": "C/K/V",
@@ -1200,7 +1203,7 @@
           "type": "alliance",
           "parties": [
             "B. Radikale Venstre",
-            "L",
+            "L. Hvidovrelisten",
             "M. Moderaterne"
           ],
           "short_name": "B/L/M",
@@ -1277,7 +1280,7 @@
           "type": "alliance",
           "parties": [
             "B. Radikale Venstre",
-            "K",
+            "K. KD – Kristendemokraterne",
             "M. Moderaterne"
           ],
           "short_name": "B/K/M",
@@ -1343,9 +1346,9 @@
           "type": "alliance",
           "parties": [
             "B. Radikale Venstre",
-            "D",
+            "D. IshøjDemokraterne",
             "F. SF - Socialistisk Folkeparti",
-            "L",
+            "L. Ishøjlisten",
             "M. Moderaterne"
           ],
           "short_name": "B/D/F/L/M",
@@ -1464,8 +1467,8 @@
           "parties": [
             "B. Radikale Venstre",
             "F. SF - Socialistisk Folkeparti",
-            "L",
-            "T",
+            "L. Albertslund-Listen",
+            "T. Grøn Velfærd",
             "Ø. Enhedslisten - De Rød-Grønne"
           ],
           "short_name": "B/F/L/T/Ø",
@@ -1523,7 +1526,7 @@
             "A. Socialdemokratiet",
             "B. Radikale Venstre",
             "F. SF - Socialistisk Folkeparti",
-            "Q",
+            "Q. Frie Grønne - Danmarks nye venstrefløjsparti",
             "Ø. Enhedslisten - De Rød-Grønne"
           ],
           "short_name": "A/B/F/Q/Ø",
@@ -1608,7 +1611,7 @@
           "id": "3",
           "type": "alliance",
           "parties": [
-            "D",
+            "D. Nye Borgerlige",
             "O. Dansk Folkeparti"
           ],
           "short_name": "D/O",
@@ -1684,7 +1687,7 @@
           "type": "alliance",
           "parties": [
             "C. Det Konservative Folkeparti",
-            "D"
+            "D. Nye Borgerlige"
           ],
           "short_name": "C/D",
           "long_name": "C. Det Konservative Folkeparti, D. Nye Borgerlige"
@@ -1704,7 +1707,7 @@
           "id": "5",
           "type": "alliance",
           "parties": [
-            "U",
+            "U. Bylisten",
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
           "short_name": "U/Æ",
@@ -1759,7 +1762,7 @@
           "type": "alliance",
           "parties": [
             "B. Radikale Venstre",
-            "K",
+            "K. KD – Kristendemokraterne",
             "M. Moderaterne",
             "Å. Alternativet"
           ],
@@ -1783,8 +1786,8 @@
           "id": "4",
           "type": "alliance",
           "parties": [
-            "E",
-            "Y"
+            "E. Borgerforslag",
+            "Y. Stefan Warburg"
           ],
           "short_name": "E/Y",
           "long_name": "E. Borgerforslag, Y. Stefan Warburg"
@@ -1838,9 +1841,9 @@
           "type": "alliance",
           "parties": [
             "C. Det Konservative Folkeparti",
-            "E",
+            "E. Fredensborg SocialKonservative",
             "I. Liberal Alliance",
-            "K",
+            "K. KD – Kristendemokraterne",
             "O. Dansk Folkeparti",
             "V. Venstre, Danmarks Liberale Parti"
           ],
@@ -1896,7 +1899,7 @@
           "type": "alliance",
           "parties": [
             "A. Socialdemokratiet",
-            "Q"
+            "Q. SocialKonservative (Hørsholm Kommune)"
           ],
           "short_name": "A/Q",
           "long_name": "A. Socialdemokratiet, Q. SocialKonservative (Hørsholm Kommune)"
@@ -1925,8 +1928,8 @@
           "id": "4",
           "type": "alliance",
           "parties": [
-            "E",
-            "T"
+            "E. Listen Anne Ehrenreich",
+            "T. Borgerlisten Hørsholm"
           ],
           "short_name": "E/T",
           "long_name": "E. Listen Anne Ehrenreich, T. Borgerlisten Hørsholm"
@@ -2056,7 +2059,7 @@
           "type": "alliance",
           "parties": [
             "B. Radikale Venstre",
-            "K",
+            "K. KD – Kristendemokraterne",
             "Å. Alternativet"
           ],
           "short_name": "B/K/Å",
@@ -2068,7 +2071,7 @@
           "parties": [
             "C. Det Konservative Folkeparti",
             "I. Liberal Alliance",
-            "L",
+            "L. Listen ByogLand",
             "O. Dansk Folkeparti",
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
@@ -2079,9 +2082,9 @@
           "id": "4",
           "type": "alliance",
           "parties": [
-            "E",
-            "N",
-            "U"
+            "E. Borgernes Gribskov",
+            "N. Folkestyret.dk",
+            "U. Alliancen for Børnene, Ungdommen og Fremtiden"
           ],
           "short_name": "E/N/U",
           "long_name": "E. Borgernes Gribskov, N. Folkestyret.dk, U. Alliancen for Børnene, Ungdommen og Fremtiden"
@@ -2090,7 +2093,7 @@
           "id": "5",
           "type": "alliance",
           "parties": [
-            "G",
+            "G. Nytgribskov",
             "M. Moderaterne",
             "V. Venstre, Danmarks Liberale Parti"
           ],
@@ -2300,7 +2303,7 @@
           "type": "alliance",
           "parties": [
             "C. Det Konservative Folkeparti",
-            "L",
+            "L. Lokallisten Bedre Borgerinddragelse",
             "V. Venstre, Danmarks Liberale Parti"
           ],
           "short_name": "C/L/V",
@@ -2310,7 +2313,7 @@
           "id": "4",
           "type": "alliance",
           "parties": [
-            "E",
+            "E. Furesørødderne",
             "I. Liberal Alliance",
             "M. Moderaterne",
             "O. Dansk Folkeparti"
@@ -2356,7 +2359,7 @@
           "type": "alliance",
           "parties": [
             "B. Radikale Venstre",
-            "E",
+            "E. Et Samlet Egedal",
             "Å. Alternativet"
           ],
           "short_name": "B/E/Å",
@@ -2388,7 +2391,7 @@
           "id": "4",
           "type": "alliance",
           "parties": [
-            "L",
+            "L. Lokallisten Ny Egedal",
             "M. Moderaterne"
           ],
           "short_name": "L/M",
@@ -2445,7 +2448,7 @@
           "parties": [
             "I. Liberal Alliance",
             "O. Dansk Folkeparti",
-            "U"
+            "U. Allerød Listen"
           ],
           "short_name": "I/O/U",
           "long_name": "I. Liberal Alliance, O. Dansk Folkeparti, U. Allerød Listen"
@@ -2499,7 +2502,7 @@
           "parties": [
             "B. Radikale Venstre",
             "F. SF - Socialistisk Folkeparti",
-            "L"
+            "L. Lokallisten (Rudersdal Kommune)"
           ],
           "short_name": "B/F/L",
           "long_name": "B. Radikale Venstre, F. SF - Socialistisk Folkeparti, L. Lokallisten (Rudersdal Kommune)"
@@ -2594,7 +2597,7 @@
           "type": "alliance",
           "parties": [
             "I. Liberal Alliance",
-            "K"
+            "K. KD – Kristendemokraterne"
           ],
           "short_name": "I/K",
           "long_name": "I. Liberal Alliance, K. KD – Kristendemokraterne"
@@ -2603,7 +2606,7 @@
           "id": "4",
           "type": "alliance",
           "parties": [
-            "Q",
+            "Q. Frie Grønne - Danmarks nye venstrefløjsparti",
             "Ø. Enhedslisten - De Rød-Grønne"
           ],
           "short_name": "Q/Ø",
@@ -2677,7 +2680,7 @@
           "id": "4",
           "type": "alliance",
           "parties": [
-            "D",
+            "D. Vestlolland",
             "Ø. Enhedslisten - De Rød-Grønne"
           ],
           "short_name": "D/Ø",
@@ -2732,7 +2735,7 @@
           "type": "alliance",
           "parties": [
             "B. Radikale Venstre",
-            "L",
+            "L. Guldborgsundlisten",
             "M. Moderaterne"
           ],
           "short_name": "B/L/M",
@@ -2755,7 +2758,7 @@
           "type": "alliance",
           "parties": [
             "O. Dansk Folkeparti",
-            "T"
+            "T. Sydhavslisten"
           ],
           "short_name": "O/T",
           "long_name": "O. Dansk Folkeparti, T. Sydhavslisten"
@@ -2928,7 +2931,7 @@
           "type": "alliance",
           "parties": [
             "F. SF - Socialistisk Folkeparti",
-            "T",
+            "T. HaslevFaxe-Listen",
             "Ø. Enhedslisten - De Rød-Grønne"
           ],
           "short_name": "F/T/Ø",
@@ -2939,7 +2942,7 @@
           "type": "alliance",
           "parties": [
             "I. Liberal Alliance",
-            "L",
+            "L. Lokallisten (Faxe Kommune)",
             "M. Moderaterne"
           ],
           "short_name": "I/L/M",
@@ -3043,11 +3046,11 @@
             "A. Socialdemokratiet",
             "B. Radikale Venstre",
             "C. Det Konservative Folkeparti",
-            "D",
+            "D. Corona Camping Listen",
             "F. SF - Socialistisk Folkeparti",
             "I. Liberal Alliance",
-            "K",
-            "L",
+            "K. KD – Kristendemokraterne",
+            "L. Borgernes Lokalliste Køge",
             "M. Moderaterne",
             "O. Dansk Folkeparti",
             "V. Venstre, Danmarks Liberale Parti",
@@ -3165,7 +3168,7 @@
           "parties": [
             "A. Socialdemokratiet",
             "B. Radikale Venstre",
-            "E",
+            "E. Lokallisten Mennesker Først",
             "F. SF - Socialistisk Folkeparti",
             "Ø. Enhedslisten - De Rød-Grønne"
           ],
@@ -3177,7 +3180,7 @@
           "type": "alliance",
           "parties": [
             "C. Det Konservative Folkeparti",
-            "U",
+            "U. Jesper Løvenbalk Fisker",
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
           "short_name": "C/U/Æ",
@@ -3197,8 +3200,8 @@
           "id": "4",
           "type": "alliance",
           "parties": [
-            "K",
-            "L",
+            "K. KD – Kristendemokraterne",
+            "L. Vores Lokalliste",
             "M. Moderaterne",
             "V. Venstre, Danmarks Liberale Parti"
           ],
@@ -3254,8 +3257,8 @@
           "type": "alliance",
           "parties": [
             "C. Det Konservative Folkeparti",
-            "L",
-            "T"
+            "L. HavdrupListen",
+            "T. VoresSolrød"
           ],
           "short_name": "C/L/T",
           "long_name": "C. Det Konservative Folkeparti, L. HavdrupListen, T. VoresSolrød"
@@ -3332,7 +3335,7 @@
           "id": "3",
           "type": "alliance",
           "parties": [
-            "L",
+            "L. Lokallisten Roskilde",
             "O. Dansk Folkeparti"
           ],
           "short_name": "L/O",
@@ -3377,7 +3380,7 @@
           "parties": [
             "A. Socialdemokratiet",
             "B. Radikale Venstre",
-            "N"
+            "N. Ny Holbæk"
           ],
           "short_name": "A/B/N",
           "long_name": "A. Socialdemokratiet, B. Radikale Venstre, N. Ny Holbæk"
@@ -3484,7 +3487,7 @@
           "id": "4",
           "type": "alliance",
           "parties": [
-            "L",
+            "L. Lokalt Fokus",
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
           "short_name": "L/Æ",
@@ -3494,7 +3497,7 @@
           "id": "5",
           "type": "alliance",
           "parties": [
-            "N",
+            "N. Nyt Odsherred",
             "V. Venstre, Danmarks Liberale Parti"
           ],
           "short_name": "N/V",
@@ -3549,7 +3552,7 @@
           "type": "alliance",
           "parties": [
             "B. Radikale Venstre",
-            "L"
+            "L. Kalundborg Listen"
           ],
           "short_name": "B/L",
           "long_name": "B. Radikale Venstre, L. Kalundborg Listen"
@@ -3569,9 +3572,9 @@
           "id": "4",
           "type": "alliance",
           "parties": [
-            "E",
+            "E. Frit Borgerligt Fællesskab",
             "I. Liberal Alliance",
-            "N"
+            "N. Nyt Kalundborg"
           ],
           "short_name": "E/I/N",
           "long_name": "E. Frit Borgerligt Fællesskab, I. Liberal Alliance, N. Nyt Kalundborg"
@@ -3636,10 +3639,10 @@
           "type": "alliance",
           "parties": [
             "C. Det Konservative Folkeparti",
-            "D",
+            "D. Nye Borgerlige",
             "I. Liberal Alliance",
-            "K",
-            "L",
+            "K. KD – Kristendemokraterne",
+            "L. Landsbylisten",
             "O. Dansk Folkeparti",
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
@@ -3650,7 +3653,7 @@
           "id": "3",
           "type": "alliance",
           "parties": [
-            "N",
+            "N. Det Nære Parti",
             "V. Venstre, Danmarks Liberale Parti"
           ],
           "short_name": "N/V",
@@ -3724,7 +3727,7 @@
           "id": "4",
           "type": "alliance",
           "parties": [
-            "D",
+            "D. Nye Borgerlige",
             "I. Liberal Alliance",
             "O. Dansk Folkeparti",
             "V. Venstre, Danmarks Liberale Parti"
@@ -3780,8 +3783,8 @@
           "type": "alliance",
           "parties": [
             "B. Radikale Venstre",
-            "L",
-            "T"
+            "L. Storebæltslisten",
+            "T. Trelleborglisten"
           ],
           "short_name": "B/L/T",
           "long_name": "B. Radikale Venstre, L. Storebæltslisten, T. Trelleborglisten"
@@ -3848,8 +3851,8 @@
           "type": "alliance",
           "parties": [
             "C. Det Konservative Folkeparti",
-            "K",
-            "L",
+            "K. KD – Kristendemokraterne",
+            "L. Et Bedre Odense",
             "V. Venstre, Danmarks Liberale Parti",
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
@@ -3860,8 +3863,8 @@
           "id": "3",
           "type": "alliance",
           "parties": [
-            "E",
-            "G"
+            "E. Lokallisten Nyt Odense",
+            "G. Stabilt Demokrati"
           ],
           "short_name": "E/G",
           "long_name": "E. Lokallisten Nyt Odense, G. Stabilt Demokrati"
@@ -3872,7 +3875,7 @@
           "parties": [
             "I. Liberal Alliance",
             "O. Dansk Folkeparti",
-            "U"
+            "U. Det starter i Odense"
           ],
           "short_name": "I/O/U",
           "long_name": "I. Liberal Alliance, O. Dansk Folkeparti, U. Det starter i Odense"
@@ -3881,7 +3884,7 @@
           "id": "5",
           "type": "alliance",
           "parties": [
-            "Q",
+            "Q. Frie Grønne - Danmarks nye venstrefløjsparti",
             "Ø. Enhedslisten - De Rød-Grønne",
             "Å. Alternativet"
           ],
@@ -3949,7 +3952,7 @@
           "id": "3",
           "type": "alliance",
           "parties": [
-            "L",
+            "L. Vi Lokale Demokrater",
             "V. Venstre, Danmarks Liberale Parti"
           ],
           "short_name": "L/V",
@@ -4023,9 +4026,9 @@
           "id": "4",
           "type": "alliance",
           "parties": [
-            "Q",
-            "T",
-            "Y",
+            "Q. Omsorgsgruppen",
+            "T. Tværpolitisk Anstændighed",
+            "Y. Solidarisk ansvar",
             "Ø. Enhedslisten - De Rød-Grønne",
             "Å. Alternativet"
           ],
@@ -4157,7 +4160,7 @@
           "type": "alliance",
           "parties": [
             "C. Det Konservative Folkeparti",
-            "E",
+            "E. Hverdagens Stemme",
             "I. Liberal Alliance",
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
@@ -4203,7 +4206,7 @@
           "parties": [
             "B. Radikale Venstre",
             "F. SF - Socialistisk Folkeparti",
-            "N",
+            "N. Bedre By Nyborg",
             "Å. Alternativet"
           ],
           "short_name": "B/F/N/Å",
@@ -4224,7 +4227,7 @@
           "id": "3",
           "type": "alliance",
           "parties": [
-            "L",
+            "L. Vi Lokale Demokrater",
             "V. Venstre, Danmarks Liberale Parti",
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
@@ -4281,7 +4284,7 @@
           "type": "alliance",
           "parties": [
             "C. Det Konservative Folkeparti",
-            "D",
+            "D. Nye Borgerlige",
             "O. Dansk Folkeparti"
           ],
           "short_name": "C/D/O",
@@ -4348,7 +4351,7 @@
           "parties": [
             "C. Det Konservative Folkeparti",
             "I. Liberal Alliance",
-            "L",
+            "L. Lokallisten Langeland",
             "M. Moderaterne",
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
@@ -4403,7 +4406,7 @@
           "type": "alliance",
           "parties": [
             "B. Radikale Venstre",
-            "L",
+            "L. Lokallisten Faaborg-Midtfyn",
             "M. Moderaterne"
           ],
           "short_name": "B/L/M",
@@ -4469,7 +4472,7 @@
           "type": "alliance",
           "parties": [
             "A. Socialdemokratiet",
-            "E",
+            "E. Ærø i Centrum",
             "F. SF - Socialistisk Folkeparti"
           ],
           "short_name": "A/E/F",
@@ -4565,7 +4568,7 @@
           "id": "3",
           "type": "alliance",
           "parties": [
-            "K",
+            "K. KD – Kristendemokraterne",
             "M. Moderaterne",
             "S. Slesvigsk Parti"
           ],
@@ -4620,7 +4623,7 @@
           "type": "alliance",
           "parties": [
             "B. Radikale Venstre",
-            "K",
+            "K. KD – Kristendemokraterne",
             "M. Moderaterne",
             "S. Slesvigsk Parti"
           ],
@@ -4631,8 +4634,8 @@
           "id": "3",
           "type": "alliance",
           "parties": [
-            "E",
-            "J"
+            "E. Smilla og Borgernes Liste",
+            "J. borgernes lokalliste"
           ],
           "short_name": "E/J",
           "long_name": "E. Smilla og Borgernes Liste, J. borgernes lokalliste"
@@ -4688,7 +4691,7 @@
             "C. Det Konservative Folkeparti",
             "I. Liberal Alliance",
             "O. Dansk Folkeparti",
-            "Y"
+            "Y. Velfærdsdemokraterne"
           ],
           "short_name": "C/I/O/Y",
           "long_name": "C. Det Konservative Folkeparti, I. Liberal Alliance, O. Dansk Folkeparti, Y. Velfærdsdemokraterne"
@@ -4763,8 +4766,8 @@
           "id": "2",
           "type": "alliance",
           "parties": [
-            "E",
-            "J"
+            "E. Borgerlig Fornuft",
+            "J. Esbjerg 2.0"
           ],
           "short_name": "E/J",
           "long_name": "E. Borgerlig Fornuft, J. Esbjerg 2.0"
@@ -4839,7 +4842,7 @@
           "type": "alliance",
           "parties": [
             "B. Radikale Venstre",
-            "L",
+            "L. Fanø Borgerliste",
             "Ø. Enhedslisten - De Rød-Grønne"
           ],
           "short_name": "B/L/Ø",
@@ -4895,7 +4898,7 @@
           "parties": [
             "C. Det Konservative Folkeparti",
             "I. Liberal Alliance",
-            "K",
+            "K. KD – Kristendemokraterne",
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
           "short_name": "C/I/K/Æ",
@@ -5083,7 +5086,7 @@
           "parties": [
             "C. Det Konservative Folkeparti",
             "I. Liberal Alliance",
-            "K",
+            "K. KD – Kristendemokraterne",
             "M. Moderaterne"
           ],
           "short_name": "C/I/K/M",
@@ -5094,7 +5097,7 @@
           "type": "alliance",
           "parties": [
             "F. SF - Socialistisk Folkeparti",
-            "R",
+            "R. Kommunistisk Parti",
             "Ø. Enhedslisten - De Rød-Grønne"
           ],
           "short_name": "F/R/Ø",
@@ -5150,7 +5153,7 @@
           "parties": [
             "B. Radikale Venstre",
             "F. SF - Socialistisk Folkeparti",
-            "G",
+            "G. Grøn Kultur",
             "Ø. Enhedslisten - De Rød-Grønne"
           ],
           "short_name": "B/F/G/Ø",
@@ -5172,7 +5175,7 @@
           "type": "alliance",
           "parties": [
             "I. Liberal Alliance",
-            "J",
+            "J. Borgernes Liste 7000",
             "O. Dansk Folkeparti",
             "V. Venstre, Danmarks Liberale Parti",
             "Æ. Danmarksdemokraterne - Inger Støjberg"
@@ -5231,7 +5234,7 @@
           "parties": [
             "C. Det Konservative Folkeparti",
             "I. Liberal Alliance",
-            "K",
+            "K. KD – Kristendemokraterne",
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
           "short_name": "C/I/K/Æ",
@@ -5241,7 +5244,7 @@
           "id": "3",
           "type": "alliance",
           "parties": [
-            "J",
+            "J. Borgernes Lokal Liste",
             "M. Moderaterne",
             "O. Dansk Folkeparti",
             "V. Venstre, Danmarks Liberale Parti"
@@ -5298,7 +5301,7 @@
           "parties": [
             "B. Radikale Venstre",
             "C. Det Konservative Folkeparti",
-            "K",
+            "K. KD – Kristendemokraterne",
             "S. Slesvigsk Parti"
           ],
           "short_name": "B/C/K/S",
@@ -5308,7 +5311,7 @@
           "id": "3",
           "type": "alliance",
           "parties": [
-            "D",
+            "D. Nye Borgerlige",
             "I. Liberal Alliance",
             "O. Dansk Folkeparti",
             "V. Venstre, Danmarks Liberale Parti",
@@ -5365,9 +5368,9 @@
           "type": "alliance",
           "parties": [
             "B. Radikale Venstre",
-            "K",
+            "K. KD – Kristendemokraterne",
             "M. Moderaterne",
-            "T"
+            "T. BorgerTinget"
           ],
           "short_name": "B/K/M/T",
           "long_name": "B. Radikale Venstre, K. KD – Kristendemokraterne, M. Moderaterne, T. BorgerTinget"
@@ -5378,7 +5381,7 @@
           "parties": [
             "C. Det Konservative Folkeparti",
             "I. Liberal Alliance",
-            "N",
+            "N. Nej til privatisering af kommunale veje",
             "O. Dansk Folkeparti",
             "V. Venstre, Danmarks Liberale Parti",
             "Æ. Danmarksdemokraterne - Inger Støjberg"
@@ -5401,8 +5404,8 @@
           "id": "4",
           "type": "alliance",
           "parties": [
-            "Q",
-            "R"
+            "Q. Frie Grønne - Danmarks nye venstrefløjsparti",
+            "R. Kommunistisk Parti"
           ],
           "short_name": "Q/R",
           "long_name": "Q. Frie Grønne - Danmarks nye venstrefløjsparti, R. Kommunistisk Parti"
@@ -5451,7 +5454,7 @@
             "I. Liberal Alliance",
             "O. Dansk Folkeparti",
             "V. Venstre, Danmarks Liberale Parti",
-            "Z",
+            "Z. Velfærdslisten Syddjurs",
             "Æ. Danmarksdemokraterne - Inger Støjberg",
             "Ø. Enhedslisten - De Rød-Grønne",
             "Å. Alternativet"
@@ -5498,7 +5501,7 @@
           "parties": [
             "A. Socialdemokratiet",
             "F. SF - Socialistisk Folkeparti",
-            "N",
+            "N. Natur- og Velfærdslisten",
             "Ø. Enhedslisten - De Rød-Grønne"
           ],
           "short_name": "A/F/N/Ø",
@@ -5555,8 +5558,8 @@
           "type": "alliance",
           "parties": [
             "B. Radikale Venstre",
-            "J",
-            "K"
+            "J. Frie Stemmer - Jens Peter Hansen",
+            "K. KD – Kristendemokraterne"
           ],
           "short_name": "B/J/K",
           "long_name": "B. Radikale Venstre, J. Frie Stemmer - Jens Peter Hansen, K. KD – Kristendemokraterne"
@@ -5577,7 +5580,7 @@
           "id": "3",
           "type": "alliance",
           "parties": [
-            "E",
+            "E. Velfærdslisten (Randers Kommune)",
             "F. SF - Socialistisk Folkeparti",
             "Ø. Enhedslisten - De Rød-Grønne"
           ],
@@ -5872,7 +5875,7 @@
           "type": "alliance",
           "parties": [
             "C. Det Konservative Folkeparti",
-            "D",
+            "D. Nye Borgerlige",
             "I. Liberal Alliance"
           ],
           "short_name": "C/D/I",
@@ -5948,9 +5951,9 @@
           "id": "3",
           "type": "alliance",
           "parties": [
-            "G",
+            "G. Seniorlisten Hedensted Kommune",
             "I. Liberal Alliance",
-            "K"
+            "K. KD – Kristendemokraterne"
           ],
           "short_name": "G/I/K",
           "long_name": "G. Seniorlisten Hedensted Kommune, I. Liberal Alliance, K. KD – Kristendemokraterne"
@@ -5959,7 +5962,7 @@
           "id": "4",
           "type": "alliance",
           "parties": [
-            "J",
+            "J. SocialKonservative (Hedensted Kommune)",
             "M. Moderaterne",
             "V. Venstre, Danmarks Liberale Parti"
           ],
@@ -6015,7 +6018,7 @@
           "type": "alliance",
           "parties": [
             "C. Det Konservative Folkeparti",
-            "L",
+            "L. Land- og Bylisten",
             "O. Dansk Folkeparti",
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
@@ -6080,9 +6083,9 @@
           "id": "3",
           "type": "alliance",
           "parties": [
-            "D",
+            "D. Nye Borgerlige",
             "O. Dansk Folkeparti",
-            "U"
+            "U. Adrian-Silviu Suiugan"
           ],
           "short_name": "D/O/U",
           "long_name": "D. Nye Borgerlige, O. Dansk Folkeparti, U. Adrian-Silviu Suiugan"
@@ -6145,7 +6148,7 @@
           "type": "alliance",
           "parties": [
             "B. Radikale Venstre",
-            "L"
+            "L. Skive-Listen"
           ],
           "short_name": "B/L",
           "long_name": "B. Radikale Venstre, L. Skive-Listen"
@@ -6210,7 +6213,7 @@
           "type": "alliance",
           "parties": [
             "B. Radikale Venstre",
-            "K",
+            "K. KD – Kristendemokraterne",
             "Å. Alternativet"
           ],
           "short_name": "B/K/Å",
@@ -6251,7 +6254,7 @@
           "id": "5",
           "type": "alliance",
           "parties": [
-            "Y",
+            "Y. Velfærdsdemokraterne",
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
           "short_name": "Y/Æ",
@@ -6296,7 +6299,7 @@
           "parties": [
             "A. Socialdemokratiet",
             "F. SF - Socialistisk Folkeparti",
-            "N",
+            "N. Deltagerlisten",
             "Ø. Enhedslisten - De Rød-Grønne"
           ],
           "short_name": "A/F/N/Ø",
@@ -6307,7 +6310,7 @@
           "type": "alliance",
           "parties": [
             "B. Radikale Venstre",
-            "L",
+            "L. Louise Isager",
             "M. Moderaterne"
           ],
           "short_name": "B/L/M",
@@ -6384,7 +6387,7 @@
           "type": "alliance",
           "parties": [
             "F. SF - Socialistisk Folkeparti",
-            "L"
+            "L. Fælleslisten"
           ],
           "short_name": "F/L",
           "long_name": "F. SF - Socialistisk Folkeparti, L. Fælleslisten"
@@ -6427,7 +6430,7 @@
           "type": "alliance",
           "parties": [
             "A. Socialdemokratiet",
-            "L"
+            "L. Borgerlisten (Herning Kommune)"
           ],
           "short_name": "A/L",
           "long_name": "A. Socialdemokratiet, L. Borgerlisten (Herning Kommune)"
@@ -6448,9 +6451,9 @@
           "type": "alliance",
           "parties": [
             "C. Det Konservative Folkeparti",
-            "D",
+            "D. Nye Borgerlige",
             "I. Liberal Alliance",
-            "K",
+            "K. KD – Kristendemokraterne",
             "O. Dansk Folkeparti",
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
@@ -6524,7 +6527,7 @@
           "id": "3",
           "type": "alliance",
           "parties": [
-            "D",
+            "D. Nye Borgerlige",
             "I. Liberal Alliance",
             "O. Dansk Folkeparti",
             "V. Venstre, Danmarks Liberale Parti",
@@ -6581,7 +6584,7 @@
           "type": "alliance",
           "parties": [
             "C. Det Konservative Folkeparti",
-            "D",
+            "D. Nye Borgerlige",
             "I. Liberal Alliance",
             "O. Dansk Folkeparti"
           ],
@@ -6602,7 +6605,7 @@
           "id": "4",
           "type": "alliance",
           "parties": [
-            "K",
+            "K. KD – Kristendemokraterne",
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
           "short_name": "K/Æ",
@@ -6709,7 +6712,7 @@
           "id": "1",
           "type": "alliance",
           "parties": [
-            "L",
+            "L. Læsø Borgerliste",
             "V. Venstre, Danmarks Liberale Parti",
             "Æ. Danmarksdemokraterne - Inger Støjberg"
           ],
@@ -6819,7 +6822,7 @@
           "parties": [
             "B. Radikale Venstre",
             "C. Det Konservative Folkeparti",
-            "J",
+            "J. Borgerlisten (Brønderslev Kommune)",
             "M. Moderaterne"
           ],
           "short_name": "B/C/J/M",
@@ -6829,7 +6832,7 @@
           "id": "2",
           "type": "alliance",
           "parties": [
-            "D",
+            "D. Nye Borgerlige",
             "O. Dansk Folkeparti",
             "V. Venstre, Danmarks Liberale Parti",
             "Æ. Danmarksdemokraterne - Inger Støjberg"
@@ -6895,8 +6898,8 @@
           "type": "alliance",
           "parties": [
             "B. Radikale Venstre",
-            "K",
-            "T"
+            "K. KD – Kristendemokraterne",
+            "T. Lokallisten Jammerbugt"
           ],
           "short_name": "B/K/T",
           "long_name": "B. Radikale Venstre, K. KD – Kristendemokraterne, T. Lokallisten Jammerbugt"
@@ -6907,7 +6910,7 @@
           "parties": [
             "C. Det Konservative Folkeparti",
             "I. Liberal Alliance",
-            "L"
+            "L. Vendelbo-Listen"
           ],
           "short_name": "C/I/L",
           "long_name": "C. Det Konservative Folkeparti, I. Liberal Alliance, L. Vendelbo-Listen"
@@ -7038,7 +7041,7 @@
           "type": "alliance",
           "parties": [
             "O. Dansk Folkeparti",
-            "T"
+            "T. Thy Borgerlige"
           ],
           "short_name": "O/T",
           "long_name": "O. Dansk Folkeparti, T. Thy Borgerlige"
@@ -7113,8 +7116,8 @@
           "type": "alliance",
           "parties": [
             "A. Socialdemokratiet",
-            "L",
-            "R"
+            "L. Den Sociale Fællesliste",
+            "R. Rebild Listen"
           ],
           "short_name": "A/L/R",
           "long_name": "A. Socialdemokratiet, L. Den Sociale Fællesliste, R. Rebild Listen"
@@ -7192,7 +7195,7 @@
           "parties": [
             "C. Det Konservative Folkeparti",
             "I. Liberal Alliance",
-            "K",
+            "K. KD – Kristendemokraterne",
             "O. Dansk Folkeparti",
             "V. Venstre, Danmarks Liberale Parti",
             "Æ. Danmarksdemokraterne - Inger Støjberg"
@@ -7261,7 +7264,7 @@
           "parties": [
             "C. Det Konservative Folkeparti",
             "I. Liberal Alliance",
-            "K",
+            "K. KD – Kristendemokraterne",
             "O. Dansk Folkeparti",
             "V. Venstre, Danmarks Liberale Parti",
             "Æ. Danmarksdemokraterne - Inger Støjberg"
