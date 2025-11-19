@@ -302,89 +302,84 @@
         const projected = data.national.projected;
         const current = data.national.current;
 
-        data.relevant_parties.forEach(party => {
-          const row = document.createElement("tr");
+		data.relevant_parties.forEach(party => {
+		  const row = document.createElement("tr");
 
-          const currVotes = current.votes[party] || 0;
-          const currPct = current.percentages[party] || 0;
-          const currSeats = current.seats[party] || 0;
-          const projVotes = projected.votes[party] || 0;
-          const projPct = projected.percentages[party] || 0;
-          const projSeats = projected.seats[party] || 0;
+		  const currVotes = current.votes[party] || 0;
+		  const currPct = current.percentages[party] || 0;
+		  const currSeats = current.seats[party] || 0;
 
-          [
-            party,
-            currVotes.toLocaleString(),
-            `${currPct.toFixed(2)}%`,
-            currSeats,
-            projVotes.toLocaleString(),
-            `${projPct.toFixed(2)}%`,
-            projSeats,
-          ].forEach((val, i) => {
-            const td = document.createElement("td");
-            td.textContent = val;
-            td.style.padding = "6px 12px";
-            td.style.border = "1px solid black";
-            td.style.textAlign = i === 0 ? "left" : "center";
+		  const projVotes = projected.votes[party] || 0;
+		  const projPct = projected.percentages[party] || 0;
+		  const projSeats = projected.seats[party] || 0;
 
-            if (i === 0) {
-              td.style.fontWeight = "bold";
-              if (party === "A. Socialdemokratiet") {
-                td.style.backgroundColor = "#f04d46";
-                td.style.color = "white";
-              } else if (party === "B. Radikale Venstre") {
-                td.style.backgroundColor = "#733280";
-                td.style.color = "white";
-              } else if (party === "C. Det Konservative Folkeparti") {
-                td.style.backgroundColor = "#004931";
-                td.style.color = "white";
-              } else if (party === "D. Nye Borgerlige") {
-                td.style.backgroundColor = "#127B7f";
-                td.style.color = "white";
-              } else if (party === "F. SF - Socialistisk Folkeparti") {
-                td.style.backgroundColor = "#e07ea8";
-                td.style.color = "white";
-              } else if (party === "I. Liberal Alliance") {
-                td.style.backgroundColor = "#3fb2be";
-                td.style.color = "white";
-              } else if (party === "K. KD – Kristendemokraterne") {
-                td.style.backgroundColor = "#b1a269";
-                td.style.color = "black";
-              } else if (party === "M. Moderaterne") {
-                td.style.backgroundColor = "#b385e0";
-                td.style.color = "white";
-              } else if (party === "O. Dansk Folkeparti") {
-                td.style.backgroundColor = "#fcd03b";
-                td.style.color = "black";
-              } else if (party === "Q. Frie Grønne - Danmarks nye venstrefløjsparti") {
-                td.style.backgroundColor = "#5abe82";
-                td.style.color = "black";
-              } else if (party === "V. Venstre, Danmarks Liberale Parti") {
-                td.style.backgroundColor = "#002883";
-                td.style.color = "white";
-              } else if (party === "Æ. Danmarksdemokraterne - Inger Støjberg") {
-                td.style.backgroundColor = "#479ee5";
-                td.style.color = "white";
-              } else if (party === "Ø. Enhedslisten - De Rød-Grønne") {
-                td.style.backgroundColor = "#e6801a";
-                td.style.color = "white";
-              } else if (party === "Å. Alternativet") {
-                td.style.backgroundColor = "#00ff00";
-                td.style.color = "black";
-              } else if (party === "S. Slesvigsk Parti") {
-                td.style.backgroundColor = "#e8ae00";
-                td.style.color = "black";
-              } else {
-                td.style.backgroundColor = "#c0c0c0";
-                td.style.color = "black";
-              }
-            }
+		  const rowData = nationalIsFullyCounted
+			? [
+				party,
+				projVotes.toLocaleString(),
+				`${projPct.toFixed(2)}%`,
+				projSeats,
+			  ]
+			: [
+				party,
+				currVotes.toLocaleString(),
+				`${currPct.toFixed(2)}%`,
+				currSeats,
+				projVotes.toLocaleString(),
+				`${projPct.toFixed(2)}%`,
+				projSeats,
+			  ];
 
-            row.appendChild(td);
-          });
+		  rowData.forEach((val, i) => {
+			const td = document.createElement("td");
+			td.textContent = val;
+			td.style.padding = "6px 12px";
+			td.style.border = "1px solid black";
+			td.style.textAlign = i === 0 ? "left" : "center";
 
-          table.appendChild(row);
-        });
+			if (i === 0) {
+			  td.style.fontWeight = "bold";
+
+			  if (party === "A. Socialdemokratiet") {
+				td.style.backgroundColor = "#f04d46"; td.style.color = "white";
+			  } else if (party === "B. Radikale Venstre") {
+				td.style.backgroundColor = "#733280"; td.style.color = "white";
+			  } else if (party === "C. Det Konservative Folkeparti") {
+				td.style.backgroundColor = "#004931"; td.style.color = "white";
+			  } else if (party === "D. Nye Borgerlige") {
+				td.style.backgroundColor = "#127B7f"; td.style.color = "white";
+			  } else if (party === "F. SF - Socialistisk Folkeparti") {
+				td.style.backgroundColor = "#e07ea8"; td.style.color = "white";
+			  } else if (party === "I. Liberal Alliance") {
+				td.style.backgroundColor = "#3fb2be"; td.style.color = "white";
+			  } else if (party === "K. KD – Kristendemokraterne") {
+				td.style.backgroundColor = "#b1a269"; td.style.color = "black";
+			  } else if (party === "M. Moderaterne") {
+				td.style.backgroundColor = "#b385e0"; td.style.color = "white";
+			  } else if (party === "O. Dansk Folkeparti") {
+				td.style.backgroundColor = "#fcd03b"; td.style.color = "black";
+			  } else if (party === "Q. Frie Grønne - Danmarks nye venstrefløjsparti") {
+				td.style.backgroundColor = "#5abe82"; td.style.color = "black";
+			  } else if (party === "V. Venstre, Danmarks Liberale Parti") {
+				td.style.backgroundColor = "#002883"; td.style.color = "white";
+			  } else if (party === "Æ. Danmarksdemokraterne - Inger Støjberg") {
+				td.style.backgroundColor = "#479ee5"; td.style.color = "white";
+			  } else if (party === "Ø. Enhedslisten - De Rød-Grønne") {
+				td.style.backgroundColor = "#e6801a"; td.style.color = "white";
+			  } else if (party === "Å. Alternativet") {
+				td.style.backgroundColor = "#00ff00"; td.style.color = "black";
+			  } else if (party === "S. Slesvigsk Parti") {
+				td.style.backgroundColor = "#e8ae00"; td.style.color = "black";
+			  } else {
+				td.style.backgroundColor = "#c0c0c0"; td.style.color = "black";
+			  }
+			}
+
+			row.appendChild(td);
+		  });
+
+		  table.appendChild(row);
+		});
 
         // Other parties
         const otherRow = document.createElement("tr");
