@@ -2,21 +2,21 @@
   "708562": {
     "name": "Aalestrup",
     "electorate": 3115,
-    "total_votes": 2019,
-    "valid_votes": 1994,
-    "invalid_votes": 25,
-    "is_reported": true,
+    "total_votes": 1978,
+    "valid_votes": 1954,
+    "invalid_votes": 24,
+    "is_reported": false,
     "votes": {
-      "V. Venstre, Danmarks Liberale Parti": 611,
-      "C. Det Konservative Folkeparti": 581,
-      "A. Socialdemokratiet": 285,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 308,
-      "F. SF - Socialistisk Folkeparti": 96,
-      "I. Liberal Alliance": 40,
-      "O. Dansk Folkeparti": 44,
-      "B. Radikale Venstre": 16,
-      "K. KD – Kristendemokraterne": 6,
-      "L. Borgerlisten (Vesthimmerland Kommune)": 7
+      "V. Venstre, Danmarks Liberale Parti": 1020,
+      "C. Det Konservative Folkeparti": 314,
+      "A. Socialdemokratiet": 124,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 316,
+      "F. SF - Socialistisk Folkeparti": 70,
+      "I. Liberal Alliance": 29,
+      "O. Dansk Folkeparti": 40,
+      "B. Radikale Venstre": 18,
+      "K. KD – Kristendemokraterne": 8,
+      "L. Borgerlisten (Vesthimmerland Kommune)": 15
     }
   },
   "705538": {
