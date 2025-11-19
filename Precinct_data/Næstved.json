@@ -338,22 +338,22 @@
   "706454": {
     "name": "Næstved Firma Sport",
     "electorate": 8124,
-    "total_votes": 5149,
-    "valid_votes": 5023,
-    "invalid_votes": 126,
-    "is_reported": false,
+    "total_votes": 4914,
+    "valid_votes": 4814,
+    "invalid_votes": 100,
+    "is_reported": true,
     "votes": {
-      "A. Socialdemokratiet": 1739,
-      "V. Venstre, Danmarks Liberale Parti": 610,
-      "C. Det Konservative Folkeparti": 537,
-      "I. Liberal Alliance": 579,
-      "O. Dansk Folkeparti": 370,
-      "F. SF - Socialistisk Folkeparti": 436,
-      "B. Radikale Venstre": 297,
-      "Ø. Enhedslisten - De Rød-Grønne": 278,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 90,
+      "A. Socialdemokratiet": 1592,
+      "V. Venstre, Danmarks Liberale Parti": 566,
+      "C. Det Konservative Folkeparti": 491,
+      "I. Liberal Alliance": 572,
+      "O. Dansk Folkeparti": 357,
+      "F. SF - Socialistisk Folkeparti": 401,
+      "B. Radikale Venstre": 359,
+      "Ø. Enhedslisten - De Rød-Grønne": 287,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 86,
       "M. Moderaterne": 38,
-      "Å. Alternativet": 49
+      "Å. Alternativet": 65
     }
   },
   "701858": {

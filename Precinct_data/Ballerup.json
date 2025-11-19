@@ -10,35 +10,35 @@
       "A. Socialdemokratiet": 1217,
       "F. SF - Socialistisk Folkeparti": 270,
       "O. Dansk Folkeparti": 372,
-      "C. Det Konservative Folkeparti": 120,
       "B. Radikale Venstre": 115,
+      "C. Det Konservative Folkeparti": 120,
       "Ø. Enhedslisten - De Rød-Grønne": 166,
       "I. Liberal Alliance": 148,
       "V. Venstre, Danmarks Liberale Parti": 149,
       "M. Moderaterne": 92,
-      "D. Nye Borgerlige": 29,
-      "E. Befri Ballerup": 35
+      "E. Befri Ballerup": 35,
+      "D. Nye Borgerlige": 29
     }
   },
   "706986": {
     "name": "Balleruphallen - Rugvænget",
     "electorate": 8122,
-    "total_votes": 4496,
-    "valid_votes": 4362,
-    "invalid_votes": 134,
-    "is_reported": false,
+    "total_votes": 4536,
+    "valid_votes": 4409,
+    "invalid_votes": 127,
+    "is_reported": true,
     "votes": {
-      "A. Socialdemokratiet": 1847,
-      "F. SF - Socialistisk Folkeparti": 468,
-      "O. Dansk Folkeparti": 578,
-      "C. Det Konservative Folkeparti": 230,
-      "B. Radikale Venstre": 175,
-      "Ø. Enhedslisten - De Rød-Grønne": 306,
-      "I. Liberal Alliance": 248,
-      "V. Venstre, Danmarks Liberale Parti": 220,
-      "M. Moderaterne": 180,
-      "D. Nye Borgerlige": 65,
-      "E. Befri Ballerup": 45
+      "A. Socialdemokratiet": 1779,
+      "F. SF - Socialistisk Folkeparti": 518,
+      "O. Dansk Folkeparti": 580,
+      "B. Radikale Venstre": 248,
+      "C. Det Konservative Folkeparti": 197,
+      "Ø. Enhedslisten - De Rød-Grønne": 372,
+      "I. Liberal Alliance": 226,
+      "V. Venstre, Danmarks Liberale Parti": 210,
+      "M. Moderaterne": 174,
+      "E. Befri Ballerup": 59,
+      "D. Nye Borgerlige": 46
     }
   },
   "710146": {
@@ -52,14 +52,14 @@
       "A. Socialdemokratiet": 817,
       "F. SF - Socialistisk Folkeparti": 227,
       "O. Dansk Folkeparti": 187,
-      "C. Det Konservative Folkeparti": 231,
       "B. Radikale Venstre": 116,
+      "C. Det Konservative Folkeparti": 231,
       "Ø. Enhedslisten - De Rød-Grønne": 77,
       "I. Liberal Alliance": 115,
       "V. Venstre, Danmarks Liberale Parti": 148,
       "M. Moderaterne": 34,
-      "D. Nye Borgerlige": 13,
-      "E. Befri Ballerup": 8
+      "E. Befri Ballerup": 8,
+      "D. Nye Borgerlige": 13
     }
   },
   "710158": {
@@ -73,35 +73,35 @@
       "A. Socialdemokratiet": 897,
       "F. SF - Socialistisk Folkeparti": 247,
       "O. Dansk Folkeparti": 345,
-      "C. Det Konservative Folkeparti": 91,
       "B. Radikale Venstre": 107,
+      "C. Det Konservative Folkeparti": 91,
       "Ø. Enhedslisten - De Rød-Grønne": 119,
       "I. Liberal Alliance": 130,
       "V. Venstre, Danmarks Liberale Parti": 86,
       "M. Moderaterne": 146,
-      "D. Nye Borgerlige": 63,
-      "E. Befri Ballerup": 31
+      "E. Befri Ballerup": 31,
+      "D. Nye Borgerlige": 63
     }
   },
   "705652": {
     "name": "Idrætshallen",
     "electorate": 4016,
-    "total_votes": 3124,
-    "valid_votes": 3078,
-    "invalid_votes": 46,
-    "is_reported": false,
+    "total_votes": 3119,
+    "valid_votes": 3076,
+    "invalid_votes": 43,
+    "is_reported": true,
     "votes": {
-      "A. Socialdemokratiet": 1151,
-      "F. SF - Socialistisk Folkeparti": 395,
-      "O. Dansk Folkeparti": 281,
-      "C. Det Konservative Folkeparti": 259,
-      "B. Radikale Venstre": 262,
-      "Ø. Enhedslisten - De Rød-Grønne": 149,
-      "I. Liberal Alliance": 181,
-      "V. Venstre, Danmarks Liberale Parti": 221,
-      "M. Moderaterne": 132,
-      "D. Nye Borgerlige": 14,
-      "E. Befri Ballerup": 33
+      "A. Socialdemokratiet": 1222,
+      "F. SF - Socialistisk Folkeparti": 375,
+      "O. Dansk Folkeparti": 252,
+      "B. Radikale Venstre": 285,
+      "C. Det Konservative Folkeparti": 261,
+      "Ø. Enhedslisten - De Rød-Grønne": 150,
+      "I. Liberal Alliance": 230,
+      "V. Venstre, Danmarks Liberale Parti": 230,
+      "M. Moderaterne": 48,
+      "E. Befri Ballerup": 12,
+      "D. Nye Borgerlige": 11
     }
   },
   "704024": {
@@ -115,14 +115,14 @@
       "A. Socialdemokratiet": 1653,
       "F. SF - Socialistisk Folkeparti": 467,
       "O. Dansk Folkeparti": 464,
-      "C. Det Konservative Folkeparti": 239,
       "B. Radikale Venstre": 289,
+      "C. Det Konservative Folkeparti": 239,
       "Ø. Enhedslisten - De Rød-Grønne": 299,
       "I. Liberal Alliance": 239,
       "V. Venstre, Danmarks Liberale Parti": 169,
       "M. Moderaterne": 103,
-      "D. Nye Borgerlige": 30,
-      "E. Befri Ballerup": 43
+      "E. Befri Ballerup": 43,
+      "D. Nye Borgerlige": 30
     }
   },
   "706992": {
@@ -136,14 +136,14 @@
       "A. Socialdemokratiet": 1309,
       "F. SF - Socialistisk Folkeparti": 369,
       "O. Dansk Folkeparti": 249,
-      "C. Det Konservative Folkeparti": 354,
       "B. Radikale Venstre": 229,
+      "C. Det Konservative Folkeparti": 354,
       "Ø. Enhedslisten - De Rød-Grønne": 257,
       "I. Liberal Alliance": 219,
       "V. Venstre, Danmarks Liberale Parti": 205,
       "M. Moderaterne": 56,
-      "D. Nye Borgerlige": 7,
-      "E. Befri Ballerup": 16
+      "E. Befri Ballerup": 16,
+      "D. Nye Borgerlige": 7
     }
   },
   "710152": {
@@ -157,14 +157,14 @@
       "A. Socialdemokratiet": 1026,
       "F. SF - Socialistisk Folkeparti": 411,
       "O. Dansk Folkeparti": 167,
-      "C. Det Konservative Folkeparti": 230,
       "B. Radikale Venstre": 287,
+      "C. Det Konservative Folkeparti": 230,
       "Ø. Enhedslisten - De Rød-Grønne": 175,
       "I. Liberal Alliance": 171,
       "V. Venstre, Danmarks Liberale Parti": 204,
       "M. Moderaterne": 46,
-      "D. Nye Borgerlige": 11,
-      "E. Befri Ballerup": 16
+      "E. Befri Ballerup": 16,
+      "D. Nye Borgerlige": 11
     }
   },
   "710164": {
@@ -178,14 +178,14 @@
       "A. Socialdemokratiet": 580,
       "F. SF - Socialistisk Folkeparti": 232,
       "O. Dansk Folkeparti": 128,
-      "C. Det Konservative Folkeparti": 135,
       "B. Radikale Venstre": 182,
+      "C. Det Konservative Folkeparti": 135,
       "Ø. Enhedslisten - De Rød-Grønne": 170,
       "I. Liberal Alliance": 108,
       "V. Venstre, Danmarks Liberale Parti": 118,
       "M. Moderaterne": 33,
-      "D. Nye Borgerlige": 6,
-      "E. Befri Ballerup": 9
+      "E. Befri Ballerup": 9,
+      "D. Nye Borgerlige": 6
     }
   }
 }

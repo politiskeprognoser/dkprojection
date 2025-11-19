@@ -134,23 +134,23 @@
   "724738": {
     "name": "Milestedet",
     "electorate": 2377,
-    "total_votes": 1050,
+    "total_votes": 1047,
     "valid_votes": 1011,
-    "invalid_votes": 39,
+    "invalid_votes": 36,
     "is_reported": true,
     "votes": {
-      "A. Socialdemokratiet": 390,
+      "A. Socialdemokratiet": 389,
       "C. Det Konservative Folkeparti": 57,
-      "F. SF - Socialistisk Folkeparti": 111,
-      "Ø. Enhedslisten - De Rød-Grønne": 218,
+      "F. SF - Socialistisk Folkeparti": 110,
+      "Ø. Enhedslisten - De Rød-Grønne": 219,
       "O. Dansk Folkeparti": 117,
       "B. Radikale Venstre": 26,
       "V. Venstre, Danmarks Liberale Parti": 11,
-      "I. Liberal Alliance": 21,
+      "I. Liberal Alliance": 24,
       "M. Moderaterne": 24,
-      "Æ. Danmarksdemokraterne - Inger Støjberg": 20,
+      "Æ. Danmarksdemokraterne - Inger Støjberg": 21,
       "K. KD – Kristendemokraterne": 10,
-      "L. Kludder og borgernes liste": 6
+      "L. Kludder og borgernes liste": 3
     }
   }
 }
