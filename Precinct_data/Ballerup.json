@@ -170,20 +170,20 @@
   "710164": {
     "name": "Østerhøjhallen",
     "electorate": 2303,
-    "total_votes": 1733,
-    "valid_votes": 1701,
-    "invalid_votes": 32,
+    "total_votes": 1734,
+    "valid_votes": 1706,
+    "invalid_votes": 28,
     "is_reported": true,
     "votes": {
       "A. Socialdemokratiet": 580,
       "F. SF - Socialistisk Folkeparti": 232,
       "O. Dansk Folkeparti": 128,
-      "B. Radikale Venstre": 182,
+      "B. Radikale Venstre": 185,
       "C. Det Konservative Folkeparti": 135,
       "Ø. Enhedslisten - De Rød-Grønne": 170,
-      "I. Liberal Alliance": 108,
-      "V. Venstre, Danmarks Liberale Parti": 118,
-      "M. Moderaterne": 33,
+      "I. Liberal Alliance": 110,
+      "V. Venstre, Danmarks Liberale Parti": 119,
+      "M. Moderaterne": 32,
       "E. Befri Ballerup": 9,
       "D. Nye Borgerlige": 6
     }

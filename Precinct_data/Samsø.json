@@ -3,13 +3,13 @@
     "name": "Tranebjerg",
     "electorate": 2716,
     "total_votes": 2200,
-    "valid_votes": 2146,
-    "invalid_votes": 54,
+    "valid_votes": 2147,
+    "invalid_votes": 53,
     "is_reported": true,
     "votes": {
       "C. Det Konservative Folkeparti": 809,
       "A. Socialdemokratiet": 524,
-      "F. SF - Socialistisk Folkeparti": 405,
+      "F. SF - Socialistisk Folkeparti": 406,
       "V. Venstre, Danmarks Liberale Parti": 408
     }
   },

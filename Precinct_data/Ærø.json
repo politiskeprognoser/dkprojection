@@ -2,13 +2,13 @@
   "706902": {
     "name": "Marstal",
     "electorate": 2265,
-    "total_votes": 1777,
-    "valid_votes": 1761,
-    "invalid_votes": 16,
+    "total_votes": 1778,
+    "valid_votes": 1757,
+    "invalid_votes": 21,
     "is_reported": true,
     "votes": {
-      "A. Socialdemokratiet": 328,
-      "C. Det Konservative Folkeparti": 597,
+      "A. Socialdemokratiet": 327,
+      "C. Det Konservative Folkeparti": 595,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 82,
       "F. SF - Socialistisk Folkeparti": 134,
       "T. Tværpolitisk Liste": 207,
@@ -17,7 +17,7 @@
       "E. Ærø i Centrum": 85,
       "O. Dansk Folkeparti": 111,
       "B. Radikale Venstre": 93,
-      "I. Liberal Alliance": 72
+      "I. Liberal Alliance": 71
     }
   },
   "702246": {
@@ -44,12 +44,12 @@
   "700952": {
     "name": "Søby",
     "electorate": 911,
-    "total_votes": 707,
-    "valid_votes": 698,
-    "invalid_votes": 9,
+    "total_votes": 727,
+    "valid_votes": 717,
+    "invalid_votes": 10,
     "is_reported": true,
     "votes": {
-      "A. Socialdemokratiet": 206,
+      "A. Socialdemokratiet": 225,
       "C. Det Konservative Folkeparti": 63,
       "Æ. Danmarksdemokraterne - Inger Støjberg": 105,
       "F. SF - Socialistisk Folkeparti": 70,

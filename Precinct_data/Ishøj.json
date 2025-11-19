@@ -2,8 +2,8 @@
   "708518": {
     "name": "Ishøj Landsby",
     "electorate": 1568,
-    "total_votes": 1116,
-    "valid_votes": 1106,
+    "total_votes": 1117,
+    "valid_votes": 1107,
     "invalid_votes": 10,
     "is_reported": true,
     "votes": {
@@ -16,22 +16,22 @@
       "I. Liberal Alliance": 79,
       "Ø. Enhedslisten - De Rød-Grønne": 33,
       "B. Radikale Venstre": 38,
-      "C. Det Konservative Folkeparti": 143,
+      "C. Det Konservative Folkeparti": 144,
       "M. Moderaterne": 11
     }
   },
   "709938": {
     "name": "Vibeholmskolen",
     "electorate": 3138,
-    "total_votes": 2068,
-    "valid_votes": 2021,
-    "invalid_votes": 47,
+    "total_votes": 2069,
+    "valid_votes": 2025,
+    "invalid_votes": 44,
     "is_reported": true,
     "votes": {
-      "A. Socialdemokratiet": 694,
+      "A. Socialdemokratiet": 695,
       "L. Ishøjlisten": 257,
-      "F. SF - Socialistisk Folkeparti": 194,
-      "D. IshøjDemokraterne": 233,
+      "F. SF - Socialistisk Folkeparti": 196,
+      "D. IshøjDemokraterne": 234,
       "V. Venstre, Danmarks Liberale Parti": 137,
       "O. Dansk Folkeparti": 152,
       "I. Liberal Alliance": 103,
@@ -44,13 +44,13 @@
   "700870": {
     "name": "Gildbroskolen",
     "electorate": 4546,
-    "total_votes": 2472,
-    "valid_votes": 2419,
-    "invalid_votes": 53,
+    "total_votes": 2473,
+    "valid_votes": 2415,
+    "invalid_votes": 58,
     "is_reported": true,
     "votes": {
-      "A. Socialdemokratiet": 916,
-      "L. Ishøjlisten": 317,
+      "A. Socialdemokratiet": 913,
+      "L. Ishøjlisten": 316,
       "F. SF - Socialistisk Folkeparti": 245,
       "D. IshøjDemokraterne": 214,
       "V. Venstre, Danmarks Liberale Parti": 134,
@@ -65,13 +65,13 @@
   "700876": {
     "name": "Strandgårdskolen",
     "electorate": 4759,
-    "total_votes": 2202,
-    "valid_votes": 2146,
+    "total_votes": 2203,
+    "valid_votes": 2147,
     "invalid_votes": 56,
     "is_reported": true,
     "votes": {
       "A. Socialdemokratiet": 794,
-      "L. Ishøjlisten": 375,
+      "L. Ishøjlisten": 376,
       "F. SF - Socialistisk Folkeparti": 322,
       "D. IshøjDemokraterne": 124,
       "V. Venstre, Danmarks Liberale Parti": 48,
@@ -86,9 +86,9 @@
   "709944": {
     "name": "Ishøj Bycenter",
     "electorate": 4190,
-    "total_votes": 2599,
+    "total_votes": 2600,
     "valid_votes": 2550,
-    "invalid_votes": 49,
+    "invalid_votes": 50,
     "is_reported": true,
     "votes": {
       "A. Socialdemokratiet": 841,
